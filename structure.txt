@@ -1,0 +1,11 @@
+kawa-trainer/
+├── config.yaml            # Paramètres d'entraînement : epochs, lr, batch, modèle
+├── data/
+│   └── structured.md      # Corpus propre formaté
+├── prepare.py             # Nettoyage + JSONL format (instruction-style)
+├── train_lora.py          # Script d'entraînement (transformers + peft)
+├── lora/
+│   └── adapter_model.bin  # Poids LoRA générés
+├── logs/
+│   └── report.txt         # Résumé de la session : tokens, temps, perplexité
+└── test_inference.py      # Pour tester localement le résultat

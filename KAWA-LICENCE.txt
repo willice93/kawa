@@ -1,0 +1,106 @@
+Ce logiciel est publié sous la licence GNU AGPL v3, disponible dans le fichier LICENSE_AGPL.txt,
+avec une clause complémentaire "KAWA-COPYFAIR" visant à encadrer les usages commerciaux
+et à garantir la réciprocité éthique.
+
+────────────────────────────────────────────────────────────
+    LICENCE KAWA-COPYFAIR v1.0 – 1er avril 2025
+────────────────────────────────────────────────────────────
+
+Titre : Système KAWA – Clés d’intelligence autonome  
+Titulaire : Association SUR LE TAS  
+Adresse : 11 avenue du Colonel Fabien, 93200 Saint-Denis, France  
+Auteur initial : Roog  
+Version : 1.0  
+Date : 2025-04-01
+
+────────────────────────────────────────────────────────────
+
+🧾 1. OBJET DE LA LICENCE
+
+Cette licence s’applique à l’ensemble des fichiers, scripts, documents, interfaces, contenus textuels ou numériques liés au projet **KAWA**, développé et maintenu par l'association **SUR LE TAS**.
+
+KAWA est un système modulaire d’intelligence distribuée, conçu pour fonctionner hors ligne, avec pour objectifs :
+- L’accès libre au savoir
+- La souveraineté technologique
+- L’autonomie numérique des populations
+
+────────────────────────────────────────────────────────────
+
+🔓 2. LIBERTÉ D’UTILISATION NON COMMERCIALE
+
+Toute personne physique, association, collectivité, organisation éducative ou coopérative peut :
+
+✔️ Utiliser  
+✔️ Modifier  
+✔️ Copier  
+✔️ Redistribuer  
+✔️ Adapter le système KAWA (ou ses déclinaisons)
+
+…tant que cet usage reste **non commercial, contributif, ou destiné au bien commun.**
+
+────────────────────────────────────────────────────────────
+
+🔒 3. CLAUSE D’USAGE COMMERCIAL
+
+Toute **entreprise privée, entité commerciale ou plateforme à but lucratif** souhaitant :
+
+- Intégrer KAWA dans un produit ou un service payant
+- Utiliser KAWA dans un contexte SaaS
+- Distribuer KAWA à grande échelle
+- Revendre des versions dérivées de KAWA
+
+…doit **obligatoirement obtenir une licence commerciale spécifique** ou conclure un **accord de réciprocité** avec l’association **SUR LE TAS**.
+
+Sans cet accord explicite, l’usage commercial est **interdit**.
+
+────────────────────────────────────────────────────────────
+
+💰 4. RÉCIPROCITÉ
+
+Nous encourageons les structures commerciales à :
+
+- Contribuer au projet (code, documentation, diffusion)
+- Soutenir financièrement son développement
+- Participer à l’écosystème KAWA selon des termes équitables
+
+> L’usage sans contribution est une extraction.  
+> KAWA repose sur la **juste redistribution**.
+
+────────────────────────────────────────────────────────────
+
+📜 5. LICENCE COMPLÉMENTAIRE
+
+Cette licence s’inspire de la GNU AGPL v3, de la Peer Production License, et de principes du libre éthique.  
+En cas de doute, elle doit être interprétée **en faveur du partage libre** pour les usages non lucratifs,  
+et **en faveur de la protection** pour les usages commerciaux.
+
+────────────────────────────────────────────────────────────
+
+✊ 6. CLAUSE DE NON-APPROPRIATION
+
+Aucun acteur ne peut :
+- Déposer KAWA comme marque commerciale sans autorisation
+- Affirmer la paternité exclusive d’un module KAWA dérivé
+- Obscurcir ou chiffrer le code pour empêcher sa lecture ou réutilisation libre
+
+────────────────────────────────────────────────────────────
+
+📬 7. CONTACTS ET DEMANDES DE LICENCE COMMERCIALE
+
+Association SUR LE TAS  
+Email : contact@surletas.org 
+Siège : 60 av stalingrad, 93200 Saint-Denis, France
+
+────────────────────────────────────────────────────────────
+
+📌 8. VERSION ET MODIFICATIONS
+
+Cette version 1.0 est signée et enregistrée publiquement dans le dépôt officiel de KAWA.  
+Toute modification substantielle donnera lieu à une version 2.0 ou supérieure, et sera documentée dans le `KAWA-MANIFEST.md`.
+
+────────────────────────────────────────────────────────────
+
+🖋️ SIGNÉ :
+
+**Roog**, pour l’association **SUR LE TAS**  
+Le 1er avril 2025  

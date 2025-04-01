@@ -1,0 +1,38 @@
+- intent: voter
+  question: "Je veux voter, que dois-je faire ?"
+  response: |
+    Pour voter en France, vous devez :
+    - Être âgé d’au moins 18 ans
+    - Être inscrit sur les listes électorales
+    - Être citoyen français ou européen (élections locales)
+    
+    Vous pouvez vérifier votre inscription sur le site [service-public.fr](https://www.service-public.fr/particuliers/vosdroits/N47)
+    ou directement en mairie.
+
+- intent: carte_identite
+  question: "Comment refaire ma carte d'identité ?"
+  response: |
+    Pour refaire votre carte d’identité, vous devez prendre rendez-vous dans une mairie équipée.
+    Munissez-vous de :
+    - Une photo récente
+    - Un justificatif de domicile
+    - L’ancienne carte (si vous l’avez encore)
+
+- intent: acte_naissance
+  question: "Comment obtenir un acte de naissance ?"
+  response: |
+    Pour obtenir un acte de naissance :
+    - Adressez-vous à la mairie du lieu de naissance
+    - Ou faites une demande en ligne (selon votre commune)
+    - L’extrait est généralement gratuit
+
+- intent: contacter_mairie
+  question: "Comment contacter ma mairie ?"
+  response: |
+    Vous pouvez chercher le site officiel de votre mairie ou appeler directement.
+    Rendez-vous sur place si nécessaire, mais pensez à vérifier les horaires d’ouverture.
+
+- intent: inconnu
+  question: "*"
+  response: |
+    Je n’ai pas encore la réponse à cette question. Essayez de reformuler ou demandez à votre mairie.

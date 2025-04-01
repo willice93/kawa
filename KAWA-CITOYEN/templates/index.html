@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>KAWA-CITOYEN</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            text-align: center;
+        }
+
+        input[type="text"] {
+            width: 80%;
+            padding: 10px;
+            font-size: 1em;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 1em;
+            margin-top: 10px;
+        }
+
+        .response {
+            margin-top: 20px;
+            font-weight: bold;
+            text-align: left;
+            background: #f2f2f2;
+            padding: 15px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>KAWA-CITOYEN</h1>
+    <p>Posez une question : <i>(ex: Comment voter ?)</i></p>
+    <input type="text" id="question" placeholder="Tapez votre question ici" />
+    <br>
+    <button onclick="envoyerQuestion()">Envoyer</button>
+
+    <div id="reponse" class="response"></div>
+
+    <script>
+        async function envoyerQuestion() {
+            const question = document.getElementById("question").value;
+            const res = await fetch("/search", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ question })
+            });
+            const data = await res.json();
+            document.getElementById("reponse").innerText = data.response;
+        }
+    </script>
+</body>
+
+</html>
