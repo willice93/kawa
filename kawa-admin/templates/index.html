@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>KAWA RAG ✨</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-light">
+
+    <div class="container py-5">
+        <div class="text-center mb-4">
+            <h1 class="fw-bold text-dark">Pose ta question</h1>
+        </div>
+
+        <div class="mb-4">
+            <div class="input-group">
+                <input type="text" id="questionInput" class="form-control" placeholder="Tape ta question ici...">
+                <button id="sendButton" class="btn btn-success">Envoyer</button>
+            </div>
+        </div>
+
+        <div id="responseContainer" class="card d-none border-success">
+            <div class="card-header bg-success text-white fw-bold">
+                Réponse :
+            </div>
+            <div class="card-body">
+                <p class="card-text" id="responseText"></p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('sendButton').addEventListener('click', async () => {
+            const question = document.getElementById('questionInput').value.trim();
+            if (!question) return;
+
+            const responseBox = document.getElementById('responseContainer');
+            const responseText = document.getElementById('responseText');
+
+            const res = await fetch('/ask', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ question })
+            });
+
+            if (res.ok) {
+                const data = await res.json();
+                responseText.textContent = data.response;
+                responseBox.classList.remove('d-none');
+            } else {
+                responseText.textContent = "Une erreur est survenue.";
+                responseBox.classList.remove('d-none');
+            }
+        });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+kawa-admin/
+├── agents/                 # Scripts Python pour chaque module intelligent
+│   └── kawa_collect.py     # Collecteur multi-format (PDF, HTML, TXT, DOCX)
+│   └── ...                 # (à venir : kawa_struct.py, kawa_chunk.py, etc.)
+│
+├── raw_input/              # Données brutes (sources à traiter)
+│   └── exemple.pdf         # (exemple à placer ici pour test)
+│
+├── from_collect/           # Sorties texte nettoyées par kawa_collect
+│   └── exemple.txt         # (résultat après traitement du .pdf)
+│
+├── from_struct/            # Fichiers Markdown avec YAML (via kawa_struct.py)
+│   └── exemple.md          # (à venir)
+│
+├── chunks/                 # Découpe en segments (via kawa_chunk.py)
+│
+├── embeddings/             # Vecteurs de similarité (via kawa_embed.py)
+│
+├── index/                  # Index de recherche (FAISS/HNSW)
+│
+├── dialogues/              # Scénarios conversationnels pour RAG/LLM
+│   └── kawa_admin_dialogues.yaml
+│
+├── tests/                  # Résultats de tests ou fichiers de vérification
+│
+├── guwa_guide.yaml         # Fichier d’intention sémantique et de balisage
+├── .gitignore              # Fichier d'exclusion Git

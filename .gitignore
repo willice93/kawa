@@ -1,0 +1,59 @@
+# === Python général ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# === Environnement virtuel ===
+venv/
+env/
+.venv/
+ENV/
+.env/
+*.env
+
+# === Données générées par KAWA ===
+from_collect/
+from_struct/
+chunks/
+embeddings/
+index/
+
+# === Fichiers utilisateurs ===
+*.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# === VS Code ===
+.vscode/
+
+# === Archives et exécutables ===
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.exe
+*.dll
+
+# === Sauvegardes ===
+*.~*
+*.bak
+*.orig
+
+# === JetBrains / PyCharm ===
+.idea/
+
+# === Flask cache ===
+instance/
+*.db
+*.sqlite3
+
+# === Notebooks Jupyter (si jamais) ===
+.ipynb_checkpoints/
