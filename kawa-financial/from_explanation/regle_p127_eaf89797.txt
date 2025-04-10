@@ -1,0 +1,12 @@
+Règle applicable : Impôt sur le revenu (ISR) en France
+
+Conditions : Les revenus perçus depuis le 1er janvier 2018
+
+Montants ou plafonds :
+- Taux forfaitaire de l'ISR : 12,8 %
+- Prelèvements sociaux additionnels : 17,2 % sur les revenus non déjà imposés à ce taux lors de leur versement
+- Option globale de l'impôt sur le revenu (barème) : pas précisé dans le texte
+
+Formule de calcul applicable : Les revenus perçus sont multipliés par le taux forfaitaire de l'ISR (12,8 %) et les prélèvements sociaux additionnels de 17,2 %, si ceux-ci n'ont pas déjà été imposés auparavant.
+
+Vérification pour être sûr d'y avoir droit : Il est nécessaire de déterminer si les revenus perçus depuis le 1er janvier 2018 sont soumis à des impôts ou prélèvements sociaux différents, car ceux-ci peuvent affecter la teneur de l'ISR due.

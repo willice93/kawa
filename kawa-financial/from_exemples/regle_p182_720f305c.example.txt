@@ -1,0 +1,15 @@
+Titre: Fiscal Application Example for Non-Professional Inventors (CGI, art. 93 quater)
+
+Context: John Doe, a non-professional software developer and inventor, has created an original software that he is now commercializing through the licensing of its use. The software in question falls under the protection of copyright law, and could potentially be patented or considered an intangible asset equivalent.
+
+Revenues: John Doe receives $10,000 per year from the sales of his software licenses.
+
+Application: John Doe's software licensing fees are subject to a reduced tax rate of 10%.
+
+Declaration: John Doe should declare these earnings in the following lines on his tax form: 5QJ for software royalties, or 5RJ if they are from patented inventions, or 5SJ if they are from other intangible assets. If the licensing fees are subject to social security contributions, they should be declared in the cases 5TC, 5UC, 5VC.
+
+Comparison: In comparison, under the default regime, these earnings would have been taxed at a standard rate of up to 30%. However, by meeting the criteria for non-professional inventors, John Doe can benefit from this reduced tax rate.
+
+Calculation: Therefore, instead of paying $3,000 in taxes (30% of $10,000), John Doe will pay only $1,000 in taxes (10% of $10,000).
+
+Conclusion: By understanding and applying the rules for non-professional inventors, individuals like John Doe can significantly reduce their tax burden.

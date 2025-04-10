@@ -1,0 +1,44 @@
+id: regle_p102_88b1fe20
+titre: 'Règle applicable aux marins-pêcheurs :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle applicable aux marins-pêcheurs :
+
+
+    - À qui s''applique la règle : Les marins-pêcheurs concernés.
+
+    - Dans quelles conditions : Il doit déclarer le montant de son salaire imposable
+    lignes 1AJ à 1DJ, page 3 de la formulaire 2042 et le montant de l''abattement
+    exonéré lignes 1AC à 1DC, page 1 de la formulaire 2042 C. Il doit également cocher
+    les cases 1GE à 1JE afin que la fraction exonérée soit prise en compte pour le
+    calcul du taux de PAS qui sera appliqué par l''employeur à l''ensemble de sa rémunération.
+
+    - Quels sont les montants ou plafonds : Le montant de son salaire imposable et
+    l''abattement exonéré (déterminés en fonction de la situation spécifique du marin-pêcheur).
+
+    - Quelle est la formule de calcul applicable : Non fournie. La formule de calcul
+    varie en fonction des situations spécifiques du marin-pêcheur.
+
+    - Et ce qu''il faut vérifier pour être sûr d''y avoir droit : Vérifier que tous
+    les montants et cas cochés correspondent à la situation spécifique du marin-pêcheur.'
+  formule: Non spécifiée
+cas_pratique: "Titre : Déclaration de revenus pour l'année 20XX du pêcheur professionnel\
+  \ Marion Dupont\n\nContexte : Madame Marion Dupont est une pêcheuse professionnelle\
+  \ basée à Saint-Malo, qui a travaillé exclusivement en tant que marin-pêcheur pendant\
+  \ l'année 20XX. Elle a reçu un salaire de 35 000€ et des retombées de pêche totalisant\
+  \ 18 000€ (en fonction de la catégorie de poisson).\n\nFormulaire utilisé : Formulaire\
+  \ 2042 pour les revenus professionnels et Formulaire 2042 C pour les abattements\
+  \ spécifiques.\n\nDéclaration détaillée :\n\n1. Page 1 du formulaire 2042 :\n  \
+  \ - Ligne 1AJ : 35 000€ (salaire imposable)\n   - Cas coché : 1GE à 1JE\n\n2. Page\
+  \ 3 du formulaire 2042 :\n   - Lignes 1AC à 1DC : 18 000€ (abattement exonéré pour\
+  \ les poissons pêchés)\n\nFormulaire utilisé supplémentairement : Formulaire 2042\
+  \ C.\n\nComparaison des régimes par défaut et choisis : En choisissant la catégorie\
+  \ de pêcheuse professionnelle, Marion Dupont peut bénéficier d'un abattement spécifique\
+  \ sur les revenus liés à sa profession de pêcheur. Cela réduit son taux de PAS payé\
+  \ par son employeur pour l'ensemble de sa rémunération.\n\nCalcul : En choisissant\
+  \ la catégorie spécifique de pêcheuse, Marion Dupont peut donc diminuer son taux\
+  \ de PAS et payer moins d'impôts. Par exemple, si le taux de PAS par défaut était\
+  \ de 35%, elle réduira ce montant grâce à l'abattement exonéré.\n\nSynthèse : Le\
+  \ déclarant doit veiller à remplir correctement les formulaires 2042 et 2042 C pour\
+  \ bénéficier des abattements spécifiques en tant que pêcheur professionnel, ce qui\
+  \ réduira son taux de PAS payé par son employeur."

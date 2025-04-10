@@ -1,0 +1,13 @@
+Nom: Jean Dupont
+   Profession: Ingénieur en informatique
+   Situation: Ancien employé salarié, il a décidé de mettre ses économies sur un produit d'assurance-vie le 1er mars 2015 pour une durée de 10 ans. Il a choisi ce produit avant le 27 septembre 2017, date limite définie par la règle fiscale.
+
+   Montants concernés: Jean Dupont a versé un montant initial de 50 000€ dans son produit d'assurance-vie. Aucun plafond n'est mentionné pour ce produit, mais il a respecté la durée minimale requise (10 ans).
+
+   Déclaration: Jean Dupont déclare cette assurance-vie sur les cases 1AK de son formulaire d'impôt.
+
+   Comparaison: Si Jean n'avait pas respecté les conditions de cette règle fiscale, il aurait été soumis à un prélèvement forfaitaire libératoire de 7,5 % lors de la vente ou du versement de son produit d'assurance-vie. En choisissant ce produit avant le 27 septembre 2017 et en respectant sa durée minimale requise, il n'est pas soumis à ce prélèvement.
+
+   Calcul clair avec des chiffres ronds: En achetant un produit d'assurance-vie de 50 000€ avant le 27 septembre 2017 pour une durée minimale de 10 ans, Jean Dupont évite un prélèvement forfaitaire libératoire de 3750€ (7,5 % sur son montant initial).
+
+   Synthèse: En choisissant un produit d'assurance-vie avant le 27 septembre 2017 pour une durée minimale requise, Jean Dupont a évité un prélèvement forfaitaire libératoire de 3750€, ce qui lui permettra de conserver plus de ses économies.

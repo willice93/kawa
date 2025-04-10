@@ -1,0 +1,9 @@
+La règle s'applique aux automobilistes qui ont acquis un nouveau véhicule et ont effectué des dépenses réelles de carburant ou ont choisi l'option de frais carburant.
+
+Les conditions sont que le véhicule ait été acheté à titre personnel, avec une option de frais carburant en place ou des frais réels effectués pour le carburant du véhicule pendant la période de garantie initiale.
+
+Le montant est calculé en prenant 9 % du coût d'achat TTC (total à la consommation) du véhicule. Par exemple, si le coût d'achat TTC du véhicule était de 20 000 €, le montant de la réduction serait de 1800 € (20 000 x 9 %).
+
+La formule de calcul est : Montant de la réduction = Coût d'achat TTC du véhicule x 9 %
+
+Il faut vérifier que les conditions énoncées précédemment sont respectées pour être sûr d'y avoir droit et que le montant de la réduction calculé n'excède pas le plafond maximum imposé par l'État ou l'organisme de financement.

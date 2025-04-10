@@ -1,0 +1,59 @@
+id: regle_p118_035909ab
+titre: 'La règle s''applique aux retraits réalisés sur un contrat Madelin ou PERIN
+  et les conditions varient en fonction du type de contrat :'
+source: Brochure IR 2024
+regle:
+  description: "La règle s'applique aux retraits réalisés sur un contrat Madelin ou\
+    \ PERIN et les conditions varient en fonction du type de contrat :\n\n1. Retrait\
+    \ sur un contrat Madelin :\n   - Si le retrait est imposé au barème, cela peut\
+    \ être dans les cas 1AS ou 1BS avec option pour l'imposition au taux forfaitaire\
+    \ de 7,5 % dans les cas 1AT ou 1BT.\n   - Il n'y a pas de plafond spécifié pour\
+    \ le barème ou le taux forfaitaire.\n   - La formule de calcul dépend des options\
+    \ choisies et peut être soit la progression du barème selon les cas 1AS, 1AT,\
+    \ 1BS, 1AT, 1BI, 1AI ou 1BT, ou le taux forfaitaire à 7,5 % dans les cas 1AT et\
+    \ 1BT.\n   - Pour être sûr d'y avoir droit, il faut vérifier si les conditions\
+    \ requises pour chaque option de calcul sont remplies.\n\n2. Retrait sur un PERIN\
+    \ :\n   - La partie correspondant aux versements ayant fait l'objet d'une déduction\
+    \ est imposée au barème dans la catégorie des pensions sans abattement de 10 %\
+    \ en cas 1AI ou 1BI (ou exonérée si les versements n'ont pas été déduits).\n \
+    \  - La partie correspondant aux produits est imposée au taux forfaitaire de 12,8\
+    \ % ou, sur option globale, au barème progressif en cas 2TZ.\n   - Pour être sûr\
+    \ d'y avoir droit, il faut vérifier si les conditions requises pour chaque option\
+    \ de calcul sont remplies."
+  formule: revenu_brut * (1 - 0.75)
+cas_pratique: "Nom : Jean Dupont\n   Profession : Retraité en exercice (exercice 2021)\n\
+  \   Situation : Gagne un revenu fixe de 3000€ par mois et a décidé de retirer 5000€\
+  \ sur son compte Madelin.\n\nDeclaration de revenus 2021 :\n- Grosses rémunérations\
+  \ (box 1AK) : 36 000€\n- Rentes, prestations de retraite ou allocations (box 1GF)\
+  \ : 54 000€ (6000€/mois x 12 mois)\n   Retrait sur Madelin :\n   - Montant imposé\
+  \ au barème : 3 750€ (5 000€ x 75%)\n       - Box 1AS : 2 250€ (3 750€ x 60%)\n\
+  \       - Option pour l'imposition au taux forfaitaire de 7,5 % disponible mais\
+  \ non choisie\n   Retrait sur PERIN :\n   - Partie correspondant aux versements\
+  \ ayant fait l'objet d'une déduction (box 1AI) : 60 000€ (6000€/mois x 12 mois)\
+  \ imposée au barème progressif.\n   - Partie correspondant aux produits (box 2TZ)\
+  \ : 43 200€ (5000€ x 12,8%) ou, sur option globale, au barème progressif.\n\nComparaison\
+  \ du régime par défaut vs l'option choisie :\n   - Retrait sur Madelin : Régime\
+  \ par défaut est le barème avec une option disponible pour l'imposition au taux\
+  \ forfaitaire de 7,5 %. Jean a opté pour le régime par défaut (barème).\n   - Retrait\
+  \ sur PERIN : Régime par défaut est la progression du barème progressif. Jean a\
+  \ choisi l'option globale qui permet d'être imposé au taux forfaitaire de 12,8 %\
+  \ ou, sur option globale, au barème progressif.\n\nCalcul clair avec des chiffres\
+  \ ronds :\n   - Retrait sur Madelin : Impôt calculé à 60% du montant imposé soit\
+  \ 3 750€ (5 000€ x 75%) réparti entre les cases 1AS et non-imposable car option\
+  \ pour l'imposition au taux forfaitaire de 7,5 % n'a pas été choisie.\n   - Retrait\
+  \ sur PERIN : Pour la partie correspondant aux versements ayant fait l'objet d'une\
+  \ déduction (box 1AI) : Impôt calculé à 22,5 % du montant imposé soit 13 500€ (60\
+  \ 000€ x 22,5%) et pour la partie correspondant aux produits (box 2TZ) : Montant\
+  \ non-imposable car option globale choisie.\n   Synthèse : Jean a retiré un total\
+  \ de 5 000€ sur son compte Madelin et 60 000€ sur son compte PERIN. Son impôt pour\
+  \ cette année sera de 13 500€ pour la partie correspondant aux versements ayant\
+  \ fait l'objet d'une déduction (box 1AI) sur le compte PERIN et non-imposable pour\
+  \ la partie correspondant aux produits (box 2TZ). Il n'y aura pas d'impôt à payer\
+  \ pour le retrait réalisé sur son compte Madelin car il ne s'est pas mis en option\
+  \ pour l'imposition au taux forfaitaire de 7,5 %."
+calcul:
+  formule: revenu_brut * (1 - 0.75)
+  exemple:
+    revenu_brut: 750
+    abattement: 562
+    revenu_net: 188

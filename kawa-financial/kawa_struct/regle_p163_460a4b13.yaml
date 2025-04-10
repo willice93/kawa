@@ -1,0 +1,77 @@
+id: regle_p163_460a4b13
+titre: 'Règle applicabile aux contribuables non-résidents :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle applicabile aux contribuables non-résidents :
+
+
+    Conditions d''applicabilité : Les revenus doivent être issus de sources étrangères
+    ouvrants droit à un crédit d''impôt égal à l''impôt français, ainsi que les revenus
+    non commerciaux perçus par ces mêmes non-résidents. Ces revenus sont également
+    soumis à la retenue à la source prévue par les articles 182 A bis et 182 B du
+    Code général des impôts (CGI).
+
+
+    Montants ou plafonds : Il n''y a pas de montant ou plafond spécifique indiqué
+    dans le texte.
+
+
+    Formule de calcul : Les revenus doivent être déclarés unique-ment sur les lignes
+    spécifiques et ne doivent pas être inclus dans les montants inscrits sur les lignes
+    "Revenus imposables". Ces revenus sont exclus pour le calcul du taux de PAS et
+    de la base des acomptes.
+
+
+    Vérification : Vérifier que les revenus correspondent aux conditions énoncées,
+    soit issus de sources étrangères ouvrants droit à un crédit d''impôt égal à l''impôt
+    français, ainsi que être non-résident pour le CGI.'
+  formule: Non spécifiée
+cas_pratique: 'Titre : Gestion des impôts pour les travailleurs indépendants étrangers
+  vivant en France
+
+
+  Nom : John Smith
+
+
+  Profession : Désignateur de graphisme et photographie, profession indépendante (auto-entrepreneur)
+
+
+  Situation : Étranger de nationalité britannique ayant résidé 183 jours ou moins
+  dans l''Union européenne au cours des deux années précédentes.
+
+
+  Revenus :
+
+
+  * Revenu imposable en France (travail indépendant) : 50 000 € (lignes 1AK et 1GF
+  du formulaire de déclaration)
+
+  * Revenus étrangers perçus en tant que professionnel d''art : 75 000 € (lignes spécifiques)
+
+
+  Déclaration : Ligne 1AK pour les revenus imposables en France, ligne spécifique
+  pour les revenus étrangers liés à sa profession d''art.
+
+
+  Comparaison : Régime par défaut vs option choisie (régime du non-résident)
+
+
+  * Régime par défaut : Les revenus étrangers seraient inclus dans les montants inscrits
+  sur les lignes "Revenus imposables", entraînant une augmentation importante de son
+  impôt.
+
+  * Régime choisi (régime du non-résident) : En excluant les revenus étrangers des
+  montants imposables, il a réduit significativement son impôt en France.
+
+
+  Calcul clair avec des chiffres ronds :
+
+
+  * Sans régime du non-résident : 50 000 € + 75 000 € = 125 000 € de revenus imposables
+
+  * Avec régime du non-résident : 50 000 € (revenus imposables en France) et 75 000
+  € (revenus étrangers) séparés dans la déclaration.
+
+
+  Conclusion : Par application du régime du non-résident, John Smith a réduit significativement
+  son impôt en France en excluant les revenus étrangers de ses revenus imposables.'

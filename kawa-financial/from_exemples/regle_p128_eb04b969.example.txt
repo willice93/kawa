@@ -1,0 +1,11 @@
+Titre : Application de l'abattement des dividendes déclarés par M. Dupont, analyste financier
+
+Contexte : M. Dupont est analyste financier et reçoit régulièrement des dividendes déclarés sur les actions qu'il détient. Il a choisi l'option globale pour l'imposition au barème progressif lors de son déclaration annuelle.
+
+Montants concernés : M. Dupont a reçu 30 000 € en dividendes déclarés cette année, figurant sous la rubrique 2FU de sa déclaration fiscale. Ces dividendes ne font pas l'objet du prélèvement forfaitaire obligatoire non libératoire de 12,8 % ni des prélèvements sociaux lors de leur inscription sur le plan.
+
+Declaration dans les bonnes cases : Le montant correspond à un abattement de 40 % des dividendes déclarés mentionnés sous la rubrique 2FU. Pour calculer l'abattement, utilisez la formule suivante : Abattement = (Dividendes déclarés) x 40%. Ainsi, l'abattement de M. Dupont est de : (30 000 €) x 40% = 12 000 €. Pour bénéficier de cet abattement, vérifiez que les conditions définies ci-dessus sont remplies et que vous avez choisi l'option globale pour l'imposition au barème progressif.
+
+Comparaison du régime par défaut vs l'option choisie : Comparez le montant de votre abattement avec celui qui aurait été obtenu si vous aviez choisi le régime par défaut, qui ne prenait pas en compte cet abattement. Pour M. Dupont, sans abattement, son impôt serait plus élevé : 30 000 € x 12 % (taux imposable moyen pour l'option globale) = 3 600 € contre seulement 1 200 € avec l'abattement.
+
+Conclusion : Les abattements de dividendes peuvent être bénéfiques pour réduire votre impôt annuel, mais il est important de vérifier que vous remplissez les conditions de cette règle et de choisir l'option globale pour l'imposition au barème progressif. Ainsi, M. Dupont a réduit son impôt en 2021 grâce à cet abattement de 12 000 €.

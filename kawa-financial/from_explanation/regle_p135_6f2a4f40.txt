@@ -1,0 +1,11 @@
+Règle : Calcul de la retenue de CSG pour les revenus de capitaux mobiliers et gains de cession de valeurs mobilières
+
+À qui s’applique la règle : Les personnes ayant coché la case 2OP dans leur déclaration des revenus (page 4 de la 2042).
+
+Dans quelles conditions : Lorsque les revenus indiqués sur ligne 2BH ne sont pas inclus dans la base de calcul des prélèvements sociaux.
+
+Montants ou plafonds : Montant déclaré sur ligne 2BH de la déclaration des revenus. Le taux de retenue est fixé à 6,8%.
+
+Formule de calcul applicable : Le montant à retenir pour CSG déductible sera 6,8% du montant déclaré sur ligne 2BH.
+
+Pour être sûr d’y avoir droit : Il est nécessaire de remplir les cases appropriées en indiquant que la personne a opté pour l’imposition au barème de l’ensemble de ses revenus de capitaux mobiliers et gains de cession de valeurs mobilières. Les montants indiqués sur ligne 2BH ne doivent pas être inclus dans la base de calcul des prélèvements sociaux.

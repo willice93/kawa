@@ -1,0 +1,11 @@
+Règle appliquée aux plus-values et créances non éligibles au sursis de paiement :
+
+Conditions : Les plus-values et les créances concernées sont celles qui ne bénéficient pas du sursis de paiement.
+
+Montant ou plafond : Le taux d'imposition est de 3WD à l'IR, soit au barème (de 0% à 17%) ou à 12,8%.
+
+Formule de calcul applicable : Calculer la base imposable en fonction du montant de la plus-value ou de la créance et appliquer le taux d'imposition approprié (barème ou 12.8%).
+
+Verification pour être sûr d’y avoir droit : Les plus-values et les créances doivent répondre aux conditions suivantes :
+ - Elles ne doivent pas bénéficier du sursis de paiement.
+ - Elles sont soumises à des prélèvements sociaux.

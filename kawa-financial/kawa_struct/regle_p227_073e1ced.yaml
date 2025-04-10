@@ -1,0 +1,68 @@
+id: regle_p227_073e1ced
+titre: Cette règle se rapporte aux personnes invalides, retraitées déclarant des pensions
+  d'invalidité ou de retraite.
+source: Brochure IR 2024
+regle:
+  description: 'Cette règle se rapporte aux personnes invalides, retraitées déclarant
+    des pensions d''invalidité ou de retraite.
+
+
+    Les conditions sont que ces personnes ne peuvent pas avoir de revenus d''activité
+    professionnelle et doivent verser des cotisations d''épargne retraite en 2023.
+
+
+    Le montant du plafond de déduction minimum s''applique à chaque personne concernée
+    et correspond à 10 % du montant annuel du plafond de la sécurité sociale de 2022
+    (4 114 €) augmenté, le cas échéant, du plafond ou de la fraction du plafond de
+    déduction non utilisé en 2020, 2021 et 2022. Les personnes qui souscrivent une
+    déclaration de revenus pour la première fois et qui ont versé des cotisations
+    en 2023 bénéficient du même plafond de déduction minimum.
+
+
+    La formule de calcul applicable est de calculer le montant total des cotisations
+    versées en 2023 et de l''appliquer au plafond de déduction minimal ou "plancher
+    de déduction".
+
+
+    Il faut vérifier que la personne ne dispose pas de revenus d''activité professionnelle
+    pour être sûr d''y avoir droit.'
+  formule: revenu_brut * (1 - 0.1)
+cas_pratique: 'Contexte : Mme Dupont, 72 ans, retraitée depuis 5 ans et détentrice
+  d''une pension de retraite d''un montant annuel de 10 000 €. Elle reçoit également
+  une pension d''invalidité d''un montant annuel de 3 000 €.
+
+
+  Montants concernés : Montant annuel du plafond de la sécurité sociale en 2022 (4
+  114 €), montant total des cotisations d''épargne retraite versées par Mme Dupont
+  en 2023.
+
+
+  Déclaration dans les bonnes cases : Montant des cotisations d''épargne retraite
+  à déclarer dans la case 1AK de son modèle de déclaration de revenus pour l''année
+  2023.
+
+
+  Régime par défaut vs option choisie : Mme Dupont bénéficie du régime d''épargne
+  retraite simples (ERS), qui est le régime par défaut pour les retraités et personnes
+  invalides déclarant des pensions de retraite ou d''invalidité.
+
+
+  Calcul clair avec des chiffres ronds : Les cotisations d''épargne retraite versées
+  par Mme Dupont en 2023 sont montées à 1 500 €. Le plafond de déduction minimal est
+  calculé comme suit : 10 % du montant annuel du plafond de la sécurité sociale de
+  2022 (4 114 €) + plafond ou fraction du plafond de déduction non utilisé en 2020,
+  2021 et 2022 = 562,8 € (si aucune déduction n''a été effectuée précédemment).
+
+
+  Conclusion : Pour appliquer la règle dans la vie réelle de Mme Dupont, elle doit
+  verser 1 500 € en cotisations d''épargne retraite et déclarer ce montant dans la
+  case 1AK de son modèle de déclaration de revenus pour l''année 2023. Le plafond
+  de déduction minimal s''élevait à 562,8 € en 2023, ce qui signifie que Mme Dupont
+  peut déduire le montant de ses cotisations d''épargne retraite jusqu''à cet écart
+  maximum.'
+calcul:
+  formule: revenu_brut * (1 - 0.1)
+  exemple:
+    revenu_brut: 500
+    abattement: 50
+    revenu_net: 450

@@ -1,0 +1,22 @@
+Titre : Application de la règle d'imposition au barème pour les revenus de capitaux mobiliers et gains de cession de valeurs mobilières - Exemple pratique
+
+Contexte : Nom : Pierre Dupont, Profession : Ingénieur en informatique, Situation : Employé indépendant avec un revenue net annuel de 60 000€. Il a investi ses économies dans des actions, OBL et fonds communs de placement.
+
+Montants concernés : Les revenus de capitaux mobiliers et gains de cession de valeurs mobilières :
+- Les revenus de capitaux mobiliers : 5 000€ (7,5% des économies)
+- Gains de cession de valeurs mobilières : 10 000€ (sur la vente d'actions et FCP)
+
+Declaration : Pierre doit cocher la case 2OP dans sa déclaration n° 2042. Les montants doivent être indiqués comme suit :
+- Case 1AK (revenus de base) : 60 000€
+- Case 1GF (revenus de capitaux mobiliers) : 5 000€
+- Case 2OP (gains de cession de valeurs mobilières) : 10 000€
+
+Régime par défaut vs l'option choisie : Pour cette année, Pierre a choisi d'appliquer la règle d'imposition au barème pour les revenus de capitaux mobiliers et gains de cession de valeurs mobilières. En comparaison, s'il avait choisi l'imposition au taux forfaitaire, il aurait été imposé à 12,8% sur les montants mentionnés. Cependant, en choisissant la règle d'imposition au barème, Pierre bénéficie d'un calcul progressif et de faibles impôts dans le bas de l'échelle, qui peuvent être comparativement plus avantageux qu'une imposition à un taux forfaitaire.
+
+Calcul clair avec des chiffres ronds : Sous la régime d'imposition au barème, Pierre sera imposé comme suit :
+- 0€ jusqu'à 2 579 € : Pas d'impôt
+- De 2 580 € à 6 334 € : 12% de l'excessif sur les 3 745 € (374,5€)
+- Plus de 6 334 € jusqu'à 25 925 € : 20% de l'excessif sur les 58 251 € (11 650€)
+- Plus de 25 925 € : 30% de l'excessif sur le reste (28 275€)
+
+Synthèse : Pour l'année en cours, Pierre Dupont choisit d'appliquer la règle d'imposition au barème pour les revenus de capitaux mobiliers et gains de cession de valeurs mobilières. Il a une déclaration complet et claire et bénéficie ainsi d'un calcul progressif et de faibles impôts dans le bas de l'échelle, qui peuvent être comparativement plus avantageux qu'une imposition à un taux forfaitaire.

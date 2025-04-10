@@ -1,0 +1,11 @@
+Règle de calcul pour le CSG (Contribution Sociale Généralisée) déductible connue :
+
+Cette règle s'applique aux personnes physiques ayant des revenus provenant du patrimoine.
+
+Les conditions requises sont que le montant estimé de la CSG déductible soit inexact.
+
+Le plafond de ce calcul n'est pas spécifié dans le texte fourni.
+
+La formule de calcul est de corriger le montant estimé de la CSG déductible si cela s'avère inexact en modifiant la valeur saisie dans la case 6DE du formulaire.
+
+Pour être sûr d'y avoir droit, vérifier que vous disposez des justificatifs nécessaires pour prouver l'inexactitude du montant estimé initial de la CSG déductible.

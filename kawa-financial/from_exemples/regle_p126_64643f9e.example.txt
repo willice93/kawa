@@ -1,0 +1,13 @@
+Titre : Gestion fiscale de produits de capitalisation et d'assurance-vie de longue durée pour Mme Léa Dupont, directrice générale d'une entreprise
+
+Contexte : Mme Léa Dupont, 50 ans, a ouvert plusieurs plans d'épargne-retraite et de capitalisation bancaire avant le 27 septembre 2017. Elle souhaite connaître l'impôt qu'elle devra verser sur ces produits.
+
+Montants concernés : Mme Dupont a versé un total de 250 000 € en primes de capitalisation bancaire et 130 000 € dans des plans d'épargne-retraite soumis au prélèvement libératoire.
+
+Déclaration : Mme Dupont déclare ses produits de capitalisation bancaire sur les lignes 2VV et 2WW (1AK). Pour ceux-ci, elle doit indiquer le montant total perçu à répartir sur ces lignes.
+
+Comparaison : Pour Mme Dupont, les produits soumis au prélèvement libératoire sont catégorisés dans la catégorie 2DH car son montant total perçu sur les lignes 2VV et 2WW (580 000 €) est inférieur à 2DH. Les produits de capitalisation bancaire sont imposables à 7,5 % parce que le montant total perçu excède 150 000 € sur la ligne 2WW (250 000 €). En revanche, les produits de pension soignante de Mme Dupont sont imposables à 7,5 %, car leur montant total perçu est inférieur ou égal à 150 000 € sur la ligne 2VV (130 000 €).
+
+Calcul clair : Sur ses produits de capitalisation bancaire imposables à 7,5 %, Mme Dupont doit verser un impôt de 18 750 € (250 000 € x 7.5 %). Sur les produits de pension soignante, elle doit verser un impôt de 9 750 € (130 000 € x 7.5 %).
+
+Synthèse : En conclusion, Mme Dupont devra verser un total de 28 500 € d'impôt sur les produits de capitalisation et d'assurance-vie qu'elle possède.

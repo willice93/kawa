@@ -1,0 +1,3 @@
+# Source: page 133
+
+Lorsque le montant des revenus déclarés ligne 2CH est inférieur à l’abattement de 4 600 € ou de 9 200 € ou lorsqu’aucun revenu n’est déclaré ligne 2CH, le reliquat d’abattement ou la totalité de l’abat- tement non utilisé peut être imputé sur les revenus déclarés ligne 2DH. Cette imputation est effectuée de façon automatique lors du calcul de l’impôt. L’imputation de l’abattement restant disponible vous permet de bénéficier d’un crédit d’impôt au titre des revenus déclarés ligne 2DH qui ont fait l’objet du prélèvement libératoire de 7,5 % lors de leur versement. Ce crédit d’impôt est égal à 7,5 % de l’abattement restant dispo- nible, éventuellement limité au montant des revenus déclarés ligne 2DH.

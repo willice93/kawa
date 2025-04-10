@@ -1,0 +1,6 @@
+La règle s'applique aux activités de ventes et fourniture de logement (cases 5KO à 5MO) ainsi qu'aux autres activités et locations meublées professionnelles (cases 5KP à 5MP). L'abattement forfaitaire sera automatiquement appliqué suivant les conditions suivantes :
+- Pour les activités de ventes et fourniture de logement, l'abattement est de 71 %.
+- Pour les autres activités et locations meublées professionnelles, l'abattement est de 50 %.
+La formule de calcul applicable est la suivante :
+Montant_Abatté = Montant_Brut * Taux_d'abattement
+- Le montant d'abattement doit être au moins égal à 305 €. Pour étre sûr d'y avoir droit, il faut vérifier que le chiffre d'affaires est supérieur à 305 €.

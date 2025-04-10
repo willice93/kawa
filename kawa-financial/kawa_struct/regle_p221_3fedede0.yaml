@@ -1,0 +1,73 @@
+id: regle_p221_3fedede0
+titre: La règle de calcul s'applique aux plus-values de cession de titres bénéficiant
+  de l'abattement pour durée de détention renforcé, ainsi qu'aux gains d'acquisition
+  d'actions gratuites attribuées à compter du 8.8.2015, lorsqu'ils bénéficient de
+  l'abattement pour durée de détention (de droit commun ou renforcé), de l'abattement
+  fixe de 500 000 € ou de l'abattement de 50 %.
+source: Brochure IR 2024
+regle:
+  description: 'La règle de calcul s''applique aux plus-values de cession de titres
+    bénéficiant de l''abattement pour durée de détention renforcé, ainsi qu''aux gains
+    d''acquisition d''actions gratuites attribuées à compter du 8.8.2015, lorsqu''ils
+    bénéficient de l''abattement pour durée de détention (de droit commun ou renforcé),
+    de l''abattement fixe de 500 000 € ou de l''abattement de 50 %.
+
+
+    Les montants concernés sont la plus-value soumise à l''impôt sur le revenu et
+    la plus-value soumise à la CSG.
+
+
+    La formule de calcul applicable est : la CSG déductible afférente à ces plus-values
+    et gains est déductible du revenu imposable à hauteur du rapport entre le montant
+    de la plus-value soumise à l''impôt sur le revenu et le montant de la plus-value
+    soumise à la CSG.
+
+
+    Pour être sûr d''y avoir droit, il faut vérifier que les conditions suivantes
+    sont réunies :
+
+    - La personne détenteur des titres ou des actions bénéficie de l''abattement concerné.
+
+    - Le titre ou l''action est un titre bénéficiant de l''abattement pour durée de
+    détention renforcé, ou une action gratuite attribuée à compter du 8.8.2015 bénéficiant
+    de l''un des abattements mentionnés (durée de détention, abattement fixe de 500
+    000 € ou abattement de 50 %).'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titre : Application du régime fiscal des plus-values sur titres bénéficiant
+  d''abattement pour durée de détention renforcé et d''acquisition d''actions gratuites
+
+
+  Nom : François Dupont, 45 ans, analyste financier à la Banque XYZ
+
+
+  Contexte : Le 1er janvier 2023, M. Dupont a cédé une action de la société ABC (titre),
+  qu''il détenait depuis le 1er octobre 2021, pour un montant de 950 000 €, dont 600
+  000 € sont imposables au revenu et 350 000 € soumises à la CSG. Cette action bénéficie
+  de l''abattement pour durée de détention renforcé (de droit commun) de 20%.
+
+
+  Declaration : Les montants doivent être déclarés dans les cases respectives sur
+  le formulaire impositif de M. Dupont (1AK, 1GF).
+
+
+  Comparaison : En régime par défaut (sans abattement), M. Dupont devrait payer une
+  CSG à hauteur de 350 000 € sur les gains. Avec l''abattement pour durée de détention
+  renforcé, il récupère une CSG déductible de 70 000 € (montant de la plus-value soumise
+  à la CSG x taux d''abattement).
+
+
+  Calcul : La CSG déductible afférente aux plus-values et aux gains est déductible
+  du revenu imposable à hauteur du rapport entre le montant de la plus-value soumise
+  à l''impôt sur le revenu (600 000 €) et le montant de la plus-value soumise à la
+  CSG (350 000 €). Le calcul se fait comme suit : 600 000 € / 350 000 € = 1,7142857
+  (environ).
+
+
+  En multipliant le taux de déductibilité par le montant de la CSG déductible (taux
+  de déductibilité x montant de la CSG déductible), on obtient un montant de 126 999,99
+  € à retraiter sur les gains.
+
+
+  Conclusion : En appliquant l''abattement pour durée de détention renforcé, M. Dupont
+  récupère une CSG de 126 999,99 € sur ses gains, ce qui représente un économie de
+  126 999,99 € en régime avec abattement.'

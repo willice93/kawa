@@ -1,0 +1,13 @@
+Titre : Exemple d'application de l'exonération de 50 % sur l'impôt sur le revenu pour la vente d'une résidence principale
+
+Contexte : Une femme nommée Marie Dupont, technicienne supérieure dans l'industrie aérospatiale, vend sa propriété à Chambly, Québec, où elle a vécu pendant plus de cinq ans en tant que résidence principale. Elle a payé 300 000 $ pour cette maison en 2015 et la vend en 2021 pour un prix de 600 000 $.
+
+Montants concernés : La plus-value de la vente est de 300 000 $, car le prix de vente est supérieur au coût de rachat. Le revenu fiscal est de 150 000 $ (soit 600 000 - 450 000, où 450 000 est le plafond d'exonération disponible pour les revenus du travail).
+
+Déclaration : La plus-value de la vente (1AK) est de 300 000 $, et le revenu fiscal (1GF) est de 150 000 $.
+
+Comparaison : Dans le régime par défaut, Marie payerait l'impôt sur 150 000 $ (soit un montant de 22 500 $ selon les taux d'imposition actuels). Cependant, grâce à l'exonération de 50 % sur la plus-value, elle peut se voir exonérer de 75 000 $, ce qui réduit le montant à payer à 15 000 $ (soit un économie de 7 500 $).
+
+Calcul clair avec des chiffres ronds : Marie doit payer 15 000 $ d'impôt sur son revenu plutôt que 22 500 $. Cela représente une économie de 7 500 $.
+
+Conclusion : En appliquant l'exonération de 50 % sur la plus-value lorsqu'une maison est vendue après avoir été occupée comme résidence principale pendant au moins cinq ans consécutifs, les vendeurs peuvent réduire significativement leur montant d'impôt.

@@ -1,0 +1,13 @@
+Titulaire : Alexandre Dupont, gérant d'une PME spécialisée dans la production de matériel photographique.
+
+Situation : M. Dupont a reçu des actions de sa propre entreprise en 2016, à titre gratuit et sans valeur dépassant 300 000 € au compte-rendu fiscal annuel de cette même année.
+
+Montants concernés : Les gains d'acquisition des actions concernent la différence de prix entre leur valeur nominale et le montant à laquelle il a été perçu, qui est de 100 000 € en tout pour les actions gratuites reçues par M. Dupont.
+
+Déclaration : Ces gains d'acquisition des actions doivent être déclarés dans la case 1AK sur le formulaire de l'impôt sur les revenus.
+
+Comparaison entre régime par défaut et option choisie : En appliquant cette règle, M. Dupont ne sera pas soumis à l'impôt des gains d'acquisition pour des gains d'acquisition inférieurs à 300 000 €. Par contre, si il s'agissait du régime par défaut, les gains d'acquisition seraient imposables sur la totalité de leur montant.
+
+Calcul clair avec des chiffres ronds : Les gains d'acquisition de 100 000 € sont éligibles à l'abattement de 50 %, ce qui en fait 50 000 € de gains imposables, laissant un montant de 50 000 € impôtable.
+
+Conclusion : En appliquant cette règle, M. Dupont peut bénéficier d'un abattement sur ses gains d'acquisition des actions gratuites et ne sera pas soumis à l'impôt pour autant que le montant total de ces gains n'excède pas 300 000 €.

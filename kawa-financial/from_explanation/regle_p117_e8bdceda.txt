@@ -1,0 +1,11 @@
+Règle applicable aux marins-pêcheurs :
+
+Condition d'applicabilité : Les marins-pêcheurs bénéficiant de l'exonération
+
+Conditions requises : Les marins-pêcheurs doivent cocher les cases 1GE à 1JE sur leur formulaire de déclaration des impôts (PAS) pour que la fraction exonérée soit prise en compte dans le calcul du taux de PAS appliqué par l'employeur à l'ensemble de leur rémunération.
+
+Montants/plafonds : Aucun montant ou plafond spécifié dans le texte
+
+Formule de calcul applicable : Il n'y a pas de formule explicite de calcul, mais la fraction exonérée sera prise en compte pour le calcul du taux de PAS.
+
+Vérification pour bénéficier : Les marins-pêcheurs doivent respecter les conditions requises et cocher correctement les cases 1GE à 1JE sur leur formulaire de déclaration des impôts (PAS).

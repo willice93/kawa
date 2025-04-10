@@ -1,0 +1,11 @@
+Contexte : Jean Dupont, ingénieur en informatique, possède une assurance vie de 6 ans qu'il a ouverte le 1er octobre 2015. En décembre 2017, il verse pour la première fois dans cette assurance.
+
+Montants : Les versements mensuels sont de 300€ depuis décembre 2017 et le produit total est de 60 000€. Jean Dupont a également un revenu net annuel de 50 000€.
+
+Déclaration : Les versements dans la vie d'assurance sont déclarés sous le numéro 1AK (versements assurantiels). Le produit total est déclaré sous le numéro 1GF (produits financiers mobiliers).
+
+Comparaison : En régime de taux forfaitaire, l'imposition serait de 300€ x 12,8% = 36,96€ par mois. En optant pour l'imposition sur barème global du revenu, Jean Dupont peut avoir un avantage fiscal en considérant tout son revenu et les versements dans la vie d'assurance au sein de la même catégorie imposable.
+
+Calcul clair avec des chiffres ronds : En régime forfaitaire, l'imposition mensuelle est de 36,96€. En optant pour l'option globale du revenu, il peut y avoir un avantage fiscal supplémentaire en considérant tout son revenu et les versements dans la vie d'assurance au sein de la même catégorie imposable.
+
+Conclusion : Pour bénéficier de l'option globale du revenu, Jean Dupont devra demander à son établissement financier de lui fournir un modèle de déclaration spécifique. Il devra ensuite informer l'administration fiscale de ce choix en déclarant correctement les versements dans la vie d'assurance et le produit total sous le numéro 1GF (produits financiers mobiliers) à compter du début de l'année suivante.

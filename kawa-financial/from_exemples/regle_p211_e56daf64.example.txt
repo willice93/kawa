@@ -1,0 +1,21 @@
+Titre : Réduction des cotisations sociales pour les exploitants agricoles en application de la règle spécifique.
+
+Nom : Jean Dupont, 45 ans, chef d'exploitation agricole à Toulouse (France).
+
+Profession : Exploitation agricole (cultures céréalières et élevage bovin).
+
+Situation : Le montant de ses cotisations sociales atteint 120 000 € en 2023. Son capital social est de 450 000 € et il a émis 75 000 € de capitaux propres lors de la création de son exploitation agricole.
+
+Calcul : Le montant excédentaire (Excès) = Montant des cotisations sociales - (Capital social + Primes d'émission) x 10%
+                                        Excès = 120 000 € - ((450 000 € + 75 000 €) x 10%)
+                                         Excès = 120 000 € - (525 000 € x 0,10)
+                                          Excès = 120 000 € - 52 500 €
+                                           Excès = 67 500 €
+
+En vertu de cette règle, le montant excédentaire atteint 67 500 €, ce qui est supérieur à 10%, il bénéficie donc d'une réduction de ses cotisations sociales.
+
+Déclaration : Dans le formulaire d'impôt des exploitants agricoles, les montants concernés seront déclarés dans la case 1AK (Montant des cotisations sociales) et 1GF (Capital social et primes d'émission).
+
+Comparaison : Sans application de cette règle, Jean Dupont devrait payer 120 000 € en cotisations sociales. Cependant, avec la réduction due à cette règle spécifique, son montant de cotisations sociales est réduit de 67 500 €, ce qui fait un économie de 67 500 € pour Jean Dupont.
+
+Conclusion : Grâce à cette règle spécifique, les exploitants agricoles peuvent bénéficier d'une réduction des cotisations sociales en cas de dépassement de 10% du capital social et des primes d'émission. Cette règle peut avoir un impact important sur la liquidité de l'exploitation agricole.

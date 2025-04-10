@@ -1,0 +1,20 @@
+Nom : Marie Dupont, propriétaire et exploitante de ferme biologique
+
+Contexte : À la suite de son installation sur le territoire en 2019, vous avez bénéficié d'une dotation à l'installation des jeunes agriculteurs. Ce texte vise à montrer comment appliquer les règles relatives à cet abattement sur votre bénéfice annuel 2020.
+
+Montants concernés : Votre bénéfice annuel brut en 2020 est de 65 000 € et la dotation d'installation des jeunes agriculteurs inscrite en comptabilité est de 48 000 €.
+
+Déclaration : Vous devrez indiquer le montant de la dotation à l'installation des jeunes agriculteurs sous le code 1AK dans votre déclaration annuelle de micro-entreprise ou dans la partie 1GF de votre impôt sur les revenus.
+
+Calcul clair avec des chiffres ronds :
+- Fraction du bénéfice inférieure ou égale à 45 100 € : 65 000 / 45 100 = 1,44 (fraction)
+- Montant de l'abattement pour la fraction inférieure ou égale à 45 100 € : (1,44 / 100) * 65 000 = 912 €
+- Fraction du bénéfice supérieure à 45 100 € et inférieure ou égale à 60 100 € : (65 000 - 45 100) / 15 100 = 2,73 (fraction)
+- Montant de l'abattement pour la fraction supérieure à 45 100 € et inférieure ou égale à 60 100 € :
+	+ Abattement pour la partie inférieure ou égale à 45 100 € : ((2,73 / 100) * montant du bénéfice) pour la partie inférieure ou égale à 45 100 € = (2,73 / 100) * 45 100 = 1 263,50 €
+	+ Abattement pour la partie supérieure à 45 100 € et inférieure ou égale à 60 100 € : ((2,73 / 200) * (montant du bénéfice - 45 100)) = ((2,73 / 200) * (65 000 - 45 100)) = 1 263,50 €
+	- Montant total de l'abattement : 912 € + 1 263,50 € + 1 263,50 € = 3 449 €
+
+Comparaison du régime par défaut vs l'option choisie : En comparant le régime de calcul par défaut (qui est de ne pas bénéficier d'aucun abattement) avec l'option choisie, vous pouvez observer que votre abattement s'élève à 3 449 € en appliquant les règles ci-dessus.
+
+Conclusion : Vous avez ainsi réduit de 3 449 € le montant de votre impôt sur le revenu pour l'exercice 2020 grâce à la dotation à l'installation des jeunes agriculteurs et aux règles d'abattement qui s'y appliquent.

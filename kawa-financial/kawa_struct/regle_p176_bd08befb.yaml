@@ -1,0 +1,49 @@
+id: regle_p176_bd08befb
+titre: 'Règle d''application : Pour les entreprises exerçant une activité de vente
+  et souhaitant bénéficier du régime micro, il existe un abattement forfaitaire de
+  71 % (minimum de 305 €) sur les recettes de vente.'
+source: Brochure IR 2024
+regle:
+  description: "Règle d'application : Pour les entreprises exerçant une activité de\
+    \ vente et souhaitant bénéficier du régime micro, il existe un abattement forfaitaire\
+    \ de 71 % (minimum de 305 €) sur les recettes de vente.\n   Conditions : Les entreprises\
+    \ devraient exercer une activité de vente et devraient indiquer le montant de\
+    \ leurs recettes lignes 5NO, 5OO, 5PO pour être éligibles à cette règle.\n   Montants\
+    \ ou plafonds : L'abattement forfaitaire est de 71 % avec un minimum de 305 €.\n\
+    \   Formule de calcul applicable : Les entreprises doivent multiplier leur montant\
+    \ total de recettes lignes 5NO, 5OO, 5PO par 0,71 pour obtenir l'abattement forfaitaire,\
+    \ ou bien utiliser le montant minimum de 305 €.\n   Vérification : Les entreprises\
+    \ devraient vérifier que leur activité est de vente et qu'elles remplissent les\
+    \ conditions requises, tels que l'existence de recettes dans les lignes spécifiées\
+    \ (5NO, 5OO, 5PO) pour bénéficier de cet abattement forfaitaire."
+  formule: Non spécifiée
+cas_pratique: 'Contexte : Une entrepreneuse de 40 ans, Marie Dupont, exerce une activité
+  de vente en ligne de produits éco-responsables sous l''entreprise "EcoShop". Elle
+  a généré un chiffre d''affaires de 630 € en ligne 5NO, 280 € en ligne 5OO et 1700
+  € en ligne 5PO pour l''exercice fiscal 2022.
+
+
+  Montants concernés : Recettes de vente totales (630 € + 280 € + 1700 €) = 2610 €,
+  Abattement forfaitaire minimum (305 €), Abattement forfaitaire pour l''exercice
+  fiscal 2022 calculé (2610 € * 0,71) = 1849,1 €.
+
+
+  Déclaration : Les entreprises doivent déclarer leur activité de vente et les montants
+  de leurs recettes dans les lignes spécifiées (5NO, 5OO, 5PO). Pour Marie Dupont,
+  cela signifie qu''elle devra déclarer 630 € en ligne 5NO, 280 € en ligne 5OO et
+  1700 € en ligne 5PO.
+
+
+  Comparaison : Sans l''abattement forfaitaire de 71 %, Marie Dupont payerait un montant
+  total de taxes sur son chiffre d''affaires, mais avec cet abattement elle ne paiera
+  que le reste (2610 € - 1849,1 € = 760,9 €).
+
+
+  Calcul clair avec des chiffres ronds : L''abattement forfaitaire de 71 % pour l''exercice
+  fiscal 2022 sur les recettes de vente de Marie Dupont est de 1849,1 €. Sans cet
+  abattement, elle paierait 760,9 € en taxes sur son chiffre d''affaires.
+
+
+  Conclusion : Le régime micro permet à l''entreprise EcoShop de bénéficier d''un
+  abattement forfaitaire de 1849,1 € sur ses recettes de vente pour l''exercice fiscal
+  2022, ce qui réduit sa charge fiscale à 760,9 €.'

@@ -1,0 +1,9 @@
+Règle applicabile à tous les bénéficiaires d'aides en cas de déduction de la Contribution Sociale Généralisée (CSG).
+
+Contraintes : La seule CSG au taux de 3,8% est déductible. Les taux de CSG de 2,4% et CRDS de 0,5% ne peuvent pas être déduits.
+
+Montants/plafonds : Seul le montant des aides en question peut être déduit de la CSG au taux de 3,8%. Aucun plafond n'est mentionné.
+
+Formule de calcul applicable : Dédicter du montant des aides en question de la CSG au taux de 3,8% (aides - (CSG * 0.038)).
+
+Vérifier pour être sûr d'y avoir droit : Il faut vérifier que les aides déduites correspondent à des aides concédées dans le cadre d'un dispositif établi par l'État, une collectivité territoriale ou un établissement public.

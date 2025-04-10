@@ -1,0 +1,63 @@
+id: regle_p120_c62ef467
+titre: 'Règle appliquée aux personnes fiscalement domiciliées en France :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle appliquée aux personnes fiscalement domiciliées en France :
+
+
+    Les conditions : Les pensions de source étrangère telles que celles de retraite,
+    d''invalidité et alimentaires sont concernées à condition qu''elles ne soient
+    pas éligibles pour un crédit d''impôt égal à l''impôt français. Les pensions qui
+    ouvrent droit à un crédit d''impôt égal à l''impôt étranger (déclarables sur les
+    lignes 8VM, 8WM, 8UM) et celles qui n''ouvrent pas droit au crédit d''impôt sont
+    prises en compte.
+
+
+    Les montants : Le montant des pensions à déclarer est déterminé pour chaque pension
+    spécifique. Les pensions déclarées sur les lignes 1AM et 1BM de la 2047 sont considérées
+    pour le calcul de l''acompte à verser dans le cadre du PAS (Plan d''épargne en
+    avenir).
+
+
+    La formule de calcul applicable : Il n''y a pas de formule spécifique de calcul.
+    Les montants des pensions sont déclarés et retenus pour le calcul de l''acompte
+    à verser dans le cadre du PAS.
+
+
+    Vérification pour être sûr d''y avoir droit : Il faut vérifier que les pensions
+    décrétées sont effectivement de source étrangère, qu''elles ne sont pas éligibles
+    pour un crédit d''impôt égal à l''impôt français et qu''ils sont déclarés dans
+    la 2047.'
+  formule: Non spécifiée
+cas_pratique: 'Nom : Jean Dupont, Retraité français vivant en France depuis 1985.
+
+
+  Situation : M. Dupont travaille actuellement comme consultant indépendant en génie
+  civil et perçoit un revenu annuel brut de 40 000€. Il reçoit également une pension
+  de retraite mensuelle de 1 500€ provenant de son ancien employeur situé aux États-Unis,
+  qui ne lui permet pas d''être éligible pour un crédit d''impôt égal à l''impôt français.
+
+
+  Montants concernés : Le montant total de la pension reçue par M. Dupont en 2023
+  est de 18 000€ (1 500€ x 12 mois). Ce montant doit être déclaré dans les lignes
+  1AM et 1BM de la déclaration annuelle de revenus, pour le calcul de l''acompte à
+  verser dans le cadre du PAS (Plan d''épargne en avenir).
+
+
+  Déclaration : Le montant total de la pension devra être indiqué dans les cases 1AM
+  et 1BM sur la déclaration annuelle de revenus.
+
+
+  Régime par défaut vs option choisie : M. Dupont ne peut pas bénéficier d''aucun
+  crédit d''impôt pour sa pension étrangère, car elle n''est pas éligible pour un
+  crédit d''impôt égal à l''impôt français.
+
+
+  Calcul clair avec des chiffres ronds : Le montant total de la pension de M. Dupont
+  (18 000€) est déclaré dans les cases 1AM et 1BM de sa déclaration annuelle de revenus
+  pour le calcul de l''acompte à verser dans le cadre du PAS.
+
+
+  Conclusion : M. Dupont doit déclarer sa pension de retraite étrangère (18 000€)
+  sur les lignes 1AM et 1BM de sa déclaration annuelle de revenus, pour que le montant
+  soit pris en compte dans le calcul de l''acompte à verser dans le cadre du PAS.'

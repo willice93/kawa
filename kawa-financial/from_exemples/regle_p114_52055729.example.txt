@@ -1,0 +1,13 @@
+Titre : Déduction fiscale pour instruments musicaux et frais accessoires d'un artiste musical professionnel
+
+Contexte: Mme Émilie Dupont est une violoncelliste professionnelle qui travaille à la radio publique locale. Son activité l'occupe à plein temps et sa rémunération nette annuelle atteint 30 000 €. Elle a récemment acquis un nouveau violoncelle de qualité professionnelle ainsi qu'un matériel hi-fi spécifique pour ses enregistrements, des frais d'assurance et d'entretien, et une clavière secondaire.
+
+Montants concernés: La rémunération nette annuelle de Mme Émilie Dupont est de 30 000 €. Le montant du nouveau violoncelle est de 5 000 €, les frais d'assurance et d'entretien sont de 400 € par an, le matériel hi-fi coûte 1 200 € et la clavière secondaire coûte 800 €.
+
+Déclaration dans les bonnes cases: Les frais d'amortissement seront déclarés à l'intérieur des cas 1AK (Accessoires de musique, instruments et accessoires informatiques) du formulaire 2042.
+
+Comparaison régime par défaut vs option choisie: En tant qu'artiste musical professionnelle, Mme Émilie Dupont peut choisir entre les options d'amortissement régulier (durée de 5 ans) ou accéléré (durée de 2 ans). La déduction applicable est la même pour toutes les options.
+
+Calcul clair avec des chiffres ronds: En choisissant l'option d'amortissement régulière, Mme Émilie Dupont peut consacrer une déduction fiscale de 2 100 € par an (14 % du montant de sa rémunération nette) sur les frais de son nouveau violoncelle et des frais accessoires professionnels.
+
+Conclusion: En choisissant l'option d'amortissement régulière pour ses instruments musicaux et frais accessoires professionnels, Mme Émilie Dupont pourra réduire significativement son impôt en déclarant 2 100 € de déduction par an sur ses revenus net.

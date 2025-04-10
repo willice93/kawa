@@ -1,0 +1,20 @@
+Exemple de situation :
+
+Nom : Jean Dupont
+Profession : Ingénieur civil
+Situation : En 2021, Jean a vendu sa maison qu'il avait acquise en 2019 pour un prix de vente de 650 000 € et un prix d'achat de 350 000 €. Son revenu annuel du patrimoine est de 40 000 €.
+
+Montants concernés :
+- Gain d'acquisition : 650 000 € - 350 000 € = 300 000 € (ce montant est inférieur au plafond annuel de 300 000 €)
+- Abattement fixe : 39 600 € (17,2 % de la limite annuelle de 300 000 €)
+
+Déclaration :
+- 1GF pour le gain d'acquisition
+- 1AK pour le revenu du patrimoine
+
+Calcul :
+- Pour appliquer l'abattement fixe, on prend en priorité la plus-value de cession (gain sur la vente) : 300 000 € - 39 600 € = 260 400 €
+- Le surplus du gain d'acquisition reste donc à 140 400 €
+- Il n'y a pas de contribution sociale supplémentaire à verser car le régime par défaut (régime ordinaire) est appliqué
+
+Conclusion : Avec un gain d'acquisition de 300 000 € et un revenu annuel du patrimoine de 40 000 €, Jean Dupont ne pourra pas bénéficier d'un abattement supérieur à l'abattement fixe de 39 600 €. Il restera donc à verser un montant fiscal de 140 400 € sur son gain d'acquisition (300 000 € - 39 600 € abattement fixe).

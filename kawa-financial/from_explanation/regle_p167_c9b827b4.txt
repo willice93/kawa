@@ -1,0 +1,11 @@
+Règle de calcul : Déductions d'épargne retraite
+
+   À qui s'applique la règle : Toutes les personnes ayant des revenus fiscaux en France.
+
+   Dans quelles conditions : Les épargnes versées dans certains produits financiers qualifiés sont déductibles du plafond de revenu fiscal de référence et contribuent au plafond de déduction d'épargne retraite.
+
+   Quels sont les montants ou plafonds : Le montant déductible est limité à 2,634€ par an (dans le cadre des économies prioritaires) et 8,910€ par an (dans le cadre des autres épargnes retraite). Le plafond de déduction d'épargne retraite est fixé à 7,265€ par an.
+
+   Quelle est la formule de calcul applicable : Pour chaque produit financier qualifié, le montant versé est multiplié par le taux de déduction (90%) et cette somme est ajoutée aux autres économies prioritaires ou aux autres épargnes retraite pour ne pas dépasser le plafond annuel respectif.
+
+   Et ce qu’il faut vérifier pour être sûr d'y avoir droit : Les produits financiers doivent être qualifiés par l'administration des contributions sociales, de la sécurité sociale et de la sécu (ACSS). Il est également important de veiller à ne pas dépasser les plafonds respectifs en fonction du type d'épargne retraite versée.

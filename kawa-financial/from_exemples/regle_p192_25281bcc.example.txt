@@ -1,0 +1,13 @@
+Titre : Exemple d'application de la règle pour les associés de sociétés d'exercice libéral (SEL) et associés de sociétés de droit commun (SDC) exerçant une activité juridique libérale réglementée
+
+Contexte : M. Jean Doe est un avocat qui travaille en tant qu'associé dans sa propre SEL depuis trois ans. Il a déclaré des revenus nets de 60 000 euros cette année, dont 45 000 euros sont relevant des traitements et salaires (1AJ).
+
+Montants concernés : Les rémunérations nettes des cotisations et contributions sociales obligatoires déductibles s'élèvent à 36 000 euros. Le montant reporté dans la rubrique "Rémunération des associés de SEL et professions juridiques réglementées de SDC" du volet social (DSSI/DSSJ) est cette somme de 36 000 euros. L'abattement fiscal forfaitaire pour frais de 10 % n'est pas admis dans l'assiette sociale et ne doit pas être appliqué sur le montant de la rémunération reportée.
+
+Déclaration : M. Jean Doe a reporté sa rémunération nette de 36 000 euros dans les bonnes cases, en saisissant "Rémunération des associés de SEL et professions juridiques réglementées de SDC" pour la rubrique concernée (1AK/1GF).
+
+Comparaison : Si M. Jean Doe avait choisi le régime par défaut plutôt que le régime général des travailleurs indépendants, il n'aurait pas été admis à bénéficier de ce traitement spécial et aurait dû déclarer la totalité de ses revenus nets sur sa déclaration de revenu (2AK/2GF). En choisissant le régime général, M. Jean Doe a réduit son assiette sociale pour cette année de 3600 euros (10 % du montant de sa rémunération reportée).
+
+Calcul clair avec des chiffres ronds : En choisissant le régime général, M. Jean Doe a pu épargner 3600 euros de cotisations sociales cette année en appliquant la règle décrite ci-dessus.
+
+Conclusion : Cet exemple montre comment les associés de sociétés d'exercice libéral (SEL) et associés de sociétés de droit commun (SDC) exerçant une activité juridique libérale réglementée peuvent bénéficier d'un traitement spécial sur leur déclaration de revenu en appliquant la règle décrite ci-dessus.

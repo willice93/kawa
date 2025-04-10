@@ -1,0 +1,14 @@
+Règle appliquée à toute personne qui ne détient pas d'activité professionnelle et a versé des fonds sur un PELR (Plan d'épargne retraite logement) en 2023.
+
+Les conditions requises sont :
+1. L'année précédente (2022), le salaire net de frais professionnels a été supérieur à 40 000 € (déduction forfaitaire de 10 %)
+2. Dans les années 2020, 2021 et 2022, l'intéressée a utilisé la totalité du plafond de déduction de l'épargne retraite disponible chaque année.
+
+Le montant ou plafond applicable est le minimum entre :
+- Le plafond de déduction de l'épargne retraite pour 2023 (10 % du salaire net de frais professionnels en 2022) = 3 600 €
+- Le montant versé sur le PELR en 2023 (4 114 €)
+
+La formule de calcul est la suivante :
+Montant du plafond de déduction de l'épargne retraite = Minimum (plafond de déduction 2023, montant versé sur le PELR en 2023)
+
+Pour être sûr d'y avoir droit, il faut vérifier que toutes les conditions sont remplies.

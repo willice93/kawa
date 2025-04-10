@@ -1,0 +1,11 @@
+La règle s'applique aux résidents fiscaux d'une année donnée qui ont choisi l'imposition au barème progressif pour leur déclaration de revenus de l'année précédente (2022).
+
+Les conditions sont les suivantes :
+- Si vous avez déjà coché la case 2OP sur votre déclaration de revenus 2022, cette case sera pré-cochée sur votre déclaration de revenus 2023. Cela indique que vous confirmez cette option pour l'imposition au barème progressif de l'année en cours (2023).
+- Si vous ne souhaitez pas opter pour l'imposition au barème cette année, il est nécessaire de décocher la case 2OP dans votre déclaration en ligne ou de cocher la case qui se trouve au-dessous de la case 2OP sur votre déclaration papier.
+
+Les montants ou plafonds ne sont pas explicitement mentionnés dans le texte, mais l'imposition au barème progressif est une méthode d'imposition au regard du revenu annuel. Les montants varient en fonction de la répartition des revenus et les limites définies par la législation fiscale en vigueur.
+
+La formule de calcul applicable ne peut être déduite que pour le calcul de l'imposition au barème progressif, qui prend en compte la proportionnellement à la répartition des revenus entre les différents barèmes impositifs et les montants fixes associés à chaque barème.
+
+Il faut vérifier si vous souhaitez continuer à opter pour l'imposition au barème cette année ou non, et si aucune modification n'a été apportée, ce choix sera considéré comme confirmé.

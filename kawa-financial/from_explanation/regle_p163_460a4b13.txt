@@ -1,0 +1,9 @@
+Règle applicabile aux contribuables non-résidents :
+
+Conditions d'applicabilité : Les revenus doivent être issus de sources étrangères ouvrants droit à un crédit d'impôt égal à l'impôt français, ainsi que les revenus non commerciaux perçus par ces mêmes non-résidents. Ces revenus sont également soumis à la retenue à la source prévue par les articles 182 A bis et 182 B du Code général des impôts (CGI).
+
+Montants ou plafonds : Il n'y a pas de montant ou plafond spécifique indiqué dans le texte.
+
+Formule de calcul : Les revenus doivent être déclarés unique-ment sur les lignes spécifiques et ne doivent pas être inclus dans les montants inscrits sur les lignes "Revenus imposables". Ces revenus sont exclus pour le calcul du taux de PAS et de la base des acomptes.
+
+Vérification : Vérifier que les revenus correspondent aux conditions énoncées, soit issus de sources étrangères ouvrants droit à un crédit d'impôt égal à l'impôt français, ainsi que être non-résident pour le CGI.

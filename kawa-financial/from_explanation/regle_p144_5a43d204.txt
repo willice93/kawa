@@ -1,0 +1,10 @@
+La règle s'applique aux personnes qui vendent une propriété immobilière en France et souhaitent calculer leur plus-value imposable sur la déclaration des impôts.
+
+Les conditions sont que la personne doit avoir vendu une propriété résidentielle principale ou secondaire, et qu'elle soit imposée sur le revenu (impôt sur le revenu).
+
+Le montant de la plus-value imposable est calculé en fonction de la différence entre le prix de vente et le prix d'achat. Toutefois, il peut être réduit par les abattements applicables : un abattement fixe de 500 000 € ou un abattement pour durée de détention renforcée (si la propriété a été détenue pendant au moins 22 ans).
+
+La formule de calcul applicable est :
+- La plus-value imposable = (Prix de vente - Prix d'achat) - Abattement applicable
+
+Il faut vérifier que les montants utilisés dans le calcul sont corrects, notamment les prix de vente et d'achat de la propriété. Il est également important de respecter les conditions d'éligibilité à l'abattement, telles que la durée de détention de la propriété.

@@ -1,0 +1,19 @@
+Règle s'applique aux :
+   - Non-salariés versant des cotisations sur les contrats "Madelin" et "Madelin agricole"
+   - Salariés versant des cotisations au régime "article 83", PERE, PERO, PERCO ou PERECO
+
+   Conditions :
+   - Les versements sont concernés pour l'année 2023.
+   - Les revenus catégoriels doivent être BIC, BNC, BA et les rémunérations perçues par les associés gérants relevant de l'article 62 du CGI.
+
+   Montants :
+   - Pour les non-salariés, les cotisations versées sont déductibles jusqu'au plafond de la sécurité sociale (pas mentionné dans le texte) et pour le montant déductible du résultat professionnel, il faut vérifier que sa fraction correspond à 15 % de la quote-part du bénéfice imposable comprise entre une fois et 8 fois le plafond de la sécurité sociale (déclarez le montant des cotisations déduites, sous déduction de la fraction correspondant à 15 % de la quote-part de bénéfice imposable comprise entre 43 992 € et 351 936 €).
+   - Pour les salariés, les cotisations versées aux régimes "article 83", PERE, PERO, PERCO ou PERECO sont déductibles des salaires. Les versements de l'employeur et du salarié exonérés d'impôt sur le revenu (abondement de l'employeur ; droits inscrits sur le CET ou jours de congés monétisés, dans la limite de 10 par an) au PERCO, à un régime "article 83" ou, depuis 2019, au PERECO sont également prises en compte.
+
+   Formule de calcul :
+   - Pour les non-salariés : Montant des cotisations déductibles du résultat professionnel = (Montant total des cotisations) - (15 % de la quote-part du bénéfice imposable comprise entre 43 992 € et 351 936 €)
+   - Pour les salariés : Montant des cotisations déductibles des salaires = Montant total des cotisations (PERCO, article 83, PERE, PERO)
+
+   Verification pour être sûr d'y avoir droit :
+   - Les revenus et rémunérations doivent correspondre aux catégories mentionnées.
+   - Le montant total des cotisations doit être conforme aux régimes mentionnés (Madelin, Madelin agricole, article 83, PERE, PERO, PERCO ou PERECO).

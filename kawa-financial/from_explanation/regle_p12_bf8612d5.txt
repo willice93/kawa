@@ -1,0 +1,14 @@
+Règle de calcul applicable : Dépôt d'épargne-logement avec prime inférieure à 150 000 € soumise à un taux d'impôt de 7,5 %
+
+Conditions applicables :
+- Les produits concernés sont ceux d'un dépôt d'épargne-logement (Prêt à l'achat ou Dotation Foncière Complémentaire).
+- La prime ne doit pas excéder 150 000 €.
+
+Montant/Plafond :
+- Le montant soumis à l'impôt est le taux de 7,5 % de la prime d'épargne-logement (2VV).
+
+Formule de calcul applicable : Montant_Impot = Prime * 0.075
+
+Vérification requise pour avoir droit à l'application de cette règle :
+- Vérifier que le montant dépensé en prime d'épargne-logement est inférieur ou égal à 150 000 €.
+- Vérifier la régularité du contrat d'épargne-logement en accord avec les dispositions légales et réglementaires applicables.

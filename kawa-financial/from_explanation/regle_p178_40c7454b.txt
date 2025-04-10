@@ -1,0 +1,7 @@
+Règle appliquée aux bénéfices de sources étrangères des non-résidents, subjectifs aux conditions suivantes :
+
+1. Les bénéfices en question sont ceux qui ouvrent droit à un crédit d'impôt égale à l'impôt français.
+2. Ces bénéfices doivent provenir des revenus perçus par les non-résidents soumis à la rete-nue à la source comme prévu par les articles 182 A bis et 182 B du CGI (Code général des impôts).
+3. Il n'y a pas de montant spécifique indiqué, mais il s'agit simplement de ceux qui ont droit au crédit d'impôt égale à l'impôt français.
+4. La formule de calcul applicable est la suivante : les bénéfices en question sont déclarés lignes 5XJ à 5ZJ et ne seront pas retenus pour le calcul du prélèvement à la source.
+5. Il faut vérifier que les bénéfices en question sont ceux qui ont droit au crédit d'impôt égale à l'impôt français, c'est-à-dire qu'ils correspondent aux conditions de l'article 182 A bis et 182 B du CGI. Les bénéfices ne doivent pas être déclarés lignes 5QC à 5SC.

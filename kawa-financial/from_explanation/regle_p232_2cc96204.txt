@@ -1,0 +1,5 @@
+Cette règle s'applique aux contribuables qui ont une remise à zéro de leur taux de PAS (Prélèvements d'Assurance Scolaire) et dont l'impôt sur les revenus de 2021 et 2022 est égal à zéro après imputation des réductions et crédits d'impôt, ou n'ont pas été mis en recouvrement. Pour être éligible, il faut que le revenu fiscal de référence de 2022 soit inférieur à 27 473 € par part (c'est-à-dire pour chaque part du bénéfice du PAS).
+
+La formule de calcul de l'avance versée en janvier 2024 est : l'avance égale à 60 % de la différence entre le montant des avantages et le montant d'impôt avant imputation des réductions et crédits d'impôt.
+
+Il faut vérifier les deux conditions suivantes pour être sûr d'y avoir droit : que l'impôt sur les revenus de 2021 et 2022 est égal à zéro après imputation des réductions et crédits d'impôt, ou n'a pas été mis en recouvrement ; et que le revenu fiscal de référence de 2022 est inférieur à 27 473 € par part.

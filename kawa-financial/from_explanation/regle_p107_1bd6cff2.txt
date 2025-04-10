@@ -1,0 +1,7 @@
+La règle s'applique aux employés salariés qui utilisent leur propre véhicule pour des missions professionnelles. Les conditions sont que le véhicule utilisé soit celui de l'employé et les frais carburant ou d'option soient réels (courants).
+
+Le montant ou plafond s'applique à 40 % de 2 du coût global annuel (location, entretien, assurances...) des véhicules utilisés.
+
+La formule de calcul applicable est : Montant = (Coût total annuel x 0.4) / 2
+
+Il faut vérifier que les frais carburant ou d'option sont réels et supportent une justification pour être sûr d'y avoir droit.

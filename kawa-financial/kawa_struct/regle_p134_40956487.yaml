@@ -1,0 +1,79 @@
+id: regle_p134_40956487
+titre: 'Règle d''application des prélèvements sociaux en France :'
+source: Brochure IR 2024
+regle:
+  description: "Règle d'application des prélèvements sociaux en France :\n\n- À qui\
+    \ s’applique la règle : Tous les revenus de toutes les personnes physiques résidant\
+    \ en France ou non, soumis aux prélèvements sociaux.\n- Dans quelles conditions\
+    \ : Les différents types de revenus sont classés selon des critères différents\
+    \ et chaque catégorie a son propre plafond et formule de calcul applicable.\n\n\
+    \  1. Revenus déjà soumis aux prélèvements sociaux sans CSG déductible (2CG) :\
+    \ Les revenus qui ne sont pas exonérés du prélèvement de solidarité, tels que\
+    \ le revenu d'indemnisation complémentaire de retraite (IRC), les dividendes et\
+    \ les gains des opérations immobilières.\n   - Plafond : Il n’y a pas de plafond\
+    \ pour ces revenus.\n   - Formule de calcul : La taxe est fixée à 20% du montant\
+    \ de l'impôt sur le revenu (IR) déterminé sur les revenus considérés.\n   - Vérifier\
+    \ : Les revenus doivent être déjà soumis aux prélèvements sociaux et ne pas être\
+    \ exonérés du prélèvement de solidarité.\n\n  2. Revenus déjà soumis aux prélèvements\
+    \ sociaux avec CSG déductible si option barème (2BH) : Les revenus salariés ou\
+    \ les revenus de profession libérale pour lesquels on a choisi l'option barème\
+    \ de calcul des impôts.\n   - Plafond : Le plafond annuel pour ces revenus est\
+    \ de 36 048 € (2021). En cas d’excéder ce plafond, le prélèvement de solidarité\
+    \ est appliqué à la totalité du montant.\n   - Formule de calcul : La CSG déductible\
+    \ est fixée à 7,5% du montant de l'IR déterminé sur les revenus considérés. Le\
+    \ reste des revenus (soumis au prélèvement de solidarité) est soumis à la taxe\
+    \ de 17,2% pour un maximum annuel de 381 € par personne (2021).\n   - Vérifier\
+    \ : Les revenus doivent être déjà soumis aux prélèvements sociaux et il doit y\
+    \ avoir option barème choisie pour le calcul des impôts.\n\n  3. Autres revenus\
+    \ déjà soumis aux prélèvements sociaux avec CSG déductible (2DF) : Les revenus\
+    \ tels que les pensions de retraite complémentaires, les allocations familiales,\
+    \ les pensions de cessation d'activité ou de chômage, etc.\n   - Plafond : Il\
+    \ n’y a pas de plafond pour ces revenus.\n   - Formule de calcul : La CSG déductible\
+    \ est fixée à 7,5% du montant de l'IR déterminé sur les revenus considérés. Le\
+    \ reste des revenus (soumis au prélèvement de solidarité) est soumis à la taxe\
+    \ de 14% pour un maximum annuel de 381 € par personne (2021).\n   - Vérifier :\
+    \ Les revenus doivent être déjà soumis aux prélèvements sociaux et ne pas appartenir\
+    \ à une autre catégorie de revenu.\n\n  4. Revenus soumis au seul prélèvement\
+    \ de solidarité de 7,5 % (2DG) : Les revenus tels que le revenu de capital (RC),\
+    \ les intérêts et les gains mobiliers.\n   - Plafond : Il n’y a pas de plafond\
+    \ pour ces revenus.\n   - Formule de calcul : Le prélèvement de solidarité est\
+    \ fixé à 7,5% du montant de l'IR déterminé sur les revenus considérés.\n   - Vérifier\
+    \ : Les revenus doivent être déjà soumis aux prélèvements sociaux et ne pas appartenir\
+    \ à une autre catégorie de revenu.\n\n  5. Revenus soumis au seul prélèvement\
+    \ de solidarité à soumettre à la CSG et à la CRDS (2DI) : Les revenus tels que\
+    \ les gains provenant d'opérations immobilières avec une durée minimale de garde\
+    \ de 5 ans, les gains des sociétés civiles de placement (SCP), les profits d'entreprise\
+    \ pour les sociétés de personnes (SARL) et les revenus provenant de la location\
+    \ de biens affectés à l'habitation.\n   - Plafond : Il n’y a pas de plafond pour\
+    \ ces revenus.\n   - Formule de calcul : Le prélèvement de solidarité est fixé\
+    \ à 7,5% du montant de l'IR déterminé sur les revenus considérés. La CSG et la\
+    \ CRDS sont appliquées en fonction des autres revenus de la personne concernée.\n\
+    \   - Vérifier : Les revenus doivent être déjà soumis aux prélèvements sociaux\
+    \ et ne pas appartenir à une autre catégorie de revenu."
+  formule: revenu_brut * (1 - 0.2)
+cas_pratique: "Titre : Exemple d'application de la règle des prélèvements sociaux\
+  \ en France pour un travailleur indépendant\n\nNom : Jean DOE\nProfession : Travailleur\
+  \ indépendant, chef de travail d'un cabinet d'architecture\nSituation : Responsable\
+  \ principal du cabinet avec un salaire net mensuel de 3 500 €, revenus complémentaires\
+  \ de 10 000 €/an en dividendes et gains des opérations immobilières, sans CSG déductible\n\
+  \nCalcul des prélèvements sociaux pour l'année 2021 :\n\n1. Revenus déjà soumis\
+  \ aux prélèvements sociaux sans CSG déductible (2CG) : Dividendes et gains des opérations\
+  \ immobilières\n   - Plafond : Il n’y a pas de plafond pour ces revenus\n   - Formule\
+  \ de calcul : La taxe est fixée à 20% du montant de l'impôt sur le revenu (IR) déterminé\
+  \ sur les revenus considérés.\n   Pour Jean DOE, il y a 12 mois de salaire net mensuel\
+  \ de 3 500 € soit un revenu annuel de 42 000 €. Son IR est donc de 8 400 € (42 000\
+  \ * 20%). La taxe sur les dividendes et gains des opérations immobilières est fixée\
+  \ à 20% du montant de l'IR soit 1 680 €.\n\n2. Revenus déjà soumis aux prélèvements\
+  \ sociaux avec CSG déductible (2BH) : Salaire de Jean DOE\n   - Plafond : Le plafond\
+  \ annuel pour ces revenus est de 36 048 €.\n   Pour Jean DOE, le salaire net mensuel\
+  \ de 3 500 € correspond à un montant annuel de 42 000 € qui est inférieur au plafond\
+  \ de 36 048 €. La CSG déductible est donc fixée à 7,5% du montant de l'IR déterminé\
+  \ sur le salaire net mensuel soit 112,5 €/mois.\n\nEn conclusion, pour l'année 2021,\
+  \ Jean DOE devra verser un prélèvement social de 1 792,5 € (1 680 € + 112,5 €/mois\
+  \ x 12 mois)."
+calcul:
+  formule: revenu_brut * (1 - 0.2)
+  exemple:
+    revenu_brut: 500
+    abattement: 100
+    revenu_net: 400

@@ -1,0 +1,70 @@
+id: regle_p142_79150830
+titre: La règle des abattements pour durée de détention s'applique uniquement au calcul
+  de la plus-value imposable à l'impôt sur le revenu.
+source: Brochure IR 2024
+regle:
+  description: 'La règle des abattements pour durée de détention s''applique uniquement
+    au calcul de la plus-value imposable à l''impôt sur le revenu.
+
+
+    Conditions :
+
+    - Il doit y avoir une durée de détention de plus d''un an dans l''immobilier en
+    vue de sa mise en vente ou de sa location.
+
+
+    Montants ou plafonds :
+
+    - Les abattements concernent la durée de détention supérieure à un an, et s''appliquent
+    au montant total de la plus-value (montant de la plus-value avant abattement).
+
+
+    Formule de calcul applicable :
+
+    - Le montant des abattements sera la durée de détention en an (supérieure à 1)
+    multipliée par une fraction donnée.
+
+
+    Vérification pour être sûr d''y avoir droit :
+
+    - Vérifier si le bien a été occupé comme habitation principale pendant plus d''un
+    an et qu''il y a eu une durée de détention de plus d''un an avant la vente ou
+    la location.'
+  formule: Non spécifiée
+cas_pratique: 'Titre : Jeanne Lefèvre - Vendeuse immobilier autonome
+
+
+  Contexte : Jeanne Lefèvre est une vendeuse immobilier autonome depuis 5 ans. Elle
+  achète un appartement en 2018 pour y vivre et le revend deux ans plus tard, en 2020.
+  Le montant de la plus-value imposable à l''impôt sur le revenu était de 60 000€.
+
+
+  Application : La durée de détention de cet appartement est de deux ans (2018 - 2020),
+  ce qui est supérieur à un an. En conséquence, elle peut bénéficier des abattements
+  pour durée de détention dans le calcul de sa plus-value imposable à l''impôt sur
+  le revenu.
+
+
+  Données clés :
+
+  - Montant total de la plus-value avant abattement : 60 000€
+
+  - Durée de détention : 2 ans (2)
+
+  - Fraction donnée pour calculer les abattements : non fournie, mais supposons 0.15
+
+
+  Calcul : Les abattements seront donc de la durée de détention en an multipliée par
+  la fraction donnée : (2 * 0.15 = ) 30 000€
+
+
+  Comparaison : Le régime par défaut imposerait une plus-value de 60 000€, mais grâce
+  aux abattements pour durée de détention, la plus-value à déclarer est réduite de
+  30 000€.
+
+
+  Déclaration : La plus-value imposable à l''impôt sur le revenu sera de 30 000€ (1AK)
+
+
+  Synthèse : En application de la règle des abattements pour durée de détention, Jeanne
+  Lefèvre a réduit sa plus-value imposable à l''impôt sur le revenu de 30 000€.'

@@ -1,0 +1,48 @@
+id: regle_p105_c958387f
+titre: Règle s'applique aux journalistes, rédacteurs, photographes, directeurs de
+  journaux et critiques dramatiques et musicaux. Cette règle s'applique lorsqu'ils
+  n'optent pas pour la déduction de leurs frais professionnels réels.
+source: Brochure IR 2024
+regle:
+  description: 'Règle s''applique aux journalistes, rédacteurs, photographes, directeurs
+    de journaux et critiques dramatiques et musicaux. Cette règle s''applique lorsqu''ils
+    n''optent pas pour la déduction de leurs frais professionnels réels.
+
+
+    La fraction des rémunérations perçues représentative de frais d''emploi est calculée
+    à hauteur de 7 650 € (ajusté en fonction du nombre de mois d''exercice de l''activité
+    dans l''année). Ce montant peut être ajusté si le salarié commence ou termine
+    son activité durant l''année considérée.
+
+
+    L''abattement de 7 650 € s''applique uniquement aux journalistes et assimilés
+    dont le revenu brut annuel n''excède pas 93 510 €.
+
+
+    La formule de calcul applicable est : Montant du salaire après déduction de la
+    fraction de rémunération représentative de frais d''emploi = Salaire avant déduction
+    - Fraction de rémunération représentative de frais d''emploi
+
+    Montant de l''abattement = Abattement fixe (7 650 €)
+
+
+    Pour être sûr d''y avoir droit, il faut vérifier que le salarié n''a pas opté
+    pour la déduction de frais professionnels réels et que son revenu brut annuel
+    ne dépasse pas 93 510 €.'
+  formule: Non spécifiée
+cas_pratique: "Nom : Marie Dupont\n   Profession : Journaliste pour Le Monde, basée\
+  \ à Paris\n   Situation : En cours d'année fiscale 2023\n   Revenus : Son revenu\
+  \ brut annuel est de 85 000 €.\n   Deduction : Elle n'a pas opté pour la déduction\
+  \ de frais professionnels réels.\n   Déclaration : Casier 1AK\n   Comparaison :\
+  \ Regime par défaut (pas d'option choisie) vs L'option choisie est l'abattement\
+  \ de 7 650 € sur les rémunérations perçues représentatives de frais d'emploi.\n\
+  \   Calcul clair avec des chiffres ronds : La fraction de rémunération représentative\
+  \ de frais d'emploi = (7 650 €) (car elle commence l'année et ne termine pas). Le\
+  \ montant du salaire après déduction de la fraction de rémunération représentative\
+  \ de frais d'emploi est de (85 000 € - 7 650 €) = 77 350 €. L'abattement de 7 650\
+  \ € s'applique à cause des conditions réunies et le montant imposable sur les revenus\
+  \ est de 77 350 €.\n   Conclusion : Pour Marie Dupont, la formule de calcul applicable\
+  \ est : Montant du salaire après déduction de la fraction de rémunération représentative\
+  \ de frais d'emploi = Salaire avant déduction - Fraction de rémunération représentative\
+  \ de frais d'emploi et l'abattement de 7 650 € s'applique à cause des conditions\
+  \ réunies. Son montant imposable est de 77 350 €."

@@ -1,0 +1,7 @@
+Règle d'abattement des dividendes déclarés :
+
+- Cette règle s'applique aux personnes qui reçoivent des dividendes déclarés, mentionnés sous la rubrique 2FU, et ont choisi l'option globale pour l'imposition au barème progressif.
+- La condition est que ces dividendes n'ont pas fait l'objet du prélèvement forfaitaire obligatoire non libératoire de 12,8 % ni des prélèvements sociaux lors de leur inscription sur le plan.
+- Le montant correspond à un abattement de 40 % des dividendes déclarés mentionnés sous la rubrique 2FU.
+- La formule de calcul applicable est : Abattement = (Dividendes déclarés) x 40%
+- Pour être sûr d'y avoir droit, il faut vérifier que les conditions ci-dessus sont remplies et qu'une option globale pour l'imposition au barème progressif a été choisie.

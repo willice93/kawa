@@ -1,0 +1,21 @@
+Nom : Jeanne Dupont
+   Profession : Entrepreneur indépendant en vente de produits électroniques
+
+Contexte : Jeanne Dupont est une entrepreneur indépendante qui vend des produits électroniques sur Internet. Elle a perçu un revenu brut hors taxes de 20 000 € dans l'année calendaire en vigueur, et elle a également été soumise à la TVA pour cette activité.
+
+Situation : Jeanne Dupont a choisi le régime micro-foncier pour sa fiscalité. Elle a perdu des fonds en investissant dans un immeuble qui n'est plus loué, ce qui constitue un déficit foncier. Elle souhaite connaître s'il peut réduire son impôt de cette année en raison de ce déficit foncier non imputé à l'origine dans le régime micro-foncier.
+
+   Montants concernés :
+   - Revenu brut hors taxes : 20 000 €
+   - Seuil du régime micro-foncier : 15 000 € hors TVA
+   - Découvert : 5 000 € (déficit foncier non imputé à l'origine dans le régime micro-foncier)
+
+Déclaration dans les bonnes cases : Pour déclarer cette situation, Jeanne Dupont devra remplir la section 1AK de son formulaire de revenus. Elle devra indiquer son revenu brut hors taxes de 20 000 € et le déficit foncier non imputé de 5 000 € dans les cas appropriés de cette section.
+
+Comparaison : Le régime par défaut applique une taxe sur le revenu brut à partir du seuil fixé à 9 816 € en 2023, tandis que l'option choisie (régime micro-foncier) permet de réduire son impôt grâce aux déficits fonciers non imputés.
+
+Calcul clair avec des chiffres ronds : En appliquant le régime micro-foncier, Jeanne Dupont peut réduire son impôt de 15 % (taux applicable pour ce régime) sur la partie de son revenu qui dépasse le seuil de 15 000 € hors TVA.
+   - 20 000 € - 15 000 € = 5 000 €
+   - Taxe de réduction : 5 000 € * 15 % = 750 €
+
+Conclusion synthétique : En choisissant le régime micro-foncier, Jeanne Dupont a pu réduire son impôt en 2023 pour cette année de 750 €. Elle devra remplir la section 1AK de son formulaire de revenus pour indiquer sa situation et son choix de régime fiscal.

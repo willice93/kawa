@@ -1,0 +1,11 @@
+La règle s'applique aux salariés qui ont un logement de trois pièces fourni gratuitement par leur employeur en plus de leurs 3 400 € mensuels de rémunération brute (c'est-à-dire entre 0,9 et 1,1 fois le plafond mensuel de la sécurité sociale).
+
+   Les montants ou plafonds dans cette règle sont :
+   - La rémunération brutale des salariés, qui doit être compris entre 3 400 € et 5 296 € par mois (ce qui correspond à 0,9 à 1,1 fois le plafond mensuel de la sécurité sociale).
+   - Le coût du logement gratuit fourni, qui est évalué à 119,30 € x 3 = 357,90 € par mois.
+
+   La formule de calcul applicable est : le coût du logement gratuit fourni est évalué à 119,30 € x nombre de pièces (qui doit être au moins 3).
+
+   Pour être sûr d'y avoir droit, il faut vérifier que les conditions suivantes sont respectées :
+   - Le salarié dispose d'un logement de trois pièces fourni gratuitement par son employeur.
+   - Sa rémunération brutale mensuelle est comprise entre 3 400 € et 5 296 €, soit entre 0,9 et 1,1 fois le plafond mensuel de la sécurité sociale (7 528 € en 2023).

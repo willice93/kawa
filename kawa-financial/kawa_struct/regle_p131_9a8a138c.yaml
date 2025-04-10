@@ -1,0 +1,60 @@
+id: regle_p131_9a8a138c
+titre: La règle s'applique aux produits d'assurance-vie et de capitalisation avec
+  des versements effectués avant le 27 septembre 2017 et après cette date. Les conditions
+  sont liées au montant des primes versées.
+source: Brochure IR 2024
+regle:
+  description: "La règle s'applique aux produits d'assurance-vie et de capitalisation\
+    \ avec des versements effectués avant le 27 septembre 2017 et après cette date.\
+    \ Les conditions sont liées au montant des primes versées.\n\n- Produits imposables\
+    \ à 7,5 % :\n    - les produits correspondants aux primes n'excédant pas 150 000\
+    \ € avant le 27 septembre 2017 (2VV) et tous les produits après cette date (2ZZ).\n\
+    - Produits imposables à 12,8 % :\n    - les produits correspondants aux primes\
+    \ excédant 150 000 € avant le 27 septembre 2017 (2WW) et tous les produits qui\
+    \ ne sont pas soumis au prélèvement libératoire après cette date (2YY).\n- Pour\
+    \ être sûr d'y avoir droit, il faut vérifier que le montant des primes versées\
+    \ respecte les limites précitées."
+  formule: Non spécifiée
+cas_pratique: 'Titre : Comparaison des produits d''assurance-vie entre le régime par
+  défaut et l''option choisie pour M. Dupont, agent immobilier
+
+
+  Situation : M. Dupont a ouvert deux contrats d''assurance-vie avant le 27 septembre
+  2017 (contrat A) et après cette date (contrat B). Il verse chaque année 15 000 €
+  dans les deux contrats pour chaque annee de 2018 à 2023.
+
+
+  Données des produits :
+
+  - Contrat A : avant le 27 septembre 2017 - Primes versées de 150 000 € ou moins
+  (2VV)
+
+  - Contrat B : après le 27 septembre 2017 - Primes excédant 150 000 € (2ZZ) mais
+  pas soumis au prélèvement libératoire
+
+
+  Régime par défaut : Les produits d''assurance-vie sont imposables à 7,5 % dans le
+  cas de contrat A (2VV) et à 12,8 % dans le cas de contrat B (2ZZ).
+
+
+  Declaration fiscale :
+
+  - Contrat A (2VV) - 1AK
+
+  - Contrat B (2ZZ) - 1GF
+
+
+  Calcul des impôts annuels pour les deux produits :
+
+  - Pour le contrat A (2VV), l''impôt est de 7,5 % sur les 15 000 € versés. Cela fait
+  1 125 € par an pour les cinq années 2018 à 2023.
+
+  - Pour le contrat B (2ZZ), l''impôt est de 12,8 % sur les 15 000 € versés. Cela
+  fait 1 920 € par an pour les cinq années 2018 à 2023.
+
+
+  Conclusion : M. Dupont a choisi le régime par défaut pour son contrat A (2VV) et
+  l''option de non-prélèvement libératoire pour son contrat B (2YY). Les coûts annuels
+  d''imposition sont respectivement de 1 125 € et 1 920 €. En choisissant l''option
+  de non-prélèvement libératoire pour le contrat B, M. Dupont évite ainsi 795 € d''impôts
+  par an, pour les cinq années 2018 à 2023.'

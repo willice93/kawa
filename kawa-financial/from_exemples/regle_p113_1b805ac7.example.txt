@@ -1,0 +1,18 @@
+Nom: Jean Dupont
+   Profession: Ingénieur civil
+   Situation: Travaille pour la ville de Paris et est membre d'une association syndicale de l'ingénierie civile reconnu de droit public (SYNCI) depuis 5 ans. Il a également pris une assurance de responsabilité professionnelle pour couvrir son activité en tant qu'ingénieur civil.
+
+   Montants concernés:
+   - Revenus imposables : 60 000 € (après déductions permises par la loi)
+   - Cotisations syndicales annuelles à SYNCI : 1 200 €
+   - Primes d'assurance de responsabilité professionnelle annuelles : 3 600 €
+   - Taux d'imposition par défaut: 30%
+
+   Déclaration dans les bonnes cases:
+   - Cotisations syndicales : Case 1AK
+   - Primes d'assurance de responsabilité professionnelle : Case 1GF
+
+   Comparaison régime par défaut vs option choisie:
+   Sans cette déduction, les impôts imposables seraient de 30 000 € (60 000 x 0,3). Avec cette déduction, il n'y aura qu'à payer 27 800 € (59 400 - (1 200 + 3 600)). Cela représente ainsi une économie de 2 200 €.
+
+   Conclusion: Par sa participation à une association syndicale reconnue de droit public et par son abonnement à une assurance de responsabilité professionnelle, Jean Dupont bénéficie d'une déduction d'impôt qui lui permet d'économiser 2 200 € sur ses impôts imposables.

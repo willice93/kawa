@@ -1,0 +1,62 @@
+id: regle_p129_38698b1a
+titre: 'Règle applicables aux revenus réputés distribués et aux revenus des structures
+  soumises hors de France à un régime fiscal privilégié :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle applicables aux revenus réputés distribués et aux revenus des
+    structures soumises hors de France à un régime fiscal privilégié :
+
+    - À qui s''applique la règle : Les personnes physiques déclarant leurs revenus
+    sur une déclaration de revenu annuelle (2042C) en France.
+
+    - Dans quelles conditions : Les revenus sont mentionnés dans la ligne 2GO de la
+    déclaration de revenu annuelle.
+
+    - Quels sont les montants ou plafonds : Le montant est multiplié par un coefficient
+    de 1,25. Il n''y a pas de plafond défini pour cette règle.
+
+    - Quelle est la formule de calcul applicable : Montant de la ligne 2GO multiplié
+    par 1,25.
+
+    - Et ce qu''il faut vérifier pour être sûr d''y avoir droit : Vérifiez que les
+    revenus sont bien mentionnés dans la ligne 2GO de votre déclaration de revenu
+    annuelle.'
+  formule: revenu_brut * (1 - 0.05)
+cas_pratique: 'Contexte : Jean Dupont, professeur d''université à l''étranger, est
+  originaire de France et déclare ses revenus annuels en France via la déclaration
+  de revenu annuelle (2042C).
+
+
+  Dans sa situation, il a obtenu des revenus distribués dans une structure étrangère
+  bénéficiant d''un régime fiscal privilégié. Il détient les parts de cette structure
+  et s''applique la règle citée ci-dessus.
+
+
+  Montants concernés : Les revenus sont mentionnés dans la ligne 2GO de sa déclaration
+  de revenu annuelle. Pour l''année 20XX, le montant de ces revenus s''élève à 50
+  000 euros.
+
+
+  Déclaration : La somme de 50 000 euros (line 2GO) est multipliée par 1,25, ce qui
+  donne un montant de 62 500 euros pour cette règle. Il faut donc indiquer 62 500
+  euros sur la ligne appropriée dans sa déclaration (ex : 1AK).
+
+
+  Comparaison régime par défaut vs option choisie : Si Jean ne s''applique pas cette
+  règle, il n''y aurait aucune modification à faire. Cependant, avec cette règle appliquée,
+  Jean verra son impôt diminuer de 8 750 euros (50 000 x 17,5% - 62 500 x 17,5%) à
+  l''année suivante.
+
+
+  Calcul clair avec des chiffres ronds : Avec cette règle appliquée, le montant de
+  ses revenus passe de 50 000 euros à 62 500 euros pour les calculs de l''impôt.
+
+
+  Conclusion synthétique : Cela signifie que Jean Dupont verra son impôt réduit d''environ
+  8 750 euros par année avec cette règle appliquée.'
+calcul:
+  formule: revenu_brut * (1 - 0.05)
+  exemple:
+    revenu_brut: 750
+    abattement: 38
+    revenu_net: 712

@@ -1,0 +1,57 @@
+id: regle_p136_c3d48042
+titre: 'Règle appliquée aux sociétés coopératives :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle appliquée aux sociétés coopératives :
+
+
+    Conditions : Les revenus distribués et les intérêts payés qui excèdent 10 % du
+    capital social, des primes d''émission et des sommes versées en compte courant.
+
+
+    Montants ou plafonds : La fraction de ces revenus et intérêts supérieure à 10
+    %.
+
+
+    Formule de calcul applicable : Cette fraction est soumise aux cotisations et contributions
+    sociales dues au titre des revenus d''activité.
+
+
+    Vérification : Vérifier que la fraction excède 10 % pour être sûr d''y avoir droit.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titre : Exemple de déclaration fiscale pour société coopérative - Citoyen/Citoyenne
+  : John Doe - Métier : Ingénieur civil
+
+
+  Contexte : En 2021, ma société coopérative a généré un revenu net de 800 000€. Nous
+  avons distribué des dividendes à nos membres et nous avons versé des intérêts sur
+  les capitaux empruntés pour une somme totale de 120 000€.
+
+
+  Montants concernés : Les montants concernés sont le revenu net (800 000€), les dividendes
+  distribués (80 000€) et les intérêts versés (120 000€).
+
+
+  Déclaration dans les bonnes cases : Dividendes : 1AK ; Intérêts : 1GF
+
+
+  Comparaison régime par défaut vs option choisie : Les dividendes distribués et les
+  intérêts versés excèdent 10 % du capital social de la société (800 000€). Sous le
+  régime par défaut, ces sommes seraient totalement exemptées d''impôts. Cependant,
+  en optant pour le régime des cotisations et contributions sociales sur les revenus
+  d''activité, nous sommes assujettis aux cotisations et contributions sociales calculées
+  sur la fraction de ces revenus supérieure à 10 %.
+
+
+  Calcul clair avec des chiffres ronds : Nous avons distribué 80 000€ de dividendes
+  (800 000€ x 10 %). Les intérêts versés étaient de 120 000€. Afin d''être sûr d''y
+  avoir droit, nous devons vérifier que ces montants excèdent 10 %. En effet, les
+  dividendes distribués (80 000€) et les intérêts versés (120 000€) excèdent 10 %
+  du capital social (800 000€ x 10 % = 80 000 €). Par conséquent, la fraction de ces
+  revenus supérieure à 10 % est de 200 000€ (80 000€ + 120 000€), qui sera soumise
+  aux cotisations et contributions sociales dues au titre des revenus d''activité.
+
+
+  Conclusion : Nous devons donc déclarer 200 000 € (la fraction de nos dividendes
+  et intérêts supérieure à 10 % du capital social) dans les cases 1AK et 1GF, ce qui
+  est nécessaire pour calculer correctement notre impôt sur les revenus d''activité.'

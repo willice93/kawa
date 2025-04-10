@@ -1,0 +1,9 @@
+Nom : Marie Dupont
+   Profession : Journaliste pour Le Monde, basée à Paris
+   Situation : En cours d'année fiscale 2023
+   Revenus : Son revenu brut annuel est de 85 000 €.
+   Deduction : Elle n'a pas opté pour la déduction de frais professionnels réels.
+   Déclaration : Casier 1AK
+   Comparaison : Regime par défaut (pas d'option choisie) vs L'option choisie est l'abattement de 7 650 € sur les rémunérations perçues représentatives de frais d'emploi.
+   Calcul clair avec des chiffres ronds : La fraction de rémunération représentative de frais d'emploi = (7 650 €) (car elle commence l'année et ne termine pas). Le montant du salaire après déduction de la fraction de rémunération représentative de frais d'emploi est de (85 000 € - 7 650 €) = 77 350 €. L'abattement de 7 650 € s'applique à cause des conditions réunies et le montant imposable sur les revenus est de 77 350 €.
+   Conclusion : Pour Marie Dupont, la formule de calcul applicable est : Montant du salaire après déduction de la fraction de rémunération représentative de frais d'emploi = Salaire avant déduction - Fraction de rémunération représentative de frais d'emploi et l'abattement de 7 650 € s'applique à cause des conditions réunies. Son montant imposable est de 77 350 €.

@@ -1,0 +1,7 @@
+Règle de calcul des cotisations facultatives (DSEA/DSEB) s'applique aux travailleurs indépendants, exclusivement hors du régime micro-fiscal. Les montants en question comprennent :
+
+1. Le revenu d'activité imposable majoré des cotisations facultatives déductibles dans le cadre de contrats Madelin et certains régimes facultatifs de sécurité sociale.
+2. Les montants versés dans le cadre des nouveaux plans d'épargne retraite.
+3. Les primes versées au titre de contrats d'assurance groupe (contrats Madelin) souscrits auprès de sociétés d'assurance ou de mutuelles pour la retraite et la prévoyance complémentaire, ainsi que la perte d'emploi subie. Si une souscription a également été faite pour le conjoint collaborateur, les montants correspondants doivent être ajoutés dans la même rubrique que ceux du chef d'entreprise.
+
+La formule de calcul applicable est la somme totale des montants mentionnés ci-dessus. Il faut vérifier que le régime applicaire est bien celui des travailleurs indépendants hors du régime micro-fiscal pour être sûr d'y avoir droit.

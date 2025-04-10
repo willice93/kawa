@@ -1,0 +1,65 @@
+id: regle_p164_60698374
+titre: 'Règle d''application : Pour les Micro-entrepreneurs (Auto-entrepreneurs) ayant
+  opté pour le versement libératoire de l''Impôt sur le Revenu, la formule de calcul
+  applicabile est suivante :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle d''application : Pour les Micro-entrepreneurs (Auto-entrepreneurs)
+    ayant opté pour le versement libératoire de l''Impôt sur le Revenu, la formule
+    de calcul applicabile est suivante :
+
+
+    - À qui s’applique : Les Micro-entrepreneurs (Auto-entrepreneurs) ayant opté pour
+    le versement libératoire de l''Impôt sur le Revenu.
+
+    - Dans quelles conditions : Lorsque les activités menées sont de la nature dudit
+    régime micro BIC ou micro BNC et que le montant du chiffre d’affaires ou des recettes
+    de l''année est mentionné dans la première page de la 2042 C PRO.
+
+    - Quels sont les montants : Le montant à considérer pour le calcul de la formule
+    est le chiffre d’affaires ou les recettes de l''année.
+
+    - Formule de calcul applicable : Le bénéfice net, après déduction des abattements
+    forfaitaires applicables aux régimes micro BIC ou micro BNC, est retenu pour le
+    calcul du taux effectif appliqué pour l''imposition des autres revenus du foyer.
+
+    - Vérification : Il faut vérifier que les conditions précédentes soient remplies
+    et qu''un taux effectif de calculation pour l''imposition des autres revenus du
+    foyer a bien été calculé à partir du bénéfice net mentionné dans la 2042 C PRO.'
+  formule: revenu_brut * (1 - 0.01)
+cas_pratique: 'Nom : Marie Dupont, Auto-entrepreneur en conseil en alimentation saine
+  et durables.
+
+
+  Situation : En 2021, j''ai réalisé un chiffre d’affaires de 60 000€ en optant pour
+  le régime micro BNC. J''ai également des revenus supplémentaires de salarié (salaire
+  de 35 000€/an).
+
+
+  Calcul : Pour le calcul de mon taux effectif appliqué pour l''imposition des autres
+  revenus du foyer, je dois utiliser la formule suivante :
+
+  - Déduction d''abattements forfaitaires applicables au régime micro BNC : 1800€/an
+  (150€/mois).
+
+  - Bénéfice net calculé à partir de mes revenus d’Auto-entrepreneur : 60 000€ - 1800€
+  = 58 200€.
+
+  - Taux effectif appliqué pour l''imposition des autres revenus du foyer : 58 200€
+  / (60 000€ + 35 000€) = 29,1%
+
+
+  Comparaison : En régime de versement libératoire de l''Impôt sur le Revenu et sans
+  cette option, mon taux effectif serait plus élevé pour l''imposition de mes autres
+  revenus (35 000€ + 60 000€ = 95 000€). Le régime choisi permet donc une réduction
+  significative de mes impôts.
+
+
+  Declaration : Dans la case 1AK, j''ai indiqué mon taux effectif calculé à partir
+  du bénéfice net mentionné dans ma déclaration 2042 C PRO (1AK: 29,1%).'
+calcul:
+  formule: revenu_brut * (1 - 0.01)
+  exemple:
+    revenu_brut: 200
+    abattement: 2
+    revenu_net: 198

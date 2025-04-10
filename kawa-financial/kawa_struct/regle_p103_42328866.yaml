@@ -1,0 +1,60 @@
+id: regle_p103_42328866
+titre: La règle s'applique aux chercheurs du secteur public qui ont opté pour le régime
+  fiscal des traitements et salaires. Cette règle est applicable lorsque vous percevez
+  une somme à titre de cette activité et vous rénoncez au bénéfice de la déduction
+  forfaitaire de 10 %.
+source: Brochure IR 2024
+regle:
+  description: 'La règle s''applique aux chercheurs du secteur public qui ont opté
+    pour le régime fiscal des traitements et salaires. Cette règle est applicable
+    lorsque vous percevez une somme à titre de cette activité et vous rénoncez au
+    bénéfice de la déduction forfaitaire de 10 %.
+
+
+    Les montants concernés sont les suivants :
+
+    - La somme perçue au titre de l''activité (à indiquer sur les lignes 1GF à 1JF)
+
+    - Les frais réels et justifiés, dont le montant doit être indiqué sur les lignes
+    1AK à 1DK
+
+
+    La formule de calcul n''est pas fournie car il s''agit d''une déclaration qui
+    ne nécessite pas de calcul mais de la déclaration des montants précédemment mentionnés.
+
+
+    Pour être sûr de bénéficier de cette règle, vous devez vérifier que :
+
+    - Vous avez opté pour le régime fiscal des traitements et salaires
+
+    - Vous avez indiqué correctement les montants sur les lignes 1GF à 1JF et 1AK
+    à 1DK
+
+    - Vous avez respecté la date limite d''optention (au plus tard à la date de dépôt
+    de la déclaration de revenus)
+
+    - Vous n''avez pas dénoncé explicitement cette optantion avant que celle-ci ne
+    soit invalidée.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: "Nom : Pierre Dupont\n   Profession : Chercheur au CNRS (Centre national\
+  \ de la recherche scientifique)\n   Situation : Titulaire d'un contrat de chercheur\
+  \ permanent depuis 5 ans et perçoit un traitement brimeur de 4000€/mois. En plus\
+  \ de cela, il a reçu une subvention spéciale de 1000€ pour la publication de son\
+  \ dernier livre.\n\n   Declaration des revenus :\n   -------------------------------\n\
+  \   | Ligne     | Montant             |\n   |----------|--------------------|\n\
+  \   | 1AF      | 48000€ (Salaire mensuel de 4000€ x 12) |\n   | 1AG      | 5000€\
+  \ (Subvention pour publication de livre)     |\n   | 1AK-DK   | Frais réels et justifiés\
+  \                              |\n   |          | (Aucuns frais concernant cette\
+  \ activité sont pris en compte car il n'a pas dépassé le plafond d'optention)  \
+  \    |\n   | 1GF-JF   | 0€ (Il a opté pour le régime fiscal des traitements et salaires\
+  \ et ne souhaite pas bénéficier de la déduction forfaitaire de 10%)   |\n   -------------------------------\n\
+  \n   Comparaison du régime par défaut vs l'option choisie :\n   - Régime par défaut\
+  \ : Il percevrait une deduction forfaitaire de 4800€ (10% sur son salaire mensuel\
+  \ de 48000€)\n   - Option choisie : Il ne déclare pas la déduction forfaitaire de\
+  \ 10%, ce qui lui permettra de conserver tout son revenu\n\n   Synthèse : Pierre\
+  \ Dupont, chercheur au CNRS, a opté pour le régime fiscal des traitements et salaires\
+  \ en ayant un contrat de recherche permanent depuis 5 ans. Il n'a pas bénéficié\
+  \ de la déduction forfaitaire de 10% car il reçoit une subvention spéciale pour\
+  \ la publication de son livre qui est supérieure à 833,33€/mois (plafond d'optention).\
+  \ Il n'a pas non plus bénéficié de cette déduction en raison de ses frais réels\
+  \ et justifiés insuffisants pour le dépasser. Il conserve ainsi tout son revenu."

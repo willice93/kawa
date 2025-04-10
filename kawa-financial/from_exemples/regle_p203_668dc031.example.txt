@@ -1,0 +1,9 @@
+Contexte : Mme Jeanne Dupont, médecin généraliste installée depuis 5 ans dans le canton de Genève. Son cabinet est enregistré au rubrique CQ pour l'année fiscale 2021-2022.
+
+Montant : Les revenus annuels de Mme Dupont s'élèvent à 360 000 CHF. La déduction complémentaire de 3% sur ses recettes annuelles représente un montant de 10 800 CHF (360 000 \* 0,03), tandis que le forfait s'élève à 7 200 CHF (360 000 \* 0,02).
+
+Formulaire de déclaration : Mme Dupont choisit d'appliquer la déduction complémentaire dans les cases 1GF et 4AK. Elle indique le montant de la déduction complémentaire de 3% (10 800 CHF) dans la case 1GF et montre qu'elle a appliqué le forfait en indiquant le montant du forfait (7 200 CHF) dans la case 4AK.
+
+Comparaison : En comparant les régimes par défaut et l'option choisie, il est possible de voir que Mme Dupont peut bénéficier d'une déduction complémentaire supplémentaire de 3% sur ses recettes annuelles, ce qui représente un montant supérieur au forfait (10 800 CHF vs 7 200 CHF).
+
+Conclusion : Mme Dupont applique la déduction complémentaire de 3% dans les bonnes cases et bénéficie d'un avantage fiscal supplémentaire en choisissant cette option plutôt que le forfait.

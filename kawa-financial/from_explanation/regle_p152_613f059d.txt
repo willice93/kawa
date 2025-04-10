@@ -1,0 +1,9 @@
+La règle s'applique aux personnes physiques qui ne bénéficient pas du sursis de paiement, en ce qui concerne les plus-values et créances.
+
+Les conditions sont que ces plus-values ne soient pas des plus-values en report d'imposition en application de l'article 150-0 B ter du CGI.
+
+Le montant à indiquer pour les plus-values et créances soumises à l'impôt sur le revenu est la somme de ligne 3WB (montant des plus-values et créances soumises à l'impôt sur le revenu, au barème ou à 12,8 % - après abattement pour durée de détention).
+
+Le montant à indiquer pour les prélèvements sociaux est la somme de ligne 3WD (montant des plus-values et créances soumises aux prélèvements sociaux - avant abattement pour durée de détention).
+
+Il faut vérifier que les plus-values et créances en question ne bénéficient pas du sursis de paiement, et que ceux-ci ne sont pas des plus-values en report d'imposition.

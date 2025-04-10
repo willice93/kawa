@@ -1,0 +1,9 @@
+Titre : Réduction des impôts sur le revenu grâce à la CSG déductible et aux pertes globales pour Anne Dupont, consultante indépendante
+
+Contexte : Anne Dupont est une consultante indépendante en gestion de projets qui a connu une année 2021 difficile. Son revenu net s'est réduit à environ 45 000 €, entraînant des pertes globales de 6 000 €, alors qu'elle a payé en 2023 1 500 € de CSG sur ses placements financiers.
+
+Calcul : Pour son impôt sur le revenu 2022, Anne peut réduire les pertes globales antérieures de 6 000 € de son montant imposable, en remplissant la case 1AK de son formulaire d'imposition. Elle pourra également déduire les 1 500 € payés en CSG sur ses placements financiers en utilisant la case 1GF.
+
+Comparaison : Sans ces déductions, Anne devrait s'attendre à payer un impôt de 243 € (calculé sur le revenu net de 45 000 € avec le régime par défaut). En appliquant les deux déductions disponibles, elle réduira son montant imposable à environ 165 €.
+
+Conclusion : Le calcul pratique d'Anne Dupont montre comment les pertes globales antérieures et la CSG déductible peuvent aider à réduire le montant de l'impôt sur le revenu, en diminuant considérablement le montant imposable à payer. Il est important de vérifier que ces déductions sont correctement déclarées dans les bonnes cases lors de la préparation de son formulaire d'imposition pour une application efficace.

@@ -1,0 +1,6 @@
+Règle applicables aux revenus réputés distribués et aux revenus des structures soumises hors de France à un régime fiscal privilégié :
+- À qui s'applique la règle : Les personnes physiques déclarant leurs revenus sur une déclaration de revenu annuelle (2042C) en France.
+- Dans quelles conditions : Les revenus sont mentionnés dans la ligne 2GO de la déclaration de revenu annuelle.
+- Quels sont les montants ou plafonds : Le montant est multiplié par un coefficient de 1,25. Il n'y a pas de plafond défini pour cette règle.
+- Quelle est la formule de calcul applicable : Montant de la ligne 2GO multiplié par 1,25.
+- Et ce qu'il faut vérifier pour être sûr d'y avoir droit : Vérifiez que les revenus sont bien mentionnés dans la ligne 2GO de votre déclaration de revenu annuelle.

@@ -1,0 +1,70 @@
+id: regle_p183_17117bb3
+titre: 'La règle des prélèvements sociaux s''applique aux personnes déclarant :'
+source: Brochure IR 2024
+regle:
+  description: "La règle des prélèvements sociaux s'applique aux personnes déclarant\
+    \ :\n   - Plus-values nettes à long terme taxées à 12,8 % dans les rubriques bénéfices\
+    \ agricoles, industriels et commerciaux professionnels et non professionnels,\
+    \ ainsi que les bénéfices non commerciaux professionnels et non professionnels.\n\
+    \   - Produits perçus par les inventeurs et auteurs de logiciels non professionnels\
+    \ dans les cases 5QJ, 5RJ, 5SJ de la rubrique bénéfices non commerciaux non professionnels.\n\
+    \   - Revenus des locations meublées non professionnelles imposés selon le régime\
+    \ micro-BIC ou selon le régime réel (à l'exception des locations meublées soumises\
+    \ aux contributions sociales par les organismes de sécurité sociale).\n\n   Les\
+    \ prélèvements sociaux sont calculés sur tous ces montants et les plafonds ne\
+    \ sont pas spécifiés dans le texte. La formule de calcul est automatique et n'est\
+    \ pas explicitée. Il faut vérifier que ces revenus soient déclarés correctement\
+    \ pour être sûr d'y avoir droit à ces prélèvements sociaux."
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titre : Exemple de déclaration de revenus pour l''application des prélèvements
+  sociaux
+
+
+  Nom : Jean DOE
+
+  Profession : Ingénieur en logicielles indépendant
+
+  Situation : Dernier trimestre, a reçu un montant important de plus-values nettes
+  sur les ventes de logiciels non commerciaux (5RJ). Possède également des revenus
+  issus d''une location meublée non professionnelle.
+
+
+  Montants concernés :
+
+  - Plus-value nette sur les ventes de logiciels non commerciaux : 20,000€ - Case
+  5RJ (bénéfices non commerciaux non professionnels)
+
+  - Revenus issus d''une location meublée non professionnelle : 1,500€ par mois. Pour
+  ce calcul, nous considérons le dernier trimestre (3x1,500€ = 4,500€)
+
+
+  Déclaration dans les bonnes cases :
+
+  - Plus-value nette sur les ventes de logiciels non commerciaux : Case 5RJ
+
+  - Revenus issus d''une location meublée non professionnelle : Cas 1GF (revenus locatifs
+  - locations meublées)
+
+
+  Calcul des prélèvements sociaux :
+
+  - Plus-value nette sur les ventes de logiciels non commerciaux : 20,000€ x 12.8%
+  = 2,560€
+
+  - Revenus issus d''une location meublée non professionnelle (3 mois) : 4,500€ x
+  12.8% = 576€
+
+
+  Comparaison régime par défaut vs l''option choisie :
+
+  - Régime par défaut : Les prélèvements sociaux sont calculés automatiquement dans
+  le cadre de la déclaration annuelle (non applicable pour cette déclaration trimestrielle)
+
+  - Option choisie : La personne a déclaré ces revenus et les prélèvements sociaux
+  ont été calculés en fonction du montant de chaque source spécifique. Ce qui permet
+  une meilleure prévision des impôts à payer pour le prochain exercice.
+
+
+  Conclusion : Pour s''assurer d''y avoir droit aux prélèvements sociaux, il est important
+  de déclarer correctement tous les revenus concernés (cas 5RJ et cas 1GF). La personne
+  peut ainsi prévoyer et planifier ses impôts en fonction des calculs réalisés.'

@@ -1,0 +1,13 @@
+Titre : Déduction fiscale des frais réels pour dirigeants de Sociétés d'Économie Libérale (SEL) et professionnels juridiques réglementés de Sociétés de Droits de Consommation (SDC)
+
+Contexte : John, 45 ans, est un avocat qui exerce sa profession en tant qu'associé d'une Société de Droits de Consommation (SDC). En parallèle à son activité principale, il est également le président d'une Société d'Économie Libérale (SEL) dans laquelle il investit et gère des actifs immobiliers.
+
+Montants concernés : Les frais réels mentionnés dans les rubriques fiscales 1AK (500€ mensuel pour son activité d'avocat en SDC) et 1BK (300€ mensuel pour l'activité de président de la SEL).
+
+Déclaration : Les frais réels dans le cadre de sa SDC sont déclarés dans la rubrique 1AK (1AK-500€), tandis que les frais réels pour son activité à la SEL sont déclarés dans la rubrique 1BK (1BK-300€).
+
+Comparaison : Sans déduction, John déclare un total de 800€ de frais réels par mois. En appliquant le régime par défaut, ce montant est imposé à 100%. En choisissant l'option de déduction des frais réels, le montant total des frais réels déductibles passe à 850€ (500+300) et est imposé à 20% uniquement.
+
+Calcul clair avec des chiffres ronds : John déclare un total de 800€ de frais réels par mois. En appliquant le régime par défaut, il s'impose un montant de 800€ sur son revenu total. En choisissant l'option de déduction des frais réels, le montant total des frais réels déductibles passe à 850€ (500+300) et il s'impose uniquement 170€ (20% de 850€) sur son revenu total.
+
+Conclusion : En choisissant l'option de déduction des frais réels, John peut réduire significativement sa charge fiscale en fonction des activités qu'il exerce dans le cadre de ses statuts.

@@ -1,0 +1,3 @@
+# Source: page 315
+
+Lorsque la différence entre ces deux montants d’impôt (avantages fiscaux à plafonner) excède le montant du plafond, l’excédent est ajouté à la première imposition calculée compte tenu de l’ensemble des éléments déclarés. Si la différence n’excède pas le plafond, la première imposition calculée n’est pas modifiée.

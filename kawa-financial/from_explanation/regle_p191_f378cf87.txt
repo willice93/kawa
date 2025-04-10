@@ -1,0 +1,7 @@
+Règle de calcul des cotisations sociales pour les travailleurs indépendants :
+
+- Les travailleurs indépendants éligibles sont ceux qui ne relèvent pas du régime micro-fiscal.
+- La base de calcul est constituée du revenu d'activité imposable, plus le montant des cotisations facultatives déductibles versées dans les contrats Madelin et certains régimes facultatifs de sécurité sociale, ainsi que des montants versés dans les nouveaux plans d'épargne retraite.
+- Il n’y a pas de plafond mentionné dans le texte pour la base de calcul des cotisations. Cependant, il y a un plafond imposable sur le revenu d'activité pour le calcul de l'impôt (plafonds de l'impôt peuvent varier en fonction des circonstances).
+- La formule de calcul est la somme de tous les montants énumérés ci-dessus.
+- Il faut vérifier que l'on relève du régime des travailleurs indépendants et qu'il n’y a pas d'exceptions locales ou spécifiques en fonction des circonstances, pour être sûr d'être éligible à cette règle.

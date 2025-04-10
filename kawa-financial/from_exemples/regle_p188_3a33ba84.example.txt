@@ -1,0 +1,22 @@
+Titre : Fiscalité pour dirigeants d'entreprise : Application concrète de la déduction des frais réels
+
+Nom : Jean DOE
+Profession : Directeur général (DG) d'une entreprise commerciale
+Situation : En 2021, mon entreprise enregistre un chiffre d'affaires de 5 millions d'euros. J'ai choisi la déduction des frais réels pour mes revenus imposés selon les règles du salaire (formule 1AK).
+
+Montants concernés :
+- Les frais réels afférents à mon ensemble de revenus imposés selon les règles du salaire s'élèvent à 50 000 euros (case 1AK)
+- Les frais réels afférents à ma seule activité de dirigeant s'élèvent à 25 000 euros (article 62)
+
+Déclaration :
+- Remplissez les cases 1AK ou 1BK avec le montant des frais réels afférents à mon ensemble de revenus imposés selon les règles du salaire, c'est-à-dire 50 000 euros.
+- Ensuite, reporter les montants dans les rubriques DSSC ou DSSD les frais réels afférents à ma seule activité de dirigeant, soit 25 000 euros.
+
+Comparaison :
+- Sans la déduction des frais réels, mon montant imposable serait plus élevé (50 000 + 25 000 = 75 000 euros). En choisissant cette option, j'en réduis mon impôt à payer.
+
+Calcul clair :
+- Mon montant imposable après la déduction des frais réels s'élève à (50 000 - 25 000) + (18 333 - 9 167) = 46 667 euros (en considérant un taux d'imposition de 20% pour le régime par défaut).
+
+Synthèse :
+En choisissant la déduction des frais réels, j'ai pu réduire mon montant imposable de 75 000 à 46 667 euros en 2021. Cela m'a permis de diminuer significativement ma charge fiscale et d'améliorer mes économies.

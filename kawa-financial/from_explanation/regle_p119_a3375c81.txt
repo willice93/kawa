@@ -1,0 +1,7 @@
+Cette règle s'applique aux personnes physiques déclarant un montant du capital (lignes 1AT à 1DT) dans leur impôt sur le revenu.
+
+   Les conditions sont que la somme déclarée doit être supérieure à zéro pour bénéficier de l'abattement de 10 %. Cependant, il n'existe pas de plafond pour cet abattement.
+
+   La formule de calcul applicable est : Montant du capital total - (10% du montant du capital total) = Capital à taxer.
+
+   Pour être sûr d'y avoir droit, il faut vérifier que le montant déclaré est correct et complet sur les lignes 1AT à 1DT de votre déclaration d'impôt sur le revenu.

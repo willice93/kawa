@@ -1,0 +1,7 @@
+Règle de calcul applicabile aux foyers qui ont effectué des dons et cotisations aux partis politiques en 2023 :
+
+- À qui s'applique la règle : Les foyers qui ont effectué des dons et cotisations aux partis politiques en 2023.
+- Dans quelles conditions : Les versements doivent être réalisés par un foyer pour pouvoir bénéficier de cette réduction d'impôt.
+- Quels sont les montants ou plafonds : Le montant total des dons et cotisations est limité à 15 000 € pour le calcul de la réduction d'impôt. Les versements excédant cet amount ne sont pas reportables sur les années suivantes.
+- Quelle est la formule de calcul applicable : Le montant total des dons et cotisations effectués en 2023 est limité à 15 000 € pour bénéficier de la réduction d'impôt.
+- Et ce qu’il faut vérifier pour être sûr d’y avoir droit : Vérifiez que les versements ont été réalisés en 2023 par un foyer et que le total ne dépasse pas 15 000 €.

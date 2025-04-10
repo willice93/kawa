@@ -1,0 +1,13 @@
+La règle des abattements pour durée de détention s'applique uniquement au calcul de la plus-value imposable à l'impôt sur le revenu.
+
+Conditions :
+- Il doit y avoir une durée de détention de plus d'un an dans l'immobilier en vue de sa mise en vente ou de sa location.
+
+Montants ou plafonds :
+- Les abattements concernent la durée de détention supérieure à un an, et s'appliquent au montant total de la plus-value (montant de la plus-value avant abattement).
+
+Formule de calcul applicable :
+- Le montant des abattements sera la durée de détention en an (supérieure à 1) multipliée par une fraction donnée.
+
+Vérification pour être sûr d'y avoir droit :
+- Vérifier si le bien a été occupé comme habitation principale pendant plus d'un an et qu'il y a eu une durée de détention de plus d'un an avant la vente ou la location.

@@ -1,0 +1,15 @@
+Règle d'application de la taxe sur une indemnité acquise à titre onéreux de fonds de commerce et de clientèle :
+
+Cette règle s'applique aux personnes qui reçoivent une indemnité acquise en 2023 à titre onéreux de fonds de commerce ou de clientèle.
+
+Les conditions requises sont que la plus-value soit exonérée.
+
+Les montants ou plafonds concernés sont les suivants :
+- Pour une indemnité n’excédant pas 23 000 €, le taux est de 0 %.
+- Pour une indemnité comprise entre 23 000 € et 107 000 €, le taux est de 2 %.
+- Pour une indemnité comprise entre 107 000 € et 200 000 €, le taux est de 0,60 %.
+- Pour une indemnité supérieure à 200 000 €, le taux est de 2,60 %.
+
+La formule de calcul applicable est la suivante : pour chaque personne titulaire d'une indemnité, on multiplie la somme de l'indemnité par son taux correspondant (selon les plafonds définis précédemment) et on additionne ces montants pour obtenir la taxe totale.
+
+Il faut vérifier que l'indemnité est acquise en 2023 à titre onéreux de fonds de commerce ou de clientèle, qu'elle est exonérée de la plus-value et que les montants sont exacts pour être sûr d'y avoir droit.

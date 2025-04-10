@@ -1,0 +1,10 @@
+Cette règle s'applique à tous les individus dont les revenus ont déjà été soumis aux prélèvements sociaux en 2023 et qui ont opté pour l'imposition au barème progressif de l'Impôt sur le revenu.
+
+Les montants ou plafonds concernés sont les suivants :
+- Revenus distribués et produits de placement à revenu fixe
+- Produits attachés aux fonds en unités de compte des bons ou contrats de capitalisation ou d'assurance-vie afférents aux primes versées à compter du 27.9.2017
+- Produits des fonds en euros des bons ou contrats de capitalisation et d'assurance-vie afférents à l'année de la clôture ou du retrait (2023), attachés aux primes versées à compter du 27.9.2017
+
+La formule de calcul applicable est simplement la somme des montants mentionnés ci-dessus.
+
+Il faut vérifier qu'on a bien opté pour l'imposition au barème progressif de l'Impôt sur le revenu pour pouvoir bénéficier de cette déduction de CSG.

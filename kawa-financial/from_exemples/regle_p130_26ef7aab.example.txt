@@ -1,0 +1,9 @@
+Contexte : Marie Dupont, architecte en construction, a déposé ses épargnes depuis plusieurs années dans des plans d'épargne-logement (PEL) ouverts après le 1er janvier 2018. En 2023, elle a collecté 7000 € d'intérêts sur ces PEL. Elle dispose également d'un compte courant d'association qui rapporte des intérêts annuels d'environ 500 €.
+
+   Données :
+   - Revenus : Son revenu fiscal annuel est de 36 000 € (4000 € par mois). Elle n'a pas de revenus supplémentaires à déclarer.
+   - Montants concernés : Les intérêts reçus sur ses PEL et son compte courant d'association.
+   - Déclaration : Les intérêts reçus sur les PEL doivent être déclarés dans la case 1AK et ceux de son compte courant d'association dans la case 1GF, si applicable.
+   - Régime par défaut vs régime choisi : Pour les intérêts reçus sur les PEL, elle choisit le régime d'exonération d'impôt sur le revenu. Pour ceux de son compte courant d'association, le régime par défaut appliqué est celui du revenu imposable à taux progressif.
+   - Calcul clair avec des chiffres ronds : Les 7000 € d'intérêts reçus sur ses PEL sont exonérés d'impôt sur le revenu en application de la règle. Les 500 € d'intérêts de son compte courant d'association seront imposables à taux progressif comme dans le régime par défaut, ce qui représente environ 219 € d'impôts (36 000 € x 6 %).
+   - Synthèse : Marie Dupont bénéficie de l'exonération d'impôt sur les intérêts reçus sur ses PEL ouverts après le 1er janvier 2018, totalisant 7000 € en 2023. Elle versera environ 219 € d'impôts sur les intérêts de son compte courant d'association.

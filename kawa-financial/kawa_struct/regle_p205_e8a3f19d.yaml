@@ -1,0 +1,79 @@
+id: regle_p205_e8a3f19d
+titre: La règle s'applique aux travailleurs indépendants qui détiennent des parts
+  supérieures à 10 % du capital social, des primes d'émission et des sommes versées
+  en compte courant d'associé, ainsi qu'à leurs conjoints ou partenaires PACSés et
+  leurs enfants mineurs non émancipés.
+source: Brochure IR 2024
+regle:
+  description: 'La règle s''applique aux travailleurs indépendants qui détiennent
+    des parts supérieures à 10 % du capital social, des primes d''émission et des
+    sommes versées en compte courant d''associé, ainsi qu''à leurs conjoints ou partenaires
+    PACSés et leurs enfants mineurs non émancipés.
+
+
+    Les montants considérés sont :
+
+    - Le capital social et les primes d''émission : leur montant est évalué au dernier
+    jour de l''exercice précédant la distribution des revenus. Les réserves non incorporées
+    au capital social ne doivent pas être prises en compte.
+
+    - Le compte courant d''associé : le montant pris en compte est le solde moyen
+    annuel, déterminé par la somme des soldes moyens mensuels du compte, divisée par
+    le nombre de mois compris dans l''exercice. Le solde moyen mensuel est égal à
+    l''addition des soldes journaliers divisée par le nombre de jours compris dans
+    le mois.
+
+
+    La formule de calcul applicable est :
+
+    - Pour le capital social et les primes d''émission, la part supérieure à 10 %
+    doit être rapportée dans la rubrique DSAA ou DSAB.
+
+    - Pour le compte courant d''associé, le solde moyen annuel doit être calculé en
+    suivant les étapes détaillées dans le texte.
+
+
+    Pour être sûr d''y avoir droit :
+
+    - Vérifier que vous, votre conjoint ou partenaire PACSé et vos enfants mineurs
+    non émancipés détenez des parts supérieures à 10 % du capital social, des primes
+    d''émission et des sommes versées en compte courant d''associé.
+
+    - Vérifier que les montants sont correctement calculés selon les étapes détaillées
+    dans le texte.
+
+    - Si votre conjoint ou partenaire PACSé est également affilié au régime général
+    des travailleurs indépendants pour sa qualité d''associé dans la société, vérifier
+    que ses dividendes perçus ne soient pas déclarés avec les vôtres. Votre conjoint
+    ou partenaire PACSé doit les reporter dans ses propres cases fiscales.'
+  formule: revenu_brut * (1 - 0.2)
+cas_pratique: "Nom : Jean Dupont\n   Profession : Ingénieur indépendant, propriétaire\
+  \ à 12% du capital social de la société ABC SARL\n   Situation : Marié avec Marie\
+  \ Dupont, qui est également associée à 15% du capital de la même société. Aux côtés,\
+  \ deux enfants non émancipés, Léa (16 ans) et Thomas (13 ans).\n\n   Résultats financiers\
+  \ :\n   - Capital social : 200 000 €, évalué au dernier jour de l'exercice précédant\
+  \ la distribution des revenus.\n   - Primes d'émission : 40 000 €, évaluées à la\
+  \ même date.\n   - Compte courant d'associé : Solde moyen annuel : (Solde moyen\
+  \ mensuel = (Soldes journaliers / Nombre de jours dans le mois) x Nombre de mois)\
+  \ = (1 000 € / 30 jours) x 12 mois = 400 € x 12 = 4 800 €\n   - Dividendes : 20\
+  \ 000 € pour l'exercice considéré.\n\n   Déclaration fiscale :\n   - Capital social\
+  \ et primes d'émission : Rapportés dans la rubrique DSAA ou DSAB (1AK) pour le montant\
+  \ supérieur à 10 %.\n   - Compte courant d'associé : Solde moyen annuel de 4 800\
+  \ € doit être calculé selon les étapes détaillées dans le texte.\n\n   Comparaison\
+  \ régime par défaut vs option choisie :\n   Sous régime général des travailleurs\
+  \ indépendants, la part supérieure à 10 % du capital social et des primes d'émission\
+  \ serait impôt à 7,5% (soit 1 350 €), tandis que le solde moyen annuel de compte\
+  \ courant d'associé serait passerelle vers la TVA (Taxe sur la valeur ajoutée) au\
+  \ taux de 20%, soit 960 €. Dans ce cas, les choix respectifs des parents Dupont\
+  \ permettent d'éviter 580 € d'impôts (1 350 € général vs 770 € option).\n\n   Synthèse\
+  \ : En tant qu'associé de la société ABC SARL, Jean Dupont est assujetti à des impôts\
+  \ spéciaux sur son capital social et ses primes d'émission supérieures à 10 %, ainsi\
+  \ que sur son solde moyen annuel de compte courant d'associé. En choisissant l'option\
+  \ applicable, il réduit les coûts financiers en évitant 580 € d'impôts pour le compte\
+  \ de l'exercice considéré."
+calcul:
+  formule: revenu_brut * (1 - 0.2)
+  exemple:
+    revenu_brut: 350
+    abattement: 70
+    revenu_net: 280

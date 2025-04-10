@@ -1,0 +1,25 @@
+Titre : Application du régime micro foncier pour la location d'un appartement en 2023 par un professeur de lycée, M. Dupont
+
+Contexte : M. Dupont, professeur de français à l’École XYZ, a décidé de louer son appartement situé au 45 Rue ABC afin de couvrir une partie de ses frais d'assurance-vie. Il gère les finances de son foyer fiscal avec sa femme Mme Dupont.
+
+Montants concernés :
+- Les revenus fonciers bruts obtenus en 2023 à la suite de la location de l’appartement ne doit pas dépasser 15 000 €.
+- Les charges connexes (impôts, assurances...) doivent être incluses dans le calcul.
+- M. Dupont possède un immeuble industriel qu'il loue à des entreprises, les revenus de cet immeuble sont également pris en compte dans le calcul.
+
+Déclaration :
+- Si le montant total des revenus fonciers respecte la condition de plafond, M. Dupont n’a pas besoin de remplir une déclaration annexe de revenus fonciers.
+- Il doit directement indiquer le montant brut de ses revenus fonciers de 2023 sur la ligne 4BE de sa déclaration de revenus.
+- Un abattement forfaitaire de 30 %, représentatif de frais, sera automatiquement appliqué.
+- Il doit également indiquer l'adresse du logement que M. Dupont donne en location (45 Rue ABC) et dont les revenus sont imposés selon le régime micro foncier.
+
+Comparaison :
+- Le régime par défaut prévoit d'inclure tous les revenus dans la déclaration de revenus et de s'attendre à un taux d'imposition généralement plus élevé. Dans ce cas, en appliquant le régime micro foncier, M. Dupont peut bénéficier d’un abattement forfaitaire de 30 % des revenus fonciers.
+
+Calcul clair avec des chiffres ronds :
+- Les revenus brut des loyers collectés en 2023 s'élèvent à 12 000 €, avec une somme de charges non comprises de 500 €.
+- Appliquer l’abattement forfaitaire de 30 % (12 000 x 0,30 = 3 600 €) donne un montant assujetti à l'imposition de 8 400 €.
+- M. Dupont doit indiquer le montant brut de ses revenus fonciers sur la ligne 4BE de sa déclaration de revenus (12 000 €).
+
+Conclusion :
+- En appliquant le régime micro foncier à son logement loué, M. Dupont peut bénéficier d’un abattement forfaitaire sur les revenus fonciers, réduisant l'imposition de 3 600 € en 2023.

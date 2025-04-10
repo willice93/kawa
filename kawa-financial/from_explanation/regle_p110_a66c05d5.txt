@@ -1,0 +1,11 @@
+La règle applique à toutes les personnes qui déclarent leur revenu sous la catégorie des traitements et salaires.
+
+   Les conditions pour l'application de cette règle sont que tous les activités imposées selon les modalités des traitements et salaires doivent utiliser la même méthode de déduction entre la déduction forfaitaire (10%) ou la déduction des frais réels.
+
+   Le montant à considérer pour cette règle est le total des revenus déclarés dans la catégorie des traitements et salaires.
+
+   La formule de calcul applicable est :
+   - Pour la déduction forfaitaire : 10% du montant total des revenus déclarés dans la catégorie des traitements et salaires.
+   - Pour la déduction des frais réels : le montant réel de frais inscrits, qui doivent être justifiés et inférieur au total des revenus déclarés dans la catégorie des traitements et salaires.
+
+   Il est important de vérifier que tous les documents relatifs aux frais réels sont justifiés et que leur montant total ne dépasse pas le total des revenus déclarés dans la catégorie des traitements et salaires pour être sûr d'y avoir droit.

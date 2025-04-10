@@ -1,0 +1,9 @@
+Cette règle s'applique aux salariés qui ont reçu, entre le 1er janvier 2020 et le 31 décembre 2024, un véhicule fonctionnant exclusivement à l'énergie électrique en tant qu'avantage en nature de leur emploi.
+   Les conditions sont que les frais d'électricité soient payés par l'employeur et que le véhicule fonctionne exclusivement à l'énergie électrique.
+   Le montant ou plafond applicable est un abattement de 50 % dont le montant est plafonné à 1 800 € par an pour l'avantage en nature évalué, ainsi que 30 % du coût global annuel pour le forfait.
+   La formule de calcul applicable est la suivante :
+   - Pour un véhicule fonctionnant exclusivement à l'énergie électrique, l'avantage en nature est évalué après application d'un abattement de 50 % dont le montant est plafonné à 1 800 € par an.
+   - Pour un véhicule loué à forfait, l'employeur doit évaluer cet avantage sur la base de 30 % du coût global annuel (location, entretien et assurance) car les frais d'électricité ne sont pas pris en compte dans le calcul de l'avantage en nature.
+   Pour être sûr d'y avoir droit, il faut vérifier que :
+   - Le véhicule fonctionne exclusivement à l'énergie électrique et que les frais d'électricité sont payés par l'employeur.
+   - Le véhicule a été reçu entre le 1er janvier 2020 et le 31 décembre 2024.

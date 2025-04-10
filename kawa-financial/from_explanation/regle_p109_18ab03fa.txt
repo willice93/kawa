@@ -1,0 +1,5 @@
+Règle de calcul applicabile a quelli che versano pagamenti nelle linee 1AD a 1DD. La regola si applica quando il versante (o i versanti, in caso di co-proprietari) non abbia superato il limite di esonerazione, che è fissato a 6.000 €. La prime di partage di valore exonerata può essere calcolata con la seguente formula:
+
+Prima di partizione = Valore totale delle linee 1AD-1DD - (Limite massimo di esonerazione x numero di versanti)
+
+Per potere vantare il diritto a ricevere la prime di partizione, occorre verificare che il limite massimo di esonerazione non sia stato superato dai versanti. Inoltre è necessario controllare se ci sono state firme su accordi di interesse o pagamenti da parte di organismi di interesse generale, versamenti a lavoratori handicapati appartenenti ad un ESAT, che consentono la majorazione del limite d'esonerazione a 6.000 €.

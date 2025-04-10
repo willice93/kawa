@@ -1,0 +1,13 @@
+Nom : Marie Dupont
+   Profession : Ingénieur Indépendant
+   Situation : Travaille en tant qu'Ingénieur Indépendant en Espagne durant l'année 2021 et déclare ses revenus dans la rubrique "revenus imposables" de sa déclaration fiscale française.
+
+   Montants concernés : Les revenus BIC (30 000€), BNC (20 000€) et BA (15 000€) déclarés dans la rubrique "revenus imposables".
+
+   Déclaration : Marie Dupont a coché les rubriques DSXA pour indiquer que ses revenus sont soumis au régime général des travailleurs indépendants. Elle déclare également s'être crédité l'impôt sur ces revenus à l'étranger (crédit d'impôt).
+
+   Comparaison : Les revenus de Marie Dupont seraient pris en compte par Urssaf dans la base de calcul de ses cotisations et contributions sociales, sous le régime par défaut ou s'ils choisissent l'option de crédit d'impôt. Cela signifie qu'elle pourrait bénéficier d'un écart fiscal entre son revenu imposable et sa base de calcul pour les cotisations sociales.
+
+   Calcul clair avec des chiffres ronds : Sous le régime par défaut, Marie Dupont devra payer 19% d'impôts sur ses revenus BIC, 15% sur les revenus BNC et 17,20% sur les revenus BA. Cependant, en choisissant l'option de crédit d'impôt, Marie Dupont payera moins d'impôts (le taux exact variera selon sa situation particulière) mais ses cotisations sociales seront calculées sur la base de revenus plus élevés.
+
+   Conclusion : En choisissant l'option de crédit d'impôt, Marie Dupont peut réduire son impôt à payer en France mais pourra aussi devoir payer plus de cotisations sociales en fonction des montants qu'elle déclare dans la base de calcul.

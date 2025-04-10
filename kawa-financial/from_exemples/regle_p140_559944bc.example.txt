@@ -1,0 +1,20 @@
+Contexte : Jean Dupont, 45 ans, travailleur indépendant dans le domaine de la construction et possède des actions d'une entreprise technologique. Il a récemment réalisé une plus-value sur l'écoulement de ces actions.
+
+Montants concernés :
+- La plus-value réalisée par Jean Dupont est de 30 000 euros.
+- Son revenu global en 2021 est de 50 000 euros.
+- Son revenu net de capitaux mobiliers (y compris les dividendes) est de 7 000 euros.
+
+Déclaration :
+- La plus-value doit être déclarée dans la ligne 1AK du formulaire d'imposition des personnes physiques (IS).
+- Les revenus de capitaux mobiliers doivent être déclarés dans la ligne 1GF si Jean Dupont a choisi l'option globale pour l'imposition sur ses revenus de capitaux mobiliers.
+
+Comparaison :
+- Le régime par défaut appliquerait un taux d'imposition de 12,8 % (avec les prélèvements sociaux supplémentaires à 17,2 %) sur la plus-value, soit 3 696 euros d'impôts à verser.
+- Si Jean Dupont choisit l'option globale pour l'imposition sur ses revenus de capitaux mobiliers, l'impôt sera calculé selon le barème de l'impôt sur le revenu, ce qui réduira la part des prélèvements sociaux à 7,5 % et le taux d'imposition à 14 %. Le montant d'imposition serait donc de 2 940 euros, soit un économie de 756 euros par rapport au régime par défaut.
+
+Calcul clair :
+- Avec l'option globale pour les revenus de capitaux mobiliers : impôt de 2 940 euros + prélèvements sociaux de 437 euros = 3 377 euros à verser.
+- Sans l'option globale pour les revenus de capitaux mobiliers : impôt de 3 696 euros + prélèvements sociaux de 871 euros = 4 567 euros à verser.
+
+Conclusion : En choisissant l'option globale, Jean Dupont peut économiser 756 euros en impôts sur la plus-value réalisée sur ses actions de technologie.

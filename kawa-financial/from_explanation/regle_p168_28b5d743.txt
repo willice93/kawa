@@ -1,0 +1,9 @@
+Règle appliquée à: Les particuliers qui déterminent leur bénéfice imposable et calculent le plafond de déductibilité des cotisations d'épargne-retraite.
+
+Condition: Lignes 5HM à 5JM sont concernées.
+
+Montants ou Plafonds: Le montant de l'abattement déduit pour la détermination du bénéfice imposable et le plafond de déductibilité des cotisations d'épargne-retraite. Les valeurs exactes varient en fonction du contexte fiscal de chaque particulier.
+
+Formule de calcul: Il n'y a pas de formule spécifique indiquée, mais il s'agit de l'indication du montant de l'abattement déduit pour la détermination du bénéfice imposable, qui sera pris en compte pour le calcul du plafond de déductibilité des cotisations d'épargne-retraite.
+
+Vérifier: Assurez-vous que les lignes 5HM à 5JM sont correctement remplies et que les montants indiqués correspondent aux abattements déduits pour la détermination du bénéfice imposable.

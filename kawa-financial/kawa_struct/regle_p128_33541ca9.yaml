@@ -1,0 +1,68 @@
+id: regle_p128_33541ca9
+titre: La règle s'applique aux personnes physiques qui perçoivent des dividendes issus
+  de Plans d'épargne en actions (PEA).
+source: Brochure IR 2024
+regle:
+  description: 'La règle s''applique aux personnes physiques qui perçoivent des dividendes
+    issus de Plans d''épargne en actions (PEA).
+
+
+    Les conditions pour appliquer cette règle sont les suivantes :
+
+    - Les dividendes sont exonérés d''impôt sur le revenu, à condition que certains
+    précautions soient prises concernant la ligne 2FU.
+
+    - Les dividendes issus des sociétés d''investissements immobiliers cotées (SIIC)
+    et des sociétés de placement à prépondérance immobilière à capital variable (SPPICAV)
+    ne bénéficient pas de l''abattement de 40 % et doivent être déclarés ligne 2TS.
+
+    - Les revenus distribués pris en compte pour la détermination du bénéfice imposable
+    de votre entreprise ou de la société de personnes dont vous êtes associé sont
+    à déclarer ligne 2DC.
+
+
+    Le montant correspond aux dividendes perçus sur le PEA qui sont exonérés d''impôt
+    sur le revenu.
+
+
+    La formule de calcul applicable est de déclarer ces dividendes comme is au niveau
+    des lignes 2DC.
+
+
+    Pour être sûr d''y avoir droit, il faut vérifier que les dividendes perçus sont
+    en effet issus de PEA et qu''ils sont exonérés d''impôt sur le revenu, conformément
+    aux conditions mentionnées précédemment.'
+  formule: Non spécifiée
+cas_pratique: 'Contexte : John Doe est un ingénieur civil ayant 40 ans et résidant
+  à Paris. Il a ouvert un Plan d''épargne en actions (PEA) il y a six ans avec une
+  somme de 5000€, qu''il a progressivement augmentée jusqu''à atteindre aujourd''hui
+  la somme de 12000€. Il reçoit régulièrement des dividendes issus de cette épargne.
+
+
+  Montants concernés : John Doe perçoit annuellement environ 1200€ de dividendes sur
+  son PEA. Il possède également des actions dans des sociétés d''investissements immobiliers
+  cotées (SIIC) et des sociétés de placement à prépondérance immobilière à capital
+  variable (SPPICAV), qui lui rapportent annuellement 3000€ de dividendes non exonérés.
+
+
+  Déclaration dans les bonnes cases : Les dividendes issus de PEA doivent être déclarés
+  ligne 2DC, alors que les dividendes provenant de SIIC et SPPICAV ne bénéficient
+  pas de l''abattement de 40 % et doivent être déclarés ligne 2TS.
+
+
+  Comparaison régime par défaut vs option choisie : Les dividendes issus de PEA sont
+  exonérés d''impôt sur le revenu en vertu de la règle mentionnée ci-dessus. Cela
+  signifie que John Doe n''a pas à déclarer ces dividendes dans la ligne 2FU, contrairement
+  aux dividendes provenant de SIIC et SPPICAV, qui sont soumis à un taux d''imposition
+  supérieur.
+
+
+  Calcul clair avec des chiffres ronds : Pour l''année courante, John Doe perçoit
+  1200€ de dividendes issus de son PEA et 3000€ de dividendes non exonérés provenant
+  de SIIC et SPPICAV. Il déclare les dividendes issus de son PEA ligne 2DC (somme
+  de 1200€) et les autres dans la ligne 2TS (somme de 3000€).
+
+
+  Conclusion : La règle s''applique aux personnes physiques ayant perçu des dividendes
+  issus d''un PEA. Pour John Doe, il déclare annuellement 1200€ dans la ligne 2DC
+  et 3000€ dans la ligne 2TS en raison de ses investissements dans des sociétés cotées.'

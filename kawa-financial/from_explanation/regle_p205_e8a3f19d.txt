@@ -1,0 +1,14 @@
+La règle s'applique aux travailleurs indépendants qui détiennent des parts supérieures à 10 % du capital social, des primes d'émission et des sommes versées en compte courant d'associé, ainsi qu'à leurs conjoints ou partenaires PACSés et leurs enfants mineurs non émancipés.
+
+Les montants considérés sont :
+- Le capital social et les primes d'émission : leur montant est évalué au dernier jour de l'exercice précédant la distribution des revenus. Les réserves non incorporées au capital social ne doivent pas être prises en compte.
+- Le compte courant d'associé : le montant pris en compte est le solde moyen annuel, déterminé par la somme des soldes moyens mensuels du compte, divisée par le nombre de mois compris dans l'exercice. Le solde moyen mensuel est égal à l'addition des soldes journaliers divisée par le nombre de jours compris dans le mois.
+
+La formule de calcul applicable est :
+- Pour le capital social et les primes d'émission, la part supérieure à 10 % doit être rapportée dans la rubrique DSAA ou DSAB.
+- Pour le compte courant d'associé, le solde moyen annuel doit être calculé en suivant les étapes détaillées dans le texte.
+
+Pour être sûr d'y avoir droit :
+- Vérifier que vous, votre conjoint ou partenaire PACSé et vos enfants mineurs non émancipés détenez des parts supérieures à 10 % du capital social, des primes d'émission et des sommes versées en compte courant d'associé.
+- Vérifier que les montants sont correctement calculés selon les étapes détaillées dans le texte.
+- Si votre conjoint ou partenaire PACSé est également affilié au régime général des travailleurs indépendants pour sa qualité d'associé dans la société, vérifier que ses dividendes perçus ne soient pas déclarés avec les vôtres. Votre conjoint ou partenaire PACSé doit les reporter dans ses propres cases fiscales.

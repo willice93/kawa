@@ -1,0 +1,7 @@
+Règle d'abattement représentatif de frais appliquée aux entrepreneurs indépendants :
+
+- À qui s’applique la règle : Entrepreneurs indépendants
+- Dans quelles conditions : Lorsque le montant total des recettes réalisées est supérieur ou égal à 77 700 €. Si les recettes excédent cet montant, la fraction des recettes excédant ce plafond sera également concernée par l'abattement de frais.
+- Quels sont les montants ou plafonds : Montant total des recettes réalisées et 77 700 € (plafond au-dessus duquel l'abattement s'applique à la fraction des recettes excédant ce montant).
+- Formule de calcul applicable : L’abattement est de 34 % sur le montant total des recettes réalisées et, si nécessaire, sur la fraction des recettes excédant 77 700 €.
+- Ce qu'il faut vérifier pour être sûr d'y avoir droit : Vérifier que les conditions ci-dessus sont remplies (être un entrepreneur indépendant et avoir le montant total des recettes réalisées supérieur ou égal à 77 700 €) et respecter les règles de déclaration fiscale.

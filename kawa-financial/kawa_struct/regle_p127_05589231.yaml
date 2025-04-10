@@ -1,0 +1,74 @@
+id: regle_p127_05589231
+titre: La règle applicabile concerne les revenus de capitaux mobiliers et les plus-values,
+  et s'applique à ceux qui ont opté pour l'imposition au barème.
+source: Brochure IR 2024
+regle:
+  description: 'La règle applicabile concerne les revenus de capitaux mobiliers et
+    les plus-values, et s''applique à ceux qui ont opté pour l''imposition au barème.
+
+
+    Dans les conditions où les revenus distribués sont éligibles à un abattement de
+    40 %, ces revenus peuvent être abaissés de 40 %. Les frais déductibles payés dans
+    l''année et les déficits des années antérieures sont admis en déduction. Une fraction
+    de la CSG afférente aux RCM est déductible du revenu global de l''année de son
+    paiement.
+
+
+    Concernant les plus-values, une fraction de la CSG afférente aux plus-values est
+    également déductible du revenu global de l''année de son paiement. L''abattement
+    pour durée de détention de droit commun ou renforcé prévu au 1 ter ou 1 quater
+    de l''article 150-0 D du CGI peut s''appliquer aux titres acquis avant 2018.
+
+
+    Il faut vérifier que les revenus distribués éligibles à l''abattement de 40 %
+    ont bien été abaissés de cette manière, et que les frais déductibles, les déficits
+    des années antérieures ainsi que la CSG afférente aux RCM ont été correctement
+    déduits du revenu global. Il faut également vérifier que l''abattement pour durée
+    de détention a bien été pris en compte pour les titres acquis avant 2018 et que
+    la CSG afférente aux plus-values a été correctement déductible du revenu global
+    pour les plus-values.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Nom : Julien Leclerc, ingénieur en recherche et développement chez
+  XYZ Technologies, travaillant depuis 5 ans.
+
+
+  Situation : En 2021, il a reçu un revenu de capitaux mobiliers de 18 000€ (case
+  1AK) et a réalisé une plus-value sur une participation de 30 000€ (case 1GF). Il
+  a opté pour l''imposition au barème.
+
+
+  Dans le contexte de sa situation, il peut bénéficier d''un abattement de 40 % sur
+  les revenus distribués éligibles à cet abattement. Les frais déductibles payés dans
+  l''année et les déficits des années antérieures sont admis en déduction. De plus,
+  une fraction de la CSG afférente aux RCM est déductible du revenu global de l''année
+  de son paiement.
+
+
+  Son calcul pour l''imposition au barème sera donc le suivant :
+
+  - Les revenus distribués (18 000€) sont abaissés de 40 % soit 7 200€, ce qui donne
+  un montant imposable de 10 800€.
+
+  - Il a également réalisé une plus-value de 30 000€ sur laquelle il peut bénéficier
+  d''un abattement pour durée de détention en application du 1 ter ou 1 quater de
+  l''article 150-0 D du CGI.
+
+  - Pour les frais déductibles payés dans l''année et les déficits des années antérieures,
+  il a dépensé 3 000€ et avait un déficit de 2 000€ en 2019. Il peut donc retirer
+  5 000€ du revenu global (3 000€ + 2 000€).
+
+  - Une fraction de la CSG afférente aux RCM est déductible du revenu global de l''année
+  de son paiement. Pour le calcul, il doit s''assurer que les montants concernés sont
+  corrects en fonction des réglementations en vigueur.
+
+
+  En comparant ce régime avec celui par défaut (imposition progressive), on constate
+  que Julien Leclerc bénéficie d''un abattement de 40 % sur les revenus distribués
+  éligibles à cet abattement, ce qui réduit sa charge fiscale. De plus, il peut bénéficier
+  d''un abattement pour durée de détention en application du 1 ter ou 1 quater de
+  l''article 150-0 D du CGI pour les titres acquis avant 2018.
+
+
+  En conclusion, Julien Leclerc doit vérifier le bon calcul de ses impôts en vue d''appliquer
+  la règle concernant les revenus de capitaux mobiliers et les plus-values, et s''assurer
+  que ces avantages sont correctement pris en compte dans son cas.'

@@ -1,0 +1,58 @@
+id: regle_p126_96fb13d3
+titre: 'Règle applicable : Déclaration des revenus soumis au prélèvement non libératoire'
+source: Brochure IR 2024
+regle:
+  description: "Règle applicable : Déclaration des revenus soumis au prélèvement non\
+    \ libératoire\n\n   À qui s'applique la règle : Les revenus soumis au prélèvement\
+    \ non libératoire doivent être déclarés sur la forme de déclaration annuelle de\
+    \ revenu (forme 2042) pour y être soumis à l'impôt sur le revenu.\n\n   Dans quelles\
+    \ conditions : Les revenus concernés doivent correspondre à une nature précise\
+    \ et être déclarés à leur place correspondante dans la forme de déclaration.\n\
+    \n   Montants ou plafonds : Le taux forfaitaire applicable est de 12,8 % (ou 7,5\
+    \ % pour les produits des contrats d'assurance-vie d'au moins 8 ans et affectés\
+    \ à des versements effectués à compter du 27.9.2017 correspondant aux primes n'excédant\
+    \ pas 150 000 €). En option, il est possible de soumettre ces revenus au barème\
+    \ de l'impôt sur le revenu.\n\n   Formule de calcul applicable : Les montants\
+    \ des revenus doivent être déclarés à leur place correspondante dans la forme\
+    \ de déclaration annuelle de revenu (forme 2042), et les taux applicables, soit\
+    \ forfaitaire ou barème de l'impôt sur le revenu, doivent être appliqués en conséquence.\n\
+    \n   Ce qu’il faut vérifier pour être sûr d’y avoir droit : Vérifiez que les revenus\
+    \ déclarés correspondent à la nature précise de revenus soumis au prélèvement\
+    \ non libératoire, et que vous remplissez correctement les informations dans le\
+    \ cadre de la forme de déclaration annuelle de revenu (forme 2042)."
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Nom : Pierre Dupont, agent immobilier à Paris
+
+
+  Contexte : Pour l''année financière 2023, M. Dupont a obtenu des commissions totalisant
+  150 000€ de revenus provenant d''immobiliers en location. Ces commissions sont soumises
+  au prélèvement non libératoire et doivent être déclarées à la Direction générale
+  des Finances publiques (DGFiP).
+
+
+  Montants : Les commissions totalisant 150 000€ de revenus provenant d''immobiliers
+  en location sont soumises au prélèvement non libératoire. Le taux forfaitaire applicable
+  est de 12,8 %. En option, il est possible de soumettre ces revenus au barème de
+  l''impôt sur le revenu.
+
+
+  Formes à remplir : M. Dupont doit remplir la forme de déclaration annuelle de revenu
+  (forme 2042). Il devra déposer les informations relatives aux commissions (1AK)
+  et appliquer soit le taux forfaitaire applicable, soit le barème de l''impôt sur
+  le revenu en fonction de son choix.
+
+
+  Comparaison entre régimes : Le taux forfaitaire de 12,8 % est supérieur au régime
+  par défaut (barème de l''impôt sur le revenu), qui pourrait être appliqué à ces
+  commissions si M. Dupont en choisit cette option.
+
+
+  Calcul clair avec des chiffres ronds : Les commissions totalisent 150 000€. Sous
+  l''option taux forfaitaire, le montant de l''impôt sera donc de 18 900 € (150 000
+  x 12,8%).
+
+
+  Conclusion : Pour l''année financière 2023, M. Dupont devra déclarer ses commissions
+  dans la forme 2042 et appliquer le taux forfaitaire applicable à ces revenus (cas
+  d''un montant de 18 900€ pour les commissions de 150 000 €). Il devra également
+  choisir entre l''option taux forfaitaire ou barème de l''impôt sur le revenu.'

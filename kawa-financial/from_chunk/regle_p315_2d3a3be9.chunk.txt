@@ -1,0 +1,3 @@
+# Source: page 315
+
+Pour appliquer le plafonnement, deux montants d’impôt sont calculés, puis comparés : – premièrement, l’impôt déterminé compte tenu de l’ensemble des éléments déclarés, notamment de toutes les charges ouvrant droit à réduction et à crédit d’impôt ; – deuxièmement, l’impôt déterminé en écartant les charges ouvrant droit aux réductions et crédits d’impôt concernés par le plafonnement.

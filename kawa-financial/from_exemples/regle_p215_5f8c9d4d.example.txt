@@ -1,0 +1,19 @@
+Contexte : M. Jean Dupont est l'exploitant d'une ferme biologique en Normandie depuis cinq ans. Il a investi une somme de 100 000 € dans son entreprise agricole (MSJU). L'année dernière, il a également investi 25 000 € dans des actions boursières et gagné 30 000 € sur ces investissements.
+
+Montants concernés :
+- Capital social de la ferme : 100 000 €
+- Investissement dans les actions : 25 000 €
+- Revenus perçus des actions : 30 000 €
+- Pourcentage des revenus mobiliers sur le capital social (30 000 / 100 000 = 0,3 ou 30 %)
+
+Déclaration :
+- Dans la case 1AK pour les revenus perçus (revenus de capitaux mobiliers), il déclare 30 000 €.
+- Dans la case 1GF pour le capital social, il déclare 100 000 €.
+
+Comparaison entre le régime par défaut et l'option choisie :
+- En tant qu'exploitant agricole, M. Dupont bénéficie d'un régime fiscal spécial qui lui permet de ne pas payer d'impôt sur les revenus de ses investissements si ces derniers excèdent 10 % du capital social de sa ferme. Il a donc choisi de profiter de cette option (régime de l'MSJU/MSJV).
+
+Calcul clair avec des chiffres ronds :
+- Dans ce cas, M. Dupont est éligible pour cette règle car son investissement dans les actions dépasse le seuil de 10 % du capital social de sa ferme. En appliquant la formule de calcul (revenus mobiliers perçus - 10 % du capital social), il obtient un résultat négatif (30 000 € - (10 % × 100 000 €) = 27 000 € < 0). Donc, il n'a pas à payer d'impôt sur ces revenus.
+
+Conclusion : M. Dupont bénéficie d'un régime fiscal spécial qui lui permet de ne pas payer d'impôt sur les revenus perçus dans son investissement boursier, en raison du fait que ces revenus dépassent le seuil de 10 % du capital social de sa ferme. Il est donc important de s'assurer de remplir tous les critères nécessaires pour être éligible à cette règle.

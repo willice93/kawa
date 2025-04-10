@@ -1,0 +1,12 @@
+Nom : Marie Dupont, Auto-entrepreneur en conseil en alimentation saine et durables.
+
+Situation : En 2021, j'ai réalisé un chiffre d’affaires de 60 000€ en optant pour le régime micro BNC. J'ai également des revenus supplémentaires de salarié (salaire de 35 000€/an).
+
+Calcul : Pour le calcul de mon taux effectif appliqué pour l'imposition des autres revenus du foyer, je dois utiliser la formule suivante :
+- Déduction d'abattements forfaitaires applicables au régime micro BNC : 1800€/an (150€/mois).
+- Bénéfice net calculé à partir de mes revenus d’Auto-entrepreneur : 60 000€ - 1800€ = 58 200€.
+- Taux effectif appliqué pour l'imposition des autres revenus du foyer : 58 200€ / (60 000€ + 35 000€) = 29,1%
+
+Comparaison : En régime de versement libératoire de l'Impôt sur le Revenu et sans cette option, mon taux effectif serait plus élevé pour l'imposition de mes autres revenus (35 000€ + 60 000€ = 95 000€). Le régime choisi permet donc une réduction significative de mes impôts.
+
+Declaration : Dans la case 1AK, j'ai indiqué mon taux effectif calculé à partir du bénéfice net mentionné dans ma déclaration 2042 C PRO (1AK: 29,1%).

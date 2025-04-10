@@ -1,0 +1,9 @@
+Règle de calcul pour les produits imposables :
+
+- Cette règle s'applique aux produits dont les primes excédent la somme de 150 000 €.
+- Les conditions sont que le montant des primes doit dépasser cette limite de 150 000 € pour être concerné par cette règle.
+- Le taux d'imposition est de 12,8 %.
+- La formule de calcul applicable est la suivante :
+  Montant Impose = (Montant des primes - 150 000 €) * 12,8 %
+
+- Pour être sûr de bénéficier de cette règle, il faut vérifier que le montant des primes dépasse les 150 000 €.

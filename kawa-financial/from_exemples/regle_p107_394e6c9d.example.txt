@@ -1,0 +1,23 @@
+Titre : Exemple d'application de la règle fiscale pour les employés ayant installé une borne de recharge électrique hors du lieu de travail
+
+Contextue : Marie, professeur d'histoire à l'école secondaire Jean-Jaurès et résidant à Nanterre. Marie a installé une borne de recharge électrique pour son véhicule hybride à domicile en septembre 2018. Elle travaille dans le quartier Saint-Ouen, à Paris, depuis cinq ans.
+
+Détails :
+- Coût d'installation initial de la borne (septembre 2018) : 1250 €
+- Frais mensuels pour l'électricité consommée par la borne : 15 €/mois
+- Valeur estimée du retour de la borne en fin de contrat : 0 €
+
+Calculs :
+- Plafond avantage en nature (à domicile) : 1000 €
+- La borne a plus de cinq ans, donc le plafond est augmenté à 1500 € et le taux est augmenté à 75 % des frais réels.
+- Pour calculer les avantages en nature que Marie peut déclarer sans impôts, nous devons d'abord déterminer le montant des dépenses réels engagés par Marie :
+    - Coût initial de la borne (1250 €) x taux exonération (75 %) = 937.5 €
+    - Frais mensuels pour l'électricité consommée par la borne (15 €/mois x 12 mois) = 180 €
+    - Montant des dépenses réels engagés par Marie : 937.5 € + 180 € = 1117.5 €
+- Avec un plafond de 1500 €, nous calculons les avantages en nature que Marie peut déclarer sans impôts :
+    - Montant des dépenses réels engagés par Marie (1117.5 €) x taux exonération (75 %) = 836.125 €
+    - Avantages en nature déclarables sans impôt : Montant max du plafond (1500 €) - montant des dépenses réels engagés par Marie (836.125 €) = 663.875 €
+
+Declaration :
+- Ligne 1AK : Frais de location hors lieu de travail - Exonéré dans la limite de 50 % du montant des dépenses réels : 1117.5 € x 50 % = 558.75 € (dans les cases de la déclaration)
+- Ligne 1GF : Avantages en nature - Exonéré dans la limite de 663.875 € : 663.875 € (dans les cases de la déclaration)

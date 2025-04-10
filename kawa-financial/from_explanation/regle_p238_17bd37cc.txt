@@ -1,0 +1,15 @@
+Règle d'application : Calcul de la réduction d'impôt pour les dons et versements politiques.
+
+Cette règle s'applique à tous les membres d'un ménage (individus ou entreprises) qui ont fait des dons aux organisations éligibles et/ou versé des cotisations politiques et veulent bénéficier de la réduction d'impôt liée à ces actions.
+
+Les conditions suivantes doivent être remplies pour déterminer la réduction d'impôt :
+- Les dons incrits dans la ligne 7UF du formulaire d'imposition des personnes physiques ou morales (selon le cas).
+- Les dons et cotisations versés aux partis politiques inscrites dans la ligne 7UH. Il est possible que le montant de ces versements soit plafonné à 15 000 €.
+- La fraction des dons incrits dans les lignes 7UD ou 7VA dépassant 1 000 €.
+- La fraction des dons inscrits en ligne 7UJ dépassant 1 000 €.
+- Les dons versés à des organismes européens inscrits dans la ligne 7VC (voir ci-après) peuvent également être pris en compte.
+- Les éventuels reports de années antérieures incrits dans les lignes 7XS à 7XY peuvent également contribuer à la réduction d'impôt.
+
+La formule de calcul applicable est de retrancher 66 % du total des dons et versements politiques éligibles, mais ce montant doit être inférieur ou égal à 20 % du revenu imposable du ménage.
+
+Pour être sûr d'y avoir droit, il est important de vérifier que tous les montants sont correctement inscrits et calculés dans le formulaire d'imposition approprié, conformément aux règles de l'administration des contributions fiscales.

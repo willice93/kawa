@@ -1,0 +1,16 @@
+Règle applicable : Impôt sur les bénéfices de la société de personne (BSPCE) attribués à compter du 1er janvier 2018.
+
+Conditions d'application :
+- Le gain est obtenu sur des titres, et peut être soumis à un impôt fixe de 500 000 € imposé au taux de 12,8 %, ou à un barème progressif (à votre option).
+- Vous exercez une activité dans la société émettrice ou une de ses filiales depuis moins de trois ans, ou n'y avez plus exercé d'activité pendant cette durée.
+- Si vous êtes un employé de la société à la date de cession des titres et que vous y avez exercé votre activité pendant moins de trois ans, l'impôt sera de 30 %.
+
+Montants ou plafonds :
+- L'abattement fixe de 500 000 €.
+- Le taux d'imposition de 12,8 % (ou 30 % si les conditions ci-dessus sont remplies).
+
+Formule de calcul applicable :
+- Gain imposé au taux de 12,8 %, ou à 30 % si les conditions ci-dessus sont remplies. Dans les conditions de droit commun, le gain peut bénéficier d'un abattement fixe de 500 000 € à déclarer sur la ligne 3TK.
+
+Vérification pour être sûr d'y avoir droit :
+- Vérifier si vous exercez une activité dans la société émettrice ou une de ses filiales depuis moins de trois ans, ou n'y avez plus exercé d'activité pendant cette durée. Si cela est le cas, vous pourrez bénéficier du taux d'imposition de 30 %.

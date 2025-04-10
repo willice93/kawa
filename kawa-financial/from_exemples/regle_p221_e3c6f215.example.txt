@@ -1,0 +1,19 @@
+Titre : Dépôt de déclaration annuelle des revenus du couple pour l'année 2023 - Mme et M. Dupont, propriétaires-fermiers
+
+Contexte : M. Dupont (58 ans), fermier à la retraite, décède en novembre 2023. Sa femme, Mme Dupont (56 ans), continue l'exploitation agricole et gère les affaires financières du couple.
+
+Situation : Les revenus fonciers déclarés au titre de l'année 2022 par le couple sont supérieurs ou égaux à 8 000 €. Les époux ont déjà acquitté la CSG afférente à leurs revenus de 2022.
+
+Montants concernés : Le montant des revenus fonciers est de 8 000 €. La CSG afférente est calculée en prenant 9,2 % de ce montant (8 000 x 0,092 = 736 €). La CSG déductible peut atteindre 6,8 % de ce même montant (544 €).
+
+Déclaration :
+- Dans la déclaration du couple pour l'année 2023 (1AK), indiquer les revenus fonciers supérieurs ou égaux à 8 000 € et le décès de M. Dupont en 2023.
+- Dans la déclaration de Madame Dupont pour l'année 2023 (1GF), indiquer les revenus fonciers inférieurs à 8 000 € mais indiquer qu'elle a bénéficié d'une partie de la CSG déductible en raison du décès de son mari.
+
+Calcul : La CSG déductible peut être répartie entre les déclarations des revenus des époux, soit pour une partie antérieure à la mort de l'un d'entre eux et pour une autre partie postérieure. Dans ce cas, on peut trouver la formule suivante :
+- Déclaration de revenus du couple (période antérieure au décès) : 544 € × (8/12) = 363 €
+- Déclaration de Madame Dupont (période postérieure au décès) : 544 € – 363 € = 181 €
+
+Comparaison : Sans la CSG déductible, les époux auraient dû payer 736 € de CSG sur leurs revenus fonciers de 2022. En bénéficiant de la CSG déductible, ils réduisent leur paiement à 363 € (période antérieure au décès) + 181 € (période postérieure au décès) = 544 €.
+
+Conclusion : La CSG déductible peut réduire le paiement de la CSG des couples mariés dont un des époux est décédé en cours d'année, à condition que leurs revenus fonciers supérieurs ou égaux à 8 000 € et qu'ils ont déjà acquitté la CSG afférente à leurs revenus de l'année précédente.

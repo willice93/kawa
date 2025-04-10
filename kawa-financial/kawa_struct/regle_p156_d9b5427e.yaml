@@ -1,0 +1,63 @@
+id: regle_p156_d9b5427e
+titre: La règle en question s'applique aux gens qui ont des gains susceptibles de
+  bénéficier de l'abattement pour durée de détention (de droit commun ou renforcé),
+  de l'abattement fixe de 500 000 €, ou de l'abattement de 50 % sur la CSG.
+source: Brochure IR 2024
+regle:
+  description: 'La règle en question s''applique aux gens qui ont des gains susceptibles
+    de bénéficier de l''abattement pour durée de détention (de droit commun ou renforcé),
+    de l''abattement fixe de 500 000 €, ou de l''abattement de 50 % sur la CSG.
+
+
+    Cette règle s''applique lorsque le gain bénéficie d''un abattement qui réduit
+    son montant avant impôt sur le revenu (gain après abattement) et qu''il est également
+    soumis à la Contribution Sociale Généralisée (CSG).
+
+
+    Le montant de la CSG déductible afférente au gain est retenue à hauteur du rapport
+    entre le montant du gain soumis à l''impôt sur le revenu (gain après abattement)
+    et le montant du gain soumis à la CSG (gain avant abattement).
+
+
+    Pour être sûr de bénéficier de cette règle, il faut vérifier que votre gain répond
+    aux conditions précédentes, soit un gain dont l''abattement réduit son montant
+    avant impôt sur le revenu et qui est également soumis à la CSG. Il est important
+    de consulter une source fiable ou un professionnel du domaine pour connaître les
+    détails et les conditions spécifiques applicables en fonction de votre situation.'
+  formule: Non spécifiée
+cas_pratique: 'Nom : Jean Dupont, Ingénieur en génie mécanique, 51 ans
+
+
+  Situation : A vendu son entreprise pour 3 millions d''euros et a bénéficié de la
+  réduction fiscale sur les gains de l''entrepreneur (abattement pour durée de détention).
+  Après abattement, le gain s''élève à 2 millions d''euros. Le montant de cette transaction
+  est également soumis à la Contribution Sociale Généralisée (CSG) et se monte à 300
+  000 euros avant abattement.
+
+
+  Calcul : Le taux de CSG applicable sur le gain après abattement, c''est-à-dire 2
+  millions d''euros, est de 7.5% (le taux courant pour les gros revenus en France).
+  Pour calculer la déduction appliquée à la CSG, il faut multiplier le montant du
+  gain après abattement (2 millions d''euros) par le taux applicable (0.075), ce qui
+  donne 150 000 euros (donc 1AK). Enfin, pour calculer la part de CSG déductible,
+  il faut multiplier cette somme (150 000 euros) par le rapport entre le montant du
+  gain avant abattement (3 millions d''euros) et le montant du gain après abattement
+  (2 millions d''euros), c''est-à-dire 1.5. Ainsi, la somme déductible est de 225
+  000 euros (donc 1GF).
+
+
+  Comparaison : Si M. Dupont n''avait pas bénéficié de l''abattement pour durée de
+  détention et que son gain s''était monté à 3 millions d''euros avant abattement,
+  le montant de la CSG déductible serait de 225 000 euros (donc 1GF). Mais dans ce
+  cas, il n''y aurait aucune réduction sur le gain avant impôt sur le revenu. En revanche,
+  en bénéficiant de l''abattement pour durée de détention, M. Dupont a obtenu une
+  réduction du montant du gain à 2 millions d''euros et peut préserver un supplément
+  de fonds grâce à la déduction sur la CSG.
+
+
+  Conclusion : Le bénéfice de l''abattement pour durée de détention permet à M. Dupont,
+  ingénieur en génie mécanique qui a vendu son entreprise, de préserver un montant
+  important grâce à une réduction du gain avant impôt sur le revenu et à une déduction
+  supplémentaire sur la Contribution Sociale Généralisée. Il est recommandé aux gens
+  ayant des gains susceptibles de bénéficier d''un abattement de consulter un professionnel
+  du domaine pour vérifier les conditions applicables à leur situation.'

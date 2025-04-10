@@ -1,0 +1,12 @@
+Règle d'application : Plafond disponible pour l'épargne retraite après prise en compte des cotisations "Madelin" de l'année 2022.
+
+Conditions : Les cotisations "Madelin" de l'année 2022 doivent être déductibles du résultat professionnel de cette même année et le montant total des cotisations versées doit être inférieur à 6 330 €.
+
+Montants ou plafonds :
+- Plafond de déduction : (50 000 € x 10 %) + [(50 000 € – montant cotisation déjà pris en compte) x 15 %]
+- Cotisations "Madelin" qui s'imputent sur le plafond disponible pour l'épargne retraite : (montant cotisations déductibles) - (cotisations déjà prises en compte dans la calcul de la déduction)
+- Plafond restant disponible pour l'épargne retraite : (plafond de 50 000 € x 10 %) - montant cotisation s'imputant sur le plafond disponible pour l'épargne retraite
+
+Formule de calcul applicable : Les formules sont définies dans les points précédents.
+
+Vérifier pour être sûr d'y avoir droit : Vérifier que les cotisations "Madelin" de l'année 2022 ont bien été versées et que le montant total des cotisations versées est inférieur à 6 330 €. Il faut également vérifier le montant déclaré sur la ligne 6QS de la déclaration de revenu de l'année en question.

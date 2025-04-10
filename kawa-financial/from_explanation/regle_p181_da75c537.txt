@@ -1,0 +1,7 @@
+Règle d'abattement pour frais professionnels :
+
+- À qui s’applique la règle : Tout entrepreneur ayant des recettes inférieures à 921,43 € (calculé en multipliant le montant des recettes par 0,66)
+- Dans quelles conditions : Les frais professionnels doivent être justifiés et être inscrits dans les comptes de l'entreprise.
+- Quels sont les montants ou plafonds : Le minimum de l'abattement est de 305 €.
+- Quelle est la formule de calcul applicable : L'abattement est automatiquement appliqué et est égal au montant des frais professionnels, mais s'il n'est pas inférieur à 305 €, l'abattement sera de 305 €.
+- Et ce qu’il faut vérifier pour être sûr d’y avoir droit : Les frais professionnels doivent être justifiés et inscrits dans les comptes de l'entreprise. Il convient également de respecter la limite de 921,43 € sur les recettes pour bénéficier de cet abattement.

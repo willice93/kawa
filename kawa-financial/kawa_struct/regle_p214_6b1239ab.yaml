@@ -1,0 +1,53 @@
+id: regle_p214_6b1239ab
+titre: La règle s'applique aux personnes qui déclarent des revenus imposables et veulent
+  déduire des frais professionnels.
+source: Brochure IR 2024
+regle:
+  description: "La règle s'applique aux personnes qui déclarent des revenus imposables\
+    \ et veulent déduire des frais professionnels.\n   Les conditions sont que l'on\
+    \ peut choisir entre deux options :\n   1. Une déduction forfaitaire de 10 % du\
+    \ revenu imposable.\n   2. Une déduction des frais réels justifiés et soutenables.\
+    \ Dans ce cas, il faut indiquer le montant des frais professionnels sur la ligne\
+    \ 1AK ou 1BK dans l'ensemble de leur revenus imposables selon les règles des salaires.\n\
+    \   Il n'y a pas de plafonds mentionnés pour cette déduction, mais elle doit être\
+    \ soutenable et justifiée par des preuves.\n   La formule de calcul ne s'applique\
+    \ pas car il s'agit d'une déduction plutôt que d'un calcul. Pour être sûr d'y\
+    \ avoir droit, il faut vérifier qu'ils ont un revenu imposable et que les frais\
+    \ professionnels sont soutenables et justifiables."
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titre : Exemple d''application de la déduction de frais professionnels
+  pour un travailleur indépendant
+
+
+  Contexte : M. John Doe est un programmeur auto-entrepreneur qui déclare ses revenus
+  imposables annuels à 60 000 €, dont une partie provient de ses frais professionnels
+  (informatique, matériel informatique, adhésions à des communautés de programmation,
+  abonnements aux journaux technique, etc.).
+
+
+  Option choisie : M. John Doe a choisi la deuxième option : une déduction des frais
+  professionnels justifiables et soutenables sur la ligne 1AK de son ensemble de revenus
+  imposables.
+
+
+  Montant concerné : Les frais professionnels de M. Doe s''élèvent à 7 000 € pour
+  l''année en cours.
+
+
+  Calcul : Deduction des frais professionnels de 7 000 €, ce qui réduit son revenu
+  imposable de 60 000 € à 53 000 €. Il ne faut pas oublier que la déduction forfaitaire
+  de 10 % du revenu imposable n''a pas été choisie, ce qui signifie qu''il n''y a
+  pas de réduction supplémentaire à appliquer dans ce cas.
+
+
+  Comparaison : La déduction des frais professionnels a été comparée à la déduction
+  forfaitaire de 10 %. Dans notre exemple, M. Doe a choisi d''avoir une déduction
+  de frais professionnels qui représente plus de 6 000 € (la différence entre le montant
+  de ses frais professionnels et le montant de la déduction forfaitaire de 10 % sur
+  un revenu imposable de 60 000 €).
+
+
+  Conclusion : En choisissant de déclarer des frais professionnels justifiables et
+  soutenables, M. John Doe a pu réduire sa charge d''imposition pour l''année en cours.
+  Il est important de vérifier que les frais déclarés sont soutenables et justifiables
+  pour bénéficier de cette déduction.'

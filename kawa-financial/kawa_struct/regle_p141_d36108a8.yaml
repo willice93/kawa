@@ -1,0 +1,61 @@
+id: regle_p141_d36108a8
+titre: La règle s'applique aux dirigeants de PME (Petites et Moyennes Entreprises)
+  lorsqu'ils bénéficient de l'abattement fixe de 500 000 € prévu par l'article 150-0
+  D ter du Code général des impôts, ou lorsque they demandent l'application de l'abattement
+  pour durée de détention renforcée, dans le cas d'option pour l'imposition de leurs
+  revenus et gains mobiliers au barème progressif.
+source: Brochure IR 2024
+regle:
+  description: 'La règle s''applique aux dirigeants de PME (Petites et Moyennes Entreprises)
+    lorsqu''ils bénéficient de l''abattement fixe de 500 000 € prévu par l''article
+    150-0 D ter du Code général des impôts, ou lorsque they demandent l''application
+    de l''abattement pour durée de détention renforcée, dans le cas d''option pour
+    l''imposition de leurs revenus et gains mobiliers au barème progressif.
+
+
+    La condition requise est que le montant des plus-values soit éligible à l''un
+    ou à l''autre de ces abattements.
+
+
+    Le plafond est fixé à 500 000 € pour l''abattement fixe et la formule de calcul
+    n''est pas spécifiée, car c''est un abattement fixe. La formule pour l''abattement
+    en durée de détention renforcée varie selon les cas particuliers et ne peut être
+    déterminée sans connaître ces cas.
+
+
+    Il faut vérifier que les conditions requises sont réunies (être dirigeant d''une
+    PME, bénéficier d''un des abattements mentionnés ou avoir demandé l''application
+    de l''abattement pour durée de détention renforcée) et que le montant des plus-values
+    est correctement déclaré sur la ligne 3UA de la 2042 C.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titre : Application de l''abattement fixe de 500 000 € pour dirigeant
+  d''une PME (Petite-Moyenne Entreprise)
+
+
+  Contexte : Nous sommes avec M. Jean Dupont, un entrepreneur spécialisé dans la fabrication
+  d''équipements électroniques. Il détient une entreprise nommée ElectroDupont SARL
+  depuis 10 ans et emploie une équipe de 20 personnes.
+
+
+  Montants concernés : Les revenus annuels de M. Dupont s''élèvent à 650 000 €. Il
+  a réalisé cette année des plus-values d''un montant de 800 000 € en vendant une
+  partie de ses actions de l''entreprise.
+
+
+  Déclaration : M. Dupont doit déclarer ces revenus dans les cases correspondantes
+  sur la 2042 C (1AK pour les revenus annuels et 3UA pour les plus-values). Pour bénéficier
+  de l''abattement fixe de 500 000 €, il doit également déclarer sa demande sur la
+  ligne 3UA.
+
+
+  Comparaison : Sans l''abattement fixe, M. Dupont serait imposé au barème progressif
+  sur toute son plus-value de 800 000 €, ce qui lui coûterait environ 176 400 € d''impôts
+  (taux progressif maximum de 33,33%). Avec l''abattement fixe, il ne sera imposé
+  que sur les 300 000 € supérieurs à 500 000 €, ce qui lui coûterait environ 100 000
+  € d''impôts (taux progressif maximum de 33,33%).
+
+
+  Conclusion : En choisissant l''option de l''abattement fixe, M. Dupont économise
+  76 400 € d''impôts cette année. Il est donc recommandé à tous les dirigeants d''une
+  PME d''examiner le régime fiscal qui leur convient pour optimiser leurs impôts sur
+  les plus-values.'

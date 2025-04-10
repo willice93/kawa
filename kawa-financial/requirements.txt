@@ -1,0 +1,7 @@
+pandas
+PyMuPDF
+pyyaml
+openai  # si tu utilises les embeddings OpenAI (facultatif)
+sentence-transformers  # si tu veux des embeddings locaux
+faiss-cpu  # si tu veux indexer avec FAISS
+hnswlib  # si tu veux tester HNSW en alternative

@@ -1,0 +1,76 @@
+id: regle_p127_eaf89797
+titre: 'Règle applicable : Impôt sur le revenu (ISR) en France'
+source: Brochure IR 2024
+regle:
+  description: 'Règle applicable : Impôt sur le revenu (ISR) en France
+
+
+    Conditions : Les revenus perçus depuis le 1er janvier 2018
+
+
+    Montants ou plafonds :
+
+    - Taux forfaitaire de l''ISR : 12,8 %
+
+    - Prelèvements sociaux additionnels : 17,2 % sur les revenus non déjà imposés
+    à ce taux lors de leur versement
+
+    - Option globale de l''impôt sur le revenu (barème) : pas précisé dans le texte
+
+
+    Formule de calcul applicable : Les revenus perçus sont multipliés par le taux
+    forfaitaire de l''ISR (12,8 %) et les prélèvements sociaux additionnels de 17,2
+    %, si ceux-ci n''ont pas déjà été imposés auparavant.
+
+
+    Vérification pour être sûr d''y avoir droit : Il est nécessaire de déterminer
+    si les revenus perçus depuis le 1er janvier 2018 sont soumis à des impôts ou prélèvements
+    sociaux différents, car ceux-ci peuvent affecter la teneur de l''ISR due.'
+  formule: Non spécifiée
+cas_pratique: 'Context: Jean Dupont, self-employed software developer living in Paris
+  with an annual income of 50,000 euros from his business activities since January
+  1st, 2018.
+
+
+  Example Application:
+
+
+  * Taxable Income: 50,000 euros
+
+  * ISR Forfaitaire Rate: 12.8% (0.128)
+
+  * Additional Social Security Contributions Rate: 17.2% (0.172)
+
+  * Barème Option (not specified in the text)
+
+
+  Calculation:
+
+
+  * Base Tax (ISR Forfaitaire): 50,000 * 0.128 = 6400 euros
+
+  * Additional Social Security Contributions: 50,000 * 0.172 = 8600 euros
+
+
+  Declaration:
+
+
+  * ISR: 1AK (Box A for self-employed individuals) - Amount: 6,400 euros
+
+  * Additional Social Security Contributions: 1GF (General Regime) - Amount: 8,600
+  euros
+
+
+  Comparison:
+
+  In the default regime, Jean Dupont''s total tax and contributions would be 14,000
+  euros. However, he chooses to apply for the Barème option, which could potentially
+  reduce his taxes if certain conditions are met. It is recommended that Jean consult
+  a tax professional or do further research on the Barème option to determine if it
+  would be beneficial in his case.
+
+
+  Summary: Self-employed software developer Jean Dupont with an annual income of 50,000
+  euros since January 1st, 2018 is required to pay 6,400 euros in ISR and 8,600 euros
+  in additional social security contributions under the default regime. He should
+  explore the Barème option as it may potentially lower his taxes.'

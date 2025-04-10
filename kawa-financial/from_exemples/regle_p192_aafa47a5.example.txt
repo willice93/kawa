@@ -1,0 +1,17 @@
+Nom : Pierre Dupont, entrepreneur indépendant
+
+Situation : Possède 500 000 € de capitaux mobiliers et a perçu des revenus supérieurs à 10 % (soit plus de 50 000 €) du montant du capital social. A versé 50 000 € dans un compte courant d'associé au cours de l'exercice fiscal 2021.
+
+Montants concernés :
+- Capital social apprécié au dernier jour de l'exercice précédent (31/12/2020) : 500 000 €
+- Primes d'émission dans le même cadre : pas d'investissements en 2021, donc zéro pour ce critère
+- Solde moyen annuel versé dans un compte courant d'associé (somme des soldes moyens mensuels du compte 2021 divisée par le nombre de mois compris dans l'exercice) : 50 000 € / 12 mois = 4 166,67 € (seulement pour les critères suivants)
+
+Déclaration : Si Pierre Dupont a des revenus supérieurs à 10 % du montant de son capital social et qu'il versait dans un compte courant d'associé, il doit déclarer :
+- Dans la case 1GF pour les primes d'émission (vide en l'occurrence)
+- Dans la case 1AK pour le solde moyen annuel versé dans un compte courant d'associé avec une valeur de 4 166,67 € pour l'exercice fiscal 2021
+
+Comparaison : Regime par défaut (taxe sur les revenus) vs option choisie (taxation à taux réduit des dividendes)
+- Pierre Dupont a perçu des revenus supérieurs à 10 % de son capital social. Le régime par défaut pourrait lui faire débourser environ 42,56 € sur un solde moyen mensuel de 4 166,67 € (au taux de 30 %, le plus élevé pour les revenus supérieurs à 100 000 €). En choisissant l'option de taxation à taux réduit des dividendes, il ne paiera que 28 % sur ce même solde mensuel (ce qui représente 1 173,39 € pour l'exercice fiscal 2021).
+
+Conclusion : Le calcul de la taxation à taux réduit des dividendes peut être effectué en comparant le régime par défaut (taxe sur les revenus) avec l'option choisie (taxation à taux réduit des dividendes), et il permet à Pierre Dupont de ne pas payer autant d'impôts en 2021.

@@ -1,0 +1,62 @@
+id: regle_p164_e4b6043c
+titre: 'Règle appliquée aux contribuables calculant leur revenu fiscal de référence
+  et leur plafond de déduction d''épargne retraite :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle appliquée aux contribuables calculant leur revenu fiscal de
+    référence et leur plafond de déduction d''épargne retraite :
+
+
+    Conditions : Lorsque le bénéfice net est réalisé.
+
+
+    Montants ou plafonds : Le montant du bénéfice net peut servir à calculer :
+
+    - Le revenu fiscal de référence : Il ne peut pas excéder la limite imposée (montant
+    variable en fonction de l''année et du statut fiscale).
+
+    - Le plafond de déduction d''épargne retraite : Il est limité à 20% du bénéfice
+    net. Ce montant ne peut pas excéder un maximum annuel (montant variable en fonction
+    de l''année).
+
+
+    Formule de calcul applicable : Revenu fiscal de référence = Bénéfice net s''il
+    ne dépasse pas la limite imposée, sinon le plafond imposé. Plafond de déduction
+    d''épargne retraite = 20% du bénéfice net, mais sans excéder le montant maximum
+    annuel.
+
+
+    Vérifier pour être sûr d''y avoir droit : Les contribuables doivent vérifier qu''ils
+    ont réellement réalisé un bénéfice net lors de l''exercice fiscal pour bénéficier
+    de ce traitement fiscale.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Contexte : Une femme nommée Marie, 45 ans, est propriétaire d''une
+  petite entreprise de vente en ligne depuis trois ans. Elle réalise 80 000 € de bénéfice
+  net pour l''exercice fiscal 2021.
+
+
+  Montants concernés : Le revenu fiscal de référence pour Marie est limité à 67 450
+  € (limite fiscale variable en fonction de son statut). Le plafond annuel de déduction
+  d''épargne retraite peut être utilisé jusqu''à un maximum de 16 000 €.
+
+
+  Déclaration : Dans le formulaire fiscal, Marie indique son bénéfice net dans la
+  case 1AK (Bénéfices non assujettis au régime fiscal des personnes morales). Elle
+  déclare également sa demande de déduction d''épargne retraite dans la case 1GF.
+
+
+  Comparaison : En régime par défaut, Marie payerait le taux normal de TVA (20%) sur
+  son bénéfice net complet (80 000 €). En choisissant l''option de déduction d''épargne
+  retraite, elle bénéficie d''un réduction de ses impôts à hauteur de 16 000 €.
+
+
+  Calcul clair avec des chiffres ronds : Si Marie choisit le régime par défaut, elle
+  payera 20% de TVA sur 80 000 € (soit 16 000 €). En choisissant l''option de déduction
+  d''épargne retraite, elle ne payera que 20% de TVA sur 64 000 € (le reste de son
+  bénéfice net après avoir déduit le plafond de déduction d''épargne retraite) (soit
+  13 600 €).
+
+
+  Conclusion : Marie choisit donc l''option de déduction d''épargne retraite en déclarant
+  un bénéfice net de 80 000 € et obtenant une réduction fiscale à hauteur de 16 000
+  €, ce qui permet de réduire ses impôts passifs de 13 600 €.'

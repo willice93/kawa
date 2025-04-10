@@ -1,0 +1,7 @@
+Règle de calcul appliquée aux cotisations PER versées en l'année 2023 :
+
+- À qui s’applique la règle : Toute personne physique contribuant à la SEP (Cotisation PER).
+- Dans quelles conditions : Si les cotisations sont versées en 2023.
+- Quels sont les montants ou plafonds : Le plafond de déduction est fixé à 4 114 €. Les 86 € restant (4 200 € - 4 114 €) ne sont ni déductibles ni reportables.
+- Quelle est la formule de calcul applicable : La déduction se fait à hauteur du plafond, c'est-à-dire 4 114 €.
+- Et ce qu’il faut vérifier pour être sûr d’y avoir droit : Vérifier que les cotisations sont effectivement versées en 2023 et que la somme totale de ces cotisations ne dépasse pas le plafond de 4 114 €.

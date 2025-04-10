@@ -1,0 +1,11 @@
+Titre : Applicabilité du versement libératoire de l'impôt sur le revenu pour une entreprise de vente de meubles d'occasion
+
+Nom de la personne concernée : Marie Dupont, propriétaire de "Mobilier de Demain"
+
+Situation : Mme Dupont a détenu et exploité sa boutique de vente de meubles d'occasion pendant 5 ans. Elle rapporte un chiffre d'affaires trimestriel de 30 000 € (HT) et paye des cotisations sociales pour ses employés à raison de 10 % de son chiffre d'affaires.
+
+Calcul :
+- Calcul du versement libératoire pour les entreprises ayant une activité de vente de marchandises : (30 000 € * 1 %) + (3 000 € en cotisations sociales) = 300 € + 3 000 € = 3 300 €
+- Comparaison avec le régime par défaut : Si Mme Dupont choisissait de ne pas utiliser l'option du versement libératoire, elle payerait un impôt sur les revenus plus élevé, car la loi prévoit que tous les bénéfices fiscaux soient imposés à 15 %. Ainsi, avec une activité de vente de marchandises, le versement libératoire représente un avantage fiscal potentiel de 3 300 €.
+
+Mise en forme : La déclaration du versement libératoire pour l'activité de vente de meubles d'occasion de Mme Dupont doit être faite dans la case 1AK (Versement libératoire des bénéfices) du formulaire de declaration des revenus.

@@ -1,0 +1,10 @@
+Nom : Jean Dupont, employé chez XYZ SAS
+   Profession : Employé commercial
+   Situation : Vivant dans un appartement de trois pièces fourni par son employeur depuis 2 ans
+   Montants concernés :
+      - Rémunération brutale mensuelle : 3 600 €
+      - Coût du logement gratuit fourni : 357,90 € (calculé à 119,30 € x 3)
+   Déclaration dans les bonnes cases : 1AK pour le coût du logement gratuit fourni
+   Comparaison : Le régime par défaut pourrait être le régime des loyers modulés avec une charge de 5,7 % sur la valeur locative mensuelle du logement (360 €), tandis que l'option choisie avec le logement fourni gratuit est plus avantageuse.
+   Calcul clair : En appliquant la règle, Jean Dupont ne paiera aucun loyer pour son appartement de trois pièces en raison du régime applicable à ses conditions. Il en économise donc 360 € par mois.
+   Synthèse : La règle permet à un salarié tels que Jean Dupont d'économiser sur leurs frais de location grâce au régime applicable à leur situation de logement fourni gratuitement par leur employeur.

@@ -1,0 +1,50 @@
+id: regle_p132_215a924f
+titre: Règle applicabile aux contribuables célibataires, veufs ou divorcés ainsi qu'aux
+  couples mariés ou PACSés soumis à imposition commune. L'abattement annuel se monte
+  à 4 600 € pour les premiers et 9 200 € pour les seconds. Cependant, lorsque le contribuable
+  choisit l'option pour le prélèvement forfaitaire libératoire, cet abattement n'est
+  pas appliqué au moment du prélèvement. Au lieu de cela, lors du traitement de sa
+  déclaration de revenus, le contribuables bénéficie d'un crédit d'impôt qui s'impute
+  sur le montant de l'impôt dû. Il faut vérifier que le choix de la formule de prélèvement
+  est valide et conforme aux conditions imposées par la loi pour être sûr d'y avoir
+  droit à cet abattement ou crédit d'impôt.
+source: Brochure IR 2024
+regle:
+  description: Règle applicabile aux contribuables célibataires, veufs ou divorcés
+    ainsi qu'aux couples mariés ou PACSés soumis à imposition commune. L'abattement
+    annuel se monte à 4 600 € pour les premiers et 9 200 € pour les seconds. Cependant,
+    lorsque le contribuable choisit l'option pour le prélèvement forfaitaire libératoire,
+    cet abattement n'est pas appliqué au moment du prélèvement. Au lieu de cela, lors
+    du traitement de sa déclaration de revenus, le contribuables bénéficie d'un crédit
+    d'impôt qui s'impute sur le montant de l'impôt dû. Il faut vérifier que le choix
+    de la formule de prélèvement est valide et conforme aux conditions imposées par
+    la loi pour être sûr d'y avoir droit à cet abattement ou crédit d'impôt.
+  formule: revenu_brut * (1 - 0.06)
+cas_pratique: 'Contribuable : Jean Dupont, ingénieur civil de 45 ans, célibataire
+  et sans enfant, résidant à Paris. Son revenu annuel est de 60 000 € (1K).
+
+
+  Situation : Pour l''exercice fiscal 2023, Jean a choisi le régime de prélèvement
+  forfaitaire libératoire (PLF) au taux de 6%.
+
+
+  Déclaration : Dans la section 1AK de sa déclaration annuelle, Jean a indiqué son
+  revenu annuel de 60 000 € ainsi que son choix du régime PLF.
+
+
+  Comparaison : Sans le régime PLF, l''impôt annuel de Jean serait de (60 000 x 6%)
+  = 3 600 €. Avec le régime PLF, il ne payera que 2 160 € d''impôt (60 000 x 6% -
+  4 600€ abattement annuel).
+
+
+  Conclusion : En choisissant le régime de prélèvement forfaitaire libératoire, Jean
+  bénéficie d''un abattement annuel de 4 600 € et payera moins d''impôt de 1 440 €
+  (3 600 - 2 160) par rapport au régime par défaut. Il est également important de
+  vérifier que le choix du régime PLF est conforme aux conditions imposées par la
+  loi pour profiter pleinement de cet avantage fiscal.'
+calcul:
+  formule: revenu_brut * (1 - 0.06)
+  exemple:
+    revenu_brut: 600
+    abattement: 36
+    revenu_net: 564

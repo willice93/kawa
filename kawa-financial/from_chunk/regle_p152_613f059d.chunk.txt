@@ -1,0 +1,3 @@
+# Source: page 152
+
+Si vous ne bénéficiez pas du sursis de paiement, indiquez : – pour les plus-values et créances (à l’exception des plus-values en report d’imposition en application de l’article 150-0 B ter du CGI) : • ligne 3WB le montant des plus-values et créances soumises à l’impôt sur le revenu, au barème ou à 12,8 % (le cas échéant, après abattement pour durée de détention) ; • ligne 3WD le montant des plus-values et créances soumises aux prélèvements sociaux (avant abattement pour durée de détention) ;

@@ -1,0 +1,3 @@
+# Source: page 142
+
+Les abattements pour durée de détention s’appliquent uniquement pour le calcul de la plus-value imposable à l’impôt sur le revenu. Ils ne sont applicables ni pour l’imposition aux prélèvements sociaux, qui restent dus sur le montant total de la plus-value (montant de la plus-value avant abattement), ni pour le calcul du revenu fiscal de référence.

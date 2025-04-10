@@ -1,0 +1,53 @@
+id: regle_p111_24122598
+titre: La règle s'applique aux salariés qui utilisent leur véhicule pour des besoins
+  professionnels et veulent faire une réclamation de frais justifiés. Les conditions
+  sont que les frais soient exposés à titre professionnel et qu'ils puissent être
+  justifiés de la réalité et du montant. Les montants ou plafonds concernent les dépenses
+  de carburant, de pneumatiques, de réparation et d'entretien, dépréciation effective
+  du véhicule, primes d'assurance, frais de garage. Toutefois, les frais réels déductibles
+  autres que les frais de péage, de garage ou de parking ne peuvent pas excéder le
+  montant qui résulte de l'application du barème kilométrique publié par l'administration
+  pour une distance identique, pour un véhicule de la puissance administrative maximale
+  retenue par le barème. La formule de calcul applicable est de multiplier la distance
+  parcourue par le coût par km du barème kilométrique. Il faut vérifier que tous les
+  frais présentés sont justifiables, relevant réellement des dépenses professionnelles
+  et respectent les montants maximaux fixés dans le barème kilométrique.
+source: Brochure IR 2024
+regle:
+  description: La règle s'applique aux salariés qui utilisent leur véhicule pour des
+    besoins professionnels et veulent faire une réclamation de frais justifiés. Les
+    conditions sont que les frais soient exposés à titre professionnel et qu'ils puissent
+    être justifiés de la réalité et du montant. Les montants ou plafonds concernent
+    les dépenses de carburant, de pneumatiques, de réparation et d'entretien, dépréciation
+    effective du véhicule, primes d'assurance, frais de garage. Toutefois, les frais
+    réels déductibles autres que les frais de péage, de garage ou de parking ne peuvent
+    pas excéder le montant qui résulte de l'application du barème kilométrique publié
+    par l'administration pour une distance identique, pour un véhicule de la puissance
+    administrative maximale retenue par le barème. La formule de calcul applicable
+    est de multiplier la distance parcourue par le coût par km du barème kilométrique.
+    Il faut vérifier que tous les frais présentés sont justifiables, relevant réellement
+    des dépenses professionnelles et respectent les montants maximaux fixés dans le
+    barème kilométrique.
+  formule: Non spécifiée
+cas_pratique: "Nom : Jeanne Lefebvre\n   Profession : Vendeuse en pharmacie, travailleur\
+  \ indépendant\n   Situation : Jeanne Lefebvre est vendeuse en pharmacie et effectue\
+  \ des visites chez les clients pour présenter ses produits. Elle utilise sa voiture\
+  \ personnelle pour ces déplacements professionnels. Elle souhaite réclamer des frais\
+  \ justifiés concernant ses dépenses de carburant, de pneumatiques, de réparation\
+  \ et d'entretien, dépréciation effective du véhicule, primes d'assurance et frais\
+  \ de garage.\n   Montants : Revenus bruts mensuels = 2 500 € ; Coût par km du barème\
+  \ kilométrique (selon la puissance maximale de sa voiture) = 0,18 €/km ; Nombre\
+  \ de kilomètres parcourus en mois (estimation moyenne) = 400 km\n   Déclaration\
+  \ : Frais de carburant : 400 x 0,18 = 72 € (Déclarer sur la ligne 1AK du formulaire\
+  \ de déclaration des revenus) ; Frais de pneumatiques : 60 € ; Frais de réparation\
+  \ et d'entretien : 50 € ; Dépréciation effective du véhicule : 80 € ; Primes d'assurance\
+  \ : 20 € ; Frais de garage : 30 €\n   Comparaison : Le régime par défaut (non-déclaration\
+  \ des frais professionnels) = 2 500 € de revenus bruts mensuels. En déclarant ses\
+  \ frais professionnels, Jeanne Lefebvre peut bénéficier d'un régime fiscnel favorable\
+  \ en déclarant un montant plus bas pour les impôts.\n   Synthèse : Pour appliquer\
+  \ cette règle dans la vraie vie, Jeanne Lefebvre doit justifier tous ses frais professionnels\
+  \ (carburant, pneumatiques, réparations et entretien, dépréciation effective du\
+  \ véhicule, primes d'assurance et frais de garage) en respectant les montants maximaux\
+  \ fixés dans le barème kilométrique. En déclarant ses frais professionnels, elle\
+  \ pourra bénéficier d'un régime fiscal plus favorable en déclarant un montant plus\
+  \ bas pour les impôts."

@@ -1,0 +1,17 @@
+Règle de calcul de la CSG-CRDS pour certaines allocations et indemnités journalières (IJ) :
+
+- À qui s'applique la règle : Les bénéficiaires des IJ suivantes :
+  - Allocations et indemnités journalières de sécurité sociale (maladie, y compris les IJ versées aux professions libérales depuis le 01/07/2021, arrêt de travail ou garde d'enfant en lien avec l'épi- démie de Covid-19, maternité/paternité)
+  - Les IJ perçues par les personnes relevant du régime micro-fiscal et IJ perçues dans le cadre d'une affection de longue durée
+  - Les IJ sur lesquelles la CSG et la CRDS ont été précomptees
+
+- Dans quelles conditions :
+  - Ces IJ bénéficient du taux réduit de CSG-CRDS à 6,7 % (au lieu de 9,7 %)
+  - Les informations nécessaires au calcul de la CSG-CRDS à taux réduit sur ces sommes sont transmises directement par la CPAM qui vous les a versées à votre Urssaf.
+  - Si les montants versés ont été précomptees de la CSG-CRDS, votre Urssaf n'ajoutera pas ces montants dans la base de calcul de la CSG-CRDS. Les montants déclarés dans la rubrique DSCA ou DSCB seront ajoutés dans la base de calcul de vos contributions sociales.
+
+- Quels sont les montants ou plafonds : Pas spécifié dans le texte.
+
+- Quelle est la formule de calcul applicable : Le taux réduit de CSG-CRDS à 6,7 % est appliqué automatiquement sur les montants des IJ qualifiantes.
+
+- Et ce qu'il faut vérifier pour être sûr d'y avoir droit : Il n'y a pas de démarche particulière à effectuer, ni de montant à déclarer, pour bénéficier de ce taux réduit. Les informations nécessaires au calcul de la CSG-CRDS à taux réduit sur ces sommes sont transmises directement par la CPAM qui vous les a versées à votre Urssaf.

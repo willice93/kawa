@@ -1,0 +1,9 @@
+Nom : Jean Dupont, ingénieur en informatique chez SARL XYZ
+
+Situation : Acheté des actions de la société ABC SARL, une PME en difficulté, lors de l'exercice fiscal 2019 en bénéficiant d'une réduction d'impôt à hauteur de 50 000 euros. Ensuite, il a vendu ces actions en 2022 pour un prix de 650 000 euros (prix d'acquisition initial = 600 000 euros).
+
+Calcul : Pour l'application de la réduction d'impôt "Madelin" lors de la vente des actions, on diminue le prix d'acquisition initial de 50 000 euros, ce qui donne un nouveau prix d'acquisition net de 550 000 euros. La plus-value pourrait donc être calculée sur ce montant (650 000 euros - 550 000 euros = 100 000 euros).
+
+Comparaison : Dans le régime par défaut, la plus-value serait de 150 000 euros (650 000 euros - 600 000 euros), ce qui signifierait une plus grande charge fiscale pour M. Dupont. En choisissant l'option "Madelin", il bénéficie d'une réduction d'impôt sur la plus-value, ce qui diminue sa charge fiscale de 50 000 euros.
+
+Synthèse : Pour appliquer la réduction d'impôt "Madelin" dans une vraie situation de l'exercice fiscal 2022, il est important de respecter les conditions requises et de prendre soin lors du calcul des plus-values pour ne pas oublier cette réduction.

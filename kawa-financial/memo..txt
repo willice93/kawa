@@ -1,0 +1,44 @@
+
+🧠 MÉMO – Commandes Python & Projet
+🟢 Création d’un environnement virtuel
+bash
+Copier
+Modifier
+python -m venv venv
+🟡 Activation de l’environnement virtuel (Windows)
+bash
+Copier
+Modifier
+.\venv\Scripts\activate
+🔵 Installation des dépendances
+bash
+Copier
+Modifier
+pip install -r requirements.txt
+🟣 Générer le fichier requirements.txt à partir de l’existant
+bash
+Copier
+Modifier
+pip freeze > requirements.txt
+🚀 Lancer une application Flask
+📁 Exemple avec edu_api.py :
+bash
+Copier
+Modifier
+python edu_api.py
+✅ Installer une dépendance manuellement
+bash
+Copier
+Modifier
+pip install nom_du_module
+Exemples utiles :
+
+bash
+Copier
+Modifier
+pip install flask
+pip install transformers
+pip install torch
+pip install peft
+ollama run tinyllama
+

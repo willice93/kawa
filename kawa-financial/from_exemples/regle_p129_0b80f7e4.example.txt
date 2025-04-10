@@ -1,0 +1,13 @@
+Titre : M. Jean Dupont, entrepreneur auto-entrepreneur, propriétaire de société libérale "Dupont Auto SEL"
+
+Contexte : M. Jean Dupont est auto-entrepreneur et possède 70% des parts de sa société libérale "Dupont Auto SEL", qui réalise plus de 10 % de son capital social en activité professionnelle. Il a investi ses économies dans un PEA (Plan d'épargne en actions) sous la déclaration numéro 1AK.
+
+En juin 2023, sa société libérale "Dupont Auto SEL" distribue des dividendes à hauteur de 4 500 €.
+
+Solution :
+- Les 4 500 € de dividendes sont imposables à l'impôt sur le revenu pour la fraction qui excède 10 % de la valeur d’inscription des titres au PEA (450 €).
+- Les 4 050 € (4 500 - 450) sont soumis aux cotisations et contributions sociales dues au titre des revenus d'activité.
+- Ces 4 050 € doivent être déclarés ligne 2FU dans la déclaration de revenu du patrimoine (DRP).
+- Le montant ainsi déclaré est retenu dans la base de calcul des prélèvements sociaux dus au titre des revenus du patrimoine.
+- Pour éviter une double imposition aux prélèvements sociaux, indiquez ligne 2CG le montant de ces dividendes déjà soumis aux cotisations et contributions sociales au titre des revenus d'activité (4 050 €). Ce montant n'ouvrent pas droit à CSG déductible.
+- Comparaison entre régime par défaut et option choisie : En l'absence du PEA, les 4 500 € seraient imposables à l'impôt sur le revenu en totalité (sans cotisation ni contribution sociales).

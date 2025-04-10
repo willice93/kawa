@@ -1,0 +1,9 @@
+La règle s'applique à ceux qui ont une composition du foyer spécifique et atteignent la limite initiale de 12 000 € en dépenses familiales.
+
+Condition : Il faut avoir un type de composition du foyer (non précisé dans le texte) qui justifie une augmentation de la limite de 15 000 €, avec les mêmes conditions que celles de la limite initiale de 12 000 €.
+
+Montants ou plafonds : La limite initiale est de 12 000 €, mais peut être augmentée à 15 000 € et le plafond total de dépenses ne doit pas excéder 18 000 €.
+
+Formule de calcul applicable : La limite de 15 000 € est obtenue en ajoutant 1 500 € à la limite initiale de 12 000 €. Le plafond total de dépenses de 18 000 € est calculé en additionnant les dépenses familiales aux montants des limites spécifiques (initiales et majorées).
+
+Pour être sûr d'y avoir droit, il faut vérifier si le type de composition du foyer justifie une augmentation de la limite de 15 000 € et si les dépenses familiales ne dépassent pas le plafond total de 18 000 €.

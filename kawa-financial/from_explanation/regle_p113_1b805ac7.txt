@@ -1,0 +1,11 @@
+Règle de calcul : Crédit d'Impôt sur les Cotisations Syndicales et Primes d'Assurance de Responsabilité Professionnelle
+
+Applique à : Taux d'imposition réduits pour les salariés qui font des cotisations syndicales ou prennent des assurances professionnelles.
+
+Conditions : Les cotisations syndicales doivent être facturées par une association reconnue de droit public (syndicat, guilde, etc.). Les primes d'assurance de responsabilité professionnelle doivent s'appliquer à la responsabilité professionnelle du salarié.
+
+Montants ou Plafonds : La déductibilité des cotisations syndicales peut atteindre le montant des frais réels (coûts vrais) facturés par l'association. Les primes d'assurance de responsabilité professionnelle sont calculées en fonction de la couverture financière et de la garantie offerte par l'assurance.
+
+Formule de Calcul : La déductibilité des cotisations syndicales est calculée à partir du montant facturé (cotisation réelle) par l'association. Les primes d'assurance sont calculées en fonction des conditions spécifiques de chaque assurance.
+
+Vérifier : Pour bénéficier de cette déduction, vous devez être sûr que votre association est reconnue de droit public et que votre cotisation correspond aux frais réels facturés par l'association. Vous devez également vérifier les conditions d'assurance et la couverture financière pour les primes d'assurance professionnelles.

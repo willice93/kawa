@@ -1,0 +1,17 @@
+La règle s'applique aux ascendants qui atteignent l'âge de 65 ans et pour lesquels vous avez engagé des dépenses de services à la personne.
+
+Les conditions requises sont :
+- L'ascendant doit être âgé de plus de 65 ans.
+- Les dépenses de service doivent être effectuées.
+
+Les montants ou plafonds applicables sont :
+- Le plafond initial est de 12 000 € (ou de 15 000 €).
+- Chaque ascendant répondant aux conditions peut augmenter ce plafond d'un montant maximal de 1 500 €.
+- Le total maximum de dépenses admissibles n'excède pas 15 000 € (ou 18 000 €).
+
+La formule de calcul applicable est la suivante :
+
+Plafond total = Plafond initial + (Nombre d’ascendants * Montant par ascendant)
+Mais le Plafond total ne peut pas excéder le plafond maximum de 15 000 € (ou 18 000 €).
+
+Pour être sûr d'y avoir droit, il faut vérifier que les conditions requises sont remplies et que les montants dépensés ne dépassent pas le plafond total.

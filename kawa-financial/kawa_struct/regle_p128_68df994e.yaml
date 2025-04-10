@@ -1,0 +1,53 @@
+id: regle_p128_68df994e
+titre: Cette règle s'applique aux personnes qui ont exercé l'option globale pour la
+  taxation progressively imposable sur les revenus et gains mobiliers, et dans le
+  cas où leurs revenus déclarés sont inscrits à ligne 2DC.
+source: Brochure IR 2024
+regle:
+  description: 'Cette règle s''applique aux personnes qui ont exercé l''option globale
+    pour la taxation progressively imposable sur les revenus et gains mobiliers, et
+    dans le cas où leurs revenus déclarés sont inscrits à ligne 2DC.
+
+
+    Il existe un plafond de 40 % d''abattement appliqué aux revenus déclarés à cette
+    ligne. Les dépenses déductibles engagées pour l''acquisition du revenu (principalement
+    frais de garde des titres) inscrites à la ligne 2CA sont déduites après l''application
+    de cet abattement de 40 %.
+
+
+    La formule de calcul applicable est simple : si les revenus déclarés à ligne 2DC
+    sont R, l''abattement sera de 40 % de R. Ensuite, les frais de garde des titres
+    seront déduits de cette somme abattue.
+
+
+    Pour être sûr d''y avoir droit : il faut que les conditions suivantes soient remplies
+    :
+
+    - Vous avez exercé l''option globale pour la taxation progressively imposable
+    sur les revenus et gains mobiliers.
+
+    - Vos revenus sont déclarés à ligne 2DC.
+
+    - Les frais de garde des titres inscrits à la ligne 2CA soient vérifiables en
+    tant que dépenses déductibles engagées pour l''acquisition du revenu.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: "Nom: Jean Dupont\n   Profession: Analyste en Bourse\n   Situation:\
+  \ Jean a exercé l'option globale pour la taxation progressively imposable sur les\
+  \ revenus et gains mobiliers pour l'exercice fiscal 2021. Son revenue déclaré à\
+  \ la ligne 2DC est de 45 000 €. Les frais de garde des titres qu'il a engagés pour\
+  \ l'acquisition du revenu sont de 3 000 € et ont été inscrits à la ligne 2CA.\n\n\
+  \   Calcul : Étant donné que le plafond d'abattement est de 40 %, il sera appliqué\
+  \ aux 45 000 € déclarés à la ligne 2DC. Cela représente une somme de 18 000 € (40\
+  \ % de 45 000 €). Cette somme sera déduite du revenu déclaré, ce qui en résulte\
+  \ un revenu abattu de 27 000 €. Ensuite, les frais de garde des titres seront déduits\
+  \ de cette somme abattue (3 000 €).\n\n   Déclaration : Sur la déclaration fiscale,\
+  \ le montant de l'abattement sera inscrit dans la case 1AK (Abattement appliqué\
+  \ à tous les revenus), et les frais de garde des titres inscrits à la ligne 2CA\
+  \ dans la case 1GF (Dépenses déductibles engagées pour l'acquisition du revenu).\n\
+  \n   Comparaison : Sans l'option choisie, le montant imposable serait de 45 000\
+  \ €. Avec cette option, le montant imposable est réduit à 27 000 € (45 000 € - 18\
+  \ 000 € d'abattement).\n\n   Synthèse : En choisissant l'option globale pour la\
+  \ taxation progressively imposable sur les revenus et gains mobiliers, Jean Dupont\
+  \ a réduit son montant imposable de 45 000 € à 27 000 € en utilisant le plafond\
+  \ d'abattement de 40 % pour les revenus déclarés sur la ligne 2DC et déduisant les\
+  \ frais de garde des titres inscrits à la ligne 2CA."

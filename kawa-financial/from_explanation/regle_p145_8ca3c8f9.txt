@@ -1,0 +1,9 @@
+Règle appliquée aux gains imposables de retrait ou de rachat sur un PEA (Plan d'épargne en actions) ou un PEA-PME (PEA destiné à des entreprises de petite et moyenne taille) effectués avant l'expiration de la 5e année.
+
+Conditions : Si le retrait ou le rachat est effectué en 2023 sur un PEA ou un PEA-PME avant l'expiration de la 5e année, y compris ceux qui entraînent ou non la clôture du plan.
+
+Montant ou plafonds : Le montant imposable est le gain net (le montant retenu sur ligne 3VT).
+
+Formule de calcul applicable : Aucune formule de calcul particulière, car il s'agit d'un montant connu et non calculé.
+
+Verification pour y avoir droit : Vérifier que le retrait ou rachat est effectué sur un PEA ou un PEA-PME avant l'expiration de la 5e année, et qu'il n'y a pas d'autres dispositions applicables en cas d'exonération spéciale (comme dans le cas de la création ou de la reprise d'une entreprise).

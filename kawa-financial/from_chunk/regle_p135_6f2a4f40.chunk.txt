@@ -1,0 +1,3 @@
+# Source: page 135
+
+Le montant des revenus indiqué ligne 2BH est exclu de la base de calcul des prélèvements sociaux. Leur montant est en outre retenu pour le calcul du montant de CSG à déduire du revenu global de l’année 2023 si vous avez opté pour l’imposition au barème de l’ensemble de vos revenus de capitaux mobiliers et gains de cession de valeurs mobilières (case 2OP cochée). Le montant de CSG déductible sera alors calculé (6,8 % du montant déclaré ligne 2BH) et déduit automatiquement de votre revenu global de 2023 soumis au barème de l’impôt sur le revenu. Il sera ajouté au montant de CSG déductible prérempli sur votre déclara- tion des revenus de 2023. N’indiquez pas cette fraction de CSG déductible ligne 6DE page 4 de la 2042 .

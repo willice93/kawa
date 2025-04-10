@@ -1,0 +1,11 @@
+Nom: Jean Dupont
+   Profession: Analyste en Bourse
+   Situation: Jean a exercé l'option globale pour la taxation progressively imposable sur les revenus et gains mobiliers pour l'exercice fiscal 2021. Son revenue déclaré à la ligne 2DC est de 45 000 €. Les frais de garde des titres qu'il a engagés pour l'acquisition du revenu sont de 3 000 € et ont été inscrits à la ligne 2CA.
+
+   Calcul : Étant donné que le plafond d'abattement est de 40 %, il sera appliqué aux 45 000 € déclarés à la ligne 2DC. Cela représente une somme de 18 000 € (40 % de 45 000 €). Cette somme sera déduite du revenu déclaré, ce qui en résulte un revenu abattu de 27 000 €. Ensuite, les frais de garde des titres seront déduits de cette somme abattue (3 000 €).
+
+   Déclaration : Sur la déclaration fiscale, le montant de l'abattement sera inscrit dans la case 1AK (Abattement appliqué à tous les revenus), et les frais de garde des titres inscrits à la ligne 2CA dans la case 1GF (Dépenses déductibles engagées pour l'acquisition du revenu).
+
+   Comparaison : Sans l'option choisie, le montant imposable serait de 45 000 €. Avec cette option, le montant imposable est réduit à 27 000 € (45 000 € - 18 000 € d'abattement).
+
+   Synthèse : En choisissant l'option globale pour la taxation progressively imposable sur les revenus et gains mobiliers, Jean Dupont a réduit son montant imposable de 45 000 € à 27 000 € en utilisant le plafond d'abattement de 40 % pour les revenus déclarés sur la ligne 2DC et déduisant les frais de garde des titres inscrits à la ligne 2CA.

@@ -1,0 +1,20 @@
+Titre : Application de la règle fiscale sur les options d'achat d'actions chez XYZ Corporation pour l'année 2023
+
+Nom : John Doe
+Profession : Ingénieur en développement logiciel
+Situation : Je suis un employé de la XYZ Corporation depuis 5 ans et j'ai exercé mon option d'achat d'actions cette année.
+
+Montants concernés :
+- Mon salaire annuel : 80 000 €
+- Montant total des actions que je possède dans ma société après l'exercice de ma dernière option d'achat (nombre de parts x prix unitaire) : 12 000 €
+- Rabais à la date d'attribution de mon option d'achat d'actions : 250 €
+- Rabais acceptable (limite supérieure imposée par la règle fiscale) : 125 € (250 € - 5% du prix unitaire de l'action à la date de l'attribution)
+
+Déclaration dans les bonnes cases : Montant imposé en salaire (1AK), montant total des actions possédées (1GF)
+
+Comparaison : Le régime par défaut est le calcul de l'impôt sur le revenu ordinaire, qui s'appliquerait à mon salaire et à mes options d'achat d'actions si je ne faisais pas ce calcul spécial. En choisissant cette option fiscale, le montant imposé en salaire sera plus faible.
+
+Calcul clair avec des chiffres ronds : (250 € - 125 €) = 125 € (Montant du rabais excédentaire qui dépasse les 5% de la valeur de l'action à la date de l'attribution)
+- Montant imposé en salaire : 125 € (0,05 × 12 000 €)
+
+Conclusion : En faisant ce calcul, je peux diminuer le montant imposé sur mon salaire pour l'année 2023 de 125 €. Il est donc important d'appliquer cette règle fiscale lorsque possible en cas d'option d'achat d'actions avec un rabais excédentaire.

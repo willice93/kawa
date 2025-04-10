@@ -1,0 +1,43 @@
+id: regle_p119_a3375c81
+titre: Cette règle s'applique aux personnes physiques déclarant un montant du capital
+  (lignes 1AT à 1DT) dans leur impôt sur le revenu.
+source: Brochure IR 2024
+regle:
+  description: "Cette règle s'applique aux personnes physiques déclarant un montant\
+    \ du capital (lignes 1AT à 1DT) dans leur impôt sur le revenu.\n\n   Les conditions\
+    \ sont que la somme déclarée doit être supérieure à zéro pour bénéficier de l'abattement\
+    \ de 10 %. Cependant, il n'existe pas de plafond pour cet abattement.\n\n   La\
+    \ formule de calcul applicable est : Montant du capital total - (10% du montant\
+    \ du capital total) = Capital à taxer.\n\n   Pour être sûr d'y avoir droit, il\
+    \ faut vérifier que le montant déclaré est correct et complet sur les lignes 1AT\
+    \ à 1DT de votre déclaration d'impôt sur le revenu."
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Nom: Pierre Dupont, entrepreneur indépendant dans la région Lyon
+
+
+  Contexte: À la suite de l''expansion de son entreprise et des gains réalisés en
+  2021, Monsieur Dupont a déclaré pour la première fois un montant du capital (lignes
+  1AT à 1DT) dans sa déclaration d''impôt sur le revenu.
+
+
+  Montants concernés: Son montant du capital total s''élève à 50 000 € et l''abattement
+  qui lui est accordé représente 10 % de ce montant (soit 5 000 €).
+
+
+  Declarations dans les bonnes cases: Il a précisé la somme du capital total en remplissant
+  correctement les lignes 1AT à 1DT.
+
+
+  Comparaison régime par défaut vs option choisie: En vertu de cette règle, Monsieur
+  Dupont bénéficie d''un abattement de 10 % sur son capital total (soit un montant
+  de 5 000 €). Si il n''avait pas déduit ce montant de son capital total, le "Capital
+  à taxer" serait de 55 000 € au lieu de 50 000 €.
+
+
+  Calcul clair avec des chiffres ronds: Capital total = 50 000 € - (10 % du capital
+  total) = 50 000 € - 5 000 € = 45 000 €.
+
+
+  Conclusion: En appliquant cette règle, le montant de "Capital à taxer" de Monsieur
+  Dupont s''élève à 45 000 € (1AK) et non pas au total de 55 000 €. Par conséquent,
+  son impôt sur le revenu sera réduit en vertu de cet abattement.'

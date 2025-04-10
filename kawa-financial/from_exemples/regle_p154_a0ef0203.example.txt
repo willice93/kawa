@@ -1,0 +1,15 @@
+Titre : Calcul de la contribution salariale sur les gains d'acquisition d'actions gratuites attribuées à compter du 16.10.2007 - Exemple pratique
+
+Nom: Jacques Dupond, Infirmier
+Profession: Infirmier en établissement de santé privé
+Situation: A reçu des actions gratuites depuis le 16.10.2007 dans l'établissement où il travaille
+
+Revenus annuel: 50 000 € (ligne 1AK)
+Gains d'acquisition d'actions gratuites attribuées à compter du 16.10.2007: 3 000 € (ligne 3VN)
+Contribution salariale sur les gains d'acquisition x 10 %: 300 €
+
+Régime par défaut vs option choisie: Aucune option n'a été choisie explicitement. La contribution est calculée à 10 %, ce qui représente le régime par défaut.
+
+Calcul clair avec des chiffres ronds: Montant des gains d'acquisition (3 000 €) x 10 % = Montant de la contribution salariale sur les gains d'acquisition (300 €)
+
+Conclusion: Dans cette situation, il est nécessaire de déclarer le montant des gains d'acquisition d'actions gratuites attribuées à compter du 16.10.2007 (ligne 3VN) et la contribution salariale calculée à 10 % (ligne 1GF). Il convient également de vérifier qu'aucun autre plafond ou règle ne s'applique pour cette même situation, en consultant d'éventuels autres textes législatifs ou réglementaires.

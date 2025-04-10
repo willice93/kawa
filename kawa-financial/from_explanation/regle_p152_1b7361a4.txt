@@ -1,0 +1,11 @@
+Règle s'applique à : Personnes qui bénéficient d'un sursis de paiement pour leurs plus-values et créances, ainsi que celles qui placent leurs plus-values en report d'imposition.
+
+ Conditions : Les personnes concernées ont des plus-values ou créances soumises à l'impôt sur le revenu ou aux prélèvements sociaux.
+
+ Montants ou plafonds :
+   - Pour les plus-values et créances soumises à l'impôt sur le revenu ou aux prélèvements sociaux, il faut indiquer respectivement les montants de ligne 3WA ou 3WM dans le formulaire.
+   - Pour les plus-values en report d'imposition, il faut indiquer : la ligne 3TA pour l'impôt sur le revenu et éventuellement la CEHR (Calcul d’Égalisation des charges sociales entre salariés), calculée sur la 2074 ETD selon les modalités applicables de l'année de la mise en report. Le montant de la base soumise aux prélèvements sociaux doit être indiqué soit dans la ligne 3XM (à 15,5 %) ou 3XA (à 17,2 %).
+
+ Formule de calcul applicable : Pas spécifiée dans le texte.
+
+ Pour être sûr d'y avoir droit : Les personnes concernées doivent vérifier les conditions requises pour bénéficier d'un sursis de paiement, telles que la durée de détention et l'état de leur situation financière. Elles doivent également s'assurer que leurs plus-values ou créances sont éligibles à ce dispositif en fonction des modalités applicables du Code général des impôts (CGI).

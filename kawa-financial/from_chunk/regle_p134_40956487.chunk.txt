@@ -1,0 +1,3 @@
+# Source: page 134
+
+Revenus déjà soumis aux prélèvements sociaux sans CSG déductible . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2CG Revenus déjà soumis aux prélèvements sociaux avec CSG déductible si option barème . . . . . . . . . . . . 2BH Autres revenus déjà soumis aux prélèvements sociaux avec CSG déductible . . . . . . . . . . . . . . . . . . . . . . . . . . . 2DF Revenus déjà soumis au seul prélèvement de solidarité de 7,5 % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2DG Revenus soumis au seul prélèvement de solidarité à soumettre à la CSG et à la CRDS . . . . . . . . . . . . . . . 2DI

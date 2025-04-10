@@ -1,0 +1,8 @@
+Règle appliquée aux membres de la famille (conjoint, partenaire PACS, enfants mineurs non émancipés) :
+
+Dans le cas où les bénéfices d'une société soumise à l'impôt sur le revenu (MSGM/MSGN) sont perçus par ces membres et excèdent 10 % du capital social, des primes d'émission et des sommes versées en compte courant détenues en pleine propriété ou en usufruit :
+
+- Montant à vérifier : Bénéfices perçus par les membres de la famille excédant 10 % du capital social, des primes d'émission et des sommes versées en compte courant détenues en pleine propriété ou en usufruit.
+- Montants ou plafonds : Bénéfices, capital social, primes d'émission, sommes versées en compte courant détenues en pleine propriété ou en usufruit par les membres de la famille.
+- Formule de calcul : Pas de formule de calcul spécifique fournie, il faut simplement indiquer la part excédante de 10 %.
+- Vérification : Il faut s'assurer que le pourcentage excédant 10 % des bénéfices perçus par les membres de la famille est effectuellement pris en compte dans l'impôt sur le revenu.

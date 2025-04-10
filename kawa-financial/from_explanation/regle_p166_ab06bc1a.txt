@@ -1,0 +1,7 @@
+La règle de calcul pour les plus-values et moins-values dans le régime réel s'applique à toutes les personnes physiques qui génèrent des bénéfices dans ce cadre. Cela se produit lorsque :
+
+1. Les conditions du régime réel sont applicables (sont spécifiées par la loi sur les impôts).
+2. Le prix de revient doit être diminué du montant des amortissements, ce qui est considéré comme étant pris en compte de l'abattement forfaitaire de 87 % appliqué aux recettes.
+3. Les plafonds de cette règle sont définis par la loi sur les impôts et peuvent varier.
+4. La formule de calcul est la suivante : Plus-value = (Revenus totaux - Prix de revient diminué des amortissements) - Abattement forfaitaire
+5. Il faut vérifier que toutes les conditions du régime réel sont remplies et que les amortissements sont pratiqués selon le mode linéaire pour être sûr d'y avoir droit.

@@ -1,0 +1,7 @@
+La règle s'applique aux plus-values et créances mentionnées dans le texte, dont l'imposition est en sursis de paiement. Les montants ou plafonds concernés sont les prélèvements sociaux à différents pourcentages suivant la nature des revenus :
+
+  1. Règle applicable lors du traitement des plus-values soumises aux prélèvements sociaux au barème (3WM) : le taux de prélèvement est de 3WM à l'IR, soit au barème ou à 12,8%.
+  2. Règle applicable lors du traitement des plus-values art. 150-0 B ter du CGI : l'imposition et les contributions pour le compte des retraites (CEHR) sont appliquées en plus de la taxe sur le revenu (IR), avec un taux de prélèvement de 15,5%.
+  3. Règle applicable lors du traitement des autres types de plus-values et créances (3XM ou 3XA) : le taux de prélèvement est de 17,2 %.
+
+Il faut vérifier que les montants en question correspondent à des plus-values ou créances mentionnées dans le texte et que l'imposition sur ces revenus n'a pas déjà été payée.

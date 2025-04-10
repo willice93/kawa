@@ -1,0 +1,23 @@
+Context: Jean Dupont, self-employed software developer living in Paris with an annual income of 50,000 euros from his business activities since January 1st, 2018.
+
+Example Application:
+
+* Taxable Income: 50,000 euros
+* ISR Forfaitaire Rate: 12.8% (0.128)
+* Additional Social Security Contributions Rate: 17.2% (0.172)
+* Barème Option (not specified in the text)
+
+Calculation:
+
+* Base Tax (ISR Forfaitaire): 50,000 * 0.128 = 6400 euros
+* Additional Social Security Contributions: 50,000 * 0.172 = 8600 euros
+
+Declaration:
+
+* ISR: 1AK (Box A for self-employed individuals) - Amount: 6,400 euros
+* Additional Social Security Contributions: 1GF (General Regime) - Amount: 8,600 euros
+
+Comparison:
+In the default regime, Jean Dupont's total tax and contributions would be 14,000 euros. However, he chooses to apply for the Barème option, which could potentially reduce his taxes if certain conditions are met. It is recommended that Jean consult a tax professional or do further research on the Barème option to determine if it would be beneficial in his case.
+
+Summary: Self-employed software developer Jean Dupont with an annual income of 50,000 euros since January 1st, 2018 is required to pay 6,400 euros in ISR and 8,600 euros in additional social security contributions under the default regime. He should explore the Barème option as it may potentially lower his taxes.

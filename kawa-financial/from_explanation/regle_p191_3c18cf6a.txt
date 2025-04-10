@@ -1,0 +1,24 @@
+Règle : Déclaration des Cotisations Sociales Négatives (DSDA ou DSDB)
+
+Cette règle s’applique aux travailleurs indépendants, gérants associés de société à l'IS et aux personnes ayant une comptabilité d'engagement.
+
+Les conditions dans lesquelles cette règle peut être appliquée sont les suivantes :
+1. Pour les travailleurs indépendants :
+   - Si, après le calcul des cotisations sociales définitives, un remboursement de cotisations sociales a lieu (régularisation créditrice)
+   - Si une erreur est commise dans l'estimation du montant des cotisations sociales à déduire et que le montant de la provision est plus élevé que le montant des cotisations réellement dues
+
+2. Pour les gérants associés de société :
+   - Si le remboursement de cotisations a été au préalable réintégré dans la rémunération imposable
+
+Quels sont les montants ou plafonds :
+- Montant des cotisations sociales dues (montant de la provision, montant des cotisations payées ou remboursées)
+- Montant des cotisations remboursées ou réintégrées dans la rémunération imposable
+
+La formule de calcul applicable est :
+- Si le montant des cotisations remboursé est supérieur à celui des cotisations payées, il convient de déclarer la différence en cotisations sociales “négatives” (DSDA ou DSDB)
+- Si le montant de la reprise de la provision (nette des charges réelles) est supérieur à celui des cotisations dues (provision), il convient de déclarer la différence en cotisations sociales “négatives” (DSDA ou DSDB)
+
+Il faut vérifier pour être sûr d'y avoir droit :
+- Pour les travailleurs indépendants, si le remboursement de cotisations a été correctement pris en compte dans le calcul des cotisations sociales
+- Pour les gérants associés de société, si le remboursement de cotisations a été au préalable réintégré dans la rémunération imposable
+- Si l'erreur d'estimation du montant des cotisations sociales à déduire a bien entraîné une provision trop élevée pour les travailleurs indépendants ayant une comptabilité d'engagement

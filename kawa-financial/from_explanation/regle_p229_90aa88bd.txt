@@ -1,0 +1,9 @@
+Règle d'application : Pour les salariés ayant un revenu global en 2023, la déduction des cotisations PER est possible à hauteur du plafond de 330 €.
+
+   Conditions : La règle s'applique aux personnes qui ont effectué des cotisations PER sur leur revenu global.
+
+   Montants ou Plafonds : Les cotisations PER déductibles ne peuvent dépasser 330 €, tandis que les 2 670 € restants (3 000 - 330) ne sont ni déductibles ni reportables.
+
+   Formule de Calcul applicable : La déduction est calculée en prenant la somme des cotisations PER effectuées et en déductant le plafond maximum de 330 €. Le résultat doit être un montant positif pour être déductible, si ce montant est supérieur à zéro, alors le reste n'est ni déductible ni reportable (2 670 € dans l'exemple).
+
+   Vérification : Pour être sûr d'y avoir droit, vous devez vérifier que vous avez effectué des cotisations PER sur votre revenu global, et que le montant de ces cotisations est inférieur ou égal à 3 000 € (incluant le plafond de déduction).

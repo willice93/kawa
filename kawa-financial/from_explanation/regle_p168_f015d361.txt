@@ -1,0 +1,11 @@
+La règle ci-dessous s'applique aux exploitants agricoles pour déterminer le bénéfice agricole :
+
+Conditions :
+1. Les revenus en question sont issus des activités accessoires relevant de la catégorie des bénéfices industriels et commerciaux et non commerciaux.
+2. La moyenne annuelle des recettes accessoires commerciales et non commerciales réalisées au titre des trois années civiles précédant la date d'ouverture de l'exercice ne doit pas excéder :
+   - 50 % de la moyenne annuelle des recettes tirées de l'activité agricole au titre de ces mêmes années.
+   - 100 000 € (ce montant inclut remboursement de frais, taxes et autres).
+
+Formule de calcul : Si la condition 2 est respectée, les revenus des activités accessoires peuvent être pris en compte pour déterminer le bénéfice agricole. Sinon, ils ne sont pas pris en compte.
+
+Vérification : Vérifier que la moyenne annuelle des recettes accessoires commerciales et non commerciales ne dépasse pas 50 % de la moyenne annuelle des recettes tirées de l'activité agricole au titre des trois années précédentes, ni 100 000 €.

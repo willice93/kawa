@@ -1,0 +1,17 @@
+Règle de calcul applicable aux exploitants qui reçoivent la dotation à l'installation des jeunes agricululteurs :
+
+- Les conditions d'application : Le bénéfice annuel doit être connu pour l'exercice dans lequel est attribuée la dotation.
+- Montants ou plafonds :
+  - L'abattement est de 75 % lorsque le bénéfice annuel est inférieur ou égal à 45 100 €.
+  - L'abattement est de 50 % pour la fraction du bénéfice supérieure à 45 100 € et inférieure ou égale à 60 100 €.
+  - Le montant des abattements ne peut pas être inférieur au montant de la dotation d'installation des jeunes agriculteurs inscrit en comptabilité au titre de l'exercice de son attribution.
+
+- Formule de calcul applicable : Pour le calcul de l'abattement, on calcule d'abord les fractions du bénéfice relevant de chaque plafond :
+  - Fraction du bénéfice inférieure ou égale à 45 100 € : fraction du bénéfice / 45 100
+  - Fraction supérieure à 45 100 € et inférieure ou égale à 60 100 € : (bénéfice - 45 100) / 15 100
+
+Ensuite, on applique les taux d'abattement correspondant à chaque fraction pour obtenir le montant total de l'abattement :
+  - Pour la fraction inférieure ou égale à 45 100 € : (fraction / 100) * montant du bénéfice
+  - Pour la fraction supérieure à 45 100 € et inférieure ou égale à 60 100 € : [((fraction / 100) * montant du bénéfice) pour la partie inférieure ou égale à 45 100 €] + [((fraction / 200) * (montant du bénéfice - 45 100)) pour la partie supérieure à 45 100 € et inférieure ou égale à 60 100 €]
+
+- Vérification : Pour être sûr d'y avoir droit, il faut que le bénéfice annuel soit connu pour l'exercice dans lequel est attribuée la dotation et que ce montant ne soit pas inférieur au montant de la dotation d'installation des jeunes agriculteurs inscrit en comptabilité.

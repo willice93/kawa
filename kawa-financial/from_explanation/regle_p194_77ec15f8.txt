@@ -1,0 +1,5 @@
+Cette règle s'applique aux bénéficiaires d'aides financières dont le montant doit être réduit de la part de CSG (Contribution Sociale Généralisée) au taux de 3,8 %. Les montants ou plafonds concernés sont :
+   - La partie de la CSG au taux de 3,8 %
+   - Le montant des aides financières en question
+
+La formule de calcul applicable est la suivante : le montant net d'aide obtenu est égale à la somme du montant initial des aides moins la part de CSG au taux de 3,8 % (CSG3.8%). Il est donc nécessaire de vérifier les déductions fiscales pour être sûr que seule la CSG au taux de 3,8 % est prise en compte dans le calcul des aides financières rémunérées.

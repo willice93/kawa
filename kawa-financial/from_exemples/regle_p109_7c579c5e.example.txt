@@ -1,0 +1,23 @@
+Nom : Jean Dupont, Ingénieur en mécanique pour deux entreprises distinctes (Entreprise A et Entreprise B)
+
+Situation : Les deux emplois ont chacun versé une prime partage de valeur (PPV), dépassant les plafonds respectifs (3 000 € pour Entreprise A et 6 000 € pour Entreprise B).
+
+Revenus :
+- Entreprise A : Maisonnette mensuelle de 1 400 €, Prime Partage de Valeur (PPV) annuelle de 3 800 €.
+- Entreprise B : Maisonnette mensuelle de 2 000 €, Prime Partage de Valeur (PPV) annuelle de 5 000 €.
+
+Taux d'imposition applicable pour les revenus salariés : 14 % en régime par défaut, 10 % avec option de cotisation supplémentaire.
+
+Déclaration :
+- 1AK : Maisonnette mensuelle de chaque emploi (2 × 1 400 € + 2 × 2 000 € = 6 800 €)
+- 1GF : Prime Partage de Valeur des deux emplois (3 800 € pour Entreprise A + 5 000 € pour Entreprise B = 8 800 €)
+
+Comparaison entre le régime par défaut et l'option choisie :
+- Régime par défaut : Le total imposable sera de 6 800 € (salaires) + 2 800 € (PPV au delà du plafond = 8 800 € - 3 000 €). L'imposition sera donc de 14 % sur tout le montant.
+- Option choisie : En optant pour l'option de cotisation supplémentaire, l'imposable sera réduit à 6 800 € (salaires) + 3 000 € (Plafond PPV). L'imposition sera donc de 10 % sur tout le montant.
+
+Calcul clair avec des chiffres ronds :
+- Régime par défaut : Montant imposable = 6 800 € + (8 800 € - 3 000 €) × 0,14 = 9 272 €.
+- Option choisie : Montant imposable = 6 800 € + 3 000 € × 0,10 = 8 600 €.
+
+Conclusion : En optant pour l'option de cotisation supplémentaire, Jean Dupont réduit sa charge fiscale en choisissant le régime de l'option cotisante supplémentaire (déclaration 1GF), au lieu du régime par défaut.

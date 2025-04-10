@@ -1,0 +1,7 @@
+Règle d'exonération fiscale applicabile aux contribuables impatriés :
+
+- À qui s’applique : Contribuables impatriés, c’est-à-dire personnes domiciliées en France qui perçoivent des droits d'auteur ou de propriété industrielle dont le paiement est assuré par une personne établie hors de France.
+- Dans quelles conditions : Les droits d'auteur concernés doivent être payés dans un État ayant conclu avec la France une convention fiscale contenant une clause d’assistance administrative visant à lutter contre la fraude ou l’évasion fiscale.
+- Quels sont les montants ou plafonds : L'exonération s'applique aux droits d'auteur perçus à compter de la date à laquelle le contribuable est considéré comme domicilié en France et jusqu’au 31 décembre de la cinquième année suivant celle de la prise de fonctions (huitième année lorsque la prise de fonctions est intervenue à compter du 6.7.2016).
+- Formule de calcul applicable : La fraction exonérée des droits d'auteur imposés dans la catégorie des BNC selon le régime réel ou les revenus imposés selon le régime micro (cas spécifique mentionné) est retenue pour la détermination du revenu fiscal de référence.
+- Ce qu’il faut vérifier : Il convient de vérifier que le paiement des droits d'auteur ou de propriété industrielle en question est effectué par une personne établie hors de France dans un État ayant conclu avec la France une convention fiscale contenant une clause d’assistance administrative visant à lutter contre la fraude ou l’évasion fiscale.

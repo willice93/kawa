@@ -1,0 +1,13 @@
+Nom : Pierre Dupont, agent immobilier à Paris
+
+Contexte : Pour l'année financière 2023, M. Dupont a obtenu des commissions totalisant 150 000€ de revenus provenant d'immobiliers en location. Ces commissions sont soumises au prélèvement non libératoire et doivent être déclarées à la Direction générale des Finances publiques (DGFiP).
+
+Montants : Les commissions totalisant 150 000€ de revenus provenant d'immobiliers en location sont soumises au prélèvement non libératoire. Le taux forfaitaire applicable est de 12,8 %. En option, il est possible de soumettre ces revenus au barème de l'impôt sur le revenu.
+
+Formes à remplir : M. Dupont doit remplir la forme de déclaration annuelle de revenu (forme 2042). Il devra déposer les informations relatives aux commissions (1AK) et appliquer soit le taux forfaitaire applicable, soit le barème de l'impôt sur le revenu en fonction de son choix.
+
+Comparaison entre régimes : Le taux forfaitaire de 12,8 % est supérieur au régime par défaut (barème de l'impôt sur le revenu), qui pourrait être appliqué à ces commissions si M. Dupont en choisit cette option.
+
+Calcul clair avec des chiffres ronds : Les commissions totalisent 150 000€. Sous l'option taux forfaitaire, le montant de l'impôt sera donc de 18 900 € (150 000 x 12,8%).
+
+Conclusion : Pour l'année financière 2023, M. Dupont devra déclarer ses commissions dans la forme 2042 et appliquer le taux forfaitaire applicable à ces revenus (cas d'un montant de 18 900€ pour les commissions de 150 000 €). Il devra également choisir entre l'option taux forfaitaire ou barème de l'impôt sur le revenu.

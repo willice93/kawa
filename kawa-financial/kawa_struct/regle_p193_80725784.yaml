@@ -1,0 +1,71 @@
+id: regle_p193_80725784
+titre: 'Règle applicable pour les dirigeants qui exercent leur activité professionnelle
+  principale :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle applicable pour les dirigeants qui exercent leur activité professionnelle
+    principale :
+
+
+    - À qui s’applique la règle : Les dirigeants qui exercent leur activité professionnelle
+    principale dans la rubrique "Frais réels" ne sont pas admis en déduction dans
+    la base de calcul des cotisations sociales.
+
+
+    - Dans quelles conditions : Lorsque le dirigeant exerce son activité professionnelle
+    principale et qu''il y est indiqué dans la rubrique "Frais réels".
+
+
+    - Quels sont les montants ou plafonds : Les frais réels en question n''ont pas
+    de plafond. Il s''agit d''une déduction non admise.
+
+
+    - Quelle est la formule de calcul applicable : Il n''y a pas de formule à appliquer
+    car les frais réels en cause sont exclus du calcul des cotisations sociales pour
+    les dirigeants exerçant leur activité professionnelle principale dans la rubrique
+    "Frais réels".
+
+
+    - Et ce qu’il faut vérifier pour être sûr d''y avoir droit : Il est important
+    de vérifier si le dirigeant exerce son activité professionnelle principale et
+    s''il y a indiqué dans la rubrique "Frais réels". Si oui, il n''a pas le droit
+    à cette déduction.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Exemple de situation : Marie Dupont, qui est directrice générale d''une
+  société informatique, déclare ses revenus fiscaux annuels.
+
+
+  Marie Dupont exerce sa profession dans la rubrique "Frais réels" en tant que directrice
+  générale de son entreprise. Son revenu global annuel est de 120 000€.
+
+
+  Pour calculer ses cotisations sociales, elle doit déclarer correctement ses revenus
+  dans les bonnes cases :
+
+  - Revenu global : 1AK
+
+  - Frais réels (car Marie exerce cette activité professionnelle principale) : 1GF
+
+
+  Sans cette déclaration dans la rubrique "Frais réels", Marie Dupont ne pourrait
+  pas bénéficier de cette déduction non admise dans le calcul de ses cotisations sociales.
+
+
+  Comparaison entre régime par défaut et option choisie : Dans ce cas, l''option choisie
+  est la déclaration des frais réels, qui n''est pas admise en déduction dans le calcul
+  des cotisations sociales pour les dirigeants exerçant leur activité professionnelle
+  principale dans cette rubrique. Si Marie Dupont ne déclare pas ces frais réels,
+  elle peut utiliser le régime par défaut (sans cette option), ce qui n''aura aucune
+  incidence sur son calcul de cotisation sociale.
+
+
+  Calcul clair avec des chiffres ronds : Si Marie Dupont ne déclare pas les frais
+  réels dans la rubrique "Frais réels", elle peut bénéficier du régime par défaut,
+  ce qui permettrait à Marie de faire une économie de 10 000€ (soit 8,33% de son revenu
+  total) sur ses cotisations sociales.
+
+
+  Conclusion : Pour éviter d''avoir des difficultés avec les services fiscaux, il
+  est important pour Marie Dupont de déclarer correctement tous ses revenus dans les
+  bonnes cases, y compris les frais réels qui ne sont pas admissibles en déduction
+  dans le calcul de ses cotisations sociales.'

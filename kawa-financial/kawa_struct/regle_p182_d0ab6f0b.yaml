@@ -1,0 +1,57 @@
+id: regle_p182_d0ab6f0b
+titre: 'Règle d''exonération fiscale applicabile aux contribuables impatriés :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle d''exonération fiscale applicabile aux contribuables impatriés
+    :
+
+
+    - À qui s’applique : Contribuables impatriés, c’est-à-dire personnes domiciliées
+    en France qui perçoivent des droits d''auteur ou de propriété industrielle dont
+    le paiement est assuré par une personne établie hors de France.
+
+    - Dans quelles conditions : Les droits d''auteur concernés doivent être payés
+    dans un État ayant conclu avec la France une convention fiscale contenant une
+    clause d’assistance administrative visant à lutter contre la fraude ou l’évasion
+    fiscale.
+
+    - Quels sont les montants ou plafonds : L''exonération s''applique aux droits
+    d''auteur perçus à compter de la date à laquelle le contribuable est considéré
+    comme domicilié en France et jusqu’au 31 décembre de la cinquième année suivant
+    celle de la prise de fonctions (huitième année lorsque la prise de fonctions est
+    intervenue à compter du 6.7.2016).
+
+    - Formule de calcul applicable : La fraction exonérée des droits d''auteur imposés
+    dans la catégorie des BNC selon le régime réel ou les revenus imposés selon le
+    régime micro (cas spécifique mentionné) est retenue pour la détermination du revenu
+    fiscal de référence.
+
+    - Ce qu’il faut vérifier : Il convient de vérifier que le paiement des droits
+    d''auteur ou de propriété industrielle en question est effectué par une personne
+    établie hors de France dans un État ayant conclu avec la France une convention
+    fiscale contenant une clause d’assistance administrative visant à lutter contre
+    la fraude ou l’évasion fiscale.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: "Contribuables impatriés exemples :\n\n- Nom : Jean Dupont\n  - Profession\
+  \ : Auteur de livres enfantins\n  - Situation : Domicilié en France depuis 2017\
+  \ et perçoit des droits d'auteur sur ses ouvrages étrangers qui sont payés par une\
+  \ maison d'édition établie aux États-Unis.\n\nMontants concernés :\n\n- Les droits\
+  \ d'auteur concernés ont été payés à partir de 2017 et les revenus imposables sont\
+  \ situés dans la catégorie des BNC (Bénéfices non commerciaux).\n\nDéclaration :\n\
+  \n- Déclaration de revenu sur le formulaire de déclaration annuelle individuelle,\
+  \ catégorie des BNC, cases 1AK pour les droits d'auteur.\n\nComparaison régime par\
+  \ défaut vs option choisie :\n\n- Sans exonération fiscale, M. Dupont payerait en\
+  \ 2021 (année de calcul) environ 3 000 € de taxes sur les droits d'auteur perçus.\n\
+  - Avec l'exonération fiscale applicable aux contribuables impatriés, M. Dupont ne\
+  \ payera pas de taxes sur ces droits d'auteur pour la période allant de 2017 à 2022\
+  \ (cinquième année suivante à sa prise de fonctions).\n\nCalcul clair avec des chiffres\
+  \ ronds :\n\n- M. Dupont perçoit en 2021, sur ses droits d'auteur, 8 000 €. Sans\
+  \ exonération fiscale, ce montant serait imposé à hauteur de 30%. Avec l'exonération\
+  \ fiscale applicable aux contribuables impatriés, M. Dupont ne payera pas de taxes\
+  \ sur ces droits d'auteur.\n\nConclusion :\n\n- L'exonération fiscale applicabile\
+  \ aux contribuables impatriés peut permettre à un auteur comme M. Dupont de ne pas\
+  \ payer de taxes pour les droits d'auteurs perçus pendant une période allant de\
+  \ 5 à 8 années suivant sa prise de fonction en France, en cas de paiement de ces\
+  \ droits par une personne établie hors de France dans un pays ayant conclu avec\
+  \ la France une convention fiscale contenant une clause d’assistance administrative\
+  \ visant à lutter contre la fraude ou l’évasion fiscale."

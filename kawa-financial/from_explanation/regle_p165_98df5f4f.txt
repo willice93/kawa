@@ -1,0 +1,14 @@
+Cette règle s'applique aux entreprises qui ont opté pour le régime fiscal du versement libératoire de l'impôt sur le revenu pour des activités relevant des BIC (Petites et Moyennes Entreprises Innoveurs) dans l'année 2023.
+
+Conditions: L'entreprise doit indiquer le chiffre d'affaires total réelisé dans cette année, comprenant le chiffre d'affaires déduit pour le calcul des cotisations sociales. Ce chiffre d'affaires doit être celui que l'entreprise a indiqué dans ses déclarations mensuelles ou trimestrielles souscrites à l'appui des versements libératoires.
+
+Montant / Plafond: L'administration calcule un bénéfice à partir de ce chiffre d'affaires par application de l'abattement forfaitaire suivant :
+- 71 % pour les activités de ventes et assimilées (5TA à 5VA)
+- 50 % pour les prestations de services et les locations meublées (5TB à 5VB)
+
+Formule de calcul applicable: Le bénéfice est déterminé en multipliant le chiffre d'affaires par l'abattement forfaitaire applicabl e (71% pour les activités de ventes et assimilées ou 50% pour les prestations de services et les locations meublées) et en soustrayant ce résultat du chiffre d'affaires original.
+
+Pour être sûr d'y avoir droit, vérifiez que votre entreprise répond aux conditions suivantes :
+- Opté pour le régime fiscal du versement libératoire de l'impôt sur le revenu pour des activités relevant des BIC dans l'année 2023.
+- Votre entreprise est une PME innoveuse.
+- Les déclarations mensuelles ou trimestrielles que vous avez souscrites à l'appui des versements libératoires sont correctes et complètes.

@@ -1,0 +1,5 @@
+Règle s'applique à : Les personnes ayant des enfants en résidence alternée.
+   Conditions : La résidence alternée doit être appliquée aux enfants concernés.
+   Montant/Plafond : Pas de plafond spécifié dans le texte. Le montant de la réduction d'impôt accordée est divisé par deux.
+   Formule de calcul applicable : (Montant de réduction d'impôt) / 2.
+   Vérifier pour être sûr d'y avoir droit : Vérifiez si votre situation fait effectivement application à la résidence alternée, et indiquez ce nombre dans les cases 7EB, 7ED, 7EG de la 2042 RICI.

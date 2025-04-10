@@ -1,0 +1,20 @@
+Règle applicabile à ceux qui ont acquis un bien immobilier pour une valeur supérieure à 300 000 € et ont ensuite vendu ce bien en 2018 ou après.
+
+   Les conditions :
+   - Le gain d'acquisition doit être inférieur à 300 000 €.
+   - L'abattement fixe de 500 000 € peut être appliqué si les conditions sont remplies.
+
+   Montants ou plafonds :
+   - Le gain d'acquisition doit être inférieur à 300 000 € pour que l'abattement soit applicable.
+   - L'abattement fixe est de 500 000 €.
+   - Les abattements de 50 % sont appliqués sur le reliquat ou le gain d'acquisition après application de l'abattement fixe.
+
+   Formule de calcul applicable :
+   - L'abattement fixe de 500 000 € est pris en priorité sur la plus-value de cession puis, pour le surplus éventuel, sur le gain d'acquisition.
+   - Si le reliquat existe ou si l'abattement n'est pas appliqué, un abattement de 50 % est appliqué au gain d'acquisition.
+
+   Pour être sûr d'y avoir droit :
+   - Vous devez déclarer sur la 2042 C :
+      - La fraction du gain d'imposition après abattement, ligne 1TZ.
+      - L'abattement fixe, ligne 1VZ (abattement soumis aux prélève- ments sociaux).
+      - L'abattement de 50 %, ligne 1WZ (abattement soumis aux prélève- ments sociaux).

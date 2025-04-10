@@ -1,0 +1,9 @@
+Règle d'application : Ce montant est applicable aux retraités français et assimilés.
+
+Conditions : Les retraités français bénéficient de cette somme lorsqu'ils ont atteint leur âge de retraite (62 ans pour les hommes, 60 ans pour les femmes depuis le 1er janvier 2023) et s'il n'y a pas d'autres revenus supérieurs à ce montant pendant l'année considérée.
+
+Montants : Le plafond mensuel de la sécurité sociale est de 3 666 € en 2023, avec un montant annuel de 43 992 €.
+
+Formule de calcul applicable : Aucune formule spécifique à appliquer car c'est un plafond fixe et non un montant calculé.
+
+Verification pour y avoir droit : Il faut vérifier que l'on a atteint l'âge de retraite (62 ans pour les hommes, 60 ans pour les femmes depuis le 1er janvier 2023) et que l'on n'a pas d'autres revenus supérieurs à ce montant pendant l'année considérée.

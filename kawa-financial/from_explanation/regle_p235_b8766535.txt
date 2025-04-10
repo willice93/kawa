@@ -1,0 +1,11 @@
+Règle d'application : Réductions et crédits d'impôt sur les dons versés à des organismes établis en France ou à des organismes d'aide aux personnes en difficulté.
+
+Conditions d'applicabilité : Les dons doivent être effectués par les contribuables résidant en France, qui ont un revenu imposable supérieur ou égal à 20 000 € (salaires compris).
+
+Montants ou plafonds : Les réductions d'impôt s'échelonnent de 60 % à 50 % des dons versés (maximum 1 000 € par an), ce qui signifie que le montant maximal accordé en réduction d'impôt est de 600 €.
+
+Formule de calcul applicable : La réduction est calculée en multipliant les dons effectués par la fraction suivante :
+     - Si le total des dons dépasse 200 €, la réduction d'impôt s'applique sur 60 % du montant supérieur à 200 €.
+     - Sinon, elle ne s'applique pas.
+
+Vérification : Il faut vérifier que les dons sont bien effectués vers des organismes établis en France ou des organismes d'aide aux personnes en difficulté, et qu'ils ont été faits dans l'année calendaire précédant celle de la déclaration d'impôt.

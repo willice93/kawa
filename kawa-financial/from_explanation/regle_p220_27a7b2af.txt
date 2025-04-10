@@ -1,0 +1,7 @@
+Règle applicabile per la deduzione della tassa sulla valutà (CSG) in Francia:
+
+- Applicabile a coloro che hanno un reddito dal patrimonio.
+- Le condizioni sono che le spese utilizzate siano deductibili in base alla legge francese e si possiedano i documenti di prova necessari.
+- Il monte o plafondo è il valore totale delle spese deduttibili calcolato sul reddito dal patrimonio.
+- La formule di calcolo è: Valore totale delle spese deduttibili / Reddito dal patrimonio = Tasso di CSG applicabile.
+- Per essere sicuro di avere diritto alla deduzione, assicurarsi che le spese utilizzate sono veramente deduttibili in base alla legge francese e che i documenti di prova necessari siano disponibili.

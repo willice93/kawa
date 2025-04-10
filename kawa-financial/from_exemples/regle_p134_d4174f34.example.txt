@@ -1,0 +1,20 @@
+Nom : Jean Dupont, ingénieur en chef
+   Situation : Titulaire de deux bons de capitalisation acheté en 2015 et 2016, avec des versements effectués avant le 27 septembre 2017.
+
+Revenus annuels 2022 : 60 000 €
+   Plafond d'impôt sur le revenu : 45 000 € (situation de revenus inférieure au plafond)
+   Régime par défaut : Impôt sur le revenu à taux progressif
+   Option choisie : Application de la règle applicable aux produits de bons et contrats de moins de 8 ans afférents à des versements effectués avant le 27.9.2017 avec prélèvement forfaitaire libératoire (15 %)
+   Montant investi dans les bons : 20 000 € pour chaque contrat, soit un total de 40 000 €
+   Somme précédemment investie et ses intérêts en 2022 : 45 000 € (on considère une croissance annuelle de 3 % depuis l'achat des bons)
+
+Déclaration d'impôt :
+- Case 1AK : Revenus et redevances du travail, salaires, indemnités, allocations ou prestations diverses
+- Case 1GF : Produits de capitalisation acheté avant le 27.9.2017 avec prélèvement forfaitaire libératoire (15 %)
+   Montant à déclarer dans la case 1GF : 45 000 € (somme précédemment investie et ses intérêts en 2022) x 15 % = 6 750 €
+
+Comparaison des régimes :
+- Régime par défaut : Impôt à payer sur les revenus de travail de 60 000 € (sans déduction pour ces bons), soit environ 3 600 €.
+- Option choisie : Avec le prélèvement forfaitaire libératoire, l'impôt à payer sur les revenus de travail est réduit à 59 250 € (60 000 € - 6 750 €), soit environ 3 387 €.
+
+Synthèse : En choisissant l'option applicable aux produits de bons et contrats de moins de 8 ans afférents à des versements effectués avant le 27.9.2017, Jean Dupont a réduit sa charge d'impôt sur les revenus de près de 200 € en 2022. Il est important de vérifier avec un professionnel financier ou fiscal compétent pour obtenir une information plus détaillée et appropriée selon son cas particulier.

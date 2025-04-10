@@ -1,0 +1,58 @@
+id: regle_p100_b81ac056
+titre: 'La règle s''applique aux employés licenciés conventionnellement dans les conditions
+  où ils bénéficient d''une indemnité de rupture conventionnelle exonérée. Le montant
+  ou plafond de l''indemnité totale est la somme des deux montants suivants :'
+source: Brochure IR 2024
+regle:
+  description: "La règle s'applique aux employés licenciés conventionnellement dans\
+    \ les conditions où ils bénéficient d'une indemnité de rupture conventionnelle\
+    \ exonérée. Le montant ou plafond de l'indemnité totale est la somme des deux\
+    \ montants suivants :\n\n  1. Montant de l'indemnité de licenciement légal ou\
+    \ conventionnel à un maximum de 2 ans salaire brut annuel sans limite.\n\n  2.\
+    \ 50 % de l'indemnité totale ou double du revenu annuel brut de l'année civile\
+    \ précédente, mais ne peut pas dépasser 263 952 €.\n\n   Le calcul est donc :\
+    \ Indemnité totale = (Montant licenciement légal/conventionnel) + (0,5 * Revenu\
+    \ annuel brut de l'année précédente ou double, mais pas plus de 263 952 €).\n\n\
+    \   Il faut vérifier que les conditions suivantes sont réunies pour être sûr d'y\
+    \ avoir droit :\n\n   - L'employé a été licencié conventionnellement.\n   - L'employeur\
+    \ est autorisé à déduire l'indemnité de rupture.\n   - L'employé ne bénéficie\
+    \ pas déjà d'une indemnité similaire dans les faits ou en vertu d'un autre accord\
+    \ ou réglementation."
+  formule: Non spécifiée
+cas_pratique: 'Contexte : Marie, 45 ans, est une employée qui travaille pour XYZ Corporation
+  pendant les 20 dernières années. Elle a été licenciée conventionnellement en décembre
+  2021 après avoir annoncé son intention de prendre sa retraite.
+
+
+  Montants concernés : Le montant du licenciement légal/conventionnel pour Marie était
+  de 30 000 €, et son revenu brut annuel de l''année civile précédente (2020) était
+  de 65 000 €.
+
+
+  Déclaration : Les montants doivent être déclarés dans les cases suivantes de la
+  déclaration d''impôts :
+
+  - Montant licenciement légal/conventionnel : 1AK
+
+  - Revenu annuel brut : 1GF
+
+
+  Comparaison : Sous le régime par défaut, Marie serait soumise à l''imposition sur
+  ses revenus (65 000 €), ainsi que sur le montant du licenciement conventionnel (30
+  000 €). En choisissant l''option de l''indemnité de rupture exonérée, elle bénéficie
+  d''un écart fiscal sur les deux montants en question.
+
+
+  Calcul : Indemnité totale = (Montant licenciement légal/conventionnel) + (0,5 *
+  Revenu annuel brut de l''année précédente ou double)
+
+  Indemnité totale = (30 000 €) + (0,5 * 65 000 €)
+
+  Indemnité totale = 30 000 € + 32 500 €
+
+  Indemnité totale = 62 500 €
+
+
+  Conclusion : En appliquant la règle, Marie pourrait bénéficier d''une indemnité
+  de licenciement totale exonérée de 62 500 €, ce qui signifie qu''elle ne devra pas
+  payer d''impôts sur ces montants spécifiques.'

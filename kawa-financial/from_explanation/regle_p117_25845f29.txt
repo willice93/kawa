@@ -1,0 +1,9 @@
+Règle d'application : Les revenus après déduction forfaitaire de 10% ou des frais réels des salariés (revenus net à l'impôt) sont utilisés pour calculer le taux effectif applicable aux revenus imposables en France et pour la détermination du revenu fiscal de référence.
+
+Conditions d'application : Les revenus à retenir pour ce calcul correspondent uniquement aux revenus net à l'impôt des salariés.
+
+Plafonds ou montants : Il n'y a pas de plafond ou de montant spécifié dans le texte analysé.
+
+Formule de calcul applicable : Les revenus net à l'impôt sont utilisés directement pour le calcul du taux effectif applicable aux revenus imposables et pour la détermination du revenu fiscal de référence.
+
+Vérification pour être sûr d'y avoir droit : Vérifier que les frais réels des salariés ont été correctement pris en compte pour le calcul de la déduction, et que les revenus utilisés sont ceux après application de cette déduction.

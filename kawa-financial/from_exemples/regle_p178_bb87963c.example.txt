@@ -1,0 +1,15 @@
+Nom : Jean Dupont, Entrepreneur en architecture
+
+Situation : M. Dupont a ouvert son bureau d'architecture dans la Zone Franc de Paris-La Défense il y a trois ans. Il a réalisé un bénéfice non imposable (BNI) de 500 000€ cette année-là.
+
+Calcul : Le montant de l'exonération prévue en faveur des ZFUE s'obtient en appliquant l'abattement de 34 % au Bénéfice non imposable (BNI). Or, le BNI de M. Dupont est de 500 000€. Donc le montant de l'exonération sera :
+
+Exonération = (Bénéfice non imposable) * 0.34
+                = 500 000 € * 0.34
+                = 170 000 €
+
+Declarations : Pour déclarer cette exonération, M. Dupont devra indiquer le montant de son Bénéfice non imposable dans la case 1GF de sa déclaration d'imposition sur les revenus (DIRE), et en ajouter le montant de l'exonération prévue en faveur des ZFUE dans la case 1AK.
+
+Comparaison : En comparant le régime par défaut avec l'option choisie, M. Dupont verra qu'en bénéficiant de cette exonération, il réduit effectivement son impôt sur les revenus de 170 000€.
+
+Conclusion : Afin de profiter pleinement de cet avantage fiscal, il est important pour M. Dupont de s'assurer que ses activités sont bien situées dans une Zone Franc et que le bénéfice non imposable correspond aux exonérations prévues en faveur des ZFUE. Il doit également consulter la loi et la réglementation applicables pour avoir un aperçu plus précis de ces conditions et de la manière dont cette exonération doit être calculée.

@@ -1,0 +1,13 @@
+Contexte : John Doe, architecte et propriétaire d'un hôtel classé patrimoine historique situé sur la rue principale de sa ville.
+
+Montants concernés :
+- L'hôtel coûte 1 000 000 dollars pour son entretien annuel.
+- La subvention accordée par la Fondation du patrimoine pour cet entretien s'élève à 200 000 dollars.
+
+Déclaration : Dans le cas de John Doe, il doit déclarer les frais d'entretien de son hôtel dans les cases 1AK (dépenses de fonctionnement et d'exploitation) et 1GF (dépenses de réparation et d'entretien des immeubles).
+
+Comparaison : Le régime par défaut ne permet pas de déduire les frais d'entretien de cet hôtel. Cependant, étant donné que cette propriété est subventionnée, John Doe peut bénéficier d'une déduction de 50 % ou 100 % du montant non couvert par la subvention pour les travaux de réparation et d'entretien.
+
+Calcul clair avec des chiffres ronds : Si John Doe effectue 500 000 dollars en travaux de réparation et d'entretien non subventionnés, il peut déduire 50 % ou 100 % de ce montant selon la condition précédente. Donc une déduction de 250 000 dollars pour le régime de 100 %, ou une déduction de 200 000 dollars pour le régime de 50 %.
+
+Conclusion : Grâce à cette règle, John Doe peut réduire sa charge annuelle d'impôt en cascade grâce aux dépenses de réparation et entretien non subventionnées de son hôtel historique.

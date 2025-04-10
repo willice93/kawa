@@ -1,0 +1,52 @@
+id: regle_p104_be1f3770
+titre: Règle applicabile aux personnes qui n'exercent plus d'activité salariée mais
+  perçoivent des pensions.
+source: Brochure IR 2024
+regle:
+  description: 'Règle applicabile aux personnes qui n''exercent plus d''activité salariée
+    mais perçoivent des pensions.
+
+
+    Condition : Les cotisations de rachat au régime de base d''assurance-vieillesse
+    et aux régimes complémentaires légalement obligatoires sont déductibles du montant
+    de vos pensions.
+
+
+    Montants ou plafonds : Le montant des cotisations de rachat au régime de base
+    et, le cas échéant, aux régimes complémentaires légalement obligatoires ARRCO
+    et AGIRC.
+
+
+    Formule de calcul applicable : Si le montant des cotisations de rachat au régime
+    de base et, le cas échéant, aux régimes complémentaires légalement obligatoires
+    est supérieur à celui de vos salaires (que vous perceviez ou non par ailleurs
+    des pensions), déclarez le montant de vos salaires lignes 1AJ à 1DJ et le montant
+    des rachats lignes 1AK à 1DK.
+
+
+    Pour être sûr d''y avoir droit, il faut vérifier que les cotisations de rachat
+    au régime de base et aux régimes complémentaires légalement obligatoires sont
+    enregistrées sur votre déclaration no 2042C.'
+  formule: Non spécifiée
+cas_pratique: "Titre : Jean Dupont - Pensionnaire et ancien salarié\n\n   Je suis\
+  \ Jean Dupont, 60 ans, qui travaille actuellement en tant que professeur de mathématiques\
+  \ à l'université XYZ depuis les dernières 15 années. J'ai atteint l'âge de la retraite\
+  \ et j'ai désormais des pensions mensuelles de 3000 euros.\n\n   Pour l'année passée,\
+  \ j'ai versé des cotisations de rachat au régime de base d'assurance-vieillesse\
+  \ de 600 euros et à l'ARRCO de 150 euros par mois. Mon épouse travaille en tant\
+  \ que médecin généraliste et nous avons un revenu combiné de 4000 euros par mois.\n\
+  \n   En ligne 1AJ de mon formulaire de déclaration, j'ai indiqué le montant total\
+  \ de mes pensions de 36 000 euros (3000 euros/mois x 12 mois). J'ai également déclaré\
+  \ les cotisations de rachat au régime de base d'assurance-vieillesse de 7200 euros\
+  \ dans la ligne 1AK et aux régimes complémentaires légalement obligatoires ARRCO\
+  \ de 1800 euros dans la ligne 1DK.\n\n   En comparant le montant de mes cotisations\
+  \ de rachat (7200 + 1800 = 9 000 euros) à mon revenu de salaire (48 000 euros),\
+  \ je vois que les cotisations sont supérieures. En conséquence, j'ai déclaré le\
+  \ montant de mes pensions dans les lignes 1AJ à 1DJ et le montant des rachats dans\
+  \ les lignes 1AK à 1DK.\n\n   Par comparaison avec le régime par défaut (qui ne\
+  \ prend pas en compte les cotisations de rachat), ma déclaration serait différente\
+  \ si je n'avais pas versé ces cotisations ou s'il n'y avait pas eu cette possibilité\
+  \ de déduction. Ainsi, j'en économise 9 000 euros d'impôts!\n\n   En conclusion,\
+  \ la possibilité de déduire les cotisations de rachat de mes pensions m'a permis\
+  \ d'économiser des impôts et de ne pas avoir à payer autant que si j'avais utilisé\
+  \ le régime par défaut."

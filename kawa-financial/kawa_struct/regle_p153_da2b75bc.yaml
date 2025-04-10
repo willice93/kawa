@@ -1,0 +1,57 @@
+id: regle_p153_da2b75bc
+titre: 'Cette règle s''applique à ceux qui détiennent des actions et considère le
+  montant du gain lorsqu''elles sont vendues. La taxation du gain varie en fonction
+  de deux conditions :'
+source: Brochure IR 2024
+regle:
+  description: 'Cette règle s''applique à ceux qui détiennent des actions et considère
+    le montant du gain lorsqu''elles sont vendues. La taxation du gain varie en fonction
+    de deux conditions :
+
+    1. Si les actions ont été conservées sous la forme nominative, sans être données
+    en location pendant au moins deux ans au-delà du délai d''indisponibilité (ligne
+    3VD), le taux applicable est de 30 %.
+
+    2. Dans le cas où les actions ont été conservées pendant au moins deux ans au-delà
+    du délai d''indisponibilité, mais ont été conservées sous la forme nominative
+    et non données en location, un taux réduit de 18 % peut être appliqué.
+
+    Il est possible d''opter pour une taxation du gain de levée d''option en salaires
+    (ligne 3VJ ou 3VK). Il faut également vérifier que les conditions pour y avoir
+    droit, notamment le respect des délais mentionnés, soient remplies. Si les actions
+    sont vendues et la condition de deux ans au-delà du délai d''indisponibilité est
+    remplie mais elles ne sont pas conservées sous la forme nominative, la plus-value
+    de cession (100 €) sera taxée dans les conditions de droit commun des plus-values
+    de cession de valeurs mobilières (ligne 3VG ou 3UA).'
+  formule: Non spécifiée
+cas_pratique: 'Nom: Jean Dupont, employé à XYZ Corporation depuis 5 ans avec un revenu
+  annuel de 60 000 € avant taxes.
+
+
+  Situation : Je suis actionnaire de 1000 actions de ma propre société et j''ai décidé
+  de les vendre pour un montant total de 72 000 €. J''ai conservé ces actions sous
+  la forme nominative depuis leur acquisition et n''ai jamais donné en location.
+
+
+  Déclaration des plus-values :
+
+  - Gain sur cession de valeurs mobilières : 72 000 € (Montant total de la vente,
+  ligne 3VG)
+
+
+  Comparaison du régime par défaut vs l''option choisie :
+
+  - Si je ne fais aucun choix, le taux applicable sera de 30 % sur mon gain (ligne
+  1AK). Cela signifierait que j''aurais à payer 21 600 € en taxes.
+
+  - Si je choisis la taxation du gain de levée d''option en salaires, le taux applicable
+  sera de 18 % (ligne 3VJ ou 3VK). Ce choix me permettrait de payer 12 960 € en taxes.
+
+
+  Calcul : En optant pour la taxation du gain de levée d''option en salaires, je réduirais
+  mes taxes de plus-value de 8 640 €.
+
+
+  Conclusion : Il est intéressant de prendre connaissance des différents régimes et
+  conditions de taxation des plus-values de cession de valeurs mobilières avant d''effectuer
+  une telle vente afin d''optimiser les économies fiscales.'

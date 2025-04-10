@@ -1,0 +1,18 @@
+Nom : Jean Dupont
+   Profession : Ingénieur indépendant, propriétaire à 12% du capital social de la société ABC SARL
+   Situation : Marié avec Marie Dupont, qui est également associée à 15% du capital de la même société. Aux côtés, deux enfants non émancipés, Léa (16 ans) et Thomas (13 ans).
+
+   Résultats financiers :
+   - Capital social : 200 000 €, évalué au dernier jour de l'exercice précédant la distribution des revenus.
+   - Primes d'émission : 40 000 €, évaluées à la même date.
+   - Compte courant d'associé : Solde moyen annuel : (Solde moyen mensuel = (Soldes journaliers / Nombre de jours dans le mois) x Nombre de mois) = (1 000 € / 30 jours) x 12 mois = 400 € x 12 = 4 800 €
+   - Dividendes : 20 000 € pour l'exercice considéré.
+
+   Déclaration fiscale :
+   - Capital social et primes d'émission : Rapportés dans la rubrique DSAA ou DSAB (1AK) pour le montant supérieur à 10 %.
+   - Compte courant d'associé : Solde moyen annuel de 4 800 € doit être calculé selon les étapes détaillées dans le texte.
+
+   Comparaison régime par défaut vs option choisie :
+   Sous régime général des travailleurs indépendants, la part supérieure à 10 % du capital social et des primes d'émission serait impôt à 7,5% (soit 1 350 €), tandis que le solde moyen annuel de compte courant d'associé serait passerelle vers la TVA (Taxe sur la valeur ajoutée) au taux de 20%, soit 960 €. Dans ce cas, les choix respectifs des parents Dupont permettent d'éviter 580 € d'impôts (1 350 € général vs 770 € option).
+
+   Synthèse : En tant qu'associé de la société ABC SARL, Jean Dupont est assujetti à des impôts spéciaux sur son capital social et ses primes d'émission supérieures à 10 %, ainsi que sur son solde moyen annuel de compte courant d'associé. En choisissant l'option applicable, il réduit les coûts financiers en évitant 580 € d'impôts pour le compte de l'exercice considéré.

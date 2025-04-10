@@ -1,0 +1,16 @@
+La règle du versement libératoire de l'impôt sur le revenu s'applique aux entreprises et titulaires de bénéfices non commerciaux.
+
+Conditions d'application :
+- Les entreprises doivent avoir une activité de vente de marchandises ou réaliser des prestations de services.
+- Les titulaires de bénéfices non commerciaux ne sont pas concernés par une activité spécifique.
+
+Montants ou plafonds :
+- 1 % pour les entreprises ayant une activité de vente de marchandises.
+- 1,7 % pour les entreprises réalisant des prestations de services.
+- 2,2 % pour les titulaires de bénéfices non commerciaux.
+
+Formule de calcul applicable :
+- Le versement libératoire est obtenu en multipliant le montant mensuel ou trimestriel du chiffre d'affaires (ou recettes hors taxes) par les taux correspondants et en ajoutant celui des cotisations et contributions sociales.
+
+Vérifier pour être sûr d'y avoir droit :
+- Le versement libératoire ne peut être demandé que si le montant total des chiffres d'affaires ou des recettes hors taxes est supérieur à un certain seuil imposé par la loi. Il convient donc de vérifier les montants concernés pour savoir s'il est possible de déduire ce versement libératoire.

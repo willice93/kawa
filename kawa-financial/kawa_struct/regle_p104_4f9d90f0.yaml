@@ -1,0 +1,62 @@
+id: regle_p104_4f9d90f0
+titre: 'Règle appliquée pour la déduction d''impôt sur l''emprunt versé à un salarié
+  ou dirigeant pour acquérir des parts de sa société nouvelle :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle appliquée pour la déduction d''impôt sur l''emprunt versé à
+    un salarié ou dirigeant pour acquérir des parts de sa société nouvelle :
+
+
+    - À qui s’applique la règle : Salariés ou dirigeants ayant contracté un emprunt
+    pour acquérir des parts de leur société nouvelle.
+
+    - Dans quelles conditions : L''emprunt doit avoir été contracté entre le 1er janvier
+    1984 et le 31 décembre 2016, et la souscription effectuée l''année de la création
+    de la société ou au cours des deux années suivantes.
+
+    - Quels sont les montants ou plafonds : La déduction ne peut excéder 50 % du montant
+    brut du salaire versé à l''emprunteur par la société nouvelle, ni la somme de
+    15 250 €.
+
+    - Quelle est la formule de calcul applicable : La déduction est calculée en multipliant
+    le montant brut du salaire versé par 50 % (ou 15 250 €, si ce montant est atteint
+    avant).
+
+    - Et ce qu’il faut vérifier pour être sûr d’y avoir droit : Il faut vérifier que
+    le cadre législatif (CGI, art. 83-2°) est respecté et que la déduction ne se cumule
+    pas avec la réduction d''impôt pour souscription au capital des PME ni avec la
+    déduction, dans le cadre de l''option pour le régime des frais réels, des intérêts
+    d''emprunt versés pour acquérir des parts ou actions d’une société dans laquelle
+    le salarié ou le dirigeant exerce son activité professionnelle principale.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Contexte : Jean DOE est un ingénieur et dirigeant d''une société de
+  conseil en génie civil créée en 2017. Il a contracté un emprunt à la banque en 2016
+  pour acquérir 50% des parts de sa société nouvelle.
+
+
+  Montants : Son salaire annuel versé par la société est de 80 000 €, le montant du
+  prêt est de 100 000 €. La déduction ne peut excéder 50 % du salaire (40 000 €) ou
+  15 250 €, si atteint avant.
+
+
+  Déclaration : En tant que dirigeant salarié de la société, il devra déclarer cette
+  déduction en remplissant les bonnes cases sur le formulaire impositif (1AK pour
+  les revenus, 1GF pour la déduction).
+
+
+  Comparaison du régime par défaut vs l''option choisie : Si Jean avait opté pour
+  le régime des frais réels, il n''aurait eu aucune déduction d''impôt sur cet emprunt.
+  Avec cette option de déduction spécifique, il bénéficie d''un écart fiscal de 40
+  000 € (soit 50 % du salaire), ce qui représente un économie d''impôts de 12 000
+  €.
+
+
+  Calcul : La déduction sera donc de 40 000 €, soit un écart fiscal de 12 000 € (40
+  000 * 33,33 %).
+
+
+  Conclusion : Grâce à cette règle spécifique, Jean DOE a pu acquérir des parts dans
+  sa société en bénéficiant d''un écart fiscal important et d''une économie d''impôts
+  de 12 000 €. Il est donc recommandé à tout salarié ou dirigeant qui souhaite acquérir
+  des parts de leur société nouvelle, de vérifier les conditions applicables et de
+  bénéficier de cette déduction d''impôt.'

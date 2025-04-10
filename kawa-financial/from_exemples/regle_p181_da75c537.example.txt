@@ -1,0 +1,13 @@
+Contexte : Marie est une entrepreneur en mode micro-entreprise, gérant sa propre boutique de vente en ligne de bijoux. Elle a des recettes mensuelles de 700 € depuis janvier dernier.
+
+Situation : Marie a dépensé 650 € pour des frais professionnels tels que les frais de publicité, les coûts de fabrication et les frais de transport. Elle est intéressée par l'abattement pour frais professionnels qui lui est proposé pour réduire sa charge fiscale.
+
+Montants concernés : Les recettes mensuelles de Marie sont de 700 € (Calculé en multipliant le montant des recettes par 0,66 pour déterminer son plafond fiscal), et elle a dépensé 650 € en frais professionnels.
+
+Déclaration : Les frais professionnels de Marie sont inscrits dans les comptes de sa boutique de vente en ligne (1AK, compte de l'entreprise).
+
+Comparaison : Sous le régime par défaut, Marie devrait payer des impôts sur ses recettes mensuelles de 700 € (508,40 € selon le taux d'imposition applicable pour les micro-entreprises en mode automatique). En choisissant l'option de l'abattement pour frais professionnels, Marie réduit son impôt à zéro car l'abattement est automatiquement appliqué et est égal au montant des frais professionnels, mais ne sera pas inférieur à 305 € (le montant minimal de l'abattement).
+
+Calcul clair avec chiffres ronds : Si Marie ne choisit pas l'option de l'abattement pour frais professionnels, elle devra payer 508,40 € d'impôt. En choisissant cette option, elle réduira son impôt à zéro car l'abattement sera de 650 €.
+
+Conclusion : Marie peut bénéficier de l'abattement pour frais professionnels si ses frais sont justifiés et inscrits dans les comptes de son entreprise, et s'il respecte la limite de 921,43 € sur les recettes.

@@ -1,0 +1,65 @@
+id: regle_p220_ebace2c3
+titre: 'Règle de calcul applicabile aux résidents français pour le montant déductible
+  de la Contribution Sociale Généralisée (CSG) sur les revenus du patrimoine :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle de calcul applicabile aux résidents français pour le montant
+    déductible de la Contribution Sociale Généralisée (CSG) sur les revenus du patrimoine
+    :
+
+
+    - À qui s''applique la règle : Tous les résidents français ayant des revenus imposables
+    provenant du patrimoine.
+
+    - Dans quelles conditions : Les gains de levée d''options sur titres ou d''acquisition
+    d''actions gratuites attribuées avant le 28 septembre 2012, les plus-values soumises
+    à "l''exit tax", et les revenus provenant d''imméubles situés en France perçus
+    par les non-résidents ne sont pas inclus dans la base de calcul.
+
+    - Quels sont les montants ou plafonds : Le montant déductible est égal à 6,8 points
+    de CSG calculée (au taux de 9,2 %) sur les revenus du patrimoine soumis au barème
+    progressif de l''impôt sur le revenu.
+
+    - Quelle est la formule de calcul applicable : Le montant déductible est obtenu
+    en multipliant le montant des revenus du patrimoine par 6,8 points (au taux de
+    9,2 %).
+
+    - Et ce qu''il faut vérifier pour être sûr d''y avoir droit : Vérifier que les
+    gains de levée d''options sur titres ou d''acquisition d''actions gratuites attribuées
+    avant le 28 septembre 2012, les plus-values soumises à "l''exit tax", et les revenus
+    provenant d''imméubles situés en France perçus par les non-résidents ne sont pas
+    inclus dans la base de calcul. Vérifier également que le montant déductible calculé
+    est utilisé pour le calcul de votre revenu imposable.'
+  formule: Non spécifiée
+cas_pratique: 'Nom : Pierre Dupont, Médecin généraliste, Résident français
+
+
+  Contexte : En 2021, vous avez perçu des dividendes et intérêts provenant de votre
+  portefeuille d''actions et d''obligations. Vous avez également perçu des revenus
+  provenant d''un logement que vous possédez à Paris.
+
+
+  Montants concernés : Les revenus imposables provenant du patrimoine sont de 10 000€
+  pour les dividendes et intérêts, et de 50 000€ pour les revenus provenant d''immobilier
+  situé en France.
+
+
+  Formulaire : Dans la déclaration des impôts personnels, vous devrez compléter la
+  case 1GF pour indiquer les revenus provenant du patrimoine.
+
+
+  Calcul : Le montant déductible est obtenu en multipliant le montant total de vos
+  revenus imposables provenant du patrimoine par 6,8 points (au taux de 9,2 %). Pour
+  ce faire, vous pouvez calculer comme suit : 10 000€ (dividendes et intérêts) x 6,8
+  = 68€ ; 50 000€ (revenus provenant d''immobilier) x 6,8 = 340€. Ensuite, vous pourrez
+  déduire respectivement 68€ et 340€ de vos revenus imposables.
+
+
+  Comparaison : Si vous n''utilisez pas cette option, les montants déductibles seraient
+  de 0, ce qui augmenterait votre impôt personnel. En utilisant cette option, la somme
+  totale des montants déductibles est de 408€ (68€ + 340€).
+
+
+  Synthèse : Afin de réduire votre impôt personnel, vous pouvez utiliser l''option
+  pour le calcul des montants déductibles de la Contribution Sociale Généralisée sur
+  les revenus du patrimoine.'

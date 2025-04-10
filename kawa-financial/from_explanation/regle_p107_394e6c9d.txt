@@ -1,0 +1,12 @@
+La règle s'applique aux employés qui installent une borne de recharge électrique pour leur véhicule à l'extérieur de leur lieu de travail.
+
+Les conditions sont :
+- La borne doit être restituée à la fin du contrat de travail pour que le montant soit nul.
+- Si la borne n'est pas restituée, les avantages seront évalués jusqu'à un plafond de 1000 € en cas d'installation à domicile, ou 1500 € si la borne a plus de 5 ans. Dans ce dernier cas, le taux est augmenté à 75 % des frais réels.
+- Les autres frais liés à l'utilisation de la borne installée hors du lieu de travail ou du coût d'un contrat de location de la borne (hors frais d'électricité) sont exonérés dans la limite de 50 % du montant des dépenses réels que le salarié aurait dû engager.
+
+La formule de calcul est variable en fonction des conditions ci-dessus, mais il s'agit généralement de l'application d'un taux de remboursement (50 % ou 75 %) aux frais réels engagés par le salarié jusqu'à un plafond de 1000 € ou 1500 €.
+
+Pour être sûr d'y avoir droit, il faut vérifier que :
+- La borne est installée hors du lieu de travail.
+- Le contrat de travail prévoit effectivement un tel avantage en nature.

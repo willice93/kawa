@@ -1,0 +1,7 @@
+Règle de calcul pour les pensions alimentaires versées à des enfants majeurs lorsque le montant est basé sur les revenus du patrimoine et la CSG déductible connue :
+
+- À qui s'applique la règle : Les personnes payant des pensions alimentaires à un ou plusieurs enfants majeurs.
+- Dans quelles conditions : Le montant de ces pensions est basé sur les revenus du patrimoine et la CSG déductible connue, et pourrait être inexact.
+- Quels sont les montants ou plafonds : Les montants des pensions alimentaires versées à chaque enfant majeur.
+- Quelle est la formule de calcul applicable : Si le montant est inexact, il faut corriger la case 6DE du formulaire.
+- Et ce qu'il faut vérifier pour être sûr d'y avoir droit : Vérifiez que les revenus sur lesquels les pensions alimentaires sont basées sont exacts et que vous êtes légalement tenu de les verser (par exemple, en raison d'un accord judiciaire ou d'une décision administrative).

@@ -1,0 +1,49 @@
+id: regle_p12_c26ba138
+titre: 'Cette règle de calcul s''applique aux produits imposables dont les primes
+  excédent 150 000 €, à condition qu''ils soient concernés par le taux d''imposition
+  de 12,8 %. La formule de calcul applicable est assez simple : il s''agit du montant
+  des primes en excessif auxquels est appliqué le taux de 12,8 %. Il faut vérifier
+  que les produits concernés soient éligibles à cette tasse d''imposition, et que
+  le montant de la prime excède le plafond de 150 000 €.'
+source: Brochure IR 2024
+regle:
+  description: 'Cette règle de calcul s''applique aux produits imposables dont les
+    primes excédent 150 000 €, à condition qu''ils soient concernés par le taux d''imposition
+    de 12,8 %. La formule de calcul applicable est assez simple : il s''agit du montant
+    des primes en excessif auxquels est appliqué le taux de 12,8 %. Il faut vérifier
+    que les produits concernés soient éligibles à cette tasse d''imposition, et que
+    le montant de la prime excède le plafond de 150 000 €.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titre : Application de la règle d''imposition de 12,8 % sur des produits
+  imposables auxquels les primes excédent 150 000 € - Cas de Jean Dupont, avocat
+
+
+  Contexte : Je suis Jean Dupont, un avocat spécialisé dans le droit fiscal. En 2023,
+  j''ai réalisé un chiffre d''affaires total de 1 500 000 € et je suis titulaire de
+  primes supérieures à 150 000 € pour certaines opérations.
+
+
+  Calcul de la tasse d''imposition : Les primes concernées sont éligibles au taux
+  de 12,8 %. Pour calculer l''amont d''impôt due en application de cette règle, je
+  réalise le calcul suivant : (Prime excédentaire - Plafond de 150 000 €) x Taux de
+  12,8 %
+
+
+  Déclaration dans la bonne case : Pour ce cas particulier, je déclare le montant
+  de mon impôt dû sous la case 1AK.
+
+
+  Comparaison avec le régime par défaut : En application du régime par défaut, le
+  taux d''imposition serait de 30 %. Ainsi, en choisissant l''option spécifique de
+  cette règle, j''en économise 17,2 % (30 % - 12,8 %).
+
+
+  Calcul clair avec des chiffres ronds : Par exemple, une prime de 165 000 € aura
+  un impôt dû de 165 000 € - 150 000 € x 0,128 = 7 480 €. Je déclare cet montant sous
+  la case 1AK de mon formulaire.
+
+
+  Conclusion : L''application de cette règle peut amener à des économies substantielles
+  pour les personnes gérant des activités qui génèrent des primes éligibles à ce taux,
+  mais il est essentiel d''être vigilant sur les montants concernés et de déclarer
+  correctement l''impôt dû.'

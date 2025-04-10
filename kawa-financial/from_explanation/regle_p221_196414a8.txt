@@ -1,0 +1,11 @@
+Règle applicabile a tous les contribuables qui déclarent leurs revenus en ligne 2BH (imposition au barème) ou 2DF, quelle que soit leur option d'imposition.
+
+   Les conditions pour obtenir un montant de CSG déductible sont :
+      - Declaration des revenus dans la ligne 2BH ou 2DF
+      - Optention de l'imposition au barème ou quelque chose d'autre
+
+   Les montants concernés sont les revenus déclarés sur les lignes 2BH et 2DF. Le plafond est de 6,8 % pour tous les revenus considérés.
+
+   La formule de calcul applicable est la multiplication des revenus par 6,8 %.
+
+   Pour être sûr d'y avoir droit, il faut vérifier que vous avez bien déclaré tous les revenus sur les lignes 2BH ou 2DF et que vous avez choisi soit l'imposition au barème ou une autre option d'imposition. Le montant de CSG déductible sera calculé automatiquement par le logiciel utilisé pour la déclaration des impôts. Il n'est pas nécessaire de le calculer soi-même ni de le corriger dans le montant prérempli de la rubrique 6DE. Le montant sera ajouté automatiquement lors du calcul de l'impôt sur les revenus de 2023.

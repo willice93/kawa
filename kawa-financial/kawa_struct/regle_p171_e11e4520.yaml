@@ -1,0 +1,55 @@
+id: regle_p171_e11e4520
+titre: 'Règle de calcul appliquée aux plus-values et moins-values :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle de calcul appliquée aux plus-values et moins-values :
+
+
+    Ce calcul s''applique à des personnes physiques ou morales qui réalisent des opérations
+    commerciales ou agricoles.
+
+
+    Les conditions pour l''application de la règle sont les suivantes :
+
+    - Les activités doivent être celles prévues aux articles 39 duodecies à 39 quindecies
+    du Code général des impôts (CGI).
+
+    - Le prix de revient doit être diminué du montant des amortissements, mais uniquement
+    si l''abattement forfaitaire de 71 % ou de 50 % tient compte des amortissements
+    pratiqués selon le mode linéaire.
+
+    - Les plus-values et moins-values sont classées en deux catégories : court terme
+    (réalisées au cours du même exercice) et long terme.
+
+    - Les plus-values à court terme et les moins-values à court terme se compensent.
+    De même, les plus-values à long terme et les moins-values à long terme se compensent.
+
+    - Le résultat de la compensation doit être indiqué sur la 2042 C PRO (formulaire
+    de déclaration des plus-values et moins-values).
+
+    - Pour vérifier qu''on a droit à une plus-value ou une moins-value, il faut justifier
+    tous les éléments qui entrent dans le calcul de ces montants.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: "Nom : Jean Dupont\n   Profession : Propriétaire d'un magasin de vente\
+  \ aux enchères\n   Situation : Vente de la propriété agricole qu'il possédait depuis\
+  \ 10 ans pour un prix de 500 000 euros. L'activité était utilisée pour l'exploitation\
+  \ de son magasin de vente aux enchères, ce qui est mentionné dans les articles 39\
+  \ duodecies à 39 quindecies du Code général des impôts (CGI). Le prix de revient\
+  \ de la propriété agricole était de 150 000 euros. Il a effectué des amortissements\
+  \ linéaires sur la propriété pendant les 10 dernières années, ce qui a entraîné\
+  \ un abattement forfaitaire de 71 % ou de 50 %, selon le mode linéaire.\n   Déclaration\
+  \ : Les plus-values et moins-values doivent être indiquées sur la 2042 C PRO (formulaire\
+  \ de déclaration des plus-values et moins-values). Dans ce cas, la plus-value sera\
+  \ de 350 000 euros.\n   Comparaison : En regime par défaut, une plus-value serait\
+  \ imposée à un taux normal d'impôt. Cependant, en appliquant la règle de calcul\
+  \ de la plus-value et des moins-values, il n'y aura pas d'impôt sur cette plus-value,\
+  \ car elle est inférieure au plafond impositif de 80 000 euros par an. En choisissant\
+  \ l'option de ce régime spécifique, Jean Dupont n'a donc pas à payer d'impôt sur\
+  \ cette plus-value.\n   Calcul clair avec des chiffres ronds : Le prix de revient\
+  \ de la propriété agricole était de 150 000 euros. Les amortissements linéaires\
+  \ effectués pendant les 10 dernières années ont entraîné un abattement forfaitaire\
+  \ de 71 %. La plus-value est donc calculée comme suit : (Prix de vente - Prix de\
+  \ revient) * (1 - Abattement forfaitaire) = (500 000 euros - 150 000 euros) * (1\
+  \ - 0,71) = 350 000 euros.\n   Conclusion : En appliquant la règle de calcul des\
+  \ plus-values et moins-values sur sa vente de propriété agricole, Jean Dupont n'aura\
+  \ pas à payer d'impôt sur sa plus-value de 350 000 euros."

@@ -1,0 +1,10 @@
+Règle d'exonération de 50 % applicable sur l'impôt sur le revenu :
+
+- À qui s’applique la règle : Les vendeurs dont le bien vendu est leur résidence principale.
+- Dans quelles conditions : La maison doit être revendue après avoir été occupée comme une résidence principale pendant au moins cinq ans consécutifs.
+- Quels sont les montants ou plafonds : 50 % de la plus-value (le montant obtenu en vendant la propriété en dessous du prix de rachat ou du coût de construction) est exonérée de l'impôt sur le revenu.
+- Quelle est la formule de calcul applicable : 50 % de la plus-value est soustraite au revenu fiscal pour le calcul de l'impôt sur le revenu à payer.
+- Et ce qu’il faut vérifier pour être sûr d’y avoir droit :
+   - La propriété vendue doit être une résidence principale et elle doit avoir été occupée comme telle pendant au moins cinq ans consécutifs.
+   - Il est nécessaire de prouver les coûts de rachat ou de construction pour calculer la plus-value.
+   - La vente doit avoir eu lieu après que la propriété ait été occupée comme résidence principale pendant au moins cinq ans.

@@ -1,0 +1,67 @@
+id: regle_p154_a0ef0203
+titre: 'Règle d''application : Calcul de la contribution salariale sur les gains d''acquisition
+  d''actions gratuites attribuées à compter du 16.10.2007'
+source: Brochure IR 2024
+regle:
+  description: 'Règle d''application : Calcul de la contribution salariale sur les
+    gains d''acquisition d''actions gratuites attribuées à compter du 16.10.2007
+
+
+    Cette règle s''applique aux salariés ayant reçu des actions gratuites depuis le
+    16.10.2007 (ligne 3VN).
+
+
+    Conditions d''application : Les gains d''acquisition doivent être réalisés sur
+    les actions attribuées, et le pourcentage de la contribution salariale est de
+    10 %.
+
+
+    Montant ou plafond : Il n''y a pas de plafond spécifié dans le texte. Cependant,
+    il convient de vérifier les autres lois ou réglementations applicables en matière
+    d''impôts et de cotisation sociale pour connaître tout plafond potentiel.
+
+
+    Formule de calcul applicable : Montant des gains d''acquisition x 10 % = Montant
+    de la contribution salariale sur les gains d''acquisition
+
+
+    Vérification : Assurez-vous que les gains en question sont ceux des actions gratuites
+    attribuées à compter du 16.10.2007 (ligne 3VN), et que la réalisation de ces gains
+    a été effectivement réalisée. Il est également important de vérifier qu''aucun
+    autre plafond ou règle ne s''applique pour cette même situation, en consultant
+    d''éventuels autres textes législatifs ou réglementaires.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titre : Calcul de la contribution salariale sur les gains d''acquisition
+  d''actions gratuites attribuées à compter du 16.10.2007 - Exemple pratique
+
+
+  Nom: Jacques Dupond, Infirmier
+
+  Profession: Infirmier en établissement de santé privé
+
+  Situation: A reçu des actions gratuites depuis le 16.10.2007 dans l''établissement
+  où il travaille
+
+
+  Revenus annuel: 50 000 € (ligne 1AK)
+
+  Gains d''acquisition d''actions gratuites attribuées à compter du 16.10.2007: 3
+  000 € (ligne 3VN)
+
+  Contribution salariale sur les gains d''acquisition x 10 %: 300 €
+
+
+  Régime par défaut vs option choisie: Aucune option n''a été choisie explicitement.
+  La contribution est calculée à 10 %, ce qui représente le régime par défaut.
+
+
+  Calcul clair avec des chiffres ronds: Montant des gains d''acquisition (3 000 €)
+  x 10 % = Montant de la contribution salariale sur les gains d''acquisition (300
+  €)
+
+
+  Conclusion: Dans cette situation, il est nécessaire de déclarer le montant des gains
+  d''acquisition d''actions gratuites attribuées à compter du 16.10.2007 (ligne 3VN)
+  et la contribution salariale calculée à 10 % (ligne 1GF). Il convient également
+  de vérifier qu''aucun autre plafond ou règle ne s''applique pour cette même situation,
+  en consultant d''éventuels autres textes législatifs ou réglementaires.'

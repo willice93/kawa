@@ -1,0 +1,75 @@
+id: regle_p134_61756ea7
+titre: 'Règle d''application : Déclaration de produits de capitalisation et de placements
+  souscrits auprès d''entreprises d''assurance étrangères.'
+source: Brochure IR 2024
+regle:
+  description: 'Règle d''application : Déclaration de produits de capitalisation et
+    de placements souscrits auprès d''entreprises d''assurance étrangères.
+
+
+    Conditions : Les produits s''appliquent aux contrats de capitalisation et aux
+    placements, signés avec des entreprises d''assurance établies hors de la France,
+    de l''Union Européenne, ainsi que des États membres de l''accord sur l''EEE qui
+    ont conclu une convention administrative pour combattre la fraude et l''évasion
+    fiscale (Islande, Liechtenstein, Norvège).
+
+
+    Montants ou plafonds : Les produits ne bénéficient ni de l''abattement de 4 600
+    ou 9 200 €, ni de l''option pour le prélèvement forfaitaire libératoire, ni de
+    l''imposition au taux de 7.5%.
+
+
+    Formule de calcul : Aucune formule de calcul particulière n''est indiquée dans
+    ce texte. Il est nécessaire de déclarer les montants des produits souscrits auprès
+    d''entreprises étrangères dans la rubrique "Produits des contrats de moins de
+    8 ans" pour déterminer leurs impôts applicable.
+
+
+    Vérification : Vérifier que l''entreprise d''assurance est établie hors de la
+    France, de l''Union Européenne et de l''accord sur l''EEE.'
+  formule: revenu_brut * (1 - 0.05)
+cas_pratique: 'Titre : Application de la règle fiscale pour des produits de capitalisation
+  et placements souscrits auprès d''entreprises étrangères
+
+
+  Contexte : Nous considérons le cas de Madame Jeanne Dupont, un employée à temps
+  plein de 50 ans, vivant à Paris. Elle travaille pour une grande entreprise multinationale
+  dans la branche informatique et a un revenu annuel de 72 000 € brut.
+
+
+  Détails des produits : Madame Dupont détient un contrat de capitalisation avec une
+  compagnie d''assurance basée en Islande, ainsi qu''un placement dans une société
+  d''assurance norvégienne. Les montants totalisent 50 000 € pour le contrat de capitalisation
+  et 25 000 € pour le placement.
+
+
+  Déclaration : Madame Dupont déclarera les montants de ses produits (contrat de capitalisation:
+  1AF, Placement: 1AG) dans la rubrique "Produits des contrats de moins de 8 ans"
+  lors de sa déclaration annuelle.
+
+
+  Comparaison : Le régime par défaut appliquerait un impôt fixe de 7.5% sur ces produits.
+  Cependant, Madame Dupont a choisi d''opter pour le régime des produits de capitalisation
+  et placements souscrits auprès d''entreprises étrangères, ce qui signifie qu''elle
+  n''est pas autorisée à bénéficier de l''abattement de 4 600 ou 9 200 €, du prélèvement
+  forfaitaire libératoire ni de l''imposition au taux de 7.5%.
+
+
+  Calcul clair : Les montants des produits totaux (50 000 € pour le contrat de capitalisation
+  et 25 000 € pour le placement) seront déclarés dans la rubrique "Produits des contrats
+  de moins de 8 ans" lors de sa déclaration annuelle. Il n''y aura donc pas d''impôt
+  fixe de 7.5% applicable sur ces produits, ce qui signifie que Madame Dupont doit
+  payer un impôt supplémentaire de 0 € sur ces produits.
+
+
+  Conclusion : Le régime des produits de capitalisation et placements souscrits auprès
+  d''entreprises étrangères est une option choisie par Madame Jeanne Dupont pour ses
+  contrats de capitalisation et de placement. Elle déclarera les montants de ces produits
+  dans la rubrique "Produits des contrats de moins de 8 ans" lors de sa déclaration
+  annuelle et n''y verra pas s''appliquer l''impôt fixe de 7.5%.'
+calcul:
+  formule: revenu_brut * (1 - 0.05)
+  exemple:
+    revenu_brut: 200
+    abattement: 10
+    revenu_net: 190

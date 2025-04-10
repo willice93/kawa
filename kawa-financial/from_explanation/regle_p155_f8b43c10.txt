@@ -1,0 +1,8 @@
+Cette règle s'applique à tous les gains d'acquisition imposables, après abattement, sur lesquels les contribuables disposent de limites annuelles pour bénéficier des abattements fixes et variables.
+
+Les conditions sont que :
+- La fraction du gain d'acquisition doit excéder la limite annuelle de 300 000 €.
+- Les abattements concernés sont ceux fixes, mentionnés sur ligne 1VZ (abattement soumis aux cotisations sociales), et ceux variables de 50 %, mentionnés sur ligne 1WZ (abattement soumis aux cotisations sociales).
+- Le montant ou plafond est la limite annuelle de 300 000 €.
+- La formule de calcul applicable est de calculer la fraction du gain d'acquisition qui excède cette limite et l'imposer selon les mêmes modalités que celles applicables aux décisions de l'assemblée générale intervenue au plus tard le 7.8.15.
+- Pour être sûr d'y avoir droit, il faut vérifier que le gain d'acquisition imposable excède la limite annuelle de 300 000 € et qu'il a bien été déclaré sur les lignes spécifiées.

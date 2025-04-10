@@ -1,0 +1,11 @@
+Nom : Pierre Dupont, exploitant agricole de Pommeuse, spécialisé dans l'élevage bovin et la culture de céréales.
+
+Situation : En 2021, Pierre décide d'ouvrir un magasin de vente de produits locaux sur son domaine afin d'augmenter ses revenus complémentaires. Il prévoit également d'exploiter une petite activité artisanale de fabrication et de vente de fromages à partir du lait de ses vaches.
+
+Montants concernés : En 2019, Pierre a réalisé un bénéfice agricole total de 80 000 € (déclaration 1AK). Les revenus tirés de son activité commerciale en 2019 s'élèvent à 30 000 € (déclaration 1GF), et les revenus tirés de ses activités accessoires en 2019 s'élèvent à 40 000 €.
+
+Calcul : Pour déterminer si les revenus des activités accessoires peuvent être pris en compte pour le calcul du bénéfice agricole, il faut comparer leur montant avec la moyenne annuelle des recettes tirées de l'activité agricole au titre des trois années précédentes (2018-2020) et avec le plafond de 100 000 €.
+
+Comparaison : La moyenne annuelle des recettes tirées de l'activité agricole entre 2018 et 2020 est de 64 000 € (somme des bénéfices agricoles par an) = 21 333,33 € par an. Les revenus tirés de ses activités accessoires en 2019 sont supérieurs à la moyenne annuelle de recettes tirées de l'activité agricole entre 2018 et 2020 (40 000 € > 21 333,33 € par an). En outre, les revenus tirés de ses activités accessoires en 2019 dépassent le plafond de 100 000 €.
+
+Conclusion : Les revenus tirés des activités accessoires ne peuvent pas être pris en compte pour calculer le bénéfice agricole pour l'exercice 2021 (déclaration 1AK). En revanche, les revenus tirés de son activité commerciale peuvent être pris en compte. Pierre doit donc déclarer 30 000 € issus de ses ventes de produits locaux sur sa base documentaire pour l'exercice 2021 (déclaration 1GF).

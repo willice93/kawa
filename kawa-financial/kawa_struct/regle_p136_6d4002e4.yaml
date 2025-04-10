@@ -1,0 +1,47 @@
+id: regle_p136_6d4002e4
+titre: Règle s'applique aux revenus déjà soumis aux prélèvements sociaux et possédant
+  la possibilité de CSG déductible, en l'absence d'option globale pour l'imposition
+  au barème progressif (cas 2OP non coché).
+source: Brochure IR 2024
+regle:
+  description: 'Règle s''applique aux revenus déjà soumis aux prélèvements sociaux
+    et possédant la possibilité de CSG déductible, en l''absence d''option globale
+    pour l''imposition au barème progressif (cas 2OP non coché).
+
+
+    Les montants concernés sont les revenus perçus en 2023 sur lesquels les prélèvements
+    sociaux ont déjà été prélevés en 2023 par l''établissement payeur et qui ouvrent
+    droit à CSG déductible. Ces revenus comprennent les produits des fonds en unités
+    de compte des bons ou contrats de capitalisation et d''assurance-vie attachés
+    à des versements effectués avant le 27 septembre 2017.
+
+
+    La formule de calcul applicable est la saisie de ces revenus sous la ligne 2DF
+    lors du déclaration annuelle.
+
+
+    Il faut vérifier que les montants concernés correspondent à des revenus perçus
+    en 2023, ont déjà été prélevés par l''établissement payeur en 2023 et sont éligibles
+    à CSG déductible pour s''assurer de bénéficier du droit à cette exemption.'
+  formule: revenu_brut * (1 - 0.1)
+cas_pratique: "Nom : Jean Dupont\n   Profession : Employé salarié\n   Situation :\
+  \ A perçu en 2023 des dividendes liés aux produits de fonds en unités de compte\
+  \ des bons ou contrats de capitalisation et d'assurance-vie qu'il avait investis\
+  \ avant le 27 septembre 2017.\n   Revenus concernés : Les dividendes perçus sur\
+  \ lesquels il a déjà payé les prélèvements sociaux en 2023 ont été prélevés par\
+  \ l'établissement payeur. Le montant total est de 8 000€.\n   Déclaration : Sur\
+  \ sa déclaration annuelle, Jean devra renseigner le montant sous la ligne 2DF (8\
+  \ 000€).\n   Comparaison régime par défaut vs option choisie : En cas d'option cochée\
+  \ pour l'imposition au barème progressif, le taux serait supérieur à celui du régime\
+  \ par défaut. Cependant, dans notre exemple, Jean n'a pas coché cette option (cas\
+  \ 2OP non coché).\n   Calcul clair avec des chiffres ronds : La déduction correspondant\
+  \ à la CSG sera de 750€ (10% du montant de 8 000€).\n   Synthèse : Afin d'optimiser\
+  \ sa déduction de la CSG, Jean Dupont a bien renseigné le montant de ses dividendes\
+  \ sous la ligne 2DF de son formulaire annuel et a respecté les critères requis (révenus\
+  \ perçus en 2023, déjà prélevés par l'établissement payeur et éligibles à CSG déductible)."
+calcul:
+  formule: revenu_brut * (1 - 0.1)
+  exemple:
+    revenu_brut: 750
+    abattement: 75
+    revenu_net: 675

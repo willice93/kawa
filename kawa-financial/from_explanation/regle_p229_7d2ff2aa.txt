@@ -1,0 +1,9 @@
+Règle appliquée aux contribuables français : cotisations Madelin déductibles du résultat de 2022.
+
+   Conditions d'application : Les contribuables devraient avoir un résultat pour l'année 2022.
+
+   Montants ou plafonds : Le calcul s'applique sur 10% du résultat et de la quote-part de bénéfice imposable comprise entre une fois et huit fois le montant annuel du plafond de la sécurité sociale. Pour l'année 2022, ce plafond est compris entre 41 136 € et 329 088 €.
+
+   Formule de calcul applicable : La cotisation Madelin déductible est calculée en additionnant les montants suivants : (10/100) * Résultat + (15/100) * (Quote-part de bénéfice imposable comprise entre le plafond et 8 fois le plafond).
+
+   Verification pour y avoir droit : Les contribuables devraient être sûrs d'avoir un résultat dans l'année 2022. Il faudra également calculer la quote-part de bénéfice imposable, et vérifier qu'elle est comprise entre le plafond et 8 fois le plafond de la sécurité sociale pour l'année considérée (soit entre 41 136 € et 329 088 € pour l'année 2022).

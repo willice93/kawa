@@ -1,0 +1,11 @@
+La règle s'applique aux employeurs et salariés ayant participé à certaines contributions obligatoires et facultatives en 2022, ou ayant reçu un abondement du plan d'épargne pour la retraite collectif (PERCO) ou des jours de congé monétisés.
+
+Il s'agit de :
+- Contributions obligatoires aux régimes de retraite supplémentaire rendues obligatoires dans l'entreprise pour les salariés ("article 83" et PERE pour son volet obligatoire) avec des montants non imposables pour la part patronale et déductibles du salaire pour la part salariale.
+- Contributions facultatives des non-salariés aux contrats "Madelin" et "Madelin agricole", dont le montant est déductible du résultat professionnel, compte tenu de leur fraction correspondant à 15 % de la quote-part du bénéfice imposable comprise entre une fois et 8 fois le montant annuel du plafond de la sécurité sociale de 2022 (cotisations déductibles du résultat, sous déduction de la fraction correspondant à 15 % de la quote-part de bénéfice imposable comprise entre 41 136 € et 329 088 €).
+- Abondement de l'employeur au plan d'épargne pour la retraite collectif (PERCO) dans la limite du montant exonéré d'impôt sur le revenu (6 582 €, 16 % du plafond annuel de la sécurité sociale).
+- Jour de congé monétisés affectés par le salarié à un PERCO ou un régime supplémentaire "article 83" dans la limite du nombre de jours exonérés d'impôt sur le revenu (10 jours).
+
+La formule de calcul applicable dépend des cas précis. Par exemple, pour les contributions facultatives aux contrats "Madelin" et "Madelin agricole", le montant déductible du résultat professionnel est obtenu en appliquant 15 % à la quote-part imposable de bénéfice comprise entre 41 136 € et 329 088 €.
+
+Il faut vérifier que les montants respectent les plafonds mentionnés pour chaque cas, tels que le plafond annuel de la sécurité sociale (pour le PERCO) ou les limites d'impôt sur le revenu (pour les journées de congé monétisées).

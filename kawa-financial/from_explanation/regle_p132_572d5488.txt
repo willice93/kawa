@@ -1,0 +1,8 @@
+Règle appliquée aux produits des contrats d'assurance-vie de 8 ans et plus souscrits auprès d'entreprises établies en France ou dans une autre Union Européenne (UE) ou de l'Espace Économique Européen (EEE) ayant conclu avec la France une convention administrative d'aide contre la fraude fiscale :
+
+- Montants : 4600 € pour une personne seule ou 9200 € pour un couple soumis à imposition commune.
+- Dans les conditions où ces produits sont de plus de 8 ans et ont été souscrits auprès d'entreprises mentionnées précédemment.
+- La formule de calcul est la suivante :
+  - Pour les versements effectués avant le 27/09/2017, il y a un abattement selon le barème puis un abattement déjà soumis au prélèvement forfaitaire libératoire.
+  - Pour les versements effectués à compter du 27/09/2017, il y a d'abord un abattement de 7,5 % puis d'un abattement de 12,8 % en l'absence d'option pour le barème progressif.
+- Il faut vérifier que les produits sont souscrits auprès d'une entreprise mentionnée et que ces produits correspondent à des contrats d'au moins 8 ans. Si vous avez perçu des produits de contrats d'assurance-vie de plus de 8 ans souscrits auprès d'une entreprise établie dans un autre pays, il faut déclarer ces produits comme des produits de contrats de moins de 8 ans.

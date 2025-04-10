@@ -1,0 +1,7 @@
+Règle d'imposition au barème pour les revenus de capitaux mobiliers et gains de cession de valeurs mobilières :
+
+- Celle qui s'applique : Les contribuables.
+- Dans quelles conditions : Ils doivent choisir cette option en cochant la case 2OP de la déclaration n° 2042, plutôt que l'imposition au taux forfaitaire de 12,8 % (ou 7,5 % pour certains produits de bons ou contrats de capitalisation et d'assurance-vie).
+- Montants ou plafonds : Les revenus de capitaux mobiliers et gains de cession de valeurs mobilières.
+- Formule de calcul applicable : La formule de calcul est la même que celle utilisée pour l'imposition sur le revenu (impôt sur le revenu progressif).
+- Vérifier pour être sûr d'y avoir droit : Le contribuable doit vérifier qu'il ne se trouve pas dans une des situations exceptionnelles qui définissent la règle de l'imposition au taux forfaitaire, ou bien qu'il n'a pas choisi cette option dans les années précédentes (option irrévocable).

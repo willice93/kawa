@@ -1,0 +1,74 @@
+id: regle_p188_8ef6bd66
+titre: 'Règle applicable aux commissions d''agents généraux et sous-agents d''assurance
+  optant pour le régime des salariés et imposables dans la catégorie des salaires
+  :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle applicable aux commissions d''agents généraux et sous-agents
+    d''assurance optant pour le régime des salariés et imposables dans la catégorie
+    des salaires :
+
+
+    - À qui s''applique : Agents généraux et sous-agents d''assurance
+
+    - Dans quelles conditions : Optent pour le régime des salariés et sont imposables
+    dans la catégorie des salaires
+
+    - Quels sont les montants ou plafonds : Commissions de vos revenus imposés selon
+    les règles des salaires
+
+    - Formule de calcul : Non applicable, il s''agit d''un versement ou un acompte
+    en lieu qu''une retenue à la source. Vous avez le choix entre une déduction forfaitaire
+    de 10 % ou une déduction des frais réels justifiés pour votre montant
+
+    - Verification : Il faut vérifier que vous êtes effectivement opté pour le régime
+    des salariés et imposable dans la catégorie des salaires. En cas de déduction
+    forfaitaire, il faut vérifier que votre choix est bien enregistré. Si vous optez
+    pour la déduction des frais réels, il faut vérifier les frais justifiables et
+    leur montant réel.'
+  formule: revenu_brut * (1 - 0.1)
+cas_pratique: 'Titre : Application de la règle fiscale pour agents généraux et sous-agents
+  d''assurance optant pour le régime des salariés
+
+
+  Contexte : Jeanne Doe est une agent générale pour une compagnie d''assurances. Elle
+  gagne un revenu de base hebdomadaire, mais elle reçoit également des commissions
+  sur les contrats conclus avec ses clients.
+
+
+  Montants concernés : Les commissions sont de 1200 euros par mois (14 400 euros/an).
+  La limite annuelle pour la déduction forfaitaire est de 1200 euros, tandis que pour
+  la déduction des frais réels, elle n''a pas de plafond.
+
+
+  Déclaration : Dans sa déclaration annuelle, Jeanne Doe devra déclarer les montants
+  de ses commissions dans la case 1AK pour le régime des salariés et 1GF pour les
+  frais justifiables si elle choisit cette option.
+
+
+  Comparaison du régime par défaut vs l''option choisie : En optant pour le régime
+  des salariés, Jeanne Doe bénéficie d''une retenue à la source sur ses commissions
+  de 10 % (144 euros/mois). Si elle choisit la déduction forfaitaire, cela reviendra
+  à lui retenir une somme égale à 10 % des commissions mensuelles. En optant pour
+  les frais justifiables, elle devra présenter tous les frais réels correspondants
+  (pour lesquels il n''y a pas de plafond), et ceux-ci seront déductibles en totalité.
+
+
+  Calcul clair avec des chiffres ronds : Si Jeanne Doe choisit la déduction forfaitaire,
+  elle versera 144 euros en retenue à la source chaque mois. S''il préfère les frais
+  justifiables, il faudra examiner les montants des frais réels pour savoir combien
+  de commissions seront taxées à 10 %. Supposons qu''elle justifie des frais réels
+  de 200 euros par mois (2400 euros/an), sa retenue sera alors de 80 euros (600 euros
+  au total sur les 7200 euros de commissions).
+
+
+  Conclusion : Pour les agents généraux et sous-agents d''assurance optant pour le
+  régime des salariés, il est important de savoir que vous avez le choix entre une
+  déduction forfaitaire ou des frais justifiables. Le choix qui convient le mieux
+  à votre situation dépendra de la quantité et de la nature de vos frais réels.'
+calcul:
+  formule: revenu_brut * (1 - 0.1)
+  exemple:
+    revenu_brut: 144
+    abattement: 14
+    revenu_net: 130

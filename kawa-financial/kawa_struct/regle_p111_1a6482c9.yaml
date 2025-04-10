@@ -1,0 +1,35 @@
+id: regle_p111_1a6482c9
+titre: La règle s'applique aux véhicules électriques. Elle est applicabile lorsque
+  les conditions imposées sont remplies. Les montants ou plafonds concernés sont ceux
+  du barème applicable aux véhicules thermiques, à hydrogène ou hybrides. La formule
+  de calcul applicable consiste à ajouter 20 % au montant initial du barème. Pour
+  être sûr d'y avoir droit, il est nécessaire de vérifier que le véhicule en question
+  répond aux critères de définition établi pour les véhicules électriques et que la
+  réglementation appliquée soit celle définie à l'article 6B de l'annexe IV du Code
+  général des impôts.
+source: Brochure IR 2024
+regle:
+  description: La règle s'applique aux véhicules électriques. Elle est applicabile
+    lorsque les conditions imposées sont remplies. Les montants ou plafonds concernés
+    sont ceux du barème applicable aux véhicules thermiques, à hydrogène ou hybrides.
+    La formule de calcul applicable consiste à ajouter 20 % au montant initial du
+    barème. Pour être sûr d'y avoir droit, il est nécessaire de vérifier que le véhicule
+    en question répond aux critères de définition établi pour les véhicules électriques
+    et que la réglementation appliquée soit celle définie à l'article 6B de l'annexe
+    IV du Code général des impôts.
+  formule: Non spécifiée
+cas_pratique: "Nom : Julien Moreau\n   Profession : Chauffeur taxi à Paris\n   Situation\
+  \ : Achat d'un véhicule électrique (Tesla Model 3)\n\n   Montant initial du barème\
+  \ applicable aux véhicules thermiques (selon l'annexe IV du Code général des impôts)\
+  \ : 800 €/an\n   Montant ajouté pour le passage au véhicule électrique (calcul de\
+  \ 20 % sur le montant initial) : 160 €/an\n   Montant total à déclarer pour la TVA\
+  \ sur le véhicule : 960 €/an\n\n   Déclaration : TVA, 1AK, 800 € (montant initial)\
+  \ + 160 € (ajout pour passage au véhicule électrique) = 960 €\n\n   Comparaison\
+  \ régime par défaut vs option choisie :\n   - Régime par défaut (TVA sur les véhicules\
+  \ thermiques) : montant à déclarer : 800 €/an\n   - Option choisie (TVA sur les\
+  \ véhicules électriques) : montant à déclarer : 960 €/an\n\n   Calcul clair avec\
+  \ des chiffres ronds : En passant de un véhicule thermique à un véhicule électrique,\
+  \ le montant total à déclarer augmentera de 160 €/an.\n\n   Conclusion : Ainsi,\
+  \ si vous optez pour l'achat d'un véhicule électrique comme votre nouveau taxi,\
+  \ prenez soin de déclarer correctement la TVA dans les bonnes cases et prendez en\
+  \ compte l'augmentation du montant à déclarer de 160 €/an."

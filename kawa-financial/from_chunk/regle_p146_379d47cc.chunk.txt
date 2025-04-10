@@ -1,0 +1,3 @@
+# Source: page 146
+
+La plus-value doit être déclarée de la manière suivante sur la 2042 C : – la fraction de plus-value imposable à l’impôt sur le revenu, après application de l’exonération de 50 % puis, le cas échéant, des moins-values (avant application éventuelle de l’abattement pour durée de détention) : ligne 3VG ou 3UA ; – l’abattement pour durée de détention (en cas d’option pour l’im- position au barème) : ligne 3SG ou 3SL ; – la fraction de plus-value exonérée : ligne 3VQ.

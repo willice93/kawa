@@ -1,0 +1,3 @@
+# Source: page 203
+
+Reportez le montant des aides, net de la part de CSG déductible (seule la CSG au taux de 3,8% est déductible). La part de la CSG au taux de 2,4% n’est pas déductible et la CRDS au taux de 0,5% n’est pas déductible non plus.

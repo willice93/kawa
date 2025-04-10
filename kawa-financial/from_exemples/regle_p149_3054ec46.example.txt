@@ -1,0 +1,20 @@
+Titre : Déclaration de la plus-value sur le transfert immobilier pour M. Jean Dupond
+
+Contexte : M. Jean Dupond, 45 ans, est un ingénieur en informatique et possède deux maisons à Paris. En juin 2016, il vend sa première maison achetée en janvier 2013 pour un montant de 700 000 € après avoir perçu un gain de 350 000 €.
+
+Calcul des revenus fiscaux :
+- La plus-value réalisée (350 000 €) doit être déclarée à la ligne 3WN ou 3XN pour le calcul du revenu fiscal de référence et des prélèvements sociaux. À titre d'exemple, soit on utilise la ligne 3XN car il s'agit d'un couple non salarié (1X).
+- Le montant total des revenus fiscaux sera donc le montant de la vente (700 000 €) + la plus-value (350 000 €) = 1 050 000 €.
+
+Calcul des prélèvements sociaux :
+- Car M. Dupond réalise sa plus-value entre 2013 et 2016, les prélèvements sociaux seront à un taux de 15,5 %.
+- La plus-value (350 000 €) x le taux de prélèvement social = 54 750 €.
+
+Calcul de la déclaration à la ligne 3WP :
+- Après abattement des frais (supposons 10 000 €), la plus-value devient (350 000 € - 10 000 €) = 340 000 €.
+- Cette somme de 340 000 € sera déclarée à la ligne 3WP dans le cas de l'exemple ci-dessus (utilisation de la ligne 3XN).
+
+Comparaison régime par défaut vs option choisie :
+- S'il n'avait pas choisi l'option de prélèvements sociaux progressifs, la plus-value (350 000 €) aurait été imposée au taux d'impôt sur le revenu et de contribution exceptionnelle sur les hauts revenus applicables à M. Dupond l'année de l'apport (soit 45 % pour l'impôt sur le revenu et 1,75 % pour la CEHR).
+
+Synthèse : Pour M. Jean Dupond, le montant de sa plus-value réalisée sur son immobilier vendu en juin 2016 doit être déclaré à la ligne 3XN (ou 3WN si applicable) dans l'impôt sur le revenu et les prélèvements sociaux, avec un taux de prélèvement social de 15,5 %. Après abattement des frais, il doit être déclaré à la ligne 3WP. Le montant total des revenus fiscaux pour l'année de la vente sera de 1 050 000 € (montant de la vente + plus-value) et le prélèvement social sera de 54 750 €. Si M. Dupond avait choisi le régime par défaut, il aurait été imposé à un taux d'impôt sur le revenu de 45 % et une CEHR de 1,75 %.

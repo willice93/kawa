@@ -1,0 +1,7 @@
+Règle s'applique aux revenus déjà soumis aux prélèvements sociaux et possédant la possibilité de CSG déductible, en l'absence d'option globale pour l'imposition au barème progressif (cas 2OP non coché).
+
+Les montants concernés sont les revenus perçus en 2023 sur lesquels les prélèvements sociaux ont déjà été prélevés en 2023 par l'établissement payeur et qui ouvrent droit à CSG déductible. Ces revenus comprennent les produits des fonds en unités de compte des bons ou contrats de capitalisation et d'assurance-vie attachés à des versements effectués avant le 27 septembre 2017.
+
+La formule de calcul applicable est la saisie de ces revenus sous la ligne 2DF lors du déclaration annuelle.
+
+Il faut vérifier que les montants concernés correspondent à des revenus perçus en 2023, ont déjà été prélevés par l'établissement payeur en 2023 et sont éligibles à CSG déductible pour s'assurer de bénéficier du droit à cette exemption.

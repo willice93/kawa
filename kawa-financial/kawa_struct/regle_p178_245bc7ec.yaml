@@ -1,0 +1,42 @@
+id: regle_p178_245bc7ec
+titre: 'Règle applicables aux imposés selon le régime micro-BNC :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle applicables aux imposés selon le régime micro-BNC :
+
+
+    Conditions : Si vous êtes imposé selon le régime micro-BNC.
+
+
+    Montants ou plafonds : Les montants des recettes encaissées en 2023. L''abattement
+    pour frais professionnels est de minimum 305 €, ou au montant des recettes si
+    celui-ci est inférieur à 305 €.
+
+
+    Formule de calcul applicable : Les recettes encaissées en 2023 seront réduites
+    de 34%. Le résultat sera le montant final à déclarer.
+
+
+    Verification requise : Pour être sûr d''y avoir droit, vous devez vérifier que
+    votre activité professionnelle est bien incluse dans les critères du régime micro-BNC
+    (activités simples, faible chiffre d''affaires, etc.).'
+  formule: revenu_brut * (1 - 0.34)
+cas_pratique: "Nom : Jean Dupont\n   Profession : Artisan peintre en décoration (activité\
+  \ professionnelle incluse dans les critères du régime micro-BNC)\n   Situation :\
+  \ A déclaré 800 € de recettes en 2023 pour son activité d'artisan peintre\n   Montants\
+  \ concernés : Recettes encaissées en 2023 = 800 €, Abattement pour frais professionnels\
+  \ = 305 € (minimum)\n   Déclaration : Dans les cases correspondantes de la déclaration\
+  \ de revenus 2023, indiquez 800 € dans la case 1AK (Revenu de profession libre)\
+  \ et 305 € dans la case 1GF (Abattement pour frais professionnels)\n   Comparaison\
+  \ régime par défaut vs l'option choisie : Sans le régime micro-BNC, les recettes\
+  \ seraient imposées à 100%, alors que avec ce régime, elles sont réduites de 34%.\
+  \ Ainsi, en appliquant le régime micro-BNC, vous économisez 256 € (800 € - (800\
+  \ € * 34%)) sur les impôts à déclarer\n   Conclusion : En utilisant le régime micro-BNC,\
+  \ l'artisan peintre Jean Dupont réduit de 34% ses recettes pour la déclaration de\
+  \ revenus 2023 et économise 256 € sur les impôts à payer."
+calcul:
+  formule: revenu_brut * (1 - 0.34)
+  exemple:
+    revenu_brut: 256
+    abattement: 87
+    revenu_net: 169

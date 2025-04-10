@@ -1,0 +1,96 @@
+id: regle_p188_3a33ba84
+titre: La règle concerne les dirigeants d'une entreprise ayant une activité industrielle,
+  commerciale, artisanale, agricole ou libérale.
+source: Brochure IR 2024
+regle:
+  description: 'La règle concerne les dirigeants d''une entreprise ayant une activité
+    industrielle, commerciale, artisanale, agricole ou libérale.
+
+
+    Il s''applique lorsque :
+
+    - le dirigeant choisit la déduction des frais réels pour ses revenus imposés selon
+    les règles des salaires
+
+
+    Les montants ou plafonds concernés sont :
+
+    - le montant de vos frais réels afférents à l''ensemble de vos revenus imposés
+    selon les règles des salaires (case 1AK ou 1BK)
+
+    - le montant de vos frais réels afférents à votre seule activité de dirigeant
+    (article 62)
+
+
+    La formule de calcul applicable est :
+
+    - Indiquer case 1AK ou 1BK le montant de vos frais réels afférents à l''ensemble
+    de vos revenus imposés selon les règles des salaires. Ensuite, reporter rubriques
+    DSSC ou DSSD (qui figurent dans le volet social) le montant de vos frais réels
+    afférents à votre seule activité de dirigeant article 62.
+
+
+    Il est important de vérifier que :
+
+    - les montants liés aux frais, droits et intérêts d''emprunt versés pour acquérir
+    ou souscrire des parts ou des actions d’une société ayant une activité industrielle,
+    commerciale, artisanale, agricole ou libérale, dans laquelle le dirigeant exerce
+    son activité professionnelle, ne sont pas à reporter dans les rubriques DSSC ou
+    DSSD.'
+  formule: revenu_brut * (1 - 0.2)
+cas_pratique: 'Titre : Fiscalité pour dirigeants d''entreprise : Application concrète
+  de la déduction des frais réels
+
+
+  Nom : Jean DOE
+
+  Profession : Directeur général (DG) d''une entreprise commerciale
+
+  Situation : En 2021, mon entreprise enregistre un chiffre d''affaires de 5 millions
+  d''euros. J''ai choisi la déduction des frais réels pour mes revenus imposés selon
+  les règles du salaire (formule 1AK).
+
+
+  Montants concernés :
+
+  - Les frais réels afférents à mon ensemble de revenus imposés selon les règles du
+  salaire s''élèvent à 50 000 euros (case 1AK)
+
+  - Les frais réels afférents à ma seule activité de dirigeant s''élèvent à 25 000
+  euros (article 62)
+
+
+  Déclaration :
+
+  - Remplissez les cases 1AK ou 1BK avec le montant des frais réels afférents à mon
+  ensemble de revenus imposés selon les règles du salaire, c''est-à-dire 50 000 euros.
+
+  - Ensuite, reporter les montants dans les rubriques DSSC ou DSSD les frais réels
+  afférents à ma seule activité de dirigeant, soit 25 000 euros.
+
+
+  Comparaison :
+
+  - Sans la déduction des frais réels, mon montant imposable serait plus élevé (50
+  000 + 25 000 = 75 000 euros). En choisissant cette option, j''en réduis mon impôt
+  à payer.
+
+
+  Calcul clair :
+
+  - Mon montant imposable après la déduction des frais réels s''élève à (50 000 -
+  25 000) + (18 333 - 9 167) = 46 667 euros (en considérant un taux d''imposition
+  de 20% pour le régime par défaut).
+
+
+  Synthèse :
+
+  En choisissant la déduction des frais réels, j''ai pu réduire mon montant imposable
+  de 75 000 à 46 667 euros en 2021. Cela m''a permis de diminuer significativement
+  ma charge fiscale et d''améliorer mes économies.'
+calcul:
+  formule: revenu_brut * (1 - 0.2)
+  exemple:
+    revenu_brut: 667
+    abattement: 133
+    revenu_net: 534

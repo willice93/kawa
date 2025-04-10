@@ -1,0 +1,9 @@
+Règle applicabile solo ai lavoratori indipendenti:
+
+Le montante o i beneficii da sorgente straniera indicati nelle rubriche di redazione non devono essere integrati nella base di calcolo delle cotizzazioni e contribuzioni sociali se:
+1. La situazione del lavoratore è esclusa dall'applicabilità del Regolamento Europeo 883/2004.
+2. I beneficii provengono dall'esercizio di una attività svolta in uno Stato fuori UE, EEA o Svizzera, senza esistenza di convenzione internazionale di sicurezza sociale che faccia riferimento all'attività svolta fuori dalla Francia al regime generale dei lavoratori indipendenti.
+
+La formule di calcolo non è applicabile in quanto i montanti indicati nelle rubriche DSJA o DSJB devono essere esclusi dalla base di calcolo delle cotizzazioni sociali.
+
+Per essere sicuri d'avere diritto all'esenzione, verificare che i benefici da sorgente straniera indicati nelle rubriche "revenu imposable" o "revenu de source étrangère avec crédit d'impôt égal à l'impôt français" non siano stati erroneamente inclusi nella base di calcolo delle cotizzazioni sociali.

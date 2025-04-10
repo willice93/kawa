@@ -1,0 +1,11 @@
+Contexte : Une personne nommée Jean Dupont est un travailleur indépendant non agricole ayant une activité principale de photographe professionnel avec son propre studio et une activité supplémentaire de vendeur d'équipements photographiques auprès de clients privés.
+
+   Montants concernés : Les revenus annuels de sa principale activité sont de 50 000 €, tandis que ses revenus de son activité supplémentaire sont de 12 000 €.
+
+   Déclaration : Dans la section dédiée des déclarations des revenus pour les travailleurs indépendants non agricoles, Jean Dupont doit cocher la case "Oui" à l'indication "Avez-vous une activité indépendante supplémentaire ?"
+
+   Comparaison : Sans cette déclaration, le revenu de sa principale activité serait soumis aux cotisations à la MSA. Avec cette déclation, les revenus de son activité supplémentaire peuvent être déduits des revenus déjà soumis aux cotisations à la MSA.
+
+   Exemple de calcul : Sans déclaration, le montant soumis serait de 50 000 €. Avec cette déclaration, le montant soumis serait réduit de 12 000 €, donnant un montant final de 38 000 €.
+
+   Synthèse : En cochant la case "Oui" à l'indication "Avez-vous une activité indépendante supplémentaire ?", Jean Dupont peut bénéficier de la déduction des revenus déjà soumis aux cotisations pour son activité supplémentaire, ce qui réduit le montant qu'il doit payer à la MSA.

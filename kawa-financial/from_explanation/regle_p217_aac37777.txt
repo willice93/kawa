@@ -1,0 +1,9 @@
+Règle d'application : Pour les travailleurs indépendants non agricoles ayant une activité indépendante supplémentaire, ceux qui remplissent cette case sur leur déclaration permettent de déduire leurs revenus déjà soumis aux cotisations à la MSA.
+
+   Conditions d'application : Les conditions pour bénéficier de cette règle sont que le travailleur indépendant non agricole ait une activité indépendante supplémentaire et qu'il remplit cette case spécifique sur sa déclaration.
+
+   Montants ou plafonds : Il n'y a pas de montant ou plafond défini pour cette règle, puisque c'est simplement une question de déclaration.
+
+   Formule de calcul applicable : Cette règle ne nécessite pas de formule de calcul particulière, car il s'agit simplement d'une déclaration des revenus déjà soumis aux cotisations.
+
+   Vérification pour être sûr d'y avoir droit : Les travailleurs indépendants non agricoles doivent vérifier que leur activité indépendante supplémentaire est bien définie et qu'elle est effectivement enregistrée à l'administration compétente. Il doit également vérifier que les revenus de cette activité sont déjà soumis aux cotisations.

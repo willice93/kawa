@@ -1,0 +1,11 @@
+Règle appliquée aux contribuables calculant leur revenu fiscal de référence et leur plafond de déduction d'épargne retraite :
+
+Conditions : Lorsque le bénéfice net est réalisé.
+
+Montants ou plafonds : Le montant du bénéfice net peut servir à calculer :
+- Le revenu fiscal de référence : Il ne peut pas excéder la limite imposée (montant variable en fonction de l'année et du statut fiscale).
+- Le plafond de déduction d'épargne retraite : Il est limité à 20% du bénéfice net. Ce montant ne peut pas excéder un maximum annuel (montant variable en fonction de l'année).
+
+Formule de calcul applicable : Revenu fiscal de référence = Bénéfice net s'il ne dépasse pas la limite imposée, sinon le plafond imposé. Plafond de déduction d'épargne retraite = 20% du bénéfice net, mais sans excéder le montant maximum annuel.
+
+Vérifier pour être sûr d'y avoir droit : Les contribuables doivent vérifier qu'ils ont réellement réalisé un bénéfice net lors de l'exercice fiscal pour bénéficier de ce traitement fiscale.

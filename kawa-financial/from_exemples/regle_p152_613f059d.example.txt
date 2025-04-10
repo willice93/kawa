@@ -1,0 +1,11 @@
+Nom: Jean Dupont
+   Profession: Avocat indépendant
+   Situation: Vente de son appartement à Paris pour 350 000€ en février 2021
+
+Pour l'année fiscale 2021, M. Jean Dupont est tenu d'indiquer la somme de ligne 3WB dans les bonnes cases au titre des plus-values et créances soumises à l'impôt sur le revenu. Son appartement étant venu à évaluation à 350 000€, il doit y indiquer la somme de 350 000€ (montant des plus-values et créances soumises à l'impôt sur le revenu, au barème ou à 12,8 % - après abattement pour durée de détention). Le calcul est donc de 350 000€ * 12,8 % = 44 800€.
+
+Par ailleurs, M. Dupont doit indiquer la somme de ligne 3WD dans les bonnes cases au titre des prélèvements sociaux. La somme à indiquer est la même que la précédente mais avant abattement pour durée de détention. Le calcul étant donc de 350 000€ * 12,8 % = 44 800€ / 75 (pour l'abattement pour durée de détention). Il doit indiquer dans les bonnes cases au titre des prélèvements sociaux la somme de 60 533€.
+
+Il faut noter que le régime par défaut pour les plus-values et créances est l'impôt sur le revenu à 12,8 % en barème, mais M. Dupont peut également choisir l'option du barème progressif si cela lui convient davantage.
+
+En conclusion, dans son déclaration de revenus pour l'année fiscale 2021, M. Jean Dupont doit indiquer au titre des plus-values et créances soumises à l'impôt sur le revenu la somme de 44 800€ (case 1AK) et au titre des prélèvements sociaux la somme de 60 533€ (case 1GF).

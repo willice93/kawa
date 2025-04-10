@@ -1,0 +1,50 @@
+id: regle_p110_515a5ad5
+titre: Cette règle s'applique aux voyageurs et représentants de commerce. Les conditions
+  requises sont que les dépenses soient occasionnées par les relations avec la clientèle
+  (frais de correspondance, invitations, cadeaux...) et qu'elles ne dépassent pas
+  le montant annuel de 765 €. La formule de calcul applicable est de calculer un pourcentage
+  de 2 % du montant des commissions. Pour être sûr d'y avoir droit, il faut vérifier
+  que les dépenses en question soient réellement liées aux relations avec la clientèle
+  et qu'elles respectent les limites énoncées dans la règle.
+source: Brochure IR 2024
+regle:
+  description: Cette règle s'applique aux voyageurs et représentants de commerce.
+    Les conditions requises sont que les dépenses soient occasionnées par les relations
+    avec la clientèle (frais de correspondance, invitations, cadeaux...) et qu'elles
+    ne dépassent pas le montant annuel de 765 €. La formule de calcul applicable est
+    de calculer un pourcentage de 2 % du montant des commissions. Pour être sûr d'y
+    avoir droit, il faut vérifier que les dépenses en question soient réellement liées
+    aux relations avec la clientèle et qu'elles respectent les limites énoncées dans
+    la règle.
+  formule: Non spécifiée
+cas_pratique: 'Context : John Doe, self-employed sales representative based in Paris,
+  France. He has been working with a client, Acme Corporation, for the past two years
+  and has generated significant commissions from their partnership.
+
+
+  *John''s annual commission earnings*: 37,500 € (total)
+
+  *Annual limit on business-related expenses as per the rule*: 765 €
+
+  *Applicable tax rate for this category of expenses*: 2%
+
+  *Relevant expense case number*: 1AK
+
+
+  In the course of his professional relationship with Acme Corporation, John has incurred
+  certain expenses such as postage, business meals, and gifts worth a total of 500
+  € during the last fiscal year. He intends to claim these expenses as tax-deductible
+  under the specified rule for sales representatives.
+
+
+  For comparison purposes, if John were to use the default regime (without this specific
+  rule), he would not be able to deduct any business-related expenses from his commission
+  earnings when calculating his income tax. However, with the application of the mentioned
+  rule, he can deduct up to 765 € worth of eligible expenses from his total commission
+  earnings, resulting in a reduced taxable income of 36,735 € (37,500 - 765 * 0.02).
+
+
+  In summary, John Doe, self-employed sales representative, can legitimately claim
+  up to 765 € worth of business-related expenses incurred during the year for his
+  relationship with Acme Corporation as tax-deductible, thus reducing his taxable
+  income by an amount of 36,735 €.'

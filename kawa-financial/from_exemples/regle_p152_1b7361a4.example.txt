@@ -1,0 +1,23 @@
+Exemple de situation : Jeanne Doe, 45 ans, propriétaire-exploitant d'un magasin de vente en ligne. Elle a réalisé une plus-value capitale de 100 000€ sur la vente d'une de ses entreprises et possède également des créances non impôtées de 50 000€. En 2021, elle a choisi de mettre en report de cette plus-value capitale pour un an avec une période de paiement de 10 ans à compter du 1er janvier 2022.
+
+Formulaire : IS (Impôt sur le revenu) 2022
+
+Ligne | Description | Montant
+--- | --- | ---
+1AK | Nom et prénom | Jeanne Doe
+1GF | Adresse | 45 Rue des Roses, Ville XYZ 75000
+3WA | Plus-value capitale (soumise à l'impôt sur le revenu) | 100 000€
+3WM | Créances non impôtées (soumises à l'impôt sur le revenu) | 0€
+3TA | Plus-value capitale en report d'imposition | 100 000€
+3XM | Montant de la base soumise aux prélèvements sociaux (à 15,5 %) | 15 500€
+CEHR | Calcul d’Égalisation des charges sociales entre salariés (calculée sur la 2074 ETD) | 8 680€
+3XA | Montant de la base soumise aux prélèvements sociaux (à 17,2 %) | 0€
+
+Comparaison : Regime par défaut (sans sursis de paiement) vs option choisie (avec sursis de paiement pour plus-value capitale)
+
+Regime par défaut : Montant total d'impôt sur le revenu à verser en 2022 serait de 31 680€.
+Option choisie : Montant total d'impôt sur le revenu à verser en 2022 sera de 43 500€, mais la plus-value capitale sera échelonnée sur les 10 années suivantes avec un montant annuel de 9 750€.
+
+Calcul clair : En choisissant l'option de sursis de paiement pour sa plus-value capitale, Jeanne Doe aura à verser un montant total d'impôt supérieur en 2022 (43 500€) mais un montant annuel de plus faible sur les années suivantes.
+
+Conclusion : En choisissant l'option de sursis de paiement pour sa plus-value capitale, Jeanne Doe peut échelonner ses paiements et planifier son budget plus facilement dans les années à venir.

@@ -1,0 +1,3 @@
+# Source: page 50
+
+Le taux du foyer fiscal est établi sur la base des dernières infor- mations connues de l’administration à partir de la déclaration de revenus. Ce taux, qui prend en compte la totalité des revenus et des charges ainsi que la situation de famille du foyer, est un taux personnalisé permettant d’assurer le prélèvement le plus exact possible l’année de perception des revenus et d’éviter ainsi les régularisations l’année suivante. En revanche, le taux ne tient pas compte des réductions et crédits d’impôt. Le taux appliqué à partir de septembre de l’année N est calculé sur la base de la déclaration souscrite en mai/juin de l’année N sur les revenus N-1.

@@ -1,0 +1,9 @@
+Cette règle s'applique aux produits de capitalisation et d'assurance-vie qui ont une durée de 8 ans ou plus, avec des versements effectués avant le 27 septembre 2017.
+
+Les conditions sont les suivantes :
+- Les produits sont soit soumis au prélèvement libératoire, soit d'autres produits.
+- Il existe deux catégories de produits imposables en fonction des montants des primes versées :
+  - 2DH pour les produits soumis au prélèvement libératoire qui ont un montant total perçu à répartir sur lignes 2VV et 2WW qui est inférieur ou égal à 2DH (montant spécifique non fourni dans le texte).
+  - Les produits imposables à 7,5 % correspondent aux primes nexcédant pas 150 000 € (2VV).
+  - Les produits imposables à 12,8 % correspondent aux primes excédant 150 000 € (2WW).
+- Il est important de vérifier le montant total perçu sur les lignes 2VV et 2WW pour être sûr d'y avoir droit.

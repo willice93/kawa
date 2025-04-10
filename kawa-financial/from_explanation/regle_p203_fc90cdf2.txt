@@ -1,0 +1,7 @@
+La règle s'applique aux chèques vacances octroyés aux salariés en France. Cette règle est applicable lorsque les montants total des chèques vacances sont déclarés dans les rubriques DSCN/DSDN sans abattement fiscal.
+
+Il existe deux parties dans cette règle :
+1. La première partie (30% du SMIC) est exonérée de taxes, ce plafond peut être déterminé en multipliant 30 par le Salaire Minimum Interprofessionnel de Croissance (SMIC), qui est actuellement de 513 € en 2023.
+2. La seconde partie supérieure à la première est soumise aux cotisations sociales et aux charges additionnelles de sécurité sociale (CSG-CRDS). Pour calculer cette partie, il faut déterminer la différence entre le total des chèques vacances et 30% du SMIC mensuel au 1er janvier de l'année. Cette différence est alors soumise à cotisations sociales et CSG-CRDS.
+
+Il faut vérifier que les montants déclarés dans les rubriques DSGA/DSGB et/ou DSCR/DSDR correspondent au total de la seconde partie, c'est-à-dire la partie qui dépasse 30% du SMIC mensuel.

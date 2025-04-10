@@ -1,0 +1,11 @@
+Règle de calcul : Droits à la déduction des frais réels pour les cotisations syndicales
+
+   Cette règle s'applique aux salariés qui font une demande de déduction des frais réels sur leurs revenus.
+
+   Les conditions de cette règle sont que le salarié ait effectué une demande pour obtenir la déduction des frais réels et inclure les cotisations syndicales dans ces frais.
+
+   Les montants ou plafonds de cette règle ne sont pas spécifiés, car il s'agit d'une déduction de frais réels sur les revenus bruts.
+
+   La formule de calcul est simplement la somme des frais réels inclus dans la demande, auxquels on doit ajouter les cotisations syndicales, ce qui permettra d'obtenir le montant total à déduire des revenus.
+
+   Il faut vérifier que vous avez bien effectué une demande pour obtenir la déduction des frais réels et que vous incluez les cotisations syndicales dans ceux-ci, sinon vous ne pourrez pas bénéficier de cette règle.

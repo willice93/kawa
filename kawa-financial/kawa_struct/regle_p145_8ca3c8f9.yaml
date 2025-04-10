@@ -1,0 +1,62 @@
+id: regle_p145_8ca3c8f9
+titre: Règle appliquée aux gains imposables de retrait ou de rachat sur un PEA (Plan
+  d'épargne en actions) ou un PEA-PME (PEA destiné à des entreprises de petite et
+  moyenne taille) effectués avant l'expiration de la 5e année.
+source: Brochure IR 2024
+regle:
+  description: 'Règle appliquée aux gains imposables de retrait ou de rachat sur un
+    PEA (Plan d''épargne en actions) ou un PEA-PME (PEA destiné à des entreprises
+    de petite et moyenne taille) effectués avant l''expiration de la 5e année.
+
+
+    Conditions : Si le retrait ou le rachat est effectué en 2023 sur un PEA ou un
+    PEA-PME avant l''expiration de la 5e année, y compris ceux qui entraînent ou non
+    la clôture du plan.
+
+
+    Montant ou plafonds : Le montant imposable est le gain net (le montant retenu
+    sur ligne 3VT).
+
+
+    Formule de calcul applicable : Aucune formule de calcul particulière, car il s''agit
+    d''un montant connu et non calculé.
+
+
+    Verification pour y avoir droit : Vérifier que le retrait ou rachat est effectué
+    sur un PEA ou un PEA-PME avant l''expiration de la 5e année, et qu''il n''y a
+    pas d''autres dispositions applicables en cas d''exonération spéciale (comme dans
+    le cas de la création ou de la reprise d''une entreprise).'
+  formule: revenu_brut * (1 - 0.19)
+cas_pratique: 'Contexte : Mme Jeanne Dupont, 50 ans, ingénieur en informatique et
+  technologiques de l''information (SITI) chez Google France. Elle a ouvert un PEA-PME
+  en 2018 pour investir dans des actions de startups françaises.
+
+
+  En 2023, Mme Dupont a effectué un retrait de son PEA-PME avant l''expiration de
+  la 5e année, soit 6 ans après sa création. Le montant retenu sur ligne 3VT est de
+  8 000 €.
+
+
+  Calcul et déclaration : Mme Dupont doit déclarer le gain net de 8 000 € dans la
+  case 1AK du formulaire de déclaration des revenus imposables (DAR). Il est important
+  de savoir que ce montant ne bénéficie pas d''exonération spéciale, car cela n''est
+  applicable qu''en cas de création ou reprise d''entreprise.
+
+
+  Comparaison : Le régime par défaut appliquerait un taux progressif allant jusqu''à
+  30 % pour les revenus imposables de plus de 160 897 € en 2023, soit un impôt de
+  2 426,91 €. Cependant, en choisissant le régime spécial appliqué aux retraits de
+  PEA-PME effectués avant l''expiration de la 5e année, Mme Dupont bénéficie d''un
+  taux réduit à 19 % et une épargne de 1 238,64 € pour son impôt.
+
+
+  Synthèse : Mme Jeanne Dupont a effectué un retrait avant l''expiration de la 5e
+  année de son PEA-PME. Elle doit déclarer le montant de 8 000 € dans la case 1AK
+  du formulaire de déclaration des revenus imposables et bénéficie d''un taux réduit
+  à 19 %, épargnant 1 238,64 € par rapport au régime par défaut.'
+calcul:
+  formule: revenu_brut * (1 - 0.19)
+  exemple:
+    revenu_brut: 897
+    abattement: 170
+    revenu_net: 727

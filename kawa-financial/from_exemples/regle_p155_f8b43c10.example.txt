@@ -1,0 +1,26 @@
+Titre : Application de la règle fiscale sur le gain d'acquisition imposable pour M. Dupont, entrepreneur indépendant
+
+Contexte : M. Dupont est entrepreneur indépendant depuis 5 ans et réalise un bénéfice net annuel de 400 000 €. Il achète une propriété à l'occasion de son 50ème anniversaire pour la somme de 800 000 €, en utilisant ses économies personnelles.
+
+Montants concernés :
+- Bénéfice net annuel : 400 000 €
+- Gain d'acquisition imposable : 800 000 € (prix de l'achat)
+- Plafond ou limite annuelle : 300 000 €
+- Abattement fixe (1VZ) : Non applicable
+- Abattement variable (1WZ) : Potentiel abattement de 50 %, soit 400 000 € (la moitié du plafond)
+
+Déclaration dans les bonnes cases :
+- Ligne 1AK : Bénéfice net annuel = 400 000 €
+- Ligne 1GF : Gain d'acquisition imposable = 800 000 €
+
+Comparaison régime par défaut vs option choisie :
+Le régime par défaut pour le gain d'acquisition imposable est la taxation progressive. Cependant, M. Dupont a l'option de choisir une taxation simplifiée sur ce gain, en appliquant un taux unique de 30 % sur le montant excédant la limite annuelle de 300 000 €.
+
+Calcul clair avec des chiffres ronds :
+- Le gain d'acquisition imposable de M. Dupont est supérieur à la limite annuelle (800 000 € > 300 000 €).
+- M. Dupont a le choix entre la taxation progressive ou la taxation simplifiée. S'il choisit la taxation simplifiée, il pourra bénéficier d'un abattement de 50 % sur le montant excédant la limite annuelle (400 000 €).
+- En optant pour la taxation simplifiée, M. Dupont paiera 30 % du montant excédant la limite annuelle, soit (800 000 € - 300 000 €) * 30 % = 150 000 €.
+- En choisissant cette option, M. Dupont ne paiera pas de cotisation sociale sur cet abattement.
+
+Conclusion :
+Pour respecter la règle en question, M. Dupont devra vérifier si le gain d'acquisition imposable excède la limite annuelle de 300 000 € et déclarer ce gain dans les bonnes cases sur son impôt de la personne (1AK pour le bénéfice net annuel et 1GF pour le gain d'acquisition imposable). Il devra ensuite choisir entre le régime par défaut ou la taxation simplifiée, en prenant en compte les conséquences financières de chacune des options.

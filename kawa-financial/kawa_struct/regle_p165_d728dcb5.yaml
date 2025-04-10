@@ -1,0 +1,63 @@
+id: regle_p165_d728dcb5
+titre: La règle de calcul s'applique à personnes physiques qui ont des activités de
+  BIC (Business Income from Commerce or Profession) ou BNC (Business Income from Agriculture
+  and Allied Activities), et dont les revenus sont imposables au barème de l'impôt
+  sur le revenu.
+source: Brochure IR 2024
+regle:
+  description: 'La règle de calcul s''applique à personnes physiques qui ont des activités
+    de BIC (Business Income from Commerce or Profession) ou BNC (Business Income from
+    Agriculture and Allied Activities), et dont les revenus sont imposables au barème
+    de l''impôt sur le revenu.
+
+
+    La règle s''applique sous les conditions où le bénéfice ou déficit des activités
+    BIC ou BNC atteint un certain plafond (non spécifié dans le texte) qui rend inapplicable
+    le régime simplifié de micro-entreprise.
+
+
+    La formule de calcul applicable est de déclarer les revenus des activités BIC
+    ou BNC selon les cas : soit dans les cases prévues pour le régime micro BIC ou
+    BNC (chiffre d''affaires ou recettes), soit dans les cases prévues pour le régime
+    réel (bénéfice ou déficit).
+
+
+    Il est important de vérifier que le bénéfice ou déficit des activités BIC ou BNC
+    atteint un certain plafond qui rend inapplicable le régime simplifié de micro-entreprise
+    afin d''être sûr d''y avoir droit.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titre : Exemple de déclaration fiscale pour une personne physique avec
+  activités BIC ou BNC imposables au barème de l''impôt sur le revenu
+
+
+  Contexte : Nom : Jean Doe, Profession : Entrepreneur en boulangerie artisanale,
+  Situation : Débutant dans son activité depuis 3 ans, réalise une chiffre d''affaires
+  de 60 000€.
+
+
+  Montants concernés : Revenu net : 45 000€ (salaire d''emploi), Chiffre d''affaires
+  : 60 000€, Coûts : 12 000€ (matériaux, électricité, loyer, etc.), Bénéfice ou déficit
+  des activités BIC : 48 000€ (60 000€ - 12 000€).
+
+
+  Déclaration dans les bonnes cases : Pour le régime micro-entreprise, les revenus
+  doivent être déclarés dans la case prévue pour ce régime (1AK). Étant donné que
+  le bénéfice des activités BIC est supérieur au plafond de 32 900€, il faut déclarer
+  les revenus dans la case prévue pour le régime réel (1GF).
+
+
+  Comparaison : Le régime par défaut est le régime simplifié de micro-entreprise avec
+  un taux d''imposition de 6,5%. En choisissant le régime réel, le taux d''imposition
+  passe à 30% (2021).
+
+
+  Calcul clair avec des chiffres ronds : Avec le régime simplifié de micro-entreprise,
+  la taxe serait de 6.5% x 60 000€ = 3 900€. En choisissant le régime réel, la taxe
+  serait de 30% x 48 000€ = 14 400€.
+
+
+  Conclusion : En choisissant le régime réel, Jean Doe déclare un montant supérieur
+  à celui du régime simplifié, mais payera plus d''impôts en 2021 (14 400€ vs 3 900€).
+  Il faut donc vérifier que le bénéfice ou déficit des activités BIC ou BNC atteint
+  un certain plafond qui rend inapplicable le régime simplifié de micro-entreprise
+  afin d''être sûr d''y avoir droit.'

@@ -1,0 +1,9 @@
+Règle appliquée : Plafond de déduction de l'épargne retraite pour l'année 2023.
+
+Condition d'application : Le bénéfice obtenu en 2022 doit être supérieur à 500 000 €.
+
+Montant ou plafond : La déduction de l'épargne retraite est de 10 % du bénéfice obtenu en 2022, avec un maximum de 5 000 €.
+
+Formule de calcul applicable : Le montant de la déduction est obtenu en multipliant le bénéfice obtenu en 2022 par 10 % (Montant de la déduction = Bénéfice obtenu x 10%).
+
+Verification pour être sûr d'y avoir droit : Vérifier que le bénéfice obtenu en 2022 est supérieur à 500 000 €.

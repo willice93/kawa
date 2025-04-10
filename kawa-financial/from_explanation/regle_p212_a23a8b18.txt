@@ -1,0 +1,29 @@
+Règle d'application : Calcul des Montants spécifiques pour les régimes sociaux en France.
+
+Cette règle s'applique à toutes les personnes physiques (individus) travaillant en France et à leurs familles associées dans certaines conditions. Les montants ou plafonds concernés sont les suivants :
+
+- Frais réels MSA associés gérants : MSJS/MSJT
+  - Condition : Travail pour une société sous le régime général ou un régime micro.
+  - Plafond : Aucun plafond spécifié.
+  - Formule de calcul : Les frais réels sont calculés sur les revenus du travail effectué dans la société.
+  - Vérification : Assurer que les revenus déclarés correspondent aux vraies sommes gagnées et à l'activité effectuée dans la société.
+
+- Frais réels agents généraux d'assurances : MSJW/MSJX
+  - Condition : Travail pour une société sous le régime général ou un régime micro en tant qu'agent général d'assurance.
+  - Plafond : Aucun plafond spécifié.
+  - Formule de calcul : Les frais réels sont calculés sur les revenus du travail effectué dans la société.
+  - Vérification : Assurer que les revenus déclarés correspondent aux vraies sommes gagnées et à l'activité effectuée dans la société.
+
+- PVCT exonérées art 151 septies A du CGI : MSFU/MSFV
+  - Condition : Travail pour une société sous le régime général ou un régime micro et bénéficie de l'exonération d'art 151 septies A du CGI.
+  - Plafond : Aucun plafond spécifié.
+  - Formule de calcul : Les montants exonérés sont déterminés en fonction des conditions de la loi.
+  - Vérification : Assurer que les conditions de l'exonération d'art 151 septies A du CGI sont remplies.
+
+- Sommes exonérées de cotisations sociales soumises à la CSG-CRDS : MSFW /MSFX
+  - Condition : Travaille pour une société sous le régime général ou un régime micro et bénéficie d'une somme exonérée des cotisations sociales.
+  - Plafond : Aucun plafond spécifié.
+  - Formule de calcul : Les montants exonérés sont déterminés en fonction des conditions de la loi.
+  - Vérification : Assurer que les conditions pour l'exonération de cotisations sociales soumises à la CSG-CRDS sont remplies.
+
+Et ainsi de suite, pour chacune des autres sommes mentionnées, telles que les cotisations de retraite complémentaire facultatives (MSKP/ MSLP), les cotisations obligatoires aux régimes des non-salariés non agricoles (MSKQ/MSLQ) et les revenus divers (comme les dividendes et intérêts excédant 10 % de capital social, l'allocation journalière du proche aidant, etc.).

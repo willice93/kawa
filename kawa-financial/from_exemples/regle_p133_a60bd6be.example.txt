@@ -1,0 +1,17 @@
+Contexte : Julien Leroy, employé de banque avec un revenu annuel net de 75 000 € en 2021, résidant à Paris.
+
+Taux d'imposition pour l'année 2021 :
+- Produits imposés au taux de 7,5 % : 36 400 € (montant total des revenus d'intérêts et dividendes)
+- Produits imposés au taux de 12,8 % : 29 320 € (montant total des gains sur la cession de biens mobiliers)
+
+Déclaration à remplir : Formule A - Case 1AK
+
+Comparaison : Régime par défaut vs Option choisie
+- Régime par défaut : Le montant total des produits imposés (36 400 € + 29 320 €) est de 65 720 €, il y a droit à l'abattement ou reliquat d'abattement de 4 600 € sur les produits imposés au taux de 7,5 % (4 600 € > 36 400 €), et il n'y a pas d'éligibilité pour l'abattement ou reliquat d'abattement sur les produits imposés au taux de 12,8 %.
+- Option choisie : Aucune option pour l'imposition au barème n'étant disponible, le montant total des produits imposés est considéré dans le régime par défaut.
+
+Calcul :
+- Abattement ou reliquat d'abattement de 4 600 € sur les produits imposés au taux de 7,5 % : (36 400 € x 7,5 %) - 4 600 € = 2 590 €
+- Abattement ou reliquat d'abattement de 4 600 € sur les produits imposés au taux de 12,8 % : (29 320 € x 12,8 %) - 4 600 € = 3 537 €
+
+Conclusion : En utilisant le régime par défaut pour l'imposition des produits imposés à 7,5 % et 12,8 %, Julien Leroy bénéficiera d'un abattement ou reliquat d'abattement de 6 127 € (2 590 € + 3 537 €) sur son impôt des revenus de l'année 2021.

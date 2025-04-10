@@ -1,0 +1,3 @@
+# Source: page 149
+
+Le taux d’impôt sur le revenu (taux “historique”) déterminé au titre de l’année de l’apport selon les modalités prévues à l’article 200 A, 2 ter du CGI est égal au rapport entre : – au numérateur, la différence entre le montant d’impôt résultant de l’application du barème au revenu imposable du foyer de l’an- née de l’apport majoré des plus-values placées en report d’impo- sition (après application de l’abattement pour durée de détention) et le montant d’impôt résultant de l’application du barème au revenu imposable du foyer ; – au dénominateur, le montant des plus-values placées en report d’imposition (après application de l’abattement).

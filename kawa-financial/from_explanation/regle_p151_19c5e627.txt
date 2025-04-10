@@ -1,0 +1,10 @@
+Règle applique aux personnes déclarant une plus-value imposable sur une déclaration n° 2086 (cession d'actifs numériques). La règle s'applique lorsque vous avez réalisé des plus-values de cession d'actifs numériques durant l'année en question.
+
+   Les montants ou plafonds sont :
+   - La plus-value imposable sur la déclaration n° 2086
+   - Le taux d'imposition fixé à 12,8 %
+   - Les prélèvements sociaux associés
+
+   La formule de calcul applicable est la suivante : Plus-value imposable × 12,8 % + Prélèvements sociaux
+
+   Pour être sûr d'y avoir droit, il faut vérifier que vous avez coché la case 3CN pour opter pour l'imposition au barème progressif de vos plus-values de cessions d'actifs numériques. Cette option est globale et porte sur le total des plus-values réalisées par le foyer fiscal durant l'année.

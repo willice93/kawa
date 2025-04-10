@@ -1,0 +1,13 @@
+Nom : Jean Dupont, commerçant auto-entrepreneur
+
+Situation : Fin de l'année fiscale 2023 avec des revenus net imposables de 65 000 € pour moi et ma femme, qui travaille également dans une entreprise. Nous avons deux enfants en école publique et possédons un appartement qui nous coûtait 240 000 € à acheter, dont nous avons déjà versé 160 000 € de l'impôt sur les transactions immobilières (ITI).
+
+Calcul pour la fractionnement des paiements d'impositions :
+
+- Solde d'impôt sur le revenu après imputation des réductions, des crédits, des prélèvements et des acomptes : 10 000 € (après avoir retenu le crédit d'impôt pour la loi sur l'énergie claire de 2 500 €)
+- Revenu net imposable du foyer : 65 000 € + 0 (car aucun revenu n'est exclu grâce à notre statut d'auto-entrepreneur) = 65 000 €
+- Les revenus entrant dans le champ d'application du dispositif sont ceux provenant de mon activité d'auto-entrepreneur, qui s'élèvent à 45 000 €.
+- Formule de calcul : Montant du paiement fractionné = Solde d'impôt sur le revenu * (Revenus entrant dans le champ d'application du dispositif / Revenu net imposable du foyer) = 10 000 € * (45 000 € / 65 000 €) = 4 347,62 €
+- Le seuil minimum requis pour la fractionnement des paiements d'impositions est de 1 800 €. Mon solde d'impôt sur le revenu est supérieur à ce seuil (10 000 € > 1 800 €)
+- Comparaison entre les régimes par défaut et l'option choisie : En optant pour la fractionnement des paiements, nous réduirons notre paiement d'impôt de 10 000 € à 4 347,62 € en réalisant une transaction immobilier (ITI). Si nous ne choisissons pas cette option, notre impôt serait de 10 000 €.
+- Conclusion : En optant pour la fractionnement des paiements d'impositions, nous réduirons notre paiement d'impôt sur le revenu de 5 652,38 € en réalisant une transaction immobilier (ITI).

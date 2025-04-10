@@ -1,0 +1,12 @@
+La règle s'applique aux retraits réalisés sur un contrat Madelin ou PERIN et les conditions varient en fonction du type de contrat :
+
+1. Retrait sur un contrat Madelin :
+   - Si le retrait est imposé au barème, cela peut être dans les cas 1AS ou 1BS avec option pour l'imposition au taux forfaitaire de 7,5 % dans les cas 1AT ou 1BT.
+   - Il n'y a pas de plafond spécifié pour le barème ou le taux forfaitaire.
+   - La formule de calcul dépend des options choisies et peut être soit la progression du barème selon les cas 1AS, 1AT, 1BS, 1AT, 1BI, 1AI ou 1BT, ou le taux forfaitaire à 7,5 % dans les cas 1AT et 1BT.
+   - Pour être sûr d'y avoir droit, il faut vérifier si les conditions requises pour chaque option de calcul sont remplies.
+
+2. Retrait sur un PERIN :
+   - La partie correspondant aux versements ayant fait l'objet d'une déduction est imposée au barème dans la catégorie des pensions sans abattement de 10 % en cas 1AI ou 1BI (ou exonérée si les versements n'ont pas été déduits).
+   - La partie correspondant aux produits est imposée au taux forfaitaire de 12,8 % ou, sur option globale, au barème progressif en cas 2TZ.
+   - Pour être sûr d'y avoir droit, il faut vérifier si les conditions requises pour chaque option de calcul sont remplies.

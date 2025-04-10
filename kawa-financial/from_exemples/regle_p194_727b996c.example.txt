@@ -1,0 +1,17 @@
+Nom : Jean DOEU
+   Profession : Travailleur indépendant en agriculture bio
+   Situation : Résident de France et actif depuis 5 ans
+
+Revenus imposables déclarés dans les cas 1AK (Bénéfices agricoles), 1GF (Bénéfices non commerciaux) et 1M (Bénéfices industriels et commerciaux) de ma déclaration fiscale sont pris en compte par mon Urssaf dans la base de calcul de mes cotisations sociales.
+
+Mon revenu imposable total pour les années fiscales 2020 et 2021 était de 75 000€. Comme je suis soumis aux cotisations sociales au titre du régime général des travailleurs indépendants, ces revenus ont été pris en compte pour déterminer mes contributions sociales.
+
+Si je n'avais pas coché la rubrique "Vos revenus sont soumis à cotisations sociales au titre du régime général des travailleurs indépendants", mon revenu imposable total ne serait pas considéré pour calculer mes cotisations sociales.
+
+Voici le calcul de mes cotisations sociales pour les années fiscales 2020 et 2021, en appliquant la règle citée :
+- En 2020, mon montant total déclaré dans les cases "revenus imposables" était de 40 000€. Mon taux de cotisation sociale serait alors de 31,7% sur 40 000€, soit 12 680€
+- En 2021, mon montant total déclaré dans les cases "revenus imposables" était de 35 000€. Mon taux de cotisation sociale serait alors de 31,7% sur 35 000€, soit 11 025€
+
+En comparant le régime par défaut (sans déclaration des revenus dans les cases "revenus imposables") et l'option choisie (avec déclaration des revenus), je réduis mes cotisations sociales de 1 655€ en 2020 et 955€ en 2021. Cela représente un total d'économies de 2 610€ sur les deux années fiscales.
+
+En conclusion, déclarer correctement mes revenus imposables dans les cases "revenus imposables" de ma déclaration fiscale m'apporte des économies substantielles en termes de cotisations sociales.

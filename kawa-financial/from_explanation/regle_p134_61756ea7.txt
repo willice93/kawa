@@ -1,0 +1,9 @@
+Règle d'application : Déclaration de produits de capitalisation et de placements souscrits auprès d'entreprises d'assurance étrangères.
+
+Conditions : Les produits s'appliquent aux contrats de capitalisation et aux placements, signés avec des entreprises d'assurance établies hors de la France, de l'Union Européenne, ainsi que des États membres de l'accord sur l'EEE qui ont conclu une convention administrative pour combattre la fraude et l'évasion fiscale (Islande, Liechtenstein, Norvège).
+
+Montants ou plafonds : Les produits ne bénéficient ni de l'abattement de 4 600 ou 9 200 €, ni de l'option pour le prélèvement forfaitaire libératoire, ni de l'imposition au taux de 7.5%.
+
+Formule de calcul : Aucune formule de calcul particulière n'est indiquée dans ce texte. Il est nécessaire de déclarer les montants des produits souscrits auprès d'entreprises étrangères dans la rubrique "Produits des contrats de moins de 8 ans" pour déterminer leurs impôts applicable.
+
+Vérification : Vérifier que l'entreprise d'assurance est établie hors de la France, de l'Union Européenne et de l'accord sur l'EEE.

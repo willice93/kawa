@@ -1,0 +1,3 @@
+# Source: page 319
+
+L'impôt payé à l'étranger doit être inscrit ligne 8VL (revenus de capitaux mobiliers, plus-values et gains d'actionnariat salarié) ou 8VM/ 8WM / 8UM (autres revenus). Le crédit d'impôt afférent aux revenus autres que les revenus de capitaux mobiliers et les plus- values est retenu pour le calcul du taux de PAS.

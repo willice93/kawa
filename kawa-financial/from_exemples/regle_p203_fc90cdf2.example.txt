@@ -1,0 +1,13 @@
+Titre : Application de la règle des chèques vacances pour le salarié Mme Jeanne Dupont en 2023
+
+Mme Jeanne Dupont travaille dans une entreprise à Paris et reçoit un traitement mensuel de 2.500 €. Elle a déclaré avoir reçu des chèques vacances pendant l'année 2023 pour un montant total de 18.000 €.
+
+La première partie de ces chèques vacances (30% du SMIC) ne sera pas soumise aux taxes, car le Salaire Minimum Interprofessionnel de Croissance (SMIC) est actuellement de 513 € en 2023. Pour calculer cette première partie, il faut multiplier 30 par le SMIC (30 × 513 = 1539 €). Mme Dupont a donc une exemption fiscale sur 1.539 € des chèques vacances.
+
+La seconde partie de ces chèques vacances, supérieure à la première, est soumise aux cotisations sociales et aux charges additionnelles de sécurité sociale (CSG-CRDS). Pour calculer cette partie, il faut déterminer la différence entre le total des chèques vacances (18.000 €) et 30% du SMIC mensuel (513 €). Cette différence est donc de 17.487 € (18.000 - 566 = 17.487).
+
+Mme Dupont devra déclarer cette seconde partie dans les rubriques DSGA/DSGB et/ou DSCR/DSDR pour l'impôt sur le revenu (IR) et les cotisations sociales en 2023. Il est important de noter que la différence entre ces montants déclarés dans les rubriques DSGA/DSGB et/ou DSCR/DSDR devra être supérieure à l'exonération de 1.539 €.
+
+En comparant le régime par défaut (sans option choisie) avec l'option choisie, Mme Dupont sera soumise aux cotisations sociales et CSG-CRDS sur la seconde partie des chèques vacances. En revanche, si elle avait choisi l'option de retenue forfaitaire (ORAF), elle n'aurait pas payé les impôts sur le revenu à ce moment, mais aurait remboursé cette retenue forfaitaire lors de la déclaration annuelle de l'IR.
+
+Enfin, Mme Dupont aura payé 2.467 € d'impôt sur le revenu (17.487 - 1539 = 15.948) et 2.062 € en cotisations sociales et CSG-CRDS pour l'année 2023 en raison des chèques vacances qu'elle a reçus.

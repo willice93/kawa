@@ -1,0 +1,3 @@
+# Source: page 221
+
+Le montant de CSG déductible est égal à 6,8 % des revenus déclarés ligne 2BH de la 2042 si vous optez pour l'imposition au barème et à 6,8 % des revenus déclarés ligne 2DF quelle que soit l'option. Ce montant de CSG déductible n’est pas inclus dans le montant de CSG déductible préimprimé de la rubrique 6-Charges déductibles. Vous ne devez pas le calculer vous-même ni l‘indiquer ligne 6DE en corrigeant le montant prérempli. Le montant de CSG déduc- tible affèrent aux revenus déclarés ligne 2BH et 2DF sera calculé automatiquement et ajouté au montant prérempli lors du calcul de l'impôt sur les revenus de 2023.

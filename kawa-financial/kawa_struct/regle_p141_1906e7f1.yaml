@@ -1,0 +1,45 @@
+id: regle_p141_1906e7f1
+titre: La règle se rapporte aux particuliers qui ont bénéficié de la réduction d'impôt
+  prévue par l'article 199 terdecies 0-A du Code général des impôts (CGI), également
+  connu sous le nom de réduction d'impôt "Madelin" pour souscription au capital des
+  PME.
+source: Brochure IR 2024
+regle:
+  description: "La règle se rapporte aux particuliers qui ont bénéficié de la réduction\
+    \ d'impôt prévue par l'article 199 terdecies 0-A du Code général des impôts (CGI),\
+    \ également connu sous le nom de réduction d'impôt \"Madelin\" pour souscription\
+    \ au capital des PME.\n   Les conditions s'appliquent lorsque les particuliers\
+    \ ont souscrit à la vente de titres précédemment achetés en bénéficiant de cette\
+    \ réduction d'impôt.\n   Le montant ou plafond est égale au montant de la réduction\
+    \ d'impôt obtenue lors de l'acquisition initiale des titres.\n   La formule de\
+    \ calcul applicable consiste à diminuer le prix d'acquisition retenu pour le calcul\
+    \ de la plus-value du montant de la réduction d'impôt obtenue.\n   Il faut vérifier\
+    \ que les particuliers ont bien bénéficié de cette réduction d'impôt et qu'ils\
+    \ respectent les conditions requises (telles que l'acquisition initiale des titres\
+    \ doit avoir été faite auprès d'une PME ou d'un ETI en difficulté, etc.) pour\
+    \ être sûr d'y avoir droit."
+  formule: Non spécifiée
+cas_pratique: 'Nom : Jean Dupont, ingénieur en informatique chez SARL XYZ
+
+
+  Situation : Acheté des actions de la société ABC SARL, une PME en difficulté, lors
+  de l''exercice fiscal 2019 en bénéficiant d''une réduction d''impôt à hauteur de
+  50 000 euros. Ensuite, il a vendu ces actions en 2022 pour un prix de 650 000 euros
+  (prix d''acquisition initial = 600 000 euros).
+
+
+  Calcul : Pour l''application de la réduction d''impôt "Madelin" lors de la vente
+  des actions, on diminue le prix d''acquisition initial de 50 000 euros, ce qui donne
+  un nouveau prix d''acquisition net de 550 000 euros. La plus-value pourrait donc
+  être calculée sur ce montant (650 000 euros - 550 000 euros = 100 000 euros).
+
+
+  Comparaison : Dans le régime par défaut, la plus-value serait de 150 000 euros (650
+  000 euros - 600 000 euros), ce qui signifierait une plus grande charge fiscale pour
+  M. Dupont. En choisissant l''option "Madelin", il bénéficie d''une réduction d''impôt
+  sur la plus-value, ce qui diminue sa charge fiscale de 50 000 euros.
+
+
+  Synthèse : Pour appliquer la réduction d''impôt "Madelin" dans une vraie situation
+  de l''exercice fiscal 2022, il est important de respecter les conditions requises
+  et de prendre soin lors du calcul des plus-values pour ne pas oublier cette réduction.'

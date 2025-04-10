@@ -1,0 +1,9 @@
+Règle d'application : Cette déduction forfaitaire de 10% s'applique à la limite de 1 417 100 € pour les revenus imposables de l'année 2023.
+
+Conditions : Les montants doivent être supérieurs à zéro et inférieurs ou égaux à cette limite pour bénéficier de la déduction.
+
+Montants ou plafonds : Le montant maximum pour bénéficier de la déduction forfaitaire est de 1 417 100 €.
+
+Formule de calcul applicable : La déduction forfaitaire est de 10% du montant de revenus imposables, donc il faut multiplier le montant de revenus imposables par 0,10 (ou 10/100).
+
+Vérifier pour être sûr d'y avoir droit : Vérifier que les revenus imposables ne dépassent pas la limite de 1 417 100 €.

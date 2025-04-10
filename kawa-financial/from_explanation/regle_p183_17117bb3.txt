@@ -1,0 +1,6 @@
+La règle des prélèvements sociaux s'applique aux personnes déclarant :
+   - Plus-values nettes à long terme taxées à 12,8 % dans les rubriques bénéfices agricoles, industriels et commerciaux professionnels et non professionnels, ainsi que les bénéfices non commerciaux professionnels et non professionnels.
+   - Produits perçus par les inventeurs et auteurs de logiciels non professionnels dans les cases 5QJ, 5RJ, 5SJ de la rubrique bénéfices non commerciaux non professionnels.
+   - Revenus des locations meublées non professionnelles imposés selon le régime micro-BIC ou selon le régime réel (à l'exception des locations meublées soumises aux contributions sociales par les organismes de sécurité sociale).
+
+   Les prélèvements sociaux sont calculés sur tous ces montants et les plafonds ne sont pas spécifiés dans le texte. La formule de calcul est automatique et n'est pas explicitée. Il faut vérifier que ces revenus soient déclarés correctement pour être sûr d'y avoir droit à ces prélèvements sociaux.

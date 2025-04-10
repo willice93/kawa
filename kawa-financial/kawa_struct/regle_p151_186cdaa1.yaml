@@ -1,0 +1,32 @@
+id: regle_p151_186cdaa1
+titre: 'Règle appliquée aux plus-values et créances non éligibles au sursis de paiement
+  :'
+source: Brochure IR 2024
+regle:
+  description: "Règle appliquée aux plus-values et créances non éligibles au sursis\
+    \ de paiement :\n\nConditions : Les plus-values et les créances concernées sont\
+    \ celles qui ne bénéficient pas du sursis de paiement.\n\nMontant ou plafond :\
+    \ Le taux d'imposition est de 3WD à l'IR, soit au barème (de 0% à 17%) ou à 12,8%.\n\
+    \nFormule de calcul applicable : Calculer la base imposable en fonction du montant\
+    \ de la plus-value ou de la créance et appliquer le taux d'imposition approprié\
+    \ (barème ou 12.8%).\n\nVerification pour être sûr d’y avoir droit : Les plus-values\
+    \ et les créances doivent répondre aux conditions suivantes :\n - Elles ne doivent\
+    \ pas bénéficier du sursis de paiement.\n - Elles sont soumises à des prélèvements\
+    \ sociaux."
+  formule: Détectée, mais sans données exploitables
+cas_pratique: "Nom : Jean Dupont\n   Profession : Médecin généraliste indépendant\n\
+  \   Situation : Vente de son cabinet médical pour 120 000€ après avoir soumis les\
+  \ revenus et les charges sociales aux prélèvements sociaux.\n\n   Déclaration dans\
+  \ les bonnes cases : 1AK (Revenus non professionnels)\n\n   Calcul de l'imposition\
+  \ : La base imposable pour la vente du cabinet est calculée en fonction du montant\
+  \ total (120 000€) et appliqué au taux d'imposition approprié. Le taux d'imposition\
+  \ applicable pour les plus-values non éligibles au sursis de paiement est de 3WD\
+  \ à l'IR soit au barème (de 0% à 17%) ou à 12,8%. Pour simplifier, nous allons utiliser\
+  \ le taux de 12,8%.\n   - Base imposable : 120 000€ x 12,8% = 15 360€\n\n   Comparaison\
+  \ régime par défaut vs l'option choisie : Le régime par défaut pour les plus-values\
+  \ est le barème fiscal. En revanche, la vente du cabinet a été éligible à un taux\
+  \ fixe de 12,8%. Ainsi, Jean Dupont a choisi de se placer dans l'option 12,8% en\
+  \ raison de son montant plus bas comparedé au barème.\n\n   Synthèse : La vente\
+  \ du cabinet médical de Jean Dupont pour un montant de 120 000€ est imposée à un\
+  \ taux de 12,8%. En appliquant ce taux sur la base imposable (15 360€), il devra\
+  \ verser cette somme à l'État."

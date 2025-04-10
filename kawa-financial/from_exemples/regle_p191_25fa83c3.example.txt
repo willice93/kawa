@@ -1,0 +1,16 @@
+Titre : Application de la règle concernant les associés des sociétés soumises à l'Impôt sur les Sociétés et aux entrepreneurs individuels à responsabilité limitée (EIRL) soumis à l'Impôt sur les Sociétés
+
+Contexte : La Mme Alice Dupont, 45 ans, est associée à la société XYZ SARL. Elle travaille également en tant qu'entrepreneur individuel à responsabilité limitée (EIRL) pour le compte de son entreprise de conseil fiscal, ABC EIRL.
+
+Situation : En 2021, Mme Dupont a reçu des dividendes de sa participation dans la société XYZ SARL au montant de 35 000 € et a reçu un prêt d'un montant de 5 000 € de la société XYZ SARL. Elle a également reçu des intérêts sur son compte courant associé à la société XYZ SARL au montant de 2 500 €. En outre, pour son activité EIRL, elle a versé un salaire de 60 000 € et a reçu des revenus bruts supplémentaires de 10 000 € en cas de chômage partiel.
+
+Calcul : Mme Dupont doit déclarer les montants suivants dans son calcul des cotisations et contributions sociales :
+- Les produits des parts sociales (dividendes) : 35 000 €
+- Les sommes mises à disposition directement ou par personnes interposées, à titre d'avance, prêt ou acompte : 5 000 €
+- Les intérêts des comptes courant associé : 2 500 €
+
+En cas d'option pour bénéficier de l'abattement fiscal de 40 %, les montants devraient être diminués à cet effet. Il faut vérifier si Mme Dupont, son conjoint ou partenaire PACSé et ses enfants mineurs non émancipés ont également perçu ces montants.
+
+Comparaison : Comparons le régime par défaut (cas où aucune option n'est choisie) et l'option choisie (pour bénéficier de l'abattement fiscal de 40 %). Dans ce cas, la différence financière est de 13 500 €, car les dividendes de Mme Dupont sont diminués de 40 %.
+
+Conclusion : Mme Dupont doit déclarer tous les montants concernés dans le cadre de son calcul des cotisations et contributions sociales. En cas d'option pour bénéficier de l'abattement fiscal, elle devra déclarer la différence entre les montants brut et ceux abattus.

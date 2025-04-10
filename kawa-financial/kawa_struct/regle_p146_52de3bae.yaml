@@ -1,0 +1,55 @@
+id: regle_p146_52de3bae
+titre: La règle s'applique aux bénéficiaires des plus-values de cession de titres
+  ou des distributions de plus-values d'OPC, ainsi quaux bénéficiaires des distributions
+  de SCR. Cette règle est applicable lorsque les bénéficiaires sont domiciliés dans
+  un État ou territoire non coopératif.
+source: Brochure IR 2024
+regle:
+  description: 'La règle s''applique aux bénéficiaires des plus-values de cession
+    de titres ou des distributions de plus-values d''OPC, ainsi quaux bénéficiaires
+    des distributions de SCR. Cette règle est applicable lorsque les bénéficiaires
+    sont domiciliés dans un État ou territoire non coopératif.
+
+
+    Les montants ou plafonds concernés par cette règle sont les plus-values et les
+    distributions évoquées précédemment. La formule de calcul applicable est le prélèvement
+    de 75 % de ces montants.
+
+
+    Pour être sûr d''y avoir droit, il faut vérifier que le bénéficiaire est domicilié
+    dans un État ou territoire non coopératif et que les plus-values ou distributions
+    concernées sont éligibles à ce prélèvement.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Nom : Jean Dupont, entrepreneur auto-entrepreneur, domicilié à Panama
+  City, Panama.
+
+
+  Situation : En 2021, M. Dupont a vendu 50 actions de la société ABC SAS pour un
+  montant total de 100 000 €. Il a également perçu une distribution de plus-value
+  de sa société de placement en capital (OPC) pour le compte de l''année 2021, montante
+  de 35 000 €. En outre, il a reçu une distribution de sociétés de placements collectifs
+  (SCR) pour la même année, montante de 15 000 €.
+
+
+  Calcul : Pour appliquer la règle mentionnée, on multiplie les montants des plus-values
+  et des distributions par 75%. Ainsi, pour les actions vendues (100 000 € x 75%)
+  = 75 000 €. Pour les distributions de OPC, PAC et SCR, on applique la même formule
+  (35 000 € x 75% = 26 250 € ; 15 000 € x 75% = 11 250 €).
+
+
+  Declaration : Pour ces montants, M. Dupont doit déclarer le total de ses revenus
+  (revenus salariés et autonomes + les plus-values) dans la case 1AK de son formulaire
+  d''imposition. Pour les distributions de OPC et SCR, il doit indiquer cette source
+  dans la case 1GF, puis renseigner le montant total des prélèvements à appliquer
+  (75 000 € + 26 250 € + 11 250 €).
+
+
+  Comparaison : En régime par défaut, M. Dupont ne devrait pas payer d''impôt sur
+  ces montants. Cependant, en appliquant la règle mentionnée, il doit payer un impôt
+  de 75 000 € + 26 250 € + 11 250 € = 92 500 €.
+
+
+  Conclusion : M. Dupont doit prendre en compte cette règle lorsqu''il s''agit de
+  gérer ses revenus issus de plus-value et de distributions. Cette règle, applicable
+  pour les bénéficiaires domiciliés dans un État ou territoire non coopératif, peut
+  avoir un impact important sur son impôt à payer.'

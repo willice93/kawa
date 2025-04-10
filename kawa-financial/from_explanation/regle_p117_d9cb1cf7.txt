@@ -1,0 +1,5 @@
+Cette règle s'applique à tout individu qui déclare un montant sur les lignes 6QS ou 6QT de la formule de remplacement de revenus lorsqu'il dépose sa déclaration annuelle de revenus au titre du RRQ.
+   La condition est qu'un tel montant soit déclaré pour qu'il soit pris en compte dans le calcul du plafond d'épargne retraite.
+   Les montants ou plafonds concernés sont les montants déposés sur ces lignes 6QS et 6QT.
+   La formule de calcul applicable est simples : il s'agit de la somme des montants déposés sur ces lignes dans l'année en question.
+   Pour être sûr d'y avoir droit, il faudra vérifier que les montants déclarés respectent les règles générales du RRQ, notamment celles concernant les limites annuelles de dépôt.

@@ -1,0 +1,3 @@
+# Source: page 51
+
+Le numérateur Pour obtenir l’impôt relatif aux revenus dans le champ du PAS, on applique à l’impôt résultant du barème le rapport entre les revenus imposables dans le champ du PAS et le total des reve- nus nets imposables du foyer. Puis on déduit, le cas échéant, le crédit d’impôt égal à l’impôt étranger afférent aux revenus dans le champ du PAS.

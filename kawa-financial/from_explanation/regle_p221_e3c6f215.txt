@@ -1,0 +1,9 @@
+Règle d'application de la CSG déductible pour un couple marié dont l'un des époux est décédé dans l'année 2023, à partir des revenus fonciers déclarés en 2022 :
+
+- À qui s’applique la règle : Un couple marié ayant déclaré au titre de l'année 2022 des revenus fonciers supérieurs ou égaux à 8 000 €, dans le cas où l'un des époux est décédé pendant cette même année.
+- Dans quelles conditions : Les époux doivent avoir acquitté la CSG afférente à leurs revenus fonciers de 2022 et la CSG déductible doit être supérieure ou égale à 544 € (montant préimprimé sur la déclaration des revenus de 2023).
+- Quels sont les montants ou plafonds : La CSG afférente est calculée en prenant 9,2 % du montant des revenus fonciers (8 000 € dans l'exemple), tandis que la CSG déductible peut atteindre 6,8 % de ce même montant (544 € dans l'exemple).
+- Quelle est la formule de calcul applicable : La CSG déductible peut être répartie entre les déclarations des revenus des époux, soit pour une partie antérieure à la mort de l'un d'entre eux et pour une autre partie postérieure. Dans l'exemple, on peut trouver la formule suivante :
+  - Déclaration de revenus du couple (période antérieure au décès) : 544 € × (8/12) = 363 €
+  - Déclaration de Madame (période postérieure au décès) : 544 € – 363 € = 181 €
+- Et ce qu’il faut vérifier pour être sûr d'y avoir droit : Vérifier que le couple a déclaré des revenus fonciers supérieurs ou égaux à 8 000 € en 2022, que l'un des époux est décédé en 2023 et qu'ils ont acquitté la CSG afférente à leurs revenus de 2022. En outre, il est nécessaire de vérifier que le montant de la CSG déductible est supérieur ou égal à 544 €.

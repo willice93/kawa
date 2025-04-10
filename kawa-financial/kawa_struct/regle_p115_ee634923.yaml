@@ -1,0 +1,47 @@
+id: regle_p115_ee634923
+titre: Règle applicabile à ceux qui ont acquis un bien immobilier pour une valeur
+  supérieure à 300 000 € et ont ensuite vendu ce bien en 2018 ou après.
+source: Brochure IR 2024
+regle:
+  description: "Règle applicabile à ceux qui ont acquis un bien immobilier pour une\
+    \ valeur supérieure à 300 000 € et ont ensuite vendu ce bien en 2018 ou après.\n\
+    \n   Les conditions :\n   - Le gain d'acquisition doit être inférieur à 300 000\
+    \ €.\n   - L'abattement fixe de 500 000 € peut être appliqué si les conditions\
+    \ sont remplies.\n\n   Montants ou plafonds :\n   - Le gain d'acquisition doit\
+    \ être inférieur à 300 000 € pour que l'abattement soit applicable.\n   - L'abattement\
+    \ fixe est de 500 000 €.\n   - Les abattements de 50 % sont appliqués sur le reliquat\
+    \ ou le gain d'acquisition après application de l'abattement fixe.\n\n   Formule\
+    \ de calcul applicable :\n   - L'abattement fixe de 500 000 € est pris en priorité\
+    \ sur la plus-value de cession puis, pour le surplus éventuel, sur le gain d'acquisition.\n\
+    \   - Si le reliquat existe ou si l'abattement n'est pas appliqué, un abattement\
+    \ de 50 % est appliqué au gain d'acquisition.\n\n   Pour être sûr d'y avoir droit\
+    \ :\n   - Vous devez déclarer sur la 2042 C :\n      - La fraction du gain d'imposition\
+    \ après abattement, ligne 1TZ.\n      - L'abattement fixe, ligne 1VZ (abattement\
+    \ soumis aux prélève- ments sociaux).\n      - L'abattement de 50 %, ligne 1WZ\
+    \ (abattement soumis aux prélève- ments sociaux)."
+  formule: Détectée, mais sans données exploitables
+cas_pratique: "Nom : Alexis Moreau\n   Profession : Architecte indépendant\n   Situation\
+  \ : Vente d'un appartement à Paris en 2019 pour un montant de 750 000 €, acquisition\
+  \ en 2014 pour 350 000 €.\n\n   Gain d'acquisition : 350 000 € (acquisition - vente)\n\
+  \   Plafond de l'abattement fixe : 500 000 €\n\n   La déclaration doit être faite\
+  \ sur la formule 2042 C :\n   - La fraction du gain d'imposition après abattement,\
+  \ ligne 1TZ.\n      - Si l'on applique l'abattement fixe de 500 000 € (supérieur\
+  \ au gain d'acquisition), le calcul sera comme suit :\n         Gain d'imposition\
+  \ : 0 € (car abattement supérieur à gain)\n      - Si l'on ne peut appliquer l'abattement\
+  \ fixe, car gain d'acquisition supérieur à 300 000 €, on applique l'abattement de\
+  \ 50 % sur le reliquat (gain d'acquisition - abattement fixe) :\n         Gain d'imposition\
+  \ après abattement : 175 000 € (350 000 € - 500 000 € * 50 % / 2)\n   - L'abattement\
+  \ fixe, ligne 1VZ (abattement soumis aux prélève- ments sociaux).\n      - Si l'on\
+  \ applique l'abattement fixe de 500 000 € : 500 000 €\n   - L'abattement de 50 %,\
+  \ ligne 1WZ (abattement soumis aux prélève- ments sociaux).\n      - Si l'on ne\
+  \ peut appliquer l'abattement fixe, car gain d'acquisition supérieur à 300 000 €\
+  \ : 87 500 € (175 000 € * 50 %)\n\n   Comparaison entre le régime par défaut et\
+  \ l'option choisie :\n   - Régime par défaut : L'imposition sera sur le gain d'acquisition\
+  \ entier, soit 350 000 €.\n   - Option choisie (abattement fixe de 500 000 €) :\
+  \ L'imposition sera de 0 € si l'on peut appliquer l'abattement fixe, ou de 87 500\
+  \ € si on ne peut le faire.\n\n   Synthèse : En vendant un bien immobilier pour\
+  \ une valeur supérieure à 300 000 € et en ayant acquis ce bien pour une somme inférieure\
+  \ à cette limite, il est possible d'utiliser un abattement fixe de 500 000 € pour\
+  \ éviter ou réduire l'impôt sur le revenu. Dans notre exemple, Alexis Moreau peut\
+  \ bénéficier de cet abattement si la valeur de son appartement vendu en 2019 était\
+  \ inférieure à 850 000 € (500 000 € + 350 000 €)."

@@ -1,0 +1,15 @@
+Context: John Doe, a 45-year-old self-employed individual living in Paris with his wife, Jane Smith, who is also self-employed. They have two children under the age of 18, Emma and Max. John has recently invested in a small tech startup, TechFusion, for which he receives annual dividends and occasional advances from the company as a shareholder.
+
+Here's an example of how they can apply this rule:
+
+- John Doe: Personal income (40,000€), Dividends from TechFusion (3,500€), Interest on his current account at TechFusion Bank (200€)
+- Jane Smith: Personal income (35,000€), Interest on her current account at BNP Paribas (100€)
+- Emma & Max Doe (children): No income as minors and non-emancipated
+
+Total combined gross income: 78,600€ + 3,500€ + 200€ + 100€ = 82,400€
+
+Declarations: John Doe (1AK) - 40,000€ + 3,500€ (declared in 1GF) + 200€; Jane Smith (1GF) - 35,000€ + 100€
+
+Comparison: Without the option for taxation of capital gains and investment income, their total taxes would be approximately 27,680€ (calculated at a progressive rate of up to 45%). However, by choosing this option, they could reduce their taxable income by 40%, bringing their potential tax liability down to around 16,560€.
+
+In summary: By carefully considering the implications of this rule and making an informed decision about their capital gains and investment income taxation option, John and Jane Doe can potentially save up to 11,120€ in taxes for the current year.

@@ -1,0 +1,84 @@
+id: regle_p142_b9804943
+titre: Règle d'abattement pour durée de détention appliquée aux plus-values de cessions
+  de titres de PME (Petites et Moyennes Entreprises) réalisées par les dirigeants
+  qui font valoir leurs droits à la retraite, lorsqu'ils choisissent l'imposition
+  globale pour les revenus et gains mobiliers au barème progressif.
+source: Brochure IR 2024
+regle:
+  description: 'Règle d''abattement pour durée de détention appliquée aux plus-values
+    de cessions de titres de PME (Petites et Moyennes Entreprises) réalisées par les
+    dirigeants qui font valoir leurs droits à la retraite, lorsqu''ils choisissent
+    l''imposition globale pour les revenus et gains mobiliers au barème progressif.
+
+
+    Conditions :
+
+    - L''option globale pour l''imposition des revenus et gains mobiliers au barème
+    progressif est choisie.
+
+    - Les plus-values de cessions de titres de PME sont réalisées par les dirigeants
+    qui font valoir leurs droits à la retraite.
+
+
+    Montant ou plafonds :
+
+    - Abattement pour durée de détention : Il n''y a pas de montant spécifique, il
+    s''applique pendant la durée de détention.
+
+    - Abattement fixe de 500 000 € (article 150-0 D ter du CGI) : Ce plafond ne peut
+    être cumulé avec l''abattement pour durée de détention dans ce cas particulier.
+
+
+    Formule de calcul applicable :
+
+    Il n''y a pas besoin de formule de calcul spécifique, car l''abattement pour durée
+    de détention s''applique sur la plus-value totale des cessions de titres de PME,
+    pendant la durée de détention.
+
+
+    Vérification :
+
+    Il faut vérifier que les conditions ci-dessus sont remplies et que l''option globale
+    pour l''imposition des revenus et gains mobiliers au barème progressif a bien
+    été choisie. Ensuite, il faut vérifier la durée de détention effective pour calculer
+    le montant d''abattement applicable sur les plus-values réalisées.'
+  formule: Non spécifiée
+cas_pratique: 'Contexte : Mme Jeanne Dubois, dirigeante de la société PME "Dubois
+  SARL", est en train de mettre à la retraite et a choisi l''imposition globale pour
+  les revenus et gains mobiliers au barème progressif. Elle possède des titres de
+  cette entreprise qu''elle souhaite céder pour réaliser une plus-value considérable.
+
+
+  Montants concernés : Les montants sont les suivants :
+
+  - Montant total des titres à céder : 3 000 000 € (1AK)
+
+  - Abattement pour durée de détention : Aucun montant spécifique, il s''applique
+  pendant la durée de détention.
+
+  - Abattement fixe de 500 000 € (article 150-0 D ter du CGI) : Ce plafond ne peut
+  être cumulé avec l''abattement pour durée de détention dans ce cas particulier.
+
+
+  Declaration : La plus-value totale des titres à céder (3 000 000 €) sera déclarée
+  dans la case 1AK, car elle fait partie des revenus et gains mobiliers. Il n''y a
+  pas besoin de spécifier l''abattement pour durée de détention, car il s''applique
+  pendant la durée de détention.
+
+
+  Comparaison : Le régime par défaut (barème progressif) a un taux plus élevé que
+  l''option choisie (imposition globale). En appliquant l''abattement pour durée de
+  détention, le montant imposable sur la plus-value des titres sera réduit.
+
+
+  Calcul clair : Pour calculer l''abattement pour durée de détention, il faut connaitre
+  la durée de détention effective des titres à céder. En supposant que Mme Dubois
+  a détenu ces titres pendant 10 ans (durée de détention), l''abattement pour durée
+  de détention serait égale à 30% du montant total des titres à céder, soit un abattement
+  de 900 000 €.
+
+
+  Conclusion : En choisissant l''imposition globale et en appliquant l''abattement
+  pour durée de détention, Mme Dubois réduira de 900 000 € le montant imposable sur
+  la plus-value totale des titres à céder, ce qui permettra d''optimiser sa situation
+  fiscale.'

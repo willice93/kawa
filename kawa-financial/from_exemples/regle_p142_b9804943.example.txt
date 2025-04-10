@@ -1,0 +1,14 @@
+Contexte : Mme Jeanne Dubois, dirigeante de la société PME "Dubois SARL", est en train de mettre à la retraite et a choisi l'imposition globale pour les revenus et gains mobiliers au barème progressif. Elle possède des titres de cette entreprise qu'elle souhaite céder pour réaliser une plus-value considérable.
+
+Montants concernés : Les montants sont les suivants :
+- Montant total des titres à céder : 3 000 000 € (1AK)
+- Abattement pour durée de détention : Aucun montant spécifique, il s'applique pendant la durée de détention.
+- Abattement fixe de 500 000 € (article 150-0 D ter du CGI) : Ce plafond ne peut être cumulé avec l'abattement pour durée de détention dans ce cas particulier.
+
+Declaration : La plus-value totale des titres à céder (3 000 000 €) sera déclarée dans la case 1AK, car elle fait partie des revenus et gains mobiliers. Il n'y a pas besoin de spécifier l'abattement pour durée de détention, car il s'applique pendant la durée de détention.
+
+Comparaison : Le régime par défaut (barème progressif) a un taux plus élevé que l'option choisie (imposition globale). En appliquant l'abattement pour durée de détention, le montant imposable sur la plus-value des titres sera réduit.
+
+Calcul clair : Pour calculer l'abattement pour durée de détention, il faut connaitre la durée de détention effective des titres à céder. En supposant que Mme Dubois a détenu ces titres pendant 10 ans (durée de détention), l'abattement pour durée de détention serait égale à 30% du montant total des titres à céder, soit un abattement de 900 000 €.
+
+Conclusion : En choisissant l'imposition globale et en appliquant l'abattement pour durée de détention, Mme Dubois réduira de 900 000 € le montant imposable sur la plus-value totale des titres à céder, ce qui permettra d'optimiser sa situation fiscale.

@@ -1,0 +1,17 @@
+Règle s'applique aux personnes qui ont commis une erreur dans leur déclaration et à celles dont le conjoint est décédé en 2022.
+
+Les conditions sont :
+- Pour la première règle, il s'agit de toute déclaration contenant une erreur sur le montant indiqué.
+- Pour la deuxième règle, cela s'applique lorsque le décès du conjoint est survenu en 2022 et que les revenus figurant dans la déclaration concernée sont seulement ceux de la période de 2022 postérieure au décès.
+
+Les montants ou plafonds à prendre en compte sont :
+- Le montant des revenus professionnels indiqués sur chaque déclaration souscrites au titre de l'année 2022, pour la première règle.
+- Seuls les revenus figurant dans la déclaration concernée et correspondant à la période de 2022 postérieure au décès du conjoint, pour la deuxième règle.
+
+La formule de calcul applicable est :
+- Pour la première règle, il faut recalculer le plafond en cumulant les montants de revenus professionnels des déclarations souscrites au titre de l'année 2022.
+- Pour la deuxième règle, le plafond doit être calculé à partir du seul montant de revenus professionnels figurant dans la déclaration concernée, correspondant à la période de 2022 postérieure au décès du conjoint.
+
+Il faut vérifier pour être sûr d'y avoir droit :
+- Pour la première règle, il faut vérifier que l'erreur est en effet présente dans votre déclaration et qu'elle affecte le montant indiqué.
+- Pour la deuxième règle, il faut vérifier que le décès du conjoint s'est produit en 2022 et que seuls les revenus professionnels figurant dans la déclaration concernée sont ceux de la période de 2022 postérieure au décès.

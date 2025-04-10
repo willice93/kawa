@@ -1,0 +1,9 @@
+Règle appliquée aux membres d'un couple marié ou PACSé soumis à une imposition commune.
+
+Conditions : Les conjoints ont cochés la case 6QR et ont opté pour la mutualisation de leurs plafonds de déduction.
+
+Montant ou Plafond : Les montants des plafonds de déduction de chaque membre du couple ainsi que les cotisations versées par chacun sont additionnés pour obtenir un seul et même plafond de déduction et un seul et même montant de cotisations déductibles pour l'ensemble du foyer fiscal.
+
+Formule de calcul applicable : La somme des plafonds de déduction individuels et des cotisations versées par chaque conjoint est utilisée pour déterminer le seul et même plafond de déduction et le seul et même montant de cotisations déductibles pour l'ensemble du foyer fiscal.
+
+Vérification : Il est nécessaire de vérifier que les conjoints ont coché la case 6QR pour opter pour la mutualisation de leurs plafonds de déduction et que leur imposition est commune.

@@ -1,0 +1,11 @@
+Règle de calcul du plafond de déduction pour les membres du foyer :
+
+Applique à : Tous les membres du foyer ayant des revenus salariaux déclarés et imposables dans la catégorie des traitements et salaires.
+
+Conditions : Les montants considérés sont ceux déclarés et imposables sous déduction des frais professionnels, cela comprend : salaires, revenus d'heures supplémentaires exonérées, allocations de chômage, rémunérations relevant de l'article 62, droits d'auteur, salaires imposables et exonérés des agents d'assurances, gains de levée d'option, gains d'acquisition d'actions gratuites, revenus exceptionnels ou différés.
+
+Montants ou plafonds : Il n’y a pas spécification de montant maximum pour le calcul du plafond de déduction.
+
+Formule de calcul applicable : Le plafond de déduction est calculé en prenant la somme totale des revenus salariaux déclarés et imposables dans la catégorie des traitements et salaires, sous déduction des frais professionnels mentionnés ci-dessus.
+
+Vérification : Pour être sûr d’y avoir droit, il faut assurer que les montants retenus sont ceux déclarés et imposables dans la catégorie des traitements et salaires et qu'ils sont effectués sous déduction des frais professionnels mentionnés.

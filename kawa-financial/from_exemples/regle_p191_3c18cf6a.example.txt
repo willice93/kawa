@@ -1,0 +1,23 @@
+Titre : Application de la règle des Cotisations Sociales Négatives (DSDA ou DSDB) pour un travailleur indépendant
+
+Contexte : Jean Dupont est un architecte indépendant basé à Paris. Il travaille sous le régime général d'imposition et a sous-traité des travaux à une entreprise en 2021.
+
+Montants concernés :
+- Montant de la provision pour cotisations sociales (en 2021) : 9 850 €
+- Montant des cotisations payées ou remboursées (en 2021) : 6 780 €
+- Taux d'imposition de la contribution sociale généralisée (CSG) et du régime additionnel à la CSG (CRDS) en 2021 : 9,7 % et 17,2 %, respectivement
+
+Déclaration dans les bonnes cases :
+- Cotisations sociales dues (montant de la provision) : 1AK
+- Cotisations sociales payées ou remboursées : 1GF
+
+Calcul clair avec des chiffres ronds :
+- Découvrir les cotisations sociales négatives (DSDA ou DSDB), il faut calculer la différence entre le montant de la provision et le montant des cotisations payées ou remboursées : 9 850 € - 6 780 € = 3 070 €
+- Les taux d'imposition de la CSG et du CRDS sur les cotisations sociales négatives sont respectivement de 9,7 % et 17,2 %. Il est donc nécessaire de calculer le montant impôt dû sur les cotisations sociales négatives :
+   - Montant de la CSG : 3 070 € * 9,7 % = 300,39 € (arrondi à 300 €)
+   - Montant du CRDS : 3 070 € * 17,2 % = 528,44 € (arrondi à 528 €)
+- Il faut enfin calculer le montant total dû en cotisations sociales négatives après impôt : 300 € + 528 € = 828 €
+
+Comparaison du régime par défaut vs l'option choisie : Sans le réglement sur les cotisations sociales négatives, Jean Dupont devrait payer en 2021 les montants bruts de 9 850 € pour les cotisations sociales dues (provision) et 6 780 € pour les cotisations sociales réellement versées. Ainsi, il se verrait facturer un écart de 3 070 €. En appliquant la règle sur les cotisations sociales négatives, cependant, Jean Dupont ne devra payer qu'un montant total de 828 € pour ces cotisations sociales négatives après impôt.
+
+Conclusion : L'application de la règle des Cotisations Sociales Négatives peut permettre à un travailleur indépendant de diminuer considérablement le montant qu'il devra payer en cotisations sociales. Dans l'exemple présenté, Jean Dupont verra sa facture réduite de 3 070 € en appliquant cette règle (avant impôt).

@@ -1,0 +1,53 @@
+id: regle_p146_379d47cc
+titre: La règle s'applique aux personnes qui ont réalisé une plus-value sur la vente
+  d'une propriété immobilière en France. Les conditions sont que la vente ait été
+  faite à un titulaire de l'option pour l'imposition au barème.
+source: Brochure IR 2024
+regle:
+  description: 'La règle s''applique aux personnes qui ont réalisé une plus-value
+    sur la vente d''une propriété immobilière en France. Les conditions sont que la
+    vente ait été faite à un titulaire de l''option pour l''imposition au barème.
+
+
+    La formule de calcul applicable est la suivante :
+
+    - La fraction de plus-value imposable à l''impôt sur le revenu (après application
+    de l''exonération de 50 % et des moins-values) doit être déclarée sur les lignes
+    3VG ou 3UA.
+
+    - L''abattement pour durée de détention est applicable en cas d''option pour l''imposition
+    au barème, et doit être déclaré sur les lignes 3SG ou 3SL.
+
+    - La fraction de plus-value exonérée doit être déclarée sur la ligne 3VQ.
+
+
+    Pour être sûr d''y avoir droit, il faut vérifier que le bénéficiaire de l''option
+    pour l''imposition au barème est titulaire de cet optionnement dans les conditions
+    prévues par la loi française et qu''il a été effectivement appliqué lors de la
+    vente.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Context : Jean Dupont, 45 ans, ingénieur en informatique, a vendu sa
+  maison située à Paris pour un montant de 900 000 euros. Il avait acheté la propriété
+  il y a 12 ans et l''a vendue à un particulier qui lui offrait l''option pour l''imposition
+  au barème.
+
+
+  Application : Le montant de la plus-value sur la vente est de 850 000 euros (900
+  000 - 50 000 = acquisition). En appliquant l''exonération de 50 %, le montant imposable
+  est de 425 000 euros.
+
+
+  Déclaration : La fraction de plus-value imposable est déclarée sur la ligne 3VG
+  (425 000 euros) et l''abattement pour durée de détention est appliqué sur la ligne
+  3SG (12 ans x 2 % = 24 000 euros). Enfin, la fraction de plus-value exonérée est
+  déclarée sur la ligne 3VQ (50 % de la plus-value imposable = 212 500 euros).
+
+
+  Comparaison : En comparant le régime par défaut avec l''option choisie, on constate
+  que l''option pour l''imposition au barème permet un abattement supplémentaire de
+  24 000 euros.
+
+
+  Résumé : Pour Jean Dupont, la vente de sa maison à un particulier ayant l''option
+  pour l''imposition au barème a été fiscalement bénéfique, avec un abattement supplémentaire
+  de 24 000 euros et une exonération de 212 500 euros sur la plus-value.'

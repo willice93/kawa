@@ -1,0 +1,11 @@
+Titre : Application de la Libération progressive du paiement de l'Impôt sur le revenu (IPR) pour Madame Dupont en 2023
+
+Madame Dupont est une entrepreneure indépendante travaillant dans le secteur de l'édition. Son mari, Monsieur Dupont, travaille à temps plein comme directeur d'une petite entreprise de services informatiques. Ils ont deux enfants qui sont encore en école primaire. Le revenu fiscal de référence pour Madame Dupont est de 20 000 € en 2021 (soit la somme de ses revenus professionnels).
+
+Contexte : Pour l'année 2023, Madame Dupont est éligible à la libération progressive de l'IPR si son revenu fiscal de référence de 2021 (20 000 €) est inférieur ou égal à la limite supérieure augmentée de la deuxième tranche du barème de l'IPR, soit 26 070 € + 50 % de part supplémentaire pour deux demi-part supplémentaires (13 035 €), ce qui donne un montant total de 39 105 €.
+
+Formule de calcul : Pour être éligible, le revenu fiscal de référence doit être inférieur ou égal à 39 105 €.
+
+Vérification : Le revenu fiscal de référence de Madame Dupont (20 000 €) est bien inférieur à la limite supérieure augmentée de la deuxième tranche du barème de l'IPR (39 105 €).
+
+Conclusion : Madame Dupont peut utiliser l'option pour le versement libératoire de l'IPR en 2023. Cela signifie qu'elle aura à payer moins d'impôt sur le revenu ce qui lui permettra d'allouer plus de ressources à ses activités professionnelles et à sa famille.

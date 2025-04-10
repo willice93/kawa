@@ -1,0 +1,26 @@
+Titre : Application de la règle fiscale sur les impôts dus à un taux de 7,5% pour les premiers versements après le 27/09/2017 non remboursés
+
+Contexte : Mme Maria Cappelli, professeur d'histoire à l'école primaire "Le Pigna" à Rome, a reçu en 2018 un prêt hypothécaire de 250 000€ pour acheter une maison nouvelle dans la banlieue de Rome. Auparavant, elle avait déjà versé un premier versement de 30 000€ en juin 2017 avant le changement de règle fiscale concernant les premiers versements non remboursés à partir du 27/09/2017.
+
+Montants :
+- Montante total des premiers versements avant le 27/09/2017 (30 000€)
+- Montant de la base de calcul (remboursement mensuel après le 27/09/2017, soit 2200€)
+- Montant maximum admissible (150 000€), réduit du montant total des premiers versements avant le 27/09/2017 (30 000€). Ce montant maximum est donc de 120 000€.
+- Montant des premiers versements après le 27/09/2017 et non remboursés (250 000€ - 30 000€ déjà versé avant la date limite).
+
+Déclaration :
+- La totalité des premiers versements avant le 27/09/2017 devrait être déclarée dans la case 1AK.
+- Les remboursements mensuels après ce jour devraient être déclarés dans la case 1GF.
+
+Comparaison :
+- Dans le cas de régime par défaut, toutes les sommes seraient imposées au taux de 12,8%. Cependant, en appliquant cette règle fiscale spécifique, seule une fraction des remboursements mensuels (2200€) sera imposée à un taux de 7,5%.
+
+Calcul clair :
+- Le montant maximum admissible est de 120 000€.
+- La base de calcul est de 2200€ mensuellement (soit 26 400€ annuellement).
+- Le numérateur (montant maximum admissible) est de 120 000€ et le dénominateur (remboursement mensuel après le 27/09/2017 non remboursé) est de 26 400€ annuellement.
+- La fraction est donc de 120 000 / 26 400, soit près de 4,55.
+- La quota imposée à un taux de 7,5% sera donc de (quota totale * (fraction * taux du 7,5%)). En calculant cette fraction pour la somme de 26 400€, on obtient un montant d'environ 1938€.
+
+Conclusion :
+Dans le contexte de Mme Maria Cappelli, ce régime fiscale spécifique permettra d'économiser près de 750€ annuellement sur les impôts à taux de 7,5%. En déduisant ce montant des frais mensuels de remboursement de son hypothèque, sa situation financière sera donc quelque peu améliorée.

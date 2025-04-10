@@ -1,0 +1,66 @@
+id: regle_p144_586958cd
+titre: La règle se applique aux dirigeants de petites et moyennes entreprises européennes
+  qui prennent leur retraite entre le 01/01/2018 et le 31/12/2024. Les plus-values
+  réalisées lors de la cession de titres ou droits sont réduites d'un abattement fixe
+  de 500 000 € pour l'imposition à l'impôt sur le revenu.
+source: Brochure IR 2024
+regle:
+  description: 'La règle se applique aux dirigeants de petites et moyennes entreprises
+    européennes qui prennent leur retraite entre le 01/01/2018 et le 31/12/2024. Les
+    plus-values réalisées lors de la cession de titres ou droits sont réduites d''un
+    abattement fixe de 500 000 € pour l''imposition à l''impôt sur le revenu.
+
+
+    La formule de calcul applicable est simplement la déduction du montant de l''abattement
+    de 500 000 € aux plus-values réalisées lors de la cession des titres ou droits.
+
+
+    Pour être sûr d''y avoir droit, il faut vérifier que :
+
+    - La cession est effectuée entre le 01/01/2018 et le 31/12/2024
+
+    - Les dirigeants concernés sont de petites et moyennes entreprises européennes.
+
+    - L''imposition à l''impôt sur le revenu est appliquée aux plus-values réalisées
+    lors de la cession des titres ou droits.'
+  formule: Non spécifiée
+cas_pratique: 'Titre : Reduction d''impôt sur les plus-values pour M. Dupont, entrepreneur
+  européen retirant sa retraite en 2021
+
+
+  Contextue : M. Dupont est le fondateur et chef de la société Dupont SARL, une entreprise
+  européenne spécialisée dans la fabrication de matériel d''optique. Il a dirigé l''entreprise
+  pendant plus de 30 ans et a pris la décision de retirer sa retraite en 2021. En
+  2020, il a décidé de céder une partie importante de ses titres de Dupont SARL à
+  son associé pour financer sa retraite.
+
+
+  Données financières : Le montant des plus-values réalisées lors de la cession de
+  titres de M. Dupont est de 8 millions d''euros. Les taux d''impôt sur le revenu
+  appliqués en Europe sont variant entre 20% et 50%. Dans le cas de M. Dupont, son
+  pays d''origine applique un taux d''impôt sur le revenu de 40%.
+
+
+  Calcul : Pour bénéficier de l''abattement fixe de 500 000 € applicables aux plus-values
+  réalisées lors de la cession de titres ou droits, il faut déduire ce montant de
+  l''amont total des plus-values. Le calcul est donc le suivant :
+
+
+  8 millions d''euros (montant des plus-values) - 500 000 € (abattement fixe) = 7
+  500 000 €.
+
+
+  Formulaire de déclaration : Dans l''impôt sur le revenu, le montant à déclarer dans
+  la case correspondante sera 7 500 000 €.
+
+
+  Comparison : En cas de régime par défaut (sans abattement), M. Dupont devrait verser
+  4 millions d''euros d''impôt sur les plus-values (40% de l''amont total des plus-values).
+  Cependant, grâce à l''abattement de 500 000 € applicables aux plus-values lors de
+  la cession de titres ou droits, le montant à verser est réduit à 3 millions d''euros.
+
+
+  Conclusion : La règle de réduction d''impôt sur les plus-values pour les dirigeants
+  de petites et moyennes entreprises européennes en retraite contribue effectivement
+  à réduire les coûts fiscaux du retraitement pour M. Dupont, qui versera 1 million
+  d''euros de moins d''impôt sur les plus-values grâce à cet abattement.'

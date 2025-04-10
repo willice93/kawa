@@ -1,0 +1,9 @@
+Règle d'application : La taxe de 7,5% s'applique aux produits imposables à cet taux pour les primes ne dépassant pas 150 000 €.
+
+Conditions : Les conditions sont réunies lorsque les montants des primes concernées ne dépassent pas la limite de 150 000 €.
+
+Montants ou plafonds : La limite maximale est fixée à 150 000 € pour les primes concernées par cette règle.
+
+Formule de calcul applicable : Le montant de la taxe est de 7,5% sur les primes ne dépassant pas 150 000 €. Cela signifie que le calcul se fait comme suit : Taxe = (Montant de la prime) x 0,075
+
+Verification pour être sûr d'y avoir droit : Il faut vérifier que le montant de la prime n'excéde pas 150 000 € pour pouvoir bénéficier de cette règle.

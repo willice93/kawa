@@ -1,0 +1,3 @@
+# Source: page 156
+
+Lorsque le gain bénéficie de l’abattement pour durée de détention (de droit commun ou renforcé) ou de l’abattement fixe de 500 000 € ou de l’abattement de 50 %, la CSG déductible afférente à ce gain est retenue à hauteur du rapport entre le montant du gain soumis à l’impôt sur le revenu (gain après abattement) et le montant du gain soumis à la CSG (gain avant abattement).

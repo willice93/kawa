@@ -1,0 +1,9 @@
+Cette règle s'applique à des personnes ayant plusieurs employeurs qui ont versé une prime partage de valeur (PPV). Les conditions sont que les PPV des différents employeurs excèdent le plafond de 3 000 € (ou 6 000 € en cas particulier).
+
+Le montant au delà du plafond sera automatiquement ajouté à la base imposable de revenus salariés. Cela signifie que le calcul se fait comme suit :
+
+- Calculez la somme totale des PPV reçues de tous les employeurs.
+- Si cette somme est supérieure à 3 000 € (ou 6 000 €), calculez la différence entre le plafond et le montant total reçu : [(Total PPV) - (Plafond)].
+- Cette différence sera ajoutée au montant imposable.
+
+Pour être sûr d'y avoir droit, il faut avoir reçu une prime partage de valeur de plusieurs employeurs et que le total des PPV dépasse les plafonds indiqués.

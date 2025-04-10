@@ -1,0 +1,9 @@
+Cette règle s'applique aux bénéficiaires de pension, retraite ou rentes en 2023. Pour être éligible à cette règle, les déductions suivantes doivent être prises en compte lors du calcul du montant à déclarer :
+
+- Cotisations de sécurité sociale (principalement assurance maladie)
+- Fraction déductible de la contribution sociale généralisée (CSG), selon le taux de CSG appliqué en 2023, qui peut être de 3.8 %, 6.6 % ou 8.3 %.
+- Contribution sociale sur les rentes de régimes de retraite à prestations définies ("retraite chapeau") mentionnés à l'article L. 137-11 du code de la sécurité sociale, mais uniquement dans la limite de la fraction acquittée au titre des premiers 1 000 € de rente mensuelle.
+
+La formule de calcul applicable pour le montant à déclarer est : Montant net perçu (avec les déductions prises en compte)
+
+Vérifier que les déductions mentionnées sont correctes et ont bien été appliquées lors du calcul du montant à déclarer.

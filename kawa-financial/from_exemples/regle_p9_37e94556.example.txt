@@ -1,0 +1,15 @@
+Titre : Application de la règle en cas d'absence de revenus fonciers en 2024 pour une personne privilégiant le régime par défaut
+
+   Nom : Jean Doe, Profession : Artiste indépendant
+
+   Situation : Monsieur Doe, 45 ans, a perdu tous ses revenus fonciers en 2024 et doit déclarer ce changement. Il possède des biens immobiliers qui produisent des revenus, mais ne les considère pas comme des revenus fonciers en raison de leur utilisation personnelle (par exemple : un appartement habité pour résidence principale).
+
+   Montants concernés : Les revenus du patrimoine de Monsieur Doe ont été de 80 000€ en 2023. En application de la règle, il doit calculer les charges déductibles CSG sur ces revenus. Les charges déductibles CSG connues pour cette année sont de 3 500€ (taxe d'habitation incluse).
+
+   Déclaration : Les charges déductibles CSG doivent être déclarées dans la case 6DE de la déclaration n°2044 spéciale. Pour l'année 2023, Monsieur Doe devrait renseigner le montant de 3 500€ dans cette case.
+
+   Comparaison : En cas d'absence de revenus fonciers, les charges déductibles CSG seront calculées sur les revenus du patrimoine. S'il avait choisi le régime par option, ces charges seraient calculées sur ses revenus de salaire, s'ils avaient existé, ou sur les revenus professionnels.
+
+   Calcul clair avec des chiffres ronds : Pour l'année 2023, Monsieur Doe ne percevait pas de revenus fonciers et doit calculer les charges déductibles CSG sur les revenus du patrimoine. Le montant calculé est de 3 500€.
+
+   Conclusion : Pour s'assurer d'y avoir droit, il faut vérifier que le montant obtenu (les charges déductibles CSG connues calculées sur les revenus du patrimoine de l'année en question) correspond exactement aux charges déductibles CSG connues et que les données renseignées dans la déclaration n°2044 spéciale sont exactes et complètes.

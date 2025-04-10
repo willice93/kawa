@@ -1,0 +1,17 @@
+Règle applicable aux cotisations versées en 2023 pour les revenus d'activité nets de frais professionnels de l'année 2022.
+
+Conditions :
+- Applique à tous les contribuables prenant en charge leur propre sécurité sociale (autonomes ou salariés avec cotisation autonome).
+- Les revenus d'activité nets de frais professionnels de l'année 2022 doivent être connus et certifiés.
+
+Montants ou plafonds :
+- Le plafond annuel de la sécurité sociale en 2022 (montant maximum pour le calcul) est de 32,909 €.
+- Le montant minimum de cotisations versées est de 4,114 €.
+- Il n'y a pas de plafond sur les revenus d'activité nets de frais professionnels eux-mêmes.
+
+Formule de calcul applicable :
+La cotisation déductible du revenu global est égale à 10 % des revenus d'activité nets de frais professionnels de l'année 2022, multipliés par le taux de 8 (pour les revenus inférieurs au plafond annuel de la sécurité sociale) ou égale à 10 % du plafond annuel de la sécurité sociale en 2022 (si ce montant est plus élevé).
+
+Il faut vérifier pour être sûr d'y avoir droit :
+- Avoir des revenus d'activité nets de frais professionnels de l'année 2022 connus et certifiés.
+- Avoir payé la sécurité sociale en 2023.

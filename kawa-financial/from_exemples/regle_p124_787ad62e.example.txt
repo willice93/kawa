@@ -1,0 +1,20 @@
+Titre : Application pour la dispense fiscale en 2023 (pour les revenus perçus en 2022)
+
+Nom : Pierre Dupont
+
+Profession : Agent immobilier
+
+Situation : Je suis une personne seule et ma rémunération annuelle a été de 48 000 € en 2022. J'ai des charges supplémentaires telles que mes impôts sur le revenu, mes cotisations sociales et mes frais de gestion d'entreprise qui ont représenté environ 10 000 €.
+
+Montants concernés :
+- Mon revenu fiscal de référence (RFR) a été de 48 000 € en 2022.
+- Les plafonds pour la dispense fiscale sont de 50 000 € pour une personne seule.
+- Mes charges supplémentaires ont représenté environ 10 000 €.
+
+Declaration : Ma déclaration de revenu pour 2022 doit être complétée dans la case 1AK. Je dois également demander la dispense fiscale à l'Agence fiscale en novembre 2022.
+
+Comparaison : En régime par défaut, mes charges supplémentaires représenteraient un taux de 37% (soit 3 700 €). Cependant, avec la dispense fiscale, les charges supplémentaires seront réduites à 25% (environ 2 500 €).
+
+Calcul : Mon RFR en 2022 était de 48 000 €. Le plafond pour ma situation est de 50 000 €, donc je suis éligible à la dispense fiscale. Mes charges supplémentaires s'éleveraient à environ 10 000 € en régime par défaut, mais avec la dispense, ces charges seront réduites de 5 200 € (3 700 € - 2 500 €).
+
+Conclusion : En appliquant pour la dispense fiscale en novembre 2022, je pourrais économiser environ 5 200 € sur mes charges supplémentaires pour l'année 2023 (pour les revenus perçus en 2022).

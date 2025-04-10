@@ -1,0 +1,9 @@
+Règle applicabilité : Les contribuables dont le revenu fiscal de référence (RFR) est inférieur à 50 000 € pour une personne seule ou 75 000 € pour un couple soumis à imposition commune.
+
+   Conditions requises : Le RFR doit être inférieur aux plafonds mentionnés précédemment. La demande de dispense doit être formulée au plus tard le 30 novembre de l'année précédant celle des revenus en question (pour les revenus perçus en 2023, la demande doit être faite en novembre 2022).
+
+   Montants ou plafonds : RFR inférieur à 50 000 € pour une personne seule et inférieur à 75 000 € pour un couple soumis à imposition commune.
+
+   Formule de calcul applicable : Aucune formule spécifique, la dispense est accordée si les conditions sont remplies.
+
+   Verification : Vérifier que le revenu fiscal de référence a été inférieur aux plafonds mentionnés et que la demande de dispense a bien été effectuée avant le 30 novembre de l'année précédente. La dispense ne concerne pas les prélèvements sociaux.

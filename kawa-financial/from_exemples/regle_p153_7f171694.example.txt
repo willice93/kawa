@@ -1,0 +1,11 @@
+Contexte : Mme Marie Dupont, professionnel autonome en architecture et propriétaire d'un bien immobilier conservé sous forme nominative depuis sept ans.
+
+Montants concernés : Les revenus annuels de Mme Dupont s'élèvent à 160 000 € et le gain annuel tiré de la vente de son bien immobilier est estimé à 250 000 €.
+
+Déclaration : Les déclarations pour les revenus annuels sont effectuées dans les cases 1AK, tandis que le gain tiré de la vente du bien immobilier doit être indiqué dans la case 1GF.
+
+Comparaison : En appliquant la règle par défaut, Mme Dupont devrait payer un taux d'imposition de 30 % sur tout le gain tiré de la vente (250 000 €). Cependant, en bénéficiant du régime applicable aux titres conservés sous forme nominative pendant au moins deux ans au-delà du délai d'indisponibilité de quatre ans, elle pourra payer un taux réduit de 18 % sur le gain annuel (152 500 €) et de 30 % sur la fraction supérieure à cette limite (97 500 €).
+
+Calcul clair avec des chiffres ronds : Le montant d'imposition calculé en appliquant le régime par défaut serait de 250 000 € × 30 % = 75 000 €. En revanche, en bénéficiant du régime applicable aux titres conservés sous forme nominative, elle devra payer un montant d'imposition de (152 500 € × 18 %) + (97 500 € × 30 %) = 27 750 € + 29 250 € = 57 000 €.
+
+Conclusion : En appliquant le régime applicable aux titres conservés sous forme nominative pendant au moins deux ans au-delà du délai d'indisponibilité de quatre ans, Mme Dupont pourra économiser près de 18 000 € en comparaison avec l'application du régime par défaut.

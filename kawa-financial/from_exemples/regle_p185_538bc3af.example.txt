@@ -1,0 +1,20 @@
+Nom : Jean Dupont, Ingénieur en chef chez Enertech Industries Inc.
+   Année civile : 2023
+
+   Les revenus de Mr. Jean Dupont sont retenus pour le calcul de l'impôt sur le revenu et sont égaux à 75 000 $ (1AK). Comme il travaille dans un emploi salarié chez Enertech Industries Inc., qui n'est pas une société exonérée, la règle de calcul des cotisations sociales s'applique à son cas.
+
+   La base de calcul des cotisations sociales correspond à la somme calculée en tenant compte des éléments suivants :
+
+   - Le revenu retenu pour le calcul de l'impôt sur le revenu (75 000 $) (1AK)
+
+   Il n'a pas été pris en compte :
+
+   - Les plus-values et moins-values professionnelles à long terme, des reports déficitaires, des exonérations (y compris celles attachées aux cotisations Madelin et aux régimes facultatifs), de la déduction des frais professionnels supérieurs à 10 %, des sommes exposées pour l'acquisition de parts sociales.
+   - La partie des dividendes perçus par les gérants associés d'Enertech Industries Inc., une entreprise soumise à l'impôt sur les sociétés, n'a pas été prise en compte dans la base de calcul des cotisations sociales.
+
+   Comparaison :
+
+   - Regime par défaut : Sous ce régime, le taux de cotisation est de 10,8% (en tenant compte de l'exemption pour les revenus inférieurs à 56 249 $) pour un montant total de 7 336 $ (75 000 x 10.8% - 56 249 x 9.8%)
+   - Option choisie : Mr. Jean Dupont a opté pour l'option annuelle à cotisation unique, qui permet de réduire les frais de gestion de l'entreprise en réduisant le nombre de prélèvements de cotisation effectués pendant l'année civile. La somme annuelle due est de 10 805 $ (75 000 x 14,32%).
+
+   Conclusion : Le calcul des cotisations sociales de Mr. Jean Dupont pour l'année civile 2023 s'élève à 10 805 $ selon l'option choisie de cotisation unique annuelle. Si il n'avait pas opté pour cette option, son montant serait de 7 336 $ en suivant le régime par défaut.

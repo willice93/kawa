@@ -1,0 +1,43 @@
+id: regle_p109_c2874e26
+titre: La règle d'exonération s'applique aux entreprises (entreprises de moins de
+  50 salariés, accords d'intérêt ou accords de participation) ainsi qu'aux associations,
+  fondations d'utilité publique et ESAT.
+source: Brochure IR 2024
+regle:
+  description: 'La règle d''exonération s''applique aux entreprises (entreprises de
+    moins de 50 salariés, accords d''intérêt ou accords de participation) ainsi qu''aux
+    associations, fondations d''utilité publique et ESAT.
+
+
+    La condition pour l''application de cette règle est la présence de l''exonération
+    dans les entreprises concernées ou dans les associations/fondations/ESAT mentionnées.
+
+
+    Le montant de l''exonération est fixé à 6 000 €.
+
+
+    La formule de calcul applicable pour cette exonération est simple : il n''y a
+    pas besoin de calculer, car le montant est constant à 6 000 €.
+
+
+    Pour être sûr d''être éligible à cette exonération, il faut vérifier que l''entreprise
+    ou l''organisation en question répond aux conditions précitées (étant soit une
+    entreprise couverte par un accord d''intérêt ou d''accord de participation ou
+    une association/fondation/ESAT).'
+  formule: Non spécifiée
+cas_pratique: "Nom : Jean Doe\n   Profession : Directeur général d'une entreprise\
+  \ à but non lucratif avec moins de 50 salariés, nommée \"L'association pour la protection\
+  \ de l'environnement\"\n   Situation : En 2023, l'entreprise a réalisé un bénéfice\
+  \ de 45 000 €.\n\n   **Exemple de déclaration fiscale**\n\n   Ligne 1AK - Bénéfice\
+  \ total de l'entreprise : 45 000 €\n\n   Ligne 1GF - Exonération pour les entreprises\
+  \ couvertes par un accord d'intérêt ou d'accord de participation : 6 000 € (exonéré)\n\
+  \n   **Comparaison**\n\n   Sous le régime par défaut, l'impôt serait calculé sur\
+  \ le bénéfice total de 45 000 €. Avec l'option choisie, la déduction d'une exonération\
+  \ de 6 000 € est applicable, réduisant le montant taxable à 39 000 €.\n\n   **Calcul\
+  \ clair avec des chiffres ronds**\n\n   Sous le régime par défaut : Impôt = (45\
+  \ 000 € - impôts directs et indirects pris en compte) x taux d'impôt.\n\n   Avec\
+  \ l'option choisie : Impôt = (39 000 € - impôts directs et indirects pris en considération)\
+  \ x taux d'impôt.\n\n   **Conclusion**\n\n   Pour l'exercice fiscal 2023, l'entreprise\
+  \ \"L'association pour la protection de l'environnement\" est éligible à une exonération\
+  \ de 6 000 € grâce aux conditions applicables aux entreprises couvertes par un accord\
+  \ d'intérêt ou d'accord de participation."

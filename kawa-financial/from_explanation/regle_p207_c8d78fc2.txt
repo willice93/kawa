@@ -1,0 +1,7 @@
+Règle de calcul applicabile aux rémunérations BIC, BNC et BA déclarées dans les "revenus imposables" de la déclaration fiscale :
+
+- À qui s'applique la règle : Tous ceux qui ont coché la rubrique DSXA, DSXB, DSZA, DSZB pour indiquer que leurs revenus sont soumis au régime général des travailleurs indépendants.
+- Dans quelles conditions : Lorsque les rémunérations BIC, BNC ou BA (professionnelles ou non professionnelles) ont été réalisées à l'étranger et déclarées dans la rubrique "revenus imposables" de la déclaration fiscale.
+- Quels sont les montants ou plafonds : Les revenus BIC, BNC ou BA peuvent provenir d'une source étrangère dont l'impôt est crédité ou non crédité.
+- Formule de calcul applicable : Les revenus BIC, BNC ou BA seront pris en compte par Urssaf dans la base de calcul de vos cotisations et contributions sociales.
+- Ce qu'il faut vérifier pour être sûr d'y avoir droit : Vous devez cocher les bonnes rubriques pour indiquer que vos revenus sont soumis au régime général des travailleurs indépendants.

@@ -1,0 +1,15 @@
+Règle appliquée aux particuliers : Limitations sur les dons et cotisations versés à des partis politiques ou groupements politiques
+
+   Conditions : Les limites s'appliquent lorsque les dons et cotisations annuels dépassent les montants suivants :
+       - Montant total annuel de dons versés : 7 500 €
+       - Montant maximal pour la financement d'une campagne électorale : 4 600 €
+
+   Montant ou plafond :
+       - Montant annuel de dons versés à un ou plusieurs partis politiques : 7 500 €
+       - Montant total pour la financement d'une campagne électorale : 4 600 €
+
+   Formule de calcul applicable : Il n'y a pas de formule de calcul, les montants sont plafonds stricts.
+
+   Vérification pour être sûr d'y avoir droit : Les dons doivent être effectués conformément aux lois électorales et financières en vigueur. En cas d'excédement des plafonds, il est important de savoir si les limites dépassées peuvent être compensées par un excédent sur une autre ligne de dons :
+       - Si l'excédent du montant des dons versés aux organismes d'aide aux personnes en difficulté inscrit ligne 7UD dépasse la limite de 1 000 €, il est automatiquement ajouté aux sommes inscrites ligne 7UF pour le calcul de la réduction d'impôt.
+       - Si l'excédent du montant des dons pour la sauvegarde du patrimoine religieux inscrit ligne 7UJ dépasse la limite de 1000 €, il est automatiquement ajouté aux sommes inscrites ligne 7UF pour le calcul de la réduction d'impôt.

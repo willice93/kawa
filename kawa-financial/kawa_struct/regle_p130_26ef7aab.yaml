@@ -1,0 +1,47 @@
+id: regle_p130_26ef7aab
+titre: 'Règle applicabile aux produits d''économie d''argent :'
+source: Brochure IR 2024
+regle:
+  description: "Règle applicabile aux produits d'économie d'argent :\n   Les montants\
+    \ incluent les intérêts des livrets bancaires fiscalisés, produits de dépôt et\
+    \ à terme, produits de créances, cautionnements, comptes courants d'associations\
+    \ ; produits d'obligations et emprunts d'État, titres de créances négociables\
+    \ sur un marché réglementé, bons du Trésor et assimilés, bons émis par les entreprises,\
+    \ fonds communs de créances (FCC), intérêts des prêts consenties entre particuliers\
+    \ (hors prêts familiaux) et intérêts courus sur les plans d'épargne-logement (PEL\
+    \ ouverts avant 2018 et à compter du 1.1.2018).\n   La règle s'applique pour ces\
+    \ montants lorsqu'ils sont versés dans l'année calendaire 2023.\n   Il n'y a pas\
+    \ de plafond spécifié pour les montants inclus.\n   La formule de calcul est d'exonérer\
+    \ d'impôt sur le revenu les intérêts reçus à compter du 1er janvier 2018 pour\
+    \ les plans d'épargne-logement (PEL ouverts après 2018) et depuis le 1er janvier\
+    \ 2018 pour les comptes d'épargne-logement. Les intérêts reçus sur les PEL ouverts\
+    \ avant 2018 sont totalement exonérés d'impôt sur le revenu.\n   Pour être sûr\
+    \ de bénéficier de cette règle, il faut vérifier que les montants sont inclus\
+    \ dans la liste ci-dessus et qu'ils ont été versés dans l'année calendaire 2023."
+  formule: revenu_brut * (1 - 0.06)
+cas_pratique: "Contexte : Marie Dupont, architecte en construction, a déposé ses épargnes\
+  \ depuis plusieurs années dans des plans d'épargne-logement (PEL) ouverts après\
+  \ le 1er janvier 2018. En 2023, elle a collecté 7000 € d'intérêts sur ces PEL. Elle\
+  \ dispose également d'un compte courant d'association qui rapporte des intérêts\
+  \ annuels d'environ 500 €.\n\n   Données :\n   - Revenus : Son revenu fiscal annuel\
+  \ est de 36 000 € (4000 € par mois). Elle n'a pas de revenus supplémentaires à déclarer.\n\
+  \   - Montants concernés : Les intérêts reçus sur ses PEL et son compte courant\
+  \ d'association.\n   - Déclaration : Les intérêts reçus sur les PEL doivent être\
+  \ déclarés dans la case 1AK et ceux de son compte courant d'association dans la\
+  \ case 1GF, si applicable.\n   - Régime par défaut vs régime choisi : Pour les intérêts\
+  \ reçus sur les PEL, elle choisit le régime d'exonération d'impôt sur le revenu.\
+  \ Pour ceux de son compte courant d'association, le régime par défaut appliqué est\
+  \ celui du revenu imposable à taux progressif.\n   - Calcul clair avec des chiffres\
+  \ ronds : Les 7000 € d'intérêts reçus sur ses PEL sont exonérés d'impôt sur le revenu\
+  \ en application de la règle. Les 500 € d'intérêts de son compte courant d'association\
+  \ seront imposables à taux progressif comme dans le régime par défaut, ce qui représente\
+  \ environ 219 € d'impôts (36 000 € x 6 %).\n   - Synthèse : Marie Dupont bénéficie\
+  \ de l'exonération d'impôt sur les intérêts reçus sur ses PEL ouverts après le 1er\
+  \ janvier 2018, totalisant 7000 € en 2023. Elle versera environ 219 € d'impôts sur\
+  \ les intérêts de son compte courant d'association."
+calcul:
+  formule: revenu_brut * (1 - 0.06)
+  exemple:
+    revenu_brut: 7000
+    abattement: 420
+    revenu_net: 6580

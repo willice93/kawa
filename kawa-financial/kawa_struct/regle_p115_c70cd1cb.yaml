@@ -1,0 +1,60 @@
+id: regle_p115_c70cd1cb
+titre: 'Règle appliquée aux gains d''acquisition d''actions gratuites :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle appliquée aux gains d''acquisition d''actions gratuites :
+
+
+    - À qui s’applique la règle : Les acquéreurs de titres financiers gratuits (actions,
+    obligations, etc.)
+
+    - Dans quelles conditions : Les actions ont été attribuées entre le 8.08.2015
+    et le 30.12.2016 ; ou pour leur fraction ne dépassant pas 300 000 € à compter
+    du 31.12.2016
+
+    - Quels sont les montants ou plafonds : Il y a deux plafonds, le premier est l''acquisition
+    de titres financiers gratuits pour une valeur inférieure à 300 000 € à compter
+    du 31.12.2016 et le second est un abattement de 50 % appliqué si la détention
+    des actions dépasse de longue durée
+
+    - Quelle est la formule de calcul applicable : Les montants imposables sont ceux
+    restant après application des abattements (durée de détention et à compter de
+    départ à la retraite d''un dirigeant de PME) sur les gains d''acquisition.
+
+    - Et ce qu’il faut vérifier pour être sûr d’y avoir droit : Vérifiez que vous
+    correspondrez aux conditions mentionnées ci-dessus et que votre situation n’est
+    pas concernée par une autre règle de calcul, car la présente peut être supérieure
+    à celle-ci.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titulaire : Alexandre Dupont, gérant d''une PME spécialisée dans la
+  production de matériel photographique.
+
+
+  Situation : M. Dupont a reçu des actions de sa propre entreprise en 2016, à titre
+  gratuit et sans valeur dépassant 300 000 € au compte-rendu fiscal annuel de cette
+  même année.
+
+
+  Montants concernés : Les gains d''acquisition des actions concernent la différence
+  de prix entre leur valeur nominale et le montant à laquelle il a été perçu, qui
+  est de 100 000 € en tout pour les actions gratuites reçues par M. Dupont.
+
+
+  Déclaration : Ces gains d''acquisition des actions doivent être déclarés dans la
+  case 1AK sur le formulaire de l''impôt sur les revenus.
+
+
+  Comparaison entre régime par défaut et option choisie : En appliquant cette règle,
+  M. Dupont ne sera pas soumis à l''impôt des gains d''acquisition pour des gains
+  d''acquisition inférieurs à 300 000 €. Par contre, si il s''agissait du régime par
+  défaut, les gains d''acquisition seraient imposables sur la totalité de leur montant.
+
+
+  Calcul clair avec des chiffres ronds : Les gains d''acquisition de 100 000 € sont
+  éligibles à l''abattement de 50 %, ce qui en fait 50 000 € de gains imposables,
+  laissant un montant de 50 000 € impôtable.
+
+
+  Conclusion : En appliquant cette règle, M. Dupont peut bénéficier d''un abattement
+  sur ses gains d''acquisition des actions gratuites et ne sera pas soumis à l''impôt
+  pour autant que le montant total de ces gains n''excède pas 300 000 €.'

@@ -1,0 +1,5 @@
+La règle s'applique aux bénéficiaires des plus-values de cession de titres ou des distributions de plus-values d'OPC, ainsi quaux bénéficiaires des distributions de SCR. Cette règle est applicable lorsque les bénéficiaires sont domiciliés dans un État ou territoire non coopératif.
+
+Les montants ou plafonds concernés par cette règle sont les plus-values et les distributions évoquées précédemment. La formule de calcul applicable est le prélèvement de 75 % de ces montants.
+
+Pour être sûr d'y avoir droit, il faut vérifier que le bénéficiaire est domicilié dans un État ou territoire non coopératif et que les plus-values ou distributions concernées sont éligibles à ce prélèvement.

@@ -1,0 +1,5 @@
+Règle d'application : Pour les entreprises exerçant une activité de vente et souhaitant bénéficier du régime micro, il existe un abattement forfaitaire de 71 % (minimum de 305 €) sur les recettes de vente.
+   Conditions : Les entreprises devraient exercer une activité de vente et devraient indiquer le montant de leurs recettes lignes 5NO, 5OO, 5PO pour être éligibles à cette règle.
+   Montants ou plafonds : L'abattement forfaitaire est de 71 % avec un minimum de 305 €.
+   Formule de calcul applicable : Les entreprises doivent multiplier leur montant total de recettes lignes 5NO, 5OO, 5PO par 0,71 pour obtenir l'abattement forfaitaire, ou bien utiliser le montant minimum de 305 €.
+   Vérification : Les entreprises devraient vérifier que leur activité est de vente et qu'elles remplissent les conditions requises, tels que l'existence de recettes dans les lignes spécifiées (5NO, 5OO, 5PO) pour bénéficier de cet abattement forfaitaire.

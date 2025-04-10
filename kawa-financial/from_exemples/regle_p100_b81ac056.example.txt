@@ -1,0 +1,16 @@
+Contexte : Marie, 45 ans, est une employée qui travaille pour XYZ Corporation pendant les 20 dernières années. Elle a été licenciée conventionnellement en décembre 2021 après avoir annoncé son intention de prendre sa retraite.
+
+Montants concernés : Le montant du licenciement légal/conventionnel pour Marie était de 30 000 €, et son revenu brut annuel de l'année civile précédente (2020) était de 65 000 €.
+
+Déclaration : Les montants doivent être déclarés dans les cases suivantes de la déclaration d'impôts :
+- Montant licenciement légal/conventionnel : 1AK
+- Revenu annuel brut : 1GF
+
+Comparaison : Sous le régime par défaut, Marie serait soumise à l'imposition sur ses revenus (65 000 €), ainsi que sur le montant du licenciement conventionnel (30 000 €). En choisissant l'option de l'indemnité de rupture exonérée, elle bénéficie d'un écart fiscal sur les deux montants en question.
+
+Calcul : Indemnité totale = (Montant licenciement légal/conventionnel) + (0,5 * Revenu annuel brut de l'année précédente ou double)
+Indemnité totale = (30 000 €) + (0,5 * 65 000 €)
+Indemnité totale = 30 000 € + 32 500 €
+Indemnité totale = 62 500 €
+
+Conclusion : En appliquant la règle, Marie pourrait bénéficier d'une indemnité de licenciement totale exonérée de 62 500 €, ce qui signifie qu'elle ne devra pas payer d'impôts sur ces montants spécifiques.

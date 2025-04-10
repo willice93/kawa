@@ -1,0 +1,15 @@
+Règle d'application : Allocation journalière du proche aidant (AJPA) versée par la MSA (Caisse des allocations familiales/Services de la sécurité sociale)
+
+   Conditions d'applicabilité :
+   - L'aidant familial réduit ou cesse son activité professionnelle dans le cadre d'un congé du proche aidant pour soutenir un proche en situation de handicap ou de perte d'autonomie.
+
+   Montants ou plafonds :
+   - Aucune limite spécifique de montant spécifiée dans le texte, mais l'AJPA doit être intégrée dans les bénéfices des revenus qu'elle remplace (y compris BA, BIC, BNC, réel ou micro).
+
+   Formule de calcul applicable :
+   - L'AJPA doit être déduite de la base de calcul de la CSG-CRDS.
+
+   Vérification pour être sûr d'y avoir droit :
+   - Le proche aidant doit réduire ou cesser son activité professionnelle dans le cadre d'un congé du proche aidant pour soutenir un proche en situation de handicap ou de perte d'autonomie.
+   - Il faut déduire du montant total des aides que vous avez perçues, seule la CSG au taux de 3,8% (la part de CSG déductible). La CRDS au taux de 0,5% et la CSG au taux de 2.4% ne sont pas déductibles.
+   - Enregistrer le montant des aides dans la rubrique DSAG ou DSBG pour que ces montants soient pris en compte lors du calcul de la base de CSG-CRDS.

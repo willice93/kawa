@@ -1,0 +1,24 @@
+Exemple de situation:
+
+Nom : Pierre Dupont
+Profession : Entrepreneur
+Situation : Pierre a acquis des actions dans une PME nommée "GreenTech SAS" en 2017. Il est actuellement l'actionnaire majoritaire de la société. La société a été créée en 2016, se situe dans le nord de la France et exerce des activités d'ingénierie verte. Le chiffre d'affaires annuel de GreenTech SAS ne dépasse pas les 50 millions d'euros, elle emploie actuellement 180 personnes. Pierre a détenu ces actions depuis plus de 3 ans.
+
+Montant concernés:
+- Prix d'achat des actions (2017) : 100 000 €
+- Valeur des actions à la date de vente prévue (2021) : 150 000 €
+- Taux d'imposition sur les plus-values pour le régime par défaut: 30%
+- Taux d'imposition sur les plus-values avec l'abattement pour durée de détention renforcée (en cas de réunion des conditions): 15%
+
+Déclaration dans les bonnes cases :
+- Pour le régime par défaut: 1AK
+- Pour la déclaration de l'option avec abattement: 1GF
+
+Comparaison régime par défaut vs option choisie:
+En cas de réunion des conditions pour l'abattement, Pierre bénéficie d'un taux d'imposition plus faible sur les plus-values de sa cession. En effet, en appliquant le régime par défaut, il devra payer 30 000 € d'impôt (30% de la valeur des actions à la date de vente). Au contraire, si il choisit l'option avec abattement, il devra payer 22 500 € d'impôt (15% de la valeur des actions à la date de vente).
+
+Calcul clair avec des chiffres ronds:
+- Régime par défaut: 30 000 €
+- Option avec abattement: 22 500 €
+
+Conclusion : Il est important pour Pierre d'établir son dossier de plus-value de cession correctement et de consulter une expert-comptable pour savoir si il peut bénéficier de l'abattement pour durée de détention renforcée. Cette option lui permettra de payer 7 500 € d'impôt moins cher qu'en appliquant le régime par défaut.

@@ -1,0 +1,18 @@
+Context: Marie Leclerc, 38 years old, self-employed artisanal fisherman based in La Rochelle, France. In 2023, she is operating a fishing vessel classified as 2nd category of navigation outside the French territorial waters.
+
+Marie's revenue:
+- Gross earnings from fishing activities: €60,000 (declared on line 1AK)
+- Referencesalary: €20,193
+
+Income tax form calculation:
+- Eligible abatement amount (Artisanal fisherman category): (Gross earnings - Reference salary) x 0.40 (for coastal fishing or small-scale fishing) = (€60,000 - €20,193) x 0.40 = €18,597.20
+
+Income tax form declaration:
+- Line 1GF: Taxable base salary: €60,000 - €20,193 (Reference Salary) = €39,807
+- Line 1AK: Gross earnings from fishing activities: €60,000
+- Line 1LF: Deduction for artisanal fisherman: €18,597.20
+
+Comparison:
+By choosing the artisanal fisherman regime instead of the regular income tax regime, Marie saves on her taxes by benefiting from a 40% abatement (60% for large-scale fishing) on earnings exceeding the reference salary, totaling €18,597.20 in savings in this example.
+
+Conclusion: By operating outside French territorial waters and meeting the other requirements as a self-employed artisanal fisherman domiciled in France, Marie can benefit from an income tax abatement, significantly reducing her annual tax liability.

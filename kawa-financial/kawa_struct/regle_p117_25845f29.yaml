@@ -1,0 +1,68 @@
+id: regle_p117_25845f29
+titre: 'Règle d''application : Les revenus après déduction forfaitaire de 10% ou des
+  frais réels des salariés (revenus net à l''impôt) sont utilisés pour calculer le
+  taux effectif applicable aux revenus imposables en France et pour la détermination
+  du revenu fiscal de référence.'
+source: Brochure IR 2024
+regle:
+  description: 'Règle d''application : Les revenus après déduction forfaitaire de
+    10% ou des frais réels des salariés (revenus net à l''impôt) sont utilisés pour
+    calculer le taux effectif applicable aux revenus imposables en France et pour
+    la détermination du revenu fiscal de référence.
+
+
+    Conditions d''application : Les revenus à retenir pour ce calcul correspondent
+    uniquement aux revenus net à l''impôt des salariés.
+
+
+    Plafonds ou montants : Il n''y a pas de plafond ou de montant spécifié dans le
+    texte analysé.
+
+
+    Formule de calcul applicable : Les revenus net à l''impôt sont utilisés directement
+    pour le calcul du taux effectif applicable aux revenus imposables et pour la détermination
+    du revenu fiscal de référence.
+
+
+    Vérification pour être sûr d''y avoir droit : Vérifier que les frais réels des
+    salariés ont été correctement pris en compte pour le calcul de la déduction, et
+    que les revenus utilisés sont ceux après application de cette déduction.'
+  formule: revenu_brut * (1 - 0.1)
+cas_pratique: 'Nom : Jean Dupont, employé salarié à la société ABC Technologies.
+
+
+  Situation : En tant qu''employé salarié, je suis soumis à l''impôt sur le revenu
+  en France. Mes frais réels sont déduits de mon revenu brut avant que celui-ci soit
+  imposé.
+
+
+  Montant concernés : Mon revenu brut est de 3600€ par mois et mon taux de TVA sur
+  les frais réels est de 10%. Les frais réels sont donc de 360€ (3600€ * 10%). Le
+  revenu net à l''impôt que j''utilise pour calculer le taux effectif applicable et
+  mon revenu fiscal de référence est de 3240€ (3600€ - 360€).
+
+
+  Déclaration : Utilisez les chiffres dans la case 1AK pour les frais réels et dans
+  la case 1GF pour le revenu net à l''impôt.
+
+
+  Comparison entre régime par défaut et option choisie : En tant qu''employé salarié,
+  je suis soumis au régime général d''imposition. Si j''avais choisi un régime particulier
+  (par exemple le régime micro-entreprise), mon taux de TVA sur les frais réels et
+  la manière dont je calculerai ma déduction pourraient changer.
+
+
+  Calcul clair avec des chiffres ronds : Mon taux effectif applicable aux revenus
+  imposables est de 15% (le revenu fiscal de référence de 3240€ divisé par 21600€,
+  qui est le revenu fiscal de référence minimum pour un impôt progressif en France).
+
+
+  Conclusion : En appliquant correctement les frais réels et la déduction de 10% des
+  salariés, je peux calculer précisément mon taux effectif applicable aux revenus
+  imposables et mon revenu fiscal de référence pour l''impôt sur le revenu en France.'
+calcul:
+  formule: revenu_brut * (1 - 0.1)
+  exemple:
+    revenu_brut: 3600
+    abattement: 360
+    revenu_net: 3240

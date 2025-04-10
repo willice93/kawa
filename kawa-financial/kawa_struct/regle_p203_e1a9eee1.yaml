@@ -1,0 +1,57 @@
+id: regle_p203_e1a9eee1
+titre: Règle applicabile à tous les bénéficiaires d'aides en cas de déduction de la
+  Contribution Sociale Généralisée (CSG).
+source: Brochure IR 2024
+regle:
+  description: 'Règle applicabile à tous les bénéficiaires d''aides en cas de déduction
+    de la Contribution Sociale Généralisée (CSG).
+
+
+    Contraintes : La seule CSG au taux de 3,8% est déductible. Les taux de CSG de
+    2,4% et CRDS de 0,5% ne peuvent pas être déduits.
+
+
+    Montants/plafonds : Seul le montant des aides en question peut être déduit de
+    la CSG au taux de 3,8%. Aucun plafond n''est mentionné.
+
+
+    Formule de calcul applicable : Dédicter du montant des aides en question de la
+    CSG au taux de 3,8% (aides - (CSG * 0.038)).
+
+
+    Vérifier pour être sûr d''y avoir droit : Il faut vérifier que les aides déduites
+    correspondent à des aides concédées dans le cadre d''un dispositif établi par
+    l''État, une collectivité territoriale ou un établissement public.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titre : Guillaume Labbé - Aide sociale pour personnes handicapées
+
+
+  Guillaume est un architecte de 42 ans qui a contracté une invalidité partielle après
+  un grave accident de voiture. Il perçoit donc depuis quelques années des aides sociales
+  pour personnes handicapées, telles que l''allocation personnalisée d''autonomie
+  (APA) et l''aide au logement adapté (ALA).
+
+
+  En 2021, Guillaume perçoit un total de 6.000€ d''aides sociales pour personnes handicapées
+  (APA : 4.500€ et ALA : 1.500€). Comme il est titulaire de revenus salariés, sa CSG
+  est de 380€/an (CSG * 0.038).
+
+
+  Pour appliquer la règle concernant la déduction de la CSG, Guillaume doit déduire
+  le montant des aides sociales pour personnes handicapées de sa CSG. Il effectue
+  donc la calcul suivant :
+
+  - Dédicter du montant des aides en question (6.000€) de la CSG au taux de 3,8% (CSG
+  * 0.038 = 144€).
+
+  - La déduction totale est donc de 6.000€ - 144€ = 5.856€.
+
+
+  Il déclare cette déduction en remplissant la case 1AK de son formulaire de déclaration
+  (CSG au taux de 3,8%). Il devrait également déclarer cette déduction dans le cas
+  des autres années à venir jusqu''à ce que les aides cessent d''être perçues.
+
+
+  Pour comparaison, si Guillaume avait choisi de ne pas faire la déduction, sa CSG
+  serait de 380€/an en régime par défaut. En faisant cette déduction, il diminue donc
+  son montant total annuel de CSG.'

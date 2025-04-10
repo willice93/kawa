@@ -1,0 +1,10 @@
+La règle d'après le texte analysé s'applique aux Entreprises qui ont des activités exercées dans les zones franc-territoires urbaines-entrepreneurs (ZFUE).
+
+Les conditions pour y avoir droit sont :
+1. Les activités de l'entreprise doivent se situer dans une ZFUE (art. 44 octies de la loi)
+2. Le bénéfice non imposable à abattre doit correspondre aux exonérations prévues en faveur des ZFUE (art. 44 octies A de la loi)
+3. Il y a un abattement de 34 % du montant des bénéfices non imposables pour obtenir le montant final de l'exonération prévue en faveur des ZFUE.
+
+La formule de calcul applicable est donc : Montant de l'exonération = (Bénéfice non imposable) * 0.34 (abattement de 34 %)
+
+Il faut vérifier que les conditions ci-dessus sont bien remplies pour être sûr d'y avoir droit à l'exonération prévue en faveur des ZFUE. Il est également nécessaire de consulter la loi et la réglementation applicables pour avoir un aperçu plus précis de ces conditions et de la manière dont cette exonération doit être calculée.

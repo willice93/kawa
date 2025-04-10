@@ -1,0 +1,14 @@
+La règle s'applique aux travailleurs indépendants (artisans, commerçants et professions libérales) qui déclarent leurs revenus dans les cases "revenus imposables" de leur déclaration fiscale pour les bénéfices industriels et commerciaux (BIC), bénéfices non commerciaux (BNC) et bénéfices agricoles (BA). Les revenus considérés dans la base de calcul des cotisations sociales sont :
+
+- Revenus professionnels
+- Revenus non professionnels si vous avez coché la rubrique DSXA, DSXB, DSZA, DSZB "Vos revenus sont soumis à cotisations sociales au titre du régime général des travailleurs indépendants".
+
+Cependant, les montants déclarés dans les cases "revenus imposables" peuvent également inclure des revenus qui ne doivent pas être pris en compte dans la base de calcul des cotisations et contributions sociales. Les montants relatifs à ces revenus doivent être reportés dans la rubrique DSBA ou DSBB pour être retirés de la base de calcul.
+
+Les principaux revenus concernés sont :
+- Revenus des collaborateurs occasionnels du service public (sauf si vous avez opté pour leur rattachement au régime des travailleurs indépendants)
+- Revenus des artistes-auteurs affiliés à la Maison des Artistes ou à l’AGESSA
+- Revenus des associés de société dont le statut ou la forme ne relève pas du régime des travailleurs indépendants (exemples : gérant associé minoritaire, associé non gérant de SARL ayant opté pour le régime des sociétés de personnes, associé de SAS ayant opté pour le régime des sociétés de personnes…)
+- La part des revenus déjà soumise au versement libératoire de cotisations sociales auprès de l’Urssaf, au taux global simplifié (dans le cadre de l’offre simplifiée pour les médecins remplaçants), pour les étudiants en médecine ou les médecins salariés ou retraités effectuant des remplacements à titre accessoire et ayant changé de statut au cours de l’année 2021 (installation, collaboration libérale ou toute activité indépendante autre que celle de remplaçant) pour relever à ce titre du régime général des travailleurs indépendants
+- Le montant de l'intéressement perçu par le chef d'entreprise lorsque celui-ci a été intégré au résultat imposable (une disposition spécifique prévoyant que l'intéressement n'est pas soumis à cotisations sociales)
+- Les revenus de location meublée de courte durée imposés en BIC professionnels, pour les personnes ayant opté pour le rattachement de ces revenus au régime général des salariés.

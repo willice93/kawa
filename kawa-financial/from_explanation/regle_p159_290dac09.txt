@@ -1,0 +1,20 @@
+Règle applicable : Micro Foncier Regime
+
+   Conditions d'applicabilité:
+   - Le montant brut des revenus fonciers perçus par votre foyer fiscal en 2023 ne doit pas dépasser 15 000 €.
+   - Cette règle s’applique indépendamment de la durée de la location.
+
+   Montants ou plafonds:
+   - Le montant brut des revenus fonciers perçus en 2023 ne doit pas dépasser 15 000 €.
+   - Les charges non comprises doivent être prises en compte dans le calcul.
+   - Les recettes qu'auraient pu produire les immeubles autres que les logements dont vous vous réservez la jouissance doivent également être incluses dans le calcul.
+
+   Formule de calcul applicable:
+   - Si le montant total des revenus fonciers respecte la condition de plafond, vous n’avez pas besoin de remplir une déclaration annexe de revenus fonciers.
+   - Vous devez directement indiquer le montant brut de vos revenus fonciers de 2023 sur la ligne 4BE de votre déclaration de revenus.
+   - Un abattement forfaitaire de 30 %, représentatif de frais, sera automatiquement appliqué.
+   - Vous devez également indiquer l'adresse du ou des logements que vous donnez en location et dont les revenus sont imposés selon le régime micro foncier.
+
+   Verification pour être sûr d’y avoir droit:
+   - Vérifiez que le montant total de vos revenus fonciers n'excède pas 15 000 €.
+   - Assurez-vous de remplir correctement la ligne 4BE de votre déclaration de revenus et d'indiquer les adresses des logements concernés.

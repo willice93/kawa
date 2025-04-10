@@ -1,0 +1,13 @@
+Règle d'exonération de revenus sur certaines catégories de produits de capitalisation et assurance-vie :
+
+Cette règle s'applique à toute personne physique dont le revenu fiscal de référence (de la 2042 C) est supérieur à 37 516 € en 2022.
+
+Les conditions requises sont que les produits concernés soient :
+- des placements à revenus fixes (lignes 2TR ou 2TT)
+- des bons et contrats de capitalisation et d'assurance-vie dont le versement a été effectué avant le 27 septembre 2017 imposés au barème, y compris sans option globale (lignes 2CH ou 2YY)
+- des bons et contrats de capitalisation et d'assurance-vie dont le versement a été effectué à compter du 27 septembre 2017 (lignes 2VV, 2WW ou 2ZZ)
+- des gains de cession des bons et contrats de capitalisation et d'assurance-vie afférents à des versements effectués avant le 27 septembre 2017 imposés au barème (lignes 2VN) ou à compter du 27 septembre 2017 (lignes 2VO ou 2VP).
+
+La formule de calcul applicable est de reporter le montant des revenus bénéficiant de l'exonération dans la ligne 2DM de la 2042 C. Ce montant est retenu pour le calcul du revenu fiscal de référence et des prélèvements sociaux.
+
+Pour être sûr d'y avoir droit, il faut vérifier que les produits concernés correspondent aux catégories mentionnées et que les versements ont été effectués dans les conditions requises.

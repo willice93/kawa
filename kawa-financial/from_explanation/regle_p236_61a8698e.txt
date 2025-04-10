@@ -1,0 +1,9 @@
+Règle applicable : Calcul de la limite de 20 % des versements versés dans un plan d'épargne salariale (PES) sans atteindre les 1 000 €.
+
+Conditions : Les versements doivent être inférieurs à 1 000 € et se trouver dans la case spécifique du formulaire de déclaration des revenus, qui est la case 7UJ.
+
+Montants ou plafonds : Les versements doivent être inférieurs à 1 000 €. La limite de 20 % du revenu imposable n'est pas prise en compte si les versements sont inférieurs à cette somme.
+
+Formule de calcul applicable : Si les versements sont inférieurs à 1 000 €, la limite de 20 % du revenu imposable ne sera pas prise en compte.
+
+Vérification pour être sûr d'y avoir droit : Vérifier que les versements sont effectués dans le cadre d'un plan d'épargne salariale, inférieurs à 1 000 € et indiqués dans la case spécifique du formulaire de déclaration des revenus (7UJ).

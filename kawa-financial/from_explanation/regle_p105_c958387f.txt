@@ -1,0 +1,10 @@
+Règle s'applique aux journalistes, rédacteurs, photographes, directeurs de journaux et critiques dramatiques et musicaux. Cette règle s'applique lorsqu'ils n'optent pas pour la déduction de leurs frais professionnels réels.
+
+La fraction des rémunérations perçues représentative de frais d'emploi est calculée à hauteur de 7 650 € (ajusté en fonction du nombre de mois d'exercice de l'activité dans l'année). Ce montant peut être ajusté si le salarié commence ou termine son activité durant l'année considérée.
+
+L'abattement de 7 650 € s'applique uniquement aux journalistes et assimilés dont le revenu brut annuel n'excède pas 93 510 €.
+
+La formule de calcul applicable est : Montant du salaire après déduction de la fraction de rémunération représentative de frais d'emploi = Salaire avant déduction - Fraction de rémunération représentative de frais d'emploi
+Montant de l'abattement = Abattement fixe (7 650 €)
+
+Pour être sûr d'y avoir droit, il faut vérifier que le salarié n'a pas opté pour la déduction de frais professionnels réels et que son revenu brut annuel ne dépasse pas 93 510 €.

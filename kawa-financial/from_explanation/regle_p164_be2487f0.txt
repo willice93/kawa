@@ -1,0 +1,11 @@
+Règle de calcul : Libération progressive du paiement de l'impôt sur le revenu (IPR) en 2023.
+
+Cette règle s'applique aux exploitants dont le revenu fiscal de référence de l'année précédente (2021) n'excède pas la limite supérieure de la deuxième tranche du barème de l'IPR de l'année 2020, soit 26 070 €.
+
+Condition : Le revenu fiscal de référence doit être inférieur ou égal à cette limite pour toute part de quotient familial (la somme des parts de quotient familial correspondant au nombre total de personnes constituant la famille).
+
+Montants ou plafonds : La limite supérieure de la deuxième tranche du barème de l'IPR est de 26 070 €. Ce montant peut être augmenté de 50 % par demi-part ou de 25 % par quart de part supplémentaire.
+
+Formule de calcul : Le revenu fiscal de référence doit être inférieur ou égal à la limite supérieure (26 070 €) de la deuxième tranche du barème de l'IPR, augmentée éventuellement de fractions de parts supplémentaires.
+
+Vérification : Pour vérifier d'être éligible à cette option, il faut calculer le revenu fiscal de référence (période 2021) et comparer ce montant avec la limite supérieure augmentée (si nécessaire) de la deuxième tranche du barème de l'IPR (26 070 € + parts supplémentaires). Si le revenu fiscal de référence est inférieur ou égal à cette limite, alors il est possible d'utiliser l'option pour le versement libératoire de l'IPR en 2023.

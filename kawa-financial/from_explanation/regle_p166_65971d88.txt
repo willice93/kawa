@@ -1,0 +1,11 @@
+La règle applique aux personnes physiques qui exploitent une activité commerciale ou artisanale. Cette règle est applicable lorsque les recettes hors taxes des trois années précédentes sont disponibles.
+
+Les montants ou plafonds de la règle consistent en :
+- Les recettes hors taxes de l'année d'imposition (l'année courante) et des deux années précédentes
+- Un abattement de 87 %
+- L'abattement ne peut pas être inférieur à 305 €.
+
+La formule de calcul applicable est :
+Le bénéfice imposable = (Moyenne des recettes hors taxes des trois années) x 0.13 (soit 87 % abattu)
+
+Il faut vérifier que les recettes hors taxes pour chaque année sont disponibles et que l'abattement n'est pas inférieur à 305 €, pour être sûr d'y avoir droit.

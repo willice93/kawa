@@ -1,0 +1,7 @@
+La règle s'applique aux impôts sur les revenus pour lesquels le paiement peut être fractionné. Cette option est applicable lorsque le solde de l'impôt sur le revenu (après imputation des réductions d'impôt, des crédits d'impôt, des prélèvements, des retenues à la source et des acomptes) est supérieur au seuil minimum requis.
+
+   La formule de calcul applicable est: Montant du paiement fractionné = Solde d'impôt sur le revenu * (Revenus entrant dans le champ d'application du dispositif / Revenu net imposable du foyer)
+
+   Pour être sûr de bénéficier de cette option, il est nécessaire de vérifier que les conditions suivantes sont remplies:
+   1. La fraction du solde impôt à payer est supérieure au seuil minimum requis.
+   2. Le revenu net imposable du foyer doit être supérieur ou égal à la somme des revenus entrant dans le champ d'application du dispositif et du seuil minimum requis.

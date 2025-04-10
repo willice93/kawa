@@ -1,0 +1,11 @@
+Titre : Application de l'abattement fixe de 500 000 € pour dirigeant d'une PME (Petite-Moyenne Entreprise)
+
+Contexte : Nous sommes avec M. Jean Dupont, un entrepreneur spécialisé dans la fabrication d'équipements électroniques. Il détient une entreprise nommée ElectroDupont SARL depuis 10 ans et emploie une équipe de 20 personnes.
+
+Montants concernés : Les revenus annuels de M. Dupont s'élèvent à 650 000 €. Il a réalisé cette année des plus-values d'un montant de 800 000 € en vendant une partie de ses actions de l'entreprise.
+
+Déclaration : M. Dupont doit déclarer ces revenus dans les cases correspondantes sur la 2042 C (1AK pour les revenus annuels et 3UA pour les plus-values). Pour bénéficier de l'abattement fixe de 500 000 €, il doit également déclarer sa demande sur la ligne 3UA.
+
+Comparaison : Sans l'abattement fixe, M. Dupont serait imposé au barème progressif sur toute son plus-value de 800 000 €, ce qui lui coûterait environ 176 400 € d'impôts (taux progressif maximum de 33,33%). Avec l'abattement fixe, il ne sera imposé que sur les 300 000 € supérieurs à 500 000 €, ce qui lui coûterait environ 100 000 € d'impôts (taux progressif maximum de 33,33%).
+
+Conclusion : En choisissant l'option de l'abattement fixe, M. Dupont économise 76 400 € d'impôts cette année. Il est donc recommandé à tous les dirigeants d'une PME d'examiner le régime fiscal qui leur convient pour optimiser leurs impôts sur les plus-values.

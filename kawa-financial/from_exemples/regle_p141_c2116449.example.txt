@@ -1,0 +1,13 @@
+Titre : Application de la règle fiscale en cas de retraite des dirigeants de PME
+
+Contexte : Mme Marie Dupont, 58 ans, est propriétaire et dirigeante d'une entreprise de fabrication de meubles depuis 25 ans. Elle a décidé de se retirer et de céder son activité à une société de production similaire en échange de 3 millions d'euros.
+
+Montants concernés : Mme Dupont reçoit un total de 3 millions d'euros pour la vente de sa PME. La plus-value impôsée sur cette transaction est de 2,5 millions d'euros (total - montant des actifs utiles à l'activité de l'entreprise).
+
+Déclaration : Les montants concernés doivent être déclarés dans les cases suivantes du formulaire fiscal : 1AK pour le total réçu, 1GF pour la plus-value impôsée (2,5 millions d'euros dans ce cas).
+
+Calcul : D'après la règle en question, il est possible de bénéficier d'un abattement fixe de 500 000 € sur la plus-value impôsée. Par conséquent, Mme Dupont peut déduire directement cette somme du montant de la plus-value (2,5 millions d'euros - 500 000 € = 2 millions d'euros).
+
+Comparaison : Sans l'abattement fixe, Mme Dupont devrait payer un taux forfaitaire de 12,8% sur la totalité de la plus-value (2,5 millions × 12,8% = 310 000 €). Cependant, avec l'abattement fixe, elle ne devra payer que 310 000 € (2 millions × 12,8%) sur la moins-value restante (2 millions - 500 000 = 1,5 millions d'euros).
+
+Conclusion : Mme Dupont peut s'assurer de bien appliquer cette règle en vérifiant que ses conditions sont remplies et en utilisant la formule de calcul correcte. Elle pourra ainsi réduire sa charge fiscale en recevant un abattement fixe de 500 000 € sur sa plus-value lorsqu'elle se retire de son activité.

@@ -1,0 +1,3 @@
+# Source: page 169
+
+Le montant de l’impôt sur le revenu dont le paiement peut être fractionné est égal au solde de l’impôt sur le revenu (impôt sur le revenu résultant de l’application du barème progressif ou d’un taux proportionnel, après imputation des réductions d’impôt, des crédits d’impôt, des prélèvements, des retenues à la source et des acomptes) multiplié par le rapport existant entre les revenus entrant dans le champ d’application du dispositif et le revenu net imposable du foyer (revenu imposable au barème progressif et revenus et plus-values imposés à un taux proportionnel).

@@ -1,0 +1,12 @@
+Titre : Exemple d'application de la règle fiscale pour les personnes ayant terminé leur contrat ou effectué un rachat en 2023
+
+Nom : Jean DOE, entrepreneur
+Contexte : Fin 2023, Monsieur DOE a terminé son contrat de location-vente d'un appartement acquis en 1998 pour un montant de 100 000 €. Il a reçu une prime de remboursement de la location de cette année.
+
+Montants concernés : La prime de remboursement totale est de 50 000 € et elle n'a pas été optée pour le prélèvement libératoire de 7,5 % (car elle ne concerne pas des produits exonérés).
+
+Déclaration : Dans la section '1AK - Primes immobilières', vous indiquez la somme totale de la prime reçue (50 000 €), puis dans la section '1GF - Primes autres que celles des droits d'habitation', vous indiquez le montant non opté pour prélèvement libératoire (45 000 €, car 5 000 € a été optée).
+
+Comparaison : En régime par défaut (sans utilisation de l'abattement annuel), la prime totale serait taxable. En utilisant l'abattement annuel, cela revient à payer 45 000 € * (1 - 4 600 / 100 000) = 42 360 € pour les personnes seules ou 45 000 € * (1 - 9 200 / 100 000) = 38 760 € pour les couples mariés ou PACSés.
+
+Conclusion : En utilisant l'abattement annuel applicable, le montant imposable est considérablement réduit. Cela peut être un avantage fiscale significatif pour les personnes concernées qui ont terminé leur contrat ou effectué un rachat en 2023 et ont reçu des primes entre le 26 septembre 1997 et le 26 septembre 2017 sur les produits acquis à compter du 1er janvier 1998.

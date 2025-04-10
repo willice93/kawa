@@ -1,0 +1,13 @@
+Titre: Exemption des contributions PAS en cas de cessation de pensions versées en 2024 - Cas concret d'application
+
+Contexte: Jean Dupont, employé salarié de 65 ans, a décidé de prendre sa retraite en 2023. Il percevait une pension de retraite de la Sécurité sociale et des pensions supplémentaires versées par son ancien employeur pour lequel il avait payé des contributions PAS déclarées sur les lignes 1AO à 1DO ou 1AM à 1DM depuis plusieurs années.
+
+Montants concernés: Les montants des pension de retraite et des pensions supplémentaires versées par son ancien employeur étaient de 2000 € par mois pour la pension de retraite et de 500 € par mois pour les pensions supplémentaires. Jean Dupont avait également payé des contributions PAS de 600 € par mois sur ses revenus net avant impôt (lignes 1AK à 1DM).
+
+Déclaration: Les pensions de retraite et les pensions supplémentaires versées par son ancien employeur ont été déclarées sur les lignes 1AO à 1DO ou 1AM à 1DM dans le passe.
+
+Comparaison régime par défaut vs option choisie: En cas de cessation de pensions versées, Jean Dupont bénéficiera d'une exemption des contributions PAS en 2024, qui signifie qu'il n'aura pas à retenir ce revenu dans le calcul de ses acomptes de PAS. Si Jean Dupont continuait à percevoir ces pensions et ne bénéficie pas de cette exemption, il aurait dû retenir les contributions sur ce revenu pour l'année 2024.
+
+Calcul clair avec des chiffres ronds: En cas de cessation de pensions versées en 2024, Jean Dupont ne sera pas tenu à retenir le revenu concerné (500 € par mois x 12 = 6000 €) dans le calcul de ses acomptes de PAS.
+
+Conclusion: En cas de cessation de pensions versées en 2024, Jean Dupont bénéficie d'une exemption des contributions PAS, ce qui signifie qu'il n'aura pas à retenir le revenu concerné dans le calcul de ses acomptes de PAS.

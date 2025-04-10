@@ -1,0 +1,46 @@
+id: regle_p106_565f79a8
+titre: Cette règle s'applique aux salariés qui ont reçu, entre le 1er janvier 2020
+  et le 31 décembre 2024, un véhicule fonctionnant exclusivement à l'énergie électrique
+  en tant qu'avantage en nature de leur emploi.
+source: Brochure IR 2024
+regle:
+  description: "Cette règle s'applique aux salariés qui ont reçu, entre le 1er janvier\
+    \ 2020 et le 31 décembre 2024, un véhicule fonctionnant exclusivement à l'énergie\
+    \ électrique en tant qu'avantage en nature de leur emploi.\n   Les conditions\
+    \ sont que les frais d'électricité soient payés par l'employeur et que le véhicule\
+    \ fonctionne exclusivement à l'énergie électrique.\n   Le montant ou plafond applicable\
+    \ est un abattement de 50 % dont le montant est plafonné à 1 800 € par an pour\
+    \ l'avantage en nature évalué, ainsi que 30 % du coût global annuel pour le forfait.\n\
+    \   La formule de calcul applicable est la suivante :\n   - Pour un véhicule fonctionnant\
+    \ exclusivement à l'énergie électrique, l'avantage en nature est évalué après\
+    \ application d'un abattement de 50 % dont le montant est plafonné à 1 800 € par\
+    \ an.\n   - Pour un véhicule loué à forfait, l'employeur doit évaluer cet avantage\
+    \ sur la base de 30 % du coût global annuel (location, entretien et assurance)\
+    \ car les frais d'électricité ne sont pas pris en compte dans le calcul de l'avantage\
+    \ en nature.\n   Pour être sûr d'y avoir droit, il faut vérifier que :\n   - Le\
+    \ véhicule fonctionne exclusivement à l'énergie électrique et que les frais d'électricité\
+    \ sont payés par l'employeur.\n   - Le véhicule a été reçu entre le 1er janvier\
+    \ 2020 et le 31 décembre 2024."
+  formule: Non spécifiée
+cas_pratique: "Contexte : Jeanne Dupont, professeur d'économie et technologie vertes\
+  \ au lycée Pierre-Curie. En 2021, son employeur, le ministère de l'Éducation nationale,\
+  \ lui a offert un véhicule électrique à la place de sa voiture à moteur thermique.\
+  \ Jeanne a utilisé ce véhicule exclusivement pour se rendre au travail depuis lors.\n\
+  \nDonnées : Son salaire brut est de 40 000 € par an, et elle s'est équipée d'un\
+  \ véhicule électrique dont la location annuelle était de 5 000 € (location, entretien\
+  \ et assurance). Les frais d'électricité sont payés par son employeur.\n\nCalcul\
+  \ :\n\n- Pour le véhicule électrique, l'avantage en nature est évalué après application\
+  \ d'un abattement de 50 % dont le montant est plafonné à 1 800 € par an.\n   - Avantage\
+  \ en nature évalué : 5 000 €\n   - Abattement de 50 % : (5 000 € / 2) = 2 500 €\n\
+  \   - Plafond de 1 800 € par an : Minimum à retenir pour l'abattement = 1 800 €\n\
+  \   - Montant d'abattement final : Minimum à retenir pour l'abattement = 1 800 €\
+  \ (plafond de 1 800 € atteint)\n   - Avantage en nature évalué après abattement\
+  \ : 5 000 € - 2 500 € = 2 500 €\n\n- Pour le forfait, l'employeur doit évaluer cet\
+  \ avantage sur la base de 30 % du coût global annuel.\n   - Coût global annuel :\
+  \ 5 000 € (location, entretien et assurance)\n   - Montant de l'avantage en nature\
+  \ : 30 % du coût global annuel : (5 000 € * 0,3) = 1 500 €\n\nComparaison régime\
+  \ par défaut vs option choisie : En choisissant le véhicule électrique et en bénéficiant\
+  \ de l'abattement applicable, Jeanne Dupont réduit sa charge fiscale de 2 500 €\
+  \ par an.\n\nConclusion : Pour bénéficier de cet abattement sur son avantage en\
+  \ nature, Jeanne doit vérifier qu'elle utilise exclusivement un véhicule électrique\
+  \ et que les frais d'électricité soient payés par son employeur."

@@ -1,0 +1,71 @@
+id: regle_p155_c1aea467
+titre: La règle s'applique aux dirigeants de PME qui vendent leurs actions après un
+  minimum d'un an de détention.
+source: Brochure IR 2024
+regle:
+  description: 'La règle s''applique aux dirigeants de PME qui vendent leurs actions
+    après un minimum d''un an de détention.
+
+
+    La plus-value de cession des actions est imposée à deux taux différents :
+
+    1. Au taux de 12,8% après application de l''abattement fixe de 500 000 € si les
+    titres ont été détenus pendant au moins un an.
+
+    2. Sur option, au barème progressif de l''impôt sur le revenu après application
+    de l''abattement pour durée de détention de droit commun ou renforcé prévus à
+    l''article 150-0 D du CGI (abattements applicables à la condition que les actions
+    aient été acquises antérieurement au 1er janvier 2018) ou de l''abattement fixe
+    prévu à l''article 150-0 D ter du CGI.
+
+
+    Pour être sûr d''y avoir droit, il faut vérifier que :
+
+    - Les titres ont été détenus pendant au moins un an.
+
+    - Si les actions aient été acquises antérieurement au 1er janvier 2018 pour bénéficier
+    des abattements du barème progressif de l''impôt sur le revenu.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titre : Application de la règle fiscale aux dirigeants de PME dans
+  un cas concret
+
+
+  Contexte : Marie Dupont, directrice générale d''une PME nommée "Dupont SARL", a
+  vendu 20% des actions de son entreprise qu''elle détenait depuis plus de deux ans.
+  Les titres restants sont détenus à durée indéterminée.
+
+
+  Montant concernés : Les actions ont été vendues pour un montant total de 3 500 000
+  €, et les revenus fiscaux annuels de Marie Dupont s''élèvent à 72 000 €.
+
+
+  Déclaration : La plus-value de cession des actions de Marie Dupont sera déclarée
+  dans les cas suivants :
+
+
+  * Case 1AK : montant imposable après application de l''abattement fixe de 500 000
+  € pour le taux de 12,8% sur la différence.
+
+
+  * Case 1GF : montant imposable calculé en appliquant les taux progressifs de l''impôt
+  sur le revenu en option.
+
+
+  Comparaison :
+
+  - Utilisant l''abattement fixe de 500 000 € et le taux de 12,8%, la plus-value de
+  cession des actions s''élevait à (3 500 000 - 500 000) * 0,128 = 2 764 000 €.
+
+  - En choisissant l''option du barème progressif de l''impôt sur le revenu, le montant
+  imposable serait calculé en appliquant les taux progressifs de l''impôt sur le revenu
+  à la différence après abattement. Si Marie Dupont bénéficie des abattements prévus
+  à l''article 150-0 D du CGI (qui sont applicables si les actions ont été acquises
+  antérieurement au 1er janvier 2018), elle pourrait bénéficier d''un abattement de
+  67 200 € (durée de détention de droit commun) sur la plus-value de cession des actions,
+  réduisant le montant imposable à 3 492 800 €.
+
+
+  Synthèse : Pour être sûr d''appliquer correctement la règle fiscale en cas de vente
+  de ses actions après un minimum d''un an de détention, Marie Dupont doit prendre
+  connaissance des deux régimes possibles et faire le calcul correspondant pour chaque
+  option.'

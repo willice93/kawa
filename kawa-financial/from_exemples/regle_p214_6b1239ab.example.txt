@@ -1,0 +1,13 @@
+Titre : Exemple d'application de la déduction de frais professionnels pour un travailleur indépendant
+
+Contexte : M. John Doe est un programmeur auto-entrepreneur qui déclare ses revenus imposables annuels à 60 000 €, dont une partie provient de ses frais professionnels (informatique, matériel informatique, adhésions à des communautés de programmation, abonnements aux journaux technique, etc.).
+
+Option choisie : M. John Doe a choisi la deuxième option : une déduction des frais professionnels justifiables et soutenables sur la ligne 1AK de son ensemble de revenus imposables.
+
+Montant concerné : Les frais professionnels de M. Doe s'élèvent à 7 000 € pour l'année en cours.
+
+Calcul : Deduction des frais professionnels de 7 000 €, ce qui réduit son revenu imposable de 60 000 € à 53 000 €. Il ne faut pas oublier que la déduction forfaitaire de 10 % du revenu imposable n'a pas été choisie, ce qui signifie qu'il n'y a pas de réduction supplémentaire à appliquer dans ce cas.
+
+Comparaison : La déduction des frais professionnels a été comparée à la déduction forfaitaire de 10 %. Dans notre exemple, M. Doe a choisi d'avoir une déduction de frais professionnels qui représente plus de 6 000 € (la différence entre le montant de ses frais professionnels et le montant de la déduction forfaitaire de 10 % sur un revenu imposable de 60 000 €).
+
+Conclusion : En choisissant de déclarer des frais professionnels justifiables et soutenables, M. John Doe a pu réduire sa charge d'imposition pour l'année en cours. Il est important de vérifier que les frais déclarés sont soutenables et justifiables pour bénéficier de cette déduction.

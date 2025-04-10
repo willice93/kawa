@@ -1,0 +1,7 @@
+Règle appliquée pour la déduction d'impôt sur l'emprunt versé à un salarié ou dirigeant pour acquérir des parts de sa société nouvelle :
+
+- À qui s’applique la règle : Salariés ou dirigeants ayant contracté un emprunt pour acquérir des parts de leur société nouvelle.
+- Dans quelles conditions : L'emprunt doit avoir été contracté entre le 1er janvier 1984 et le 31 décembre 2016, et la souscription effectuée l'année de la création de la société ou au cours des deux années suivantes.
+- Quels sont les montants ou plafonds : La déduction ne peut excéder 50 % du montant brut du salaire versé à l'emprunteur par la société nouvelle, ni la somme de 15 250 €.
+- Quelle est la formule de calcul applicable : La déduction est calculée en multipliant le montant brut du salaire versé par 50 % (ou 15 250 €, si ce montant est atteint avant).
+- Et ce qu’il faut vérifier pour être sûr d’y avoir droit : Il faut vérifier que le cadre législatif (CGI, art. 83-2°) est respecté et que la déduction ne se cumule pas avec la réduction d'impôt pour souscription au capital des PME ni avec la déduction, dans le cadre de l'option pour le régime des frais réels, des intérêts d'emprunt versés pour acquérir des parts ou actions d’une société dans laquelle le salarié ou le dirigeant exerce son activité professionnelle principale.

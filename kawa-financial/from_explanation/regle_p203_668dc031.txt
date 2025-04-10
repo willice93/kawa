@@ -1,0 +1,6 @@
+Règle applicabile aux médecins installés relevant du secteur 1 de la convention médicale :
+
+- Conditions d'applicabilité : Les médecins peuvent bénéficier d'une déduction complémentaire de 3% sur leurs recettes annuelles, s'ils sont inscrits à la rubrique CQ pour l'année considérée et appliquent le forfait ou les frais réels pour les dépenses mentionnées (representation, reception, prospection, cadeaux professionnels, petits déplacements, recherche et blanchissage).
+- Montant : Le montant est de 3% des recettes annuelles du praticien. En cas d'adhésion première, les médecins peuvent bénéficier d'une déduction complémentaire de 3%. Le forfait s'élève à 2 % des recettes annuelles.
+- Formule de calcul : La déduction complémentaire de 3% est calculée en prenant le montant des recettes annuelles du praticien multiplié par 0,03 (3/100). Le forfait s'applique en multipliant les recettes annuelles par 0,02 (2/100).
+- Vérification : Pour être sûr de bénéficier de cette déduction complémentaire, il est nécessaire de vérifier que vous bénéficiez déjà de la déduction complémentaire en rubrique CQ pour l'année considérée et que vous appliquez le forfait ou les frais réels pour les dépenses mentionnées. Il faut également vérifier que cette déduction complémentaire est exonérée fiscalement mais reste soumise à cotisations sociales.

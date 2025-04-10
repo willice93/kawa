@@ -1,0 +1,7 @@
+Règle applicable pour les revenus non-salariés perçus hors de France :
+
+- À qui s'applique la règle : Les personnes déclarant des revenus de source étrangère dans les cases "revenus de source étrangère avec crédit d'impôt égal à l'impôt français" sur leur déclaration fiscale pour BIC, BNC et BA.
+- Dans quelles conditions : Les revenus concernent uniquement les cas où la rubrique "Vos revenus sont soumis à cotisations sociales au titre du régime général des travailleurs indépendants" a été cochée.
+- Montants ou plafonds : Pas de plafond spécifié dans le texte, mais seulement les revenus non salariés perçus hors de France qui sont éligibles à cotisations au régime des travailleurs indépendants.
+- Formule de calcul applicable : Les revenus perçus hors de France seront pris en compte par l'Urssaf dans la base de calcul de vos cotisations et contributions sociales.
+- Vérifier pour être sûr d'y avoir droit : Les revenus non salariés doivent être perçus hors de France, dans un État de l'Union Européenne*, de l'Espace Économique Européen**, en Suisse, ou dans un Etat avec lequel la France a signé une convention de sécurité sociale ***.

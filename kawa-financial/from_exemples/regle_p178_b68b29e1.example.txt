@@ -1,0 +1,11 @@
+Nom: Jean Dupont
+   Profession: Artiste créateur de peintures
+   Année de début des activités: 2019
+   Montant du bénéfice imposable calculé pour l'année 2019 (première année d'activité): 40 000 €
+   Montants des bénéfices imposables calculés pour les années suivantes: 35 000 €, 30 000 €, 25 000 € et 20 000 € (années 2020 à 2023)
+   Catégorie de revenus: Bénéfices non commerciaux selon le régime de la déclaration contrôlée
+   Régime par défaut vs option choisie: Le régime par défaut serait celui des bénéfices commerciaux, mais l'artiste a choisi le régime de la déclaration contrôlée.
+   Abattement potentiel: 50 % du montant du bénéfice imposable de chaque année concernée, plafonné à 50 000 € par an
+   Déclaration: 1GF pour les années 2019 à 2023
+   Comparaison: Si Jean Dupont avait choisi le régime par défaut pour les cinq années suivantes, il n'aurait pas bénéficié de l'abattement de 50 % (maximum 50 000 €/an), ce qui aurait entraîné un montant supérieur à payer en impôts. Avec le régime choisi, il bénéficie d'un abattement global de 125 000 € (50 % x 4 + 50 % x 50 000 € plafonné) sur ses revenus imposables pendant cette période.
+   Synthèse: L'artiste Jean Dupont, qui a commencé à travailler en 2019 et est classé comme bénéfice non commercial sous le régime de la déclaration contrôlée, peut bénéficier d'un abattement de 50 % sur son bénéfice imposable pour chaque année concernée, jusqu'à un plafond de 50 000 € par an. Pour l'année 2019, il a déclaré 40 000 €, ce qui lui vaut un abattement de 20 000 € (50 % du montant de son bénéfice imposable). Avec cet abattement, il paie 20 000 € d'impôts sur sa première année d'activité en tant qu'artiste.

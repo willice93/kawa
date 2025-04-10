@@ -1,0 +1,51 @@
+id: regle_p110_a66c05d5
+titre: La règle applique à toutes les personnes qui déclarent leur revenu sous la
+  catégorie des traitements et salaires.
+source: Brochure IR 2024
+regle:
+  description: "La règle applique à toutes les personnes qui déclarent leur revenu\
+    \ sous la catégorie des traitements et salaires.\n\n   Les conditions pour l'application\
+    \ de cette règle sont que tous les activités imposées selon les modalités des\
+    \ traitements et salaires doivent utiliser la même méthode de déduction entre\
+    \ la déduction forfaitaire (10%) ou la déduction des frais réels.\n\n   Le montant\
+    \ à considérer pour cette règle est le total des revenus déclarés dans la catégorie\
+    \ des traitements et salaires.\n\n   La formule de calcul applicable est :\n \
+    \  - Pour la déduction forfaitaire : 10% du montant total des revenus déclarés\
+    \ dans la catégorie des traitements et salaires.\n   - Pour la déduction des frais\
+    \ réels : le montant réel de frais inscrits, qui doivent être justifiés et inférieur\
+    \ au total des revenus déclarés dans la catégorie des traitements et salaires.\n\
+    \n   Il est important de vérifier que tous les documents relatifs aux frais réels\
+    \ sont justifiés et que leur montant total ne dépasse pas le total des revenus\
+    \ déclarés dans la catégorie des traitements et salaires pour être sûr d'y avoir\
+    \ droit."
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Contexte : John Doe, 35 ans, travailleur indépendant en développement
+  logiciel avec un revenu annuel de 60 000€ déclaré sous la catégorie des traitements
+  et salaires.
+
+
+  Règle à appliquer : Déduction forfaitaire ou déduction des frais réels sur les revenus
+  déclarés dans la catégorie des traitements et salaires.
+
+
+  Déduction forfaitaire (10% du montant total des revenus déclarés dans la catégorie
+  des traitements et salaires) : 60 000€ x 10% = 6 000€
+
+
+  Déduction des frais réels : Le montant total de ses frais réels justifiés ne doit
+  pas dépasser le total de ses revenus déclarés dans la catégorie des traitements
+  et salaires. Par exemple, s''il justifie 5 000€ en frais de déplacement pour des
+  rendez-vous professionnels, il peut les deduire de son impôt.
+
+
+  Comparaison : Si John Doe choisit la déduction forfaitaire, il bénéficiera d''une
+  réduction d''impôt de 6 000€. S''il choisit la déduction des frais réels et ne dépasse
+  pas le total de ses revenus déclarés dans cette catégorie, il pourra y bénéficier
+  de plus grandes économies d''impôts en fonction du montant de ses justificatifs.
+
+
+  En synthèse : John Doe doit choisir entre la déduction forfaitaire (6 000€) ou la
+  déduction des frais réels (montant variable en fonction de son utilisation). Il
+  doit veiller à ce que tous les documents relatifs aux frais réels soient justifiés
+  et qu''il n''excède pas le total de ses revenus déclarés dans la catégorie des traitements
+  et salaires.'

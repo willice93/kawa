@@ -1,0 +1,13 @@
+Nom : Jean Dupont, ingénieur en énergie renouvelable
+
+Contexte : En 2021, M. Dupont a reçu une rémunération de 50 000 euros provenant de la vente de certains titres financiers, dont il avait investi à l'origine avec des gains substantiels. La majorité de ses revenus provenait cependant de son emploi permanent en tant qu'ingénieur, qui est soumis aux prélèvements sociaux ordinaires.
+
+Montants concernés : Le montant déclaré sur ligne 2BH de la déclaration des revenus de M. Dupont est de 30 000 euros. Le taux de retenue pour la CSG fixé à 6,8%.
+
+Calcul clair avec des chiffres ronds : Le montant à retenir pour CSG déductible sera 6,8% du montant déclaré sur ligne 2BH, soit 30 000 euros × 6,8%, ce qui donne 1940 euros.
+
+Déclaration : M. Dupont a coché la case 2OP dans sa déclaration des revenus et a indiqué clairement sur le formulaire qu'il a opté pour l'imposition au barème de l'ensemble de ses revenus de capitaux mobiliers et gains de cession de valeurs mobilières. Les montants indiqués sur ligne 2BH ne sont pas inclus dans la base de calcul des prélèvements sociaux.
+
+Comparaison régime par défaut vs option choisie : En cas d'optant pour le régime par défaut, M. Dupont aurait été soumis à une retenue sur les 30 000 euros déclarés sur ligne 2BH en raison de la nature de ces revenus. Cependant, il a choisi l'option de calcul des prélèvements sociaux sur son ensemble des revenus de capitaux mobiliers et gains de cession de valeurs mobilières, ce qui lui permet de bénéficier d'un taux réduit de retenue pour la CSG.
+
+Conclusion : En optant pour l'imposition au barème de l'ensemble de ses revenus de capitaux mobiliers et gains de cession de valeurs mobilières, M. Dupont a pu réduire sa retenue de CSG sur les 30 000 euros déclarés à 1940 euros, ce qui représente une économie de près de 750 euros par rapport au régime par défaut.

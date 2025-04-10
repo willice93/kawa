@@ -1,0 +1,7 @@
+Règle applicable aux marins-pêcheurs :
+
+- À qui s'applique la règle : Les marins-pêcheurs concernés.
+- Dans quelles conditions : Il doit déclarer le montant de son salaire imposable lignes 1AJ à 1DJ, page 3 de la formulaire 2042 et le montant de l'abattement exonéré lignes 1AC à 1DC, page 1 de la formulaire 2042 C. Il doit également cocher les cases 1GE à 1JE afin que la fraction exonérée soit prise en compte pour le calcul du taux de PAS qui sera appliqué par l'employeur à l'ensemble de sa rémunération.
+- Quels sont les montants ou plafonds : Le montant de son salaire imposable et l'abattement exonéré (déterminés en fonction de la situation spécifique du marin-pêcheur).
+- Quelle est la formule de calcul applicable : Non fournie. La formule de calcul varie en fonction des situations spécifiques du marin-pêcheur.
+- Et ce qu'il faut vérifier pour être sûr d'y avoir droit : Vérifier que tous les montants et cas cochés correspondent à la situation spécifique du marin-pêcheur.

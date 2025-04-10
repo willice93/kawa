@@ -1,0 +1,3 @@
+# Source: page 331
+
+Le montant de l’impôt est calculé après application éventuelle d’une décote pour les redevables dont le patrimoine immobilier net taxable est supérieur ou égal à 1,3 et inférieur à 1,4 million d’euros. Le montant de la décote applicable est égal à : 17 500 – (1,25 % x montant du patrimoine net taxable).

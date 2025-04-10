@@ -1,0 +1,22 @@
+Titre : Déclaration de revenus pour l'année 20XX du pêcheur professionnel Marion Dupont
+
+Contexte : Madame Marion Dupont est une pêcheuse professionnelle basée à Saint-Malo, qui a travaillé exclusivement en tant que marin-pêcheur pendant l'année 20XX. Elle a reçu un salaire de 35 000€ et des retombées de pêche totalisant 18 000€ (en fonction de la catégorie de poisson).
+
+Formulaire utilisé : Formulaire 2042 pour les revenus professionnels et Formulaire 2042 C pour les abattements spécifiques.
+
+Déclaration détaillée :
+
+1. Page 1 du formulaire 2042 :
+   - Ligne 1AJ : 35 000€ (salaire imposable)
+   - Cas coché : 1GE à 1JE
+
+2. Page 3 du formulaire 2042 :
+   - Lignes 1AC à 1DC : 18 000€ (abattement exonéré pour les poissons pêchés)
+
+Formulaire utilisé supplémentairement : Formulaire 2042 C.
+
+Comparaison des régimes par défaut et choisis : En choisissant la catégorie de pêcheuse professionnelle, Marion Dupont peut bénéficier d'un abattement spécifique sur les revenus liés à sa profession de pêcheur. Cela réduit son taux de PAS payé par son employeur pour l'ensemble de sa rémunération.
+
+Calcul : En choisissant la catégorie spécifique de pêcheuse, Marion Dupont peut donc diminuer son taux de PAS et payer moins d'impôts. Par exemple, si le taux de PAS par défaut était de 35%, elle réduira ce montant grâce à l'abattement exonéré.
+
+Synthèse : Le déclarant doit veiller à remplir correctement les formulaires 2042 et 2042 C pour bénéficier des abattements spécifiques en tant que pêcheur professionnel, ce qui réduira son taux de PAS payé par son employeur.

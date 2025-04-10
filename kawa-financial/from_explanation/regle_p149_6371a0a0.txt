@@ -1,0 +1,9 @@
+Règle applicabilité : Les plus-values placées en report d'imposition à compter de l'année 2018
+
+ Conditions requises : Le contribuable doit avoir opté pour l'imposition au barème progressif sur l'ensemble de ses revenus et gains mobiliers de l'année de réalisation de la plus-value.
+
+ Plafond : Pas de plafond spécifié dans le texte fourni.
+
+ Formule de calcul : Le taux "historique" est calculé selon les modalités précitées uniquement si le contribuable a choisi l'imposition au barème progressif pour son ensemble des revenus et gains mobiliers. Si non opté, le taux historique est de 12,8%.
+
+ Vérification : Il faut vérifier que le contribuable a bien opté pour l'imposition au barème progressif sur l'ensemble de ses revenus et gains mobiliers de l'année de réalisation de la plus-value.

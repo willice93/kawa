@@ -1,0 +1,6 @@
+Règle d'imposition applicabile aux sorties en capital des plans d'épargne retraite (PER) :
+- À qui s'applique la règle : Les personnes ayant effectué un retrait en capitale d'un PER.
+- Dans quelles conditions : Lorsque le montant du retrait correspond aux intérêts produits par les versements réalisés pendant la durée du plan (dont ceux volontaires ou obligatoires).
+- Quels sont les montants ou plafonds : Le montant à indiquer en ligne 2TZ de la déclaration d'impôt sur le revenu est le montant imposé qui sera soumis au prélèvement forfaitaire unique.
+- Quelle est la formule de calcul applicable : Le montant est soumis à un taux de 12,8 % (12,8%) plus les prélèvements sociaux de 17,2 %. En option globale, le montant peut être imposé au barème de l'impôt sur le revenu.
+- Et ce qu’il faut vérifier pour être sûr d'y avoir droit : Vérifier que le retrait est en capital et correspond aux intérêts produits par les versements réalisés pendant la durée du plan (dont ceux volontaires ou obligatoires).

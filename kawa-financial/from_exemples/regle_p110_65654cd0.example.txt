@@ -1,0 +1,14 @@
+Titre : Déduction pour les traitements et salaires - Exemple d'application
+
+Nom et Prénoms : Jean Dupont
+Profession : Ingénieur en Informatique
+
+Situation : Au cours de l'exercice fiscale 2021, vous avez déclaré des sommes dans la catégorie des traitements et salaires à hauteur de 35 000 €. Le montant total a été déposé sur votre compte bancaire en plusieurs fois, avec une vire régulière de 2 500 € pour un total mensuel de 3 000 €.
+
+Calcul : Vous pouvez bénéficier d'une déduction de 10 % sur le montant total déclaré dans la catégorie des traitements et salaires, soit 3 500 €. Ainsi, cette déduction aura un coût fiscal de 350 € pour vous, puisque cette déduction est calculée automatiquement à un taux de 10 %.
+
+Déclaration : Vous devrez vérifier que ce montant (350 €) est correctement indiqué dans la case 1AK (Décote des bénéfices non imposés) de votre déclaration de revenus.
+
+Comparaison : Sans cette déduction, vous auriez dû payer 3 850 € de plus en impôts sur les revenus pour l'exercice fiscal 2021. Avec cette déduction, votre montant total à payer sera réduit de 3 500 €, ce qui vous permettra d'économiser 385 € sur vos impôts de 2021.
+
+Conclusion : La déduction pour les traitements et salaires peut être un moyen efficace d'optimiser votre impôt sur les revenus, mais il est important de vérifier que vous avez bien déclaré des sommes dans la catégorie des traitements et salaires pour bénéficier de cette déduction.

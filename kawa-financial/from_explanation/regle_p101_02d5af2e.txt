@@ -1,0 +1,20 @@
+Règle applicabile aux Marins Pêcheurs fiscalement domiciliés en France qui exercent leur activité hors des eaux territoriales françaises :
+
+Conditions requises :
+- Exercice de l'activité sur un navire de pêche classé en 1re, 2e ou 3e catégorie de navigation.
+
+Montant ou plafond :
+- Pour les marins salariés et artisans pêcheurs imposables dans la catégorie des salaires :
+   - Un abattement est appliqué sur le salaire perçu (pour les marins salariés) et la part de rémunération (pour les artisans pêcheurs) qui excèdent une rémunération de référence de 20 193 € en 2023.
+   - La fraction de la rémunération exonérée est égale à :
+      - 40 % pour les navires pratiquant la petite pêche ou la pêche côtière.
+      - 60 % pour les marins embarqués sur les navires de pêche au large et de grande pêche.
+
+Formule de calcul applicable :
+- Pour les marins salariés : Abattement = (Salaire excédant la rémunération de référence) x 0,40 (pour petite pêche ou pêche côtière) ou 0,60 (pour pêche au large et grande pêche).
+- Pour les artisans pêcheurs : Abattement = (Part de rémunération imposable dans la catégorie des salaires excédant la rémunération de référence) x 0,40 (pour petite pêche ou pêche côtière) ou 0,60 (pour pêche au large et grande pêche).
+
+Vérification requise pour être sûr d'y avoir droit :
+- Exercice de l'activité sur un navire de pêche classé en 1re, 2e ou 3e catégorie de navigation.
+- Fiscal domiciliation en France.
+- Activité exercée hors des eaux territoriales françaises.

@@ -1,0 +1,33 @@
+Titre : Calcul des montants spécifiques pour les régimes sociaux en France - Exemple d'application pour une personne physique individuelle
+
+Nom : Jean Dupont
+Profession : Gérant de société sous le régime général
+Revenus annuels bruts : 80 000 €
+Revenu de référence pour calcul des cotisations sociales : 126 450 € (en 2023)
+Famille associée : Epouse, Marie Dupont, sans activité professionnelle et deux enfants mineurs
+
+Calcul des frais réels MSA associés gérants (MSJS/MSJT)
+- Travail pour une société sous le régime général ou un régime micro.
+- Les frais réels sont calculés sur les revenus du travail effectué dans la société.
+
+Dans ce contexte, les frais réels MSA associés gérants sont de 80 000 €, car c'est le montant des revenus que Jean Dupont a gagné dans sa société en 2023. Il n'y a pas de plafond spécifié pour les frais réels MSA associés gérants, mais il est important de vérifier que les revenus déclarés correspondent aux vraies sommes gagnées et à l'activité effectuée dans la société.
+
+Calcul des frais réels agents généraux d'assurances (MSJW/MSJX)
+- Travail pour une société sous le régime général ou un régime micro en tant qu'agent général d'assurance.
+- Les frais réels sont calculés sur les revenus du travail effectué dans la société.
+
+Jean Dupont n'exerce pas de fonction d'agent général d'assurance, donc ce calcul est inutile pour lui.
+
+Calcul des PVCT exonérées art 151 septies A du CGI (MSFU/MSFV)
+- Travail pour une société sous le régime général ou un régime micro et bénéficie de l'exonération d'art 151 septies A du CGI.
+- Les montants exonérés sont déterminés en fonction des conditions de la loi.
+
+Il n'est pas donné de détails sur les conditions spécifiques requises pour bénéficier de l'exonération d'art 151 septies A du CGI, mais il est important de vérifier que ces conditions sont remplies afin de calculer correctement les montants exonérés MSFU/MSFV.
+
+Calcul des sommes exonérées de cotisations sociales soumises à la CSG-CRDS (MSFW /MSFX)
+- Travaille pour une société sous le régime général ou un régime micro et bénéficie d'une somme exonérée des cotisations sociales.
+- Les montants exonérés sont déterminés en fonction des conditions de la loi.
+
+Il n'est pas donné de détails sur les conditions spécifiques requises pour bénéficier d'une somme exonérée des cotisations sociales soumises à la CSG-CRDS, mais il est important de vérifier que ces conditions sont remplies afin de calculer correctement les montants exonérés MSFW /MSFX.
+
+Ces exemples montrent comment appliquer la règle d'application pour calculer les différents montants spécifiques pour les régimes sociaux en France, en fonction du contexte personnel et professionnel de la personne physique concernée. Il est important de vérifier que toutes les conditions requises sont remplies pour obtenir un résultat correct.

@@ -1,0 +1,18 @@
+Règle de Calcul pour le Prélèvement Forfaitaire:
+
+Cette règle s'applique aux personnes ayant des revenus distribués et dont le prélèvement forfaitaire est calculé sans application de l'abattement de 40%.
+
+Conditions d'application:
+- Les revenus sont distribués (par exemple, les dividendes ou les intérêts)
+- Il n'y a pas d'abattement de 40% appliqué
+
+Montants ou plafonds:
+- Montant des revenus distribués
+- Montant du prélèvement forfaitaire sans abattement
+
+Formule de calcul applicable:
+Le montant du prélèvement forfaitaire sans abattement est obtenu en multipliant le montant total des revenus distribués par un taux (taux spécifique défini par les autorités fiscales dans le pays concerné).
+
+Pour être sûr d'y avoir droit, il faut vérifier:
+- Que les revenus sont en effet distribués et non imposables à un autre taux
+- Que l'abattement de 40% n'a pas été appliqué

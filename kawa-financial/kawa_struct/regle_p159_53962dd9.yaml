@@ -1,0 +1,46 @@
+id: regle_p159_53962dd9
+titre: 'Règle applicable aux personnes imposées selon le régime micro-foncier :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle applicable aux personnes imposées selon le régime micro-foncier
+    :
+
+
+    - Condition : Si les revenus que vous percevez sont soumis à la TVA
+
+    - Montant ou plafond : Le montant hors TVA doit être déclaré pour apprécier le
+    seuil de 15 000 €.
+
+    - Formule de calcul applicable : Le revenu net déterminé selon ce régime peut
+    être réduit des déficits fonciers d''années antérieures non encore imputés au
+    1er janvier de la première année d''application du régime micro.
+
+    - Vérification requise pour être sûr d''y avoir droit : Vérifier que les revenus
+    que vous percevez sont soumis à la TVA et que vous êtes imposé selon le régime
+    micro-foncier.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: "Nom : Jeanne Dupont\n   Profession : Entrepreneur indépendant en vente\
+  \ de produits électroniques\n\nContexte : Jeanne Dupont est une entrepreneur indépendante\
+  \ qui vend des produits électroniques sur Internet. Elle a perçu un revenu brut\
+  \ hors taxes de 20 000 € dans l'année calendaire en vigueur, et elle a également\
+  \ été soumise à la TVA pour cette activité.\n\nSituation : Jeanne Dupont a choisi\
+  \ le régime micro-foncier pour sa fiscalité. Elle a perdu des fonds en investissant\
+  \ dans un immeuble qui n'est plus loué, ce qui constitue un déficit foncier. Elle\
+  \ souhaite connaître s'il peut réduire son impôt de cette année en raison de ce\
+  \ déficit foncier non imputé à l'origine dans le régime micro-foncier.\n\n   Montants\
+  \ concernés :\n   - Revenu brut hors taxes : 20 000 €\n   - Seuil du régime micro-foncier\
+  \ : 15 000 € hors TVA\n   - Découvert : 5 000 € (déficit foncier non imputé à l'origine\
+  \ dans le régime micro-foncier)\n\nDéclaration dans les bonnes cases : Pour déclarer\
+  \ cette situation, Jeanne Dupont devra remplir la section 1AK de son formulaire\
+  \ de revenus. Elle devra indiquer son revenu brut hors taxes de 20 000 € et le déficit\
+  \ foncier non imputé de 5 000 € dans les cas appropriés de cette section.\n\nComparaison\
+  \ : Le régime par défaut applique une taxe sur le revenu brut à partir du seuil\
+  \ fixé à 9 816 € en 2023, tandis que l'option choisie (régime micro-foncier) permet\
+  \ de réduire son impôt grâce aux déficits fonciers non imputés.\n\nCalcul clair\
+  \ avec des chiffres ronds : En appliquant le régime micro-foncier, Jeanne Dupont\
+  \ peut réduire son impôt de 15 % (taux applicable pour ce régime) sur la partie\
+  \ de son revenu qui dépasse le seuil de 15 000 € hors TVA.\n   - 20 000 € - 15 000\
+  \ € = 5 000 €\n   - Taxe de réduction : 5 000 € * 15 % = 750 €\n\nConclusion synthétique\
+  \ : En choisissant le régime micro-foncier, Jeanne Dupont a pu réduire son impôt\
+  \ en 2023 pour cette année de 750 €. Elle devra remplir la section 1AK de son formulaire\
+  \ de revenus pour indiquer sa situation et son choix de régime fiscal."

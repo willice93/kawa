@@ -1,0 +1,25 @@
+Context: John Doe, a retired engineer living in France, receives an annual dividend of €12,000 from his stock portfolio and interest income of €3,600 on his savings account.
+
+Given Rule: Calculation for Forfeit Deduction without the 40% Abatement
+
+John is applying this rule as he has dividend and interest income that do not qualify for the 40% abatement.
+
+Amounts or limits involved:
+- Total Dividend Income: €12,000
+- Total Interest Income: €3,600
+- Forfeit Deduction without Abatement: To be calculated (let's say 15% for this example)
+
+Formula to apply: The Forfeit Deduction without Abatement is obtained by multiplying the total amount of dividend and interest income by a specific tax rate defined by the French fiscal authorities.
+
+In this case, the applicable tax rate for John is 15% (please verify if this rate applies to his situation). To calculate the Forfeit Deduction without Abatement:
+- For the dividend income, multiply €12,000 by 15%, resulting in a Forfeit Deduction of €1,800 (€12,000 * 0.15 = €1,800)
+- For the interest income, multiply €3,600 by 15%, resulting in a Forfeit Deduction of €540 (€3,600 * 0.15 = €540)
+
+Declaration:
+- For the dividend income, fill in box 1AK with €12,000 and box 1GF with €1,800
+- For the interest income, fill in box 1BF with €3,600 and box 1DG with €540
+
+Comparison:
+In comparison to the standard tax regime (where a 40% abatement would be applied), John would pay less tax on his dividend and interest income by opting for this specific rule. The total Forfeit Deduction without Abatement in the standard tax regime would be €2,880 (€12,000 * 0.24 = €2,880), which is €1,080 more than the amount calculated here.
+
+Summary: By choosing to apply the rule for Forfeit Deduction without Abatement, John Doe will pay €1,080 less in taxes on his dividend and interest income compared to the standard tax regime where a 40% abatement would be applied.

@@ -1,0 +1,9 @@
+Nom: Paul Dupont, 45 ans, propriétaire d'un restaurant en région parisienne.
+
+Situation: En 2021, il a vendu son appartement de vacances acquis en 2016 pour un montant net de 800 000 € (après les frais de notaires et d'agence). Il estime la valeur du bien à avoir augmenté de 300 000 € depuis son acquisition.
+
+Calcul: Il a bénéficié d'un abattement fixe de 500 000 € sur les plus-values. Le montant soumis à l'impôt sur le revenu, après abattement (800 000 - 500 000 =) 300 000 €. Le montant soumis à la CSG avant abattement était de 800 000 €. La CSG déductible est donc calculée comme suit : (Montant de la plus-value soumise à l'impôt sur le revenu après abattement) / (Montant de la plus-value soumise à la CSG avant abattement) = 300 000 € / 800 000 € = 0,375.
+
+Comparaison: En régime par défaut, la CSG déductible serait de 14 % sur le montant net des plus-values (60 000 €). Avec l'abattement appliqué, cela représente une économie importante pour Paul Dupont qui n'aura finalement à verser que 45 750 € de CSG.
+
+Conclusion: La déclaration doit être effectuée dans les cases 1AK (plus-value soumise à l'impôt sur le revenu après abattement) et 1GF (abattement appliqué) lors de la déclaration des impôts de l'année suivante.

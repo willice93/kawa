@@ -1,0 +1,16 @@
+Nom : Jeanne Leclerc, professeur d'anglais à l'école secondaire publique de Montmartre
+   Situation : Son fils, Thomas, a subi un grave accident et doit se faire soigner pendant plusieurs mois. Jeanne prend donc un congé du proche aidant pour le soutenir dans son quotidien.
+
+   Revenu avant congé : 3 000€/mois (avant impôts)
+   Revenu pendant le congé : Allocation journalière du proche aidant de 975€ par mois (AJPA)
+   Bénéfices remplacés par l'AJPA : Aide au logement (BA) de 200€, allocation familiale (AF) de 150€, allocation de solidarité à la famille (BIC) de 100€ et aide aux personnes handicapées (APH) de 300€
+   Base de calcul de CSG-CRDS : 2 750€/mois (3 000€ - 200€ BA - 150€ AF - 100€ BIC - 300€ APH)
+
+   Déclaration : La base de calcul de CSG-CRDS est enregistrée dans la rubrique DSAG (4AK)
+
+   Comparaison régime par défaut vs régime choisi :
+   Sans l'option de réduction de la CSG-CRDS pour l'AJPA, Jeanne payerait 13.6€ de CSG-CRDS sur chaque montant avant impôts (3.8% de son revenu total). Avec l'option choisie, elle n'en paiera plus que 4€ (0.5% du montant AJPA déductible, qui remplace la BA, AF et BIC).
+
+   Calcul clair avec des chiffres ronds : En utilisant l'option de réduction de la CSG-CRDS pour l'AJPA, Jeanne ne paiera plus que 4€ de CSG-CRDS par mois au lieu de 13.6€ sans cette option. Cela représente un économie d'environ 100€/mois pour elle.
+
+   Synthèse : En choisissant l'option de réduction de la CSG-CRDS pour son allocation journalière du proche aidant, Jeanne bénéficie d'une économie d'environ 100€ par mois.

@@ -1,0 +1,60 @@
+id: regle_p178_45f9f7d2
+titre: 'Règle d''abattement représentatif de frais appliquée aux entrepreneurs indépendants
+  :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle d''abattement représentatif de frais appliquée aux entrepreneurs
+    indépendants :
+
+
+    - À qui s’applique la règle : Entrepreneurs indépendants
+
+    - Dans quelles conditions : Lorsque le montant total des recettes réalisées est
+    supérieur ou égal à 77 700 €. Si les recettes excédent cet montant, la fraction
+    des recettes excédant ce plafond sera également concernée par l''abattement de
+    frais.
+
+    - Quels sont les montants ou plafonds : Montant total des recettes réalisées et
+    77 700 € (plafond au-dessus duquel l''abattement s''applique à la fraction des
+    recettes excédant ce montant).
+
+    - Formule de calcul applicable : L’abattement est de 34 % sur le montant total
+    des recettes réalisées et, si nécessaire, sur la fraction des recettes excédant
+    77 700 €.
+
+    - Ce qu''il faut vérifier pour être sûr d''y avoir droit : Vérifier que les conditions
+    ci-dessus sont remplies (être un entrepreneur indépendant et avoir le montant
+    total des recettes réalisées supérieur ou égal à 77 700 €) et respecter les règles
+    de déclaration fiscale.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Nom: Jean-Pierre Dupont, entrepreneur indépendant en conseil en ingénierie
+  électrique
+
+
+  Situation: En tant qu''entrepreneur indépendant, M. Dupont a réalisé 90 000 € de
+  recettes en 2021. Il a également investi dans des frais nécessaires à l''exercice
+  de son activité professionnelle comme locaux commerciaux et matériel d''entreprise,
+  dépassant 30 000 €.
+
+
+  Calcul: En application de la règle d''abattement représentatif des frais pour les
+  entrepreneurs indépendants, le montant total des recettes réalisées de M. Dupont
+  (90 000 €) sera abaissé à 77 700 € en appliquant l''abattement de 34 % sur le montant
+  supérieur ou égal à 77 700 € (22 300 €). Le reste des recettes, c''est-à-dire les
+  18 300 € ne sera pas concerné par cette règle.
+
+
+  Comparaison: En régime par défaut, M. Dupont serait taxé sur les 90 000 € de revenus.
+  Avec l''application de la règle d''abattement des frais, il sera finalement taxé
+  uniquement sur les 77 700 €.
+
+
+  Declaration: Dans son formulaire de déclaration fiscale (1GF), M. Dupont devra indiquer
+  les montants suivants : total des recettes réalisées (90 000 €) et frais abattables
+  (30 000 €). Il devra ensuite remplir le cas 1AK (abattement des frais pour les entrepreneurs
+  indépendants).
+
+
+  Conclusion: Grâce à l''application de la règle d''abattement représentatif des frais,
+  M. Dupont sera en mesure de réduire sa facture fiscale pour 2021 en déclarant ses
+  frais nécessaires à l''exercice de son activité professionnelle.'

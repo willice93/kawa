@@ -1,0 +1,6 @@
+Règle applicable aux personnes imposées selon le régime micro-foncier :
+
+- Condition : Si les revenus que vous percevez sont soumis à la TVA
+- Montant ou plafond : Le montant hors TVA doit être déclaré pour apprécier le seuil de 15 000 €.
+- Formule de calcul applicable : Le revenu net déterminé selon ce régime peut être réduit des déficits fonciers d'années antérieures non encore imputés au 1er janvier de la première année d'application du régime micro.
+- Vérification requise pour être sûr d'y avoir droit : Vérifier que les revenus que vous percevez sont soumis à la TVA et que vous êtes imposé selon le régime micro-foncier.

@@ -1,0 +1,93 @@
+id: regle_p138_77e6d681
+titre: 'Règle d''exonération de revenus sur certaines catégories de produits de capitalisation
+  et assurance-vie :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle d''exonération de revenus sur certaines catégories de produits
+    de capitalisation et assurance-vie :
+
+
+    Cette règle s''applique à toute personne physique dont le revenu fiscal de référence
+    (de la 2042 C) est supérieur à 37 516 € en 2022.
+
+
+    Les conditions requises sont que les produits concernés soient :
+
+    - des placements à revenus fixes (lignes 2TR ou 2TT)
+
+    - des bons et contrats de capitalisation et d''assurance-vie dont le versement
+    a été effectué avant le 27 septembre 2017 imposés au barème, y compris sans option
+    globale (lignes 2CH ou 2YY)
+
+    - des bons et contrats de capitalisation et d''assurance-vie dont le versement
+    a été effectué à compter du 27 septembre 2017 (lignes 2VV, 2WW ou 2ZZ)
+
+    - des gains de cession des bons et contrats de capitalisation et d''assurance-vie
+    afférents à des versements effectués avant le 27 septembre 2017 imposés au barème
+    (lignes 2VN) ou à compter du 27 septembre 2017 (lignes 2VO ou 2VP).
+
+
+    La formule de calcul applicable est de reporter le montant des revenus bénéficiant
+    de l''exonération dans la ligne 2DM de la 2042 C. Ce montant est retenu pour le
+    calcul du revenu fiscal de référence et des prélèvements sociaux.
+
+
+    Pour être sûr d''y avoir droit, il faut vérifier que les produits concernés correspondent
+    aux catégories mentionnées et que les versements ont été effectués dans les conditions
+    requises.'
+  formule: Non spécifiée
+cas_pratique: 'Nom : Jean DOE, 45 ans, architecte indépendant avec un revenu annuel
+  de 60 000 € en 2022 (référence 2042 C).
+
+
+  Contexte : En 2017, il a investi dans des contrats de capitalisation et d''assurance-vie,
+  en plus de ses placements à revenus fixes, pour diversifier son portefeuille.
+
+
+  Exemple pratique :
+
+
+  | Ligne | Description                     | Montant                | Remarques       |
+
+  |-------|---------------------------------|-----------------------|---------------|
+
+  | 2TR   | Placements à revenus fixes        | 10 000 € (annuel)      |              |
+
+  | 2TT   | Placements à revenus fixes        | 5 000 € (annuel)       |              |
+
+  | 2CH   | Bons et contrats de capitalisation| 10 000 € (versé en 2017)| Barème imposé|
+
+  | 2YY   | Bons et contrats de capitalisation| 5 000 € (versé en 2017)| Barème imposé|
+
+  | 2VV   | Bons et contrats de capitalisation| 3 000 € (versé après 27/09/2017)|
+  Non barémé|
+
+  | 2WW   | Bons et contrats de capitalisation| 2 000 € (versé après 27/09/2017)|
+  Non barémé|
+
+  | 2ZZ   | Bons et contrats de capitalisation| 8 000 € (versé après 27/09/2017)|
+  Non barémé|
+
+  | 2VN   | Gains de cession                  | 4 000 € (en 2022)       | Barème imposé|
+
+  | 2VN   | Gains de cession                  | 2 000 € (en 2021)       | Barème imposé|
+
+  | 2VP   | Gains de cession                  | 7 000 € (en 2020)       | Non barémé    |
+
+
+  Régime par défaut : Le revenu total à déclarer est de 63 000 € (placements à revenus
+  fixes, gains de cession et contrats non barémés). En considérant les plafonds sociaux
+  de 2022, le prélèvement social total s''élève à 19 845 €.
+
+
+  Option choisie : Grâce à l''exonération de revenus sur certaines catégories de produits
+  de capitalisation et assurance-vie, seuls les placements à revenus fixes et les
+  gains de cession barémés sont pris en compte pour le calcul du revenu fiscal de
+  référence et des prélèvements sociaux. Le revenu total à déclarer devient donc 47
+  000 € (en utilisant la ligne 2DM). En considérant les plafonds sociaux, le prélèvement
+  social total s''élève à 13 965 €.
+
+
+  Synthèse : Jean DOE a réduit sa charge fiscale et son prélèvement social en investissant
+  dans des contrats de capitalisation et d''assurance-vie conformes à la règle d''exonération
+  de revenus sur certaines catégories de produits de capitalisation et assurance-vie.'

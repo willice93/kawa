@@ -1,0 +1,9 @@
+Règle applicable : Crédit d'Impôt sur les Revenus Fonciers (CRIF) en cas de revenus fonciers de source étrangère
+
+ Conditions : Le montant brut des revenus fonciers déclarés dans la ligne 4BE de votre déclaration inclut des revenus fonciers de source étrangère qui bénéficient d'un crédit d'impôt égal à l'impôt français.
+
+ Montants ou plafonds : Les montants concernés sont les revenus fonciers de source étrangère (retenus dans la ligne 4BK).
+
+ Formule de calcul applicable : Reportez le montant de ces revenus fonciers de source étrangère ligne 4BK dans la ligne 620 (CRIF) de votre déclaration. Les revenus ainsi reportés ne sont pas retenus pour le calcul du PAS.
+
+ Verification requise : Pour être sûr d'y avoir droit, il est nécessaire de vérifier que les revenus fonciers en question bénéficient d'un crédit d'impôt égal à l'impôt français.

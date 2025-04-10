@@ -1,0 +1,13 @@
+La règle s'applique aux employés licenciés conventionnellement dans les conditions où ils bénéficient d'une indemnité de rupture conventionnelle exonérée. Le montant ou plafond de l'indemnité totale est la somme des deux montants suivants :
+
+  1. Montant de l'indemnité de licenciement légal ou conventionnel à un maximum de 2 ans salaire brut annuel sans limite.
+
+  2. 50 % de l'indemnité totale ou double du revenu annuel brut de l'année civile précédente, mais ne peut pas dépasser 263 952 €.
+
+   Le calcul est donc : Indemnité totale = (Montant licenciement légal/conventionnel) + (0,5 * Revenu annuel brut de l'année précédente ou double, mais pas plus de 263 952 €).
+
+   Il faut vérifier que les conditions suivantes sont réunies pour être sûr d'y avoir droit :
+
+   - L'employé a été licencié conventionnellement.
+   - L'employeur est autorisé à déduire l'indemnité de rupture.
+   - L'employé ne bénéficie pas déjà d'une indemnité similaire dans les faits ou en vertu d'un autre accord ou réglementation.

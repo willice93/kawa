@@ -1,0 +1,67 @@
+id: regle_p120_6b225ea7
+titre: 'Règle appliquée : Abattement de 10% sur certaines sommes des pensions'
+source: Brochure IR 2024
+regle:
+  description: 'Règle appliquée : Abattement de 10% sur certaines sommes des pensions
+
+
+    Conditions d''application : Cette règle s''applique aux titulaires de pensions
+    ayant des montants dans les lignes suivantes : 1AS à 1DS, 1AZ à 1DZ, 1AO à 1DO,
+    1AL à 1DL et 1AM à 1DM.
+
+
+    Montant ou plafonds : Le montant de l''abattement ne peut être inférieur à 442
+    € par titulaire de pension, mais lorsque la pension est inférieure à 442 €, la
+    déduction est limitée au montant de la pension. La limite maximale pour un foyer
+    est de 4 321 €.
+
+
+    Formule de calcul applicable : L''abattement de 10% s''applique sur le total des
+    sommes concernées pour chaque titulaire de pension, jusqu''à la limite de 442
+    € par titulaire et une limite maximale de 4 321 € par foyer.
+
+
+    Verification pour y avoir droit : Pour être sûr d''y avoir droit, il faut vérifier
+    que les sommes portées dans les lignes concernées sont celles des titulaires de
+    pensions et que leur total ne dépasse pas la limite de 442 € par titulaire ou
+    4 321 € par foyer.'
+  formule: revenu_brut * (1 - 0.1)
+cas_pratique: 'Contexte : Jean Dupont, 65 ans, retraité de la fonction publique et
+  résidant à Paris. Il reçoit chaque mois une pension de retraite de la fonction publique
+  totale de 300 € (lignes 1AS) ainsi qu''une rente viagère de 200 € (ligne 1AZ).
+
+
+  Jean Dupont a également une épouse, Marie Dupont, qui reçoit une pension de veuve
+  de fonctionnaire totalisant 500 € (lignes 1DO). Les deux pensionnées sont donc dans
+  les lignes concernées par l''abattement de 10%.
+
+
+  Montants : Jean reçoit un abattement de 30 € (300 € * 10%) et Marie reçoit un abattement
+  de 50 € (500 € * 10%). Les montants sont dans la limite du régime, car ils n''atteignent
+  pas 442 € chacun et le total ne dépasse pas la limite maximale de 4 321 € par foyer.
+
+
+  Declaration : La déclaration se fait dans les cases 1AK pour le montant de la pension
+  de Jean, 1GF pour l''abattement de Jean et 1AH pour la pension de Marie, 1BH pour
+  l''abattement de Marie.
+
+
+  Comparison : En comparant avec le régime par défaut, les Dupont gagneraient 30 €
+  et 50 € en moins d''impôts grâce à l''abattement.
+
+
+  Calcul clair : Jean gagne un abattement de 30 € sur son montant de pension de 300
+  € (300 * 10% = 30) et Marie gagne un abattement de 50 € sur son montant de pension
+  de 500 € (500 * 10% = 50). En total, les Dupont reçoivent un abattement de 80 €
+  pour leur situation.
+
+
+  Conclusion : Dans ce cas précis, Jean et Marie Dupont peuvent bénéficier d''un abattement
+  de 80 € par mois sur leurs pensions en raison de l''application de la règle de l''abattement
+  de 10%.'
+calcul:
+  formule: revenu_brut * (1 - 0.1)
+  exemple:
+    revenu_brut: 500
+    abattement: 50
+    revenu_net: 450

@@ -1,0 +1,9 @@
+Cette règle se rapporte aux personnes invalides, retraitées déclarant des pensions d'invalidité ou de retraite.
+
+Les conditions sont que ces personnes ne peuvent pas avoir de revenus d'activité professionnelle et doivent verser des cotisations d'épargne retraite en 2023.
+
+Le montant du plafond de déduction minimum s'applique à chaque personne concernée et correspond à 10 % du montant annuel du plafond de la sécurité sociale de 2022 (4 114 €) augmenté, le cas échéant, du plafond ou de la fraction du plafond de déduction non utilisé en 2020, 2021 et 2022. Les personnes qui souscrivent une déclaration de revenus pour la première fois et qui ont versé des cotisations en 2023 bénéficient du même plafond de déduction minimum.
+
+La formule de calcul applicable est de calculer le montant total des cotisations versées en 2023 et de l'appliquer au plafond de déduction minimal ou "plancher de déduction".
+
+Il faut vérifier que la personne ne dispose pas de revenus d'activité professionnelle pour être sûr d'y avoir droit.

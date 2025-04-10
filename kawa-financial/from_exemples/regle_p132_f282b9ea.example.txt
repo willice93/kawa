@@ -1,0 +1,27 @@
+Titre : Gestion fiscale de contrats de capitalisation et d'assurance-vie (à compter du 27 septembre 2017)
+
+Contexte:
+Jean Dupont, 48 ans, est un ingénieur en énergétique. Depuis plusieurs années, il a économisé une partie de ses revenus pour constituer un pot d'épargne et s'assurer financièrement à l'avenir. En 2019, il a souscrit un contrat de capitalisation vieillissement avec la Compagnie XYZ, afin d'investir en valeurs boursières.
+
+Revenus :
+- Son salaire annuel brut est de 85 000 €.
+- Il perçoit également des dividendes et rente variable, soit 10 000 € par an.
+
+Contrat de capitalisation vieillissement:
+- Le contrat a été souscrit à compter du 27 septembre 2019.
+- La durée du contrat est de 25 ans.
+- Les prélèvements forfaitaires non libératoires sont de 350 € par mois.
+- Les prime de capitalisation annuelle s'élèvent à 4 200 € (350 € x 12).
+
+Déclaration des revenus :
+- Contrat de moins de 8 ans : La prime excède 150 000 €.
+	* Case 1AK : les prélèvements forfaitaires non libératoires (350 € x 12 = 4 200 €) sont imposés à un taux de 12,8 % (4 200 € x 12,8 % = 537,60 €).
+- La partie non imposée des primes est déclarée sous la case 1GF (4 200 € - 537,60 € = 3 662,40 €).
+- Contrat de plus de 8 ans : Le régime par défaut serait l'imposition à un taux forfaitaire de 7,5 %, mais Jean a choisi le barème de l'impôt sur le revenu.
+
+Analyse:
+- L'option imposée au barème de l'impôt sur le revenu est une option disponible pour les contrats de plus de 8 ans. Les primes annuelles (4 200 €) ne sont pas imposées mais s'ajoutent à son revenu imposable, ce qui peut entraîner un taux d'imposition élevé sur l'ensemble de ses revenus.
+- Le contrat de capitalisation vieillissement est un produit de capitalisation qui permet à Jean de constituer une épargne et de bénéficier des fluctuations du marché boursier dans le cadre d'un long terme (25 ans).
+
+Conclusion:
+En souscrivant un contrat de capitalisation vieillissement, Jean peut économiser et investir pour son avenir financièrement. Il doit cependant prendre en compte que les primes annuelles peuvent entraîner une hausse du revenu imposable, ce qui peut avoir des conséquences sur le montant de l'impôt à payer.

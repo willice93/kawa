@@ -1,0 +1,7 @@
+La règle s'applique aux produits d'assurance-vie et de capitalisation avec des versements effectués avant le 27 septembre 2017 et après cette date. Les conditions sont liées au montant des primes versées.
+
+- Produits imposables à 7,5 % :
+    - les produits correspondants aux primes n'excédant pas 150 000 € avant le 27 septembre 2017 (2VV) et tous les produits après cette date (2ZZ).
+- Produits imposables à 12,8 % :
+    - les produits correspondants aux primes excédant 150 000 € avant le 27 septembre 2017 (2WW) et tous les produits qui ne sont pas soumis au prélèvement libératoire après cette date (2YY).
+- Pour être sûr d'y avoir droit, il faut vérifier que le montant des primes versées respecte les limites précitées.

@@ -1,0 +1,12 @@
+Nom: Pierre Dupont
+   Profession: Directeur général de SA Lumière, une entreprise d'éclairage solaire.
+
+   Situation: Il a investi 20 000€ pour acquérir des actions de sa propre société l'année dernière. Ce montant correspond à des frais d'emprunt versés pour cet investment. Son revenu net est de 60 000€ par an.
+
+   Déclaration: Dans son formulaire annuel d'imposition, Pierre devra indiquer les 20 000€ de frais d'emprunt dans la rubrique "Frais non admissibles" (1GF). Les frais réels doivent être calculés exclusivement sur le revenu net de 60 000€.
+
+   Comparaison: Si Pierre avait choisi le régime par défaut, il pourrait avoir indiqué ces frais d'emprunt comme frais réels et réduit sa base imposable, ce qui aurait entraîné un montant de cotisations sociales plus élevé. En revanche, en choisissant le régime des petites entreprises (PME), il peut bénéficier d'une réduction de ces frais d'emprunt pour les calculer dans la base de calcul des cotisations sociales, ce qui permettra une diminution de ses cotisations sociales.
+
+   Calcul: En excluant les 20 000€ de frais d'emprunt des frais réels, le revenu net est réduit à 40 000€ pour la base imposable. Les cotisations sociales sont ainsi diminuées.
+
+   Synthèse: En excluant les frais d'emprunt dans la rubrique des frais réels, Pierre a réduit ses cotisations sociales en choisissant le régime des petites entreprises (PME) pour sa société SA Lumière.

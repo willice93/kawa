@@ -1,0 +1,14 @@
+Titre : Amortissement d'un équipement informatique acheté personnellement pour usage professionnel par Jean Dupont, analyste financier indépendant
+
+Situation : Dans le cadre de son activité d'analyste financier indépendant, M. Jean Dupont a investi dans un ordinateur portable en mars 2021 pour un montant total de 2 000 €. Il utilise cet ordinateur pendant 60% de son temps dans le cadre de sa profession.
+
+Montants concernés : Montant d'achat (Acquisition) = 2 000 € ; Pourcentage d'usage professionnel (Professionnel) = 60 % ; Taux d'Amortissement (Taux d'Amortissement) = 1/3
+
+Déclaration : Dans sa déclaration fiscale de l'année 2021, M. Jean Dupont aura à remplir le montant annuel d'amortissement dans la case 1AK (Amortissements annuels professionnels) comme suit :
+
+Calcul de l'Annuité d'Amortissement pour chaque année : Montant Acquisition × Taux d'Amortissement × Moins de 12 mois = Montant Annuel d'Amortissement
+= 2 000 € × (1/3) × (12 mois - 3 mois) = 533,33 € (environ)
+
+Comparaison du régime par défaut vs l'option choisie : Dans le cadre de son statut d'analyste financier indépendant, M. Jean Dupont aura la possibilité de déduire en amortissement annuel cette somme de 533,33 € à partir de ses revenus fiscaux de l'année 2021, ce qui pourrait réduire sa charge imposable de manière significative. Si M. Jean Dupont avait choisi le régime par défaut (déclaration annuelle), il n'aurait pas pu bénéficier de cette déduction avant l'année 2024, ce qui lui aurait coûté des centaines d'euros supplémentaires en impôt.
+
+Conclusion : En optant pour le régime d'amortissement annuel, M. Jean Dupont a pu bénéficier d'une déduction de 533,33 € sur ses revenus fiscaux de l'année 2021, ce qui lui a permis de réduire sa charge imposable et de garder plus de liquidités pour les besoins de son activité professionnelle.

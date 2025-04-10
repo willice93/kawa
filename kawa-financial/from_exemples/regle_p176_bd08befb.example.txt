@@ -1,0 +1,11 @@
+Contexte : Une entrepreneuse de 40 ans, Marie Dupont, exerce une activité de vente en ligne de produits éco-responsables sous l'entreprise "EcoShop". Elle a généré un chiffre d'affaires de 630 € en ligne 5NO, 280 € en ligne 5OO et 1700 € en ligne 5PO pour l'exercice fiscal 2022.
+
+Montants concernés : Recettes de vente totales (630 € + 280 € + 1700 €) = 2610 €, Abattement forfaitaire minimum (305 €), Abattement forfaitaire pour l'exercice fiscal 2022 calculé (2610 € * 0,71) = 1849,1 €.
+
+Déclaration : Les entreprises doivent déclarer leur activité de vente et les montants de leurs recettes dans les lignes spécifiées (5NO, 5OO, 5PO). Pour Marie Dupont, cela signifie qu'elle devra déclarer 630 € en ligne 5NO, 280 € en ligne 5OO et 1700 € en ligne 5PO.
+
+Comparaison : Sans l'abattement forfaitaire de 71 %, Marie Dupont payerait un montant total de taxes sur son chiffre d'affaires, mais avec cet abattement elle ne paiera que le reste (2610 € - 1849,1 € = 760,9 €).
+
+Calcul clair avec des chiffres ronds : L'abattement forfaitaire de 71 % pour l'exercice fiscal 2022 sur les recettes de vente de Marie Dupont est de 1849,1 €. Sans cet abattement, elle paierait 760,9 € en taxes sur son chiffre d'affaires.
+
+Conclusion : Le régime micro permet à l'entreprise EcoShop de bénéficier d'un abattement forfaitaire de 1849,1 € sur ses recettes de vente pour l'exercice fiscal 2022, ce qui réduit sa charge fiscale à 760,9 €.

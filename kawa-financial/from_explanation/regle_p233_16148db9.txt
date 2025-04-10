@@ -1,0 +1,11 @@
+Règle d'application : Crédit d'impôt fiscal pour dépenses de soins
+
+Cette règle s'applique aux personnes ayant des dépenses retenues en raison de l'éducation ou de la garde d'un enfant à charge, ainsi qu'aux membres du foyer âgés de plus de 65 ans.
+
+Les conditions pour être éligible sont :
+- Les dépenses doivent être retenues dans le cadre des soins pour un enfant à charge ou rattaché (si les enfants sont en résidence alternée, la majoration est divisée par deux).
+- Il y a une limite maximale de crédit d'impôt : 12 000 € augmentée de 1 500 € par enfant à charge ou rattaché et/ou membre du foyer âgé de plus de 65 ans.
+
+La formule de calcul applicable est la suivante : Le crédit d'impôt est égal à 50 % des dépenses retenues dans la limite de (12 000 € + (1 500 € par enfant ou membre âgé))
+
+Il faut vérifier que les frais sont réellement liés aux soins d'un enfant à charge ou rattaché et que ces dépenses ont été effectivement retenues.

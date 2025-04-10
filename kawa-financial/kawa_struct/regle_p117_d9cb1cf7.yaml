@@ -1,0 +1,48 @@
+id: regle_p117_d9cb1cf7
+titre: Cette règle s'applique à tout individu qui déclare un montant sur les lignes
+  6QS ou 6QT de la formule de remplacement de revenus lorsqu'il dépose sa déclaration
+  annuelle de revenus au titre du RRQ.
+source: Brochure IR 2024
+regle:
+  description: "Cette règle s'applique à tout individu qui déclare un montant sur\
+    \ les lignes 6QS ou 6QT de la formule de remplacement de revenus lorsqu'il dépose\
+    \ sa déclaration annuelle de revenus au titre du RRQ.\n   La condition est qu'un\
+    \ tel montant soit déclaré pour qu'il soit pris en compte dans le calcul du plafond\
+    \ d'épargne retraite.\n   Les montants ou plafonds concernés sont les montants\
+    \ déposés sur ces lignes 6QS et 6QT.\n   La formule de calcul applicable est simples\
+    \ : il s'agit de la somme des montants déposés sur ces lignes dans l'année en\
+    \ question.\n   Pour être sûr d'y avoir droit, il faudra vérifier que les montants\
+    \ déclarés respectent les règles générales du RRQ, notamment celles concernant\
+    \ les limites annuelles de dépôt."
+  formule: Non spécifiée
+cas_pratique: 'Contexte : Jean Dupont, ingénieur en électronique avec un revenu annuel
+  net de 60 000 euros, souhaite maximiser ses épargnes retraite. Il a ouvert des compte
+  d''épargne retraite (CE) et déclare une somme sur les lignes 6QS et 6QT de sa formule
+  de remplacement de revenus annuel pour son RRQ.
+
+
+  Montant concerné : Jean Dupont a déposé 5 000 euros dans ses CE en 2021, et déclare
+  ce montant sur les lignes 6QS et 6QT de sa formule de remplacement de revenus annuel
+  pour son RRQ.
+
+
+  Déclaration : Jean Dupont devra renseigner les montants déposés sur ces lignes dans
+  la section 1AK de sa déclaration annuelle de revenus (plafond d''épargne retraite).
+
+
+  Comparaison : Si Jean Dupont ne faisait pas ce déclaratif, le plafond d''épargne
+  retraite n''aurait pas été pris en compte dans le calcul de son plafond d''épargne
+  retraite. En choisissant cette option, il peut atteindre les limites imposées par
+  la réglementation et maximiser ses épargnes retraite.
+
+
+  Calcul clair avec des chiffres ronds : Le montant total que Jean Dupont peut déposer
+  dans son CE en 2021 est de 9 684 euros, en appliquant les limites annuelles de dépôt
+  (plafond d''épargne retraite = 7 684 euros + 2 000 euros d''augmentation annuelle
+  pour les CER). Par conséquent, le montant qu''il déclare sur les lignes 6QS et 6QT
+  de sa formule de remplacement de revenus annuel est de 5 000 euros.
+
+
+  Conclusion : En déclarant les montants déposés sur ses compte d''épargne retraite
+  dans la section 1AK de sa déclaration annuelle de revenus, Jean Dupont peut maximiser
+  ses épargnes retraite en respectant les limites imposées par la réglementation.'

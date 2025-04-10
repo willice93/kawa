@@ -1,0 +1,10 @@
+La règle de calcul s'applique aux individus qui possèdent des capitaux mobiliers et ont perçu des revenus supérieurs à 10 % du montant du capital social, des primes d'émission, ou des sommes versées dans un compte courant d'associé. Les conditions sont que les individus concernés soient eux-mêmes affiliés au régime général des travailleurs indépendants et qu'ils ne soient pas émancipés si mineurs.
+
+Les montants ou plafonds à considérer sont :
+- Le capital social apprécié au dernier jour de l'exercice précédant la distribution des revenus.
+- Les primes d'émission dans le même cadre.
+- La somme versée dans un compte courant d'associé est évaluée comme le solde moyen annuel, déterminé par la somme des soldes moyens mensuels du compte, divisée par le nombre de mois compris dans l'exercice.
+
+La formule de calcul applicable est celle pour déterminer le solde moyen mensuel (addition des soldes journaliers divisée par le nombre de jours compris dans le mois) et le solde moyen annuel (division de la somme des soldes moyens mensuels du compte par le nombre de mois compris dans l'exercice).
+
+Il faut vérifier que les réserves non incorporées au capital social ne sont pas prises en compte, et si votre conjoint ou partenaire pacsé est également affilié au régime général des travailleurs indépendants pour sa qualité d'associé dans la société, ses dividendes perçus ne doivent pas être déclarés avec les vôtres. Il doit les reporter dans ses propres cases fiscales.

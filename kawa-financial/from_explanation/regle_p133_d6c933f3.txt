@@ -1,0 +1,10 @@
+Règle applicabile per il calcolo delle quote imponibili a tasso del 7,5%:
+
+Applicabile a: tutte le prime versate a partire dal 27/09/2017 non rimborsate.
+Condizioni: il montante totale delle prime versate prima del 27/09/2017 deve essere inferiore o uguale a 150,000€, altrimenti la totalità dei prodotti è imponibile al tasso di 12,8%.
+Montanti:
+- Montante della base di calcolo (montante delle prime versate dopo il 27/09/2017 non rimborsate)
+- Numérateur: Montante massimo ammesso, pari a 150,000€, ridotto eventualmente dal montante delle prime versate prima del 27/09/2017 e non rimborsate.
+- Denominatore: Montante delle prime versate dopo il 27/09/2017 e non remunerate.
+Formula di calcolo: Frazione = Numérateur / Denominatore. Quota imponibile al tasso del 7,5% = Quota totale * (Frazione * Tasso del 7,5%)
+Verifiche: Verificare che il montante totale delle prime versate precedenti il 27/09/2017 non superi i 150,000€, altrimenti tutte le quote imponibili saranno al tasso del 12,8%.

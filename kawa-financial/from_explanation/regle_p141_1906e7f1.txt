@@ -1,0 +1,5 @@
+La règle se rapporte aux particuliers qui ont bénéficié de la réduction d'impôt prévue par l'article 199 terdecies 0-A du Code général des impôts (CGI), également connu sous le nom de réduction d'impôt "Madelin" pour souscription au capital des PME.
+   Les conditions s'appliquent lorsque les particuliers ont souscrit à la vente de titres précédemment achetés en bénéficiant de cette réduction d'impôt.
+   Le montant ou plafond est égale au montant de la réduction d'impôt obtenue lors de l'acquisition initiale des titres.
+   La formule de calcul applicable consiste à diminuer le prix d'acquisition retenu pour le calcul de la plus-value du montant de la réduction d'impôt obtenue.
+   Il faut vérifier que les particuliers ont bien bénéficié de cette réduction d'impôt et qu'ils respectent les conditions requises (telles que l'acquisition initiale des titres doit avoir été faite auprès d'une PME ou d'un ETI en difficulté, etc.) pour être sûr d'y avoir droit.

@@ -1,0 +1,6 @@
+Règle applicable aux résidents fiscaux ayant versé plus de 1 000 € en dons, vers les organismes d'intérêt général :
+
+- Conditions : Les versements excédant 1 000 € doivent être consécutifs et concernent des organismes inscrits ligne 7VA de la RICI (Répartition Interprofessionnelle de la Cotisation pour les Chômages).
+- Montants ou plafonds : La réduction d'impôt sera calculée sur le montant des dons excédant 1 000 €, et ne passera pas le maximum de 20 % du revenu imposable.
+- Formule de calcul applicable : La réduction d'impôt sera de 66 %, appliquée au montant des dons excédant 1 000 €, jusqu'à atteindre 20 % du revenu imposable.
+- Vérification pour être sûr d'y avoir droit : Assurez-vous que les organismes à qui vous avez versé des dons sont inscrits ligne 7VA de la RICI, et que le montant cumulé de vos versements excède 1 000 € pour l'année concernée.

@@ -1,0 +1,11 @@
+Règle d'application : Abattement applicables pour certaines entreprises sur leur chiffre d'affaires
+
+Cette règle s'applique aux entreprises qui ont un montant de chiffre d'affaires dans les cases 5NJ/50J.
+
+Conditions requises : Aucune condition particulière spécifiée, simplement que le chiffre d'affaires soit dans les cases mentionnées.
+
+Montants ou plafonds : Pas de montant ou plafond spécifié, il s'agit d'un abattement applicabe sur tout le montant de chiffre d'affaires indiqué dans les cases 5NJ/50J.
+
+Formule de calcul applicable : Abattement de 71% appliqué directement par la MSA sur le montant de chiffre d'affaires mentionné dans les cases 5NJ/50J.
+
+Vérification pour être sûr d'y avoir droit : Vérifiez que votre entreprise est enregistrée auprès de l'autorité compétente et que le montant de chiffre d'affaires est indiqué dans les cases 5NJ/50J.

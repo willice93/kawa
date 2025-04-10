@@ -1,0 +1,6 @@
+Règle appliquée aux personnes physiques ayant un revenu supérieur au plafond de la sécurité sociale (montant annuel actuellement fixé par l'Assurance Maladie). La règle s'applique lorsque le bénéfice imposable d'une année est compris entre le montant du plafond de la sécurité sociale et huit fois ce même montant.
+
+La formule de calcul de la cotisation déductible est la suivante :
+Revenu bénéfique (en-deçà du plafond de la sécurité sociale) x 15 % = Montant à déduire.
+
+Il faut vérifier que le revenu bénéfique a été correctement calculé en fonction des revenus réels, des dépenses d'entreprise et autres conséquences fiscales qui peuvent avoir une incidence sur le revenu net disponible pour la cotisation.

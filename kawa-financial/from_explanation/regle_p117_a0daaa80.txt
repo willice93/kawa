@@ -1,0 +1,9 @@
+Cette règle s'applique aux salariés domiciliés en France qui sont détachés à l'étranger, et qui bénéficient de l'exonération prévue par les articles 81 A du Code Général des Impôts (CGI).
+
+La condition est que le salarié exerce son activité hors des eaux territoriales françaises.
+
+Le montant concerné est la rémunération exonérée ou une fraction de cette rémunération, que vous indiquez sur les lignes 1AC à 1DC de la 2042 C. Cette somme sera utilisée pour le calcul du taux effectif et pour déterminer le revenu fiscal de référence.
+
+La formule de calcul applicable est de retenir le montant mentionné sur les lignes 1AC à 1DC après application de la déduction forfaitaire de 10 % ou des frais réels.
+
+Pour être sûr d'y avoir droit, il faut vérifier si les conditions et critères de l'exonération prévue par l'article 81 A du CGI sont respectés. Il convient également de prendre soin dans la remplissement des déclarations fiscales pour ne pas manquer cette déduction.

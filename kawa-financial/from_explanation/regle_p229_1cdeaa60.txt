@@ -1,0 +1,5 @@
+1. Période de calcul : Deduction des cotisations PER (Plan d'Epargne Retraite) du revenu global
+    Conditions : Pour tous les contribuables ayant versé des cotisations PER en 2023 et qui n'ont pas demandé mutualisation du plafond.
+    Montants ou plafonds : Plafond de déduction cumulé pour 2023 (report 2022 + plafond 2023), cotisations versées sur un PER en 2023.
+    Formule de calcul applicable : Les cotisations versées sur un PER en 2023 sont intégralement déductibles du revenu global de 2023, à condition que le plafond cumulé pour 2023 soit respecté (report 2022 + plafond 2023 = 2 314 €).
+    Vérification : Vérifier les cotisations PER versées en 2023 et le plafond cumulé de déduction pour 2023 (report 2022 + plafond 2023) afin d'être sûr d'y avoir droit.

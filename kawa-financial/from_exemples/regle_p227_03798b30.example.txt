@@ -1,0 +1,33 @@
+Titre: Application pratique de la règle fiscale pour des contributeurs obligatoires et facultatifs en 2022
+
+Contexte : Jean Dupont, travailleur indépendant, gère son entreprise de construction et exploite une ferme. Il contribue à un contrat "Madelin agricole" pour son activité agricole et verse des cotisations obligatoires aux salariés de son entreprise en application de l'article 83 et du PERE. Il a reçu également un abondement de PERCO de la part de son employeur, l'entreprise de construction. En outre, il a effectué deux jours de congé monétisés sur le compte de sa participation au PERCO et à un régime supplémentaire "article 83".
+
+Données :
+- Son revenu imposable est de 250 000 €.
+- Le plafond annuel de sécurité sociale est de 176 724 €.
+- Les frais patronaux des contributions obligatoires aux régimes de retraite supplémentaire rendus obligatoires pour les salariés sont imposables et non déductibles.
+- La part du bénéfice salariale déductible pour les contributions obligatoires est entière.
+- Les contributions facultatives des non-salariés aux contrats "Madelin" et "Madelin agricole" sont déductibles du résultat professionnel, compte tenu de leur fraction correspondant à 15 % de la quote-part du bénéfice imposable comprise entre une fois et 8 fois le montant annuel du plafond de la sécurité sociale (cotisations déductibles du résultat, sous déduction de la fraction correspondant à 15 % de la quote-part de bénéfice imposable comprise entre 41 136 € et 329 088 €).
+- Le montant exonéré d'impôt sur le revenu pour l'abondement PERCO est de 6 582 €.
+- Le nombre maximum de jours de congé monétisés exonérés d'impôt sur le revenu est de 10 jours.
+
+Déclaration :
+
+* CONTRIBUTIONS OBLIGATOIRES AUX RÉGIMES DE RETRAITE SUPPLEMENTAIRE (article 83 et PERE) : 50 000 €
+* CONTRIBUTIONS FACULTATIVES AUX CONTRATS "MADELIN" ET "MADELIN AGRICOLES" : 22 764 € (obtenu en appliquant 15 % à la quote-part imposable de bénéfice entre 41 136 € et 329 088 €)
+* ABONDÉMENT PERCO : 6 582 €
+* CONGÉS MONÉTISÉS APPLIQUÉS SUR LE COMPTE DE PERCO OU D'UN RÉGIME SUPPLEMENTAIRE "ARTICLE 83" : 10 jours (exonéré d'impôt sur le revenu)
+
+Comparaison régime par défaut vs régime choisi :
+
+* Régime par défaut : pas de cotisation facultative, un abondement PERCO non bénéficiant d'un plafond exonérant l'impôt sur le revenu et aucune déduction pour les jours de congé monétisés.
+* Régime choisi : contribution facultative à un contrat "Madelin agricole" et application de la règle pour les jours de congé monétisés, ce qui permettra à Jean Dupont d'obtenir des avantages fiscaux (déduction de ses cotisations facultatives, abondement PERCO exonéré d'impôt sur le revenu et déduction pour les jours de congé monétisés).
+
+Calcul clair avec des chiffres ronds :
+
+- Contributions obligatoires aux régimes de retraite supplémentaire : 50 000 €, non imposables (non déductibles) pour la part patronale et déductibles du salaire pour la part salariale.
+- Contributions facultatives aux contrats "Madelin" et "Madelin agricole" : 22 764 € (obtenu en appliquant 15 % à la quote-part imposable de bénéfice entre 41 136 € et 329 088 €).
+- Abondement PERCO : 6 582 €, exonéré d'impôt sur le revenu.
+- Journées de congé monétisées appliquées sur le compte de PERCO ou d'un régime supplémentaire "article 83" : 10 jours (exonérés d'impôt sur le revenu).
+
+Conclusion : l'application de la règle pour les cotisations facultatives aux contrats "Madelin" et "Madelin agricoles", l'abondement PERCO exonéré d'impôt sur le revenu et la déduction des jours de congé monétisés permettra à Jean Dupont d'obtenir des avantages fiscaux.

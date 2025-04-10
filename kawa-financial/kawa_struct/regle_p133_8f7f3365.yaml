@@ -1,0 +1,31 @@
+id: regle_p133_8f7f3365
+titre: 'Règle applicabile per i contribuenti:'
+source: Brochure IR 2024
+regle:
+  description: 'Règle applicabile per i contribuenti:
+
+    - Si il ha effettuato i versamenti a partire dal 27.09.2017
+
+    - I contratti hanno una durata superiore ai 8 anni
+
+    - Il montante dei prodotti del contratto è precompilato nella riga 2UU
+
+    - Le prime corrispondono a un imponibile fisso del 7,5% (o al barame, su richiesta
+    globale) se non superano i 150.000 €; le prime superiore ai 150.000 € saranno
+    imponibili al tasso di 12,8% (o al barame, su richiesta globale)
+
+    - Per essere certi d''averne il diritto, è necessario verificare che i versamenti
+    e i contratti rispettino i criteri stabiliti.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: "Nom : Luca Rossi\n   Profession : Ingénieur en énergie solaire\n  \
+  \ Situation : Je suis un ingénieur en énergie solaire de 40 ans qui a signé un contrat\
+  \ de prévoyance pour une durée de 10 ans le 27 septembre 2017. Mon montant précompilé\
+  \ dans la riga 2UU est de 250 000 €.\n   Déclaration : J'ai choisi d'être imposé\
+  \ sur la base des primeurs fixes à 7,5%, en raison de mon montant inférieur à 150\
+  \ 000 € (1AK).\n   Comparaison : Mon régime par défaut serait celui de l'imposition\
+  \ au taux de 12,8% pour les montants supérieurs à 150 000 €. En choisissant d'être\
+  \ imposé sur la base des primeurs fixes à 7,5%, j'enregistre un économie de taxes\
+  \ de 3 750 € (250 000 € × 7,5% - 250 000 € × 12,8% = 18 750 € - 29 500 €).\n   Conclusion\
+  \ : Grâce à mon contrat de prévoyance de 10 ans signé le 27 septembre 2017 et en\
+  \ choisissant d'être imposé sur la base des primeurs fixes à 7,5%, je réduis mes\
+  \ charges fiscales annuelles de 3 750 €."

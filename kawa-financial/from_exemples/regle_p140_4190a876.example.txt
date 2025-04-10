@@ -1,0 +1,19 @@
+Titre : Application de l'imposition au barème progressif pour la déclaration des revenus 2023 par Mme Dupont, agent immobilier
+
+Contexte : Mme Dupont est résidente fiscale en France depuis plus de cinq ans et a déjà choisi l'imposition au barème progressif pour sa déclaration de revenus 2022. Elle travaille comme agent immobilier et ses revenus annuels dépassent les 35 000 euros.
+
+Montant concernés :
+- Revenus annuels (2023) : 48 000 euros
+- Plafond d'imposition au barème progressif : non explicité, mais se référer aux taux fixés par la législation fiscale en vigueur.
+
+Déclaration dans les bonnes cases :
+- Cas de papier : Cocher la case 1GF (option d'imposition au barème progressif) sur votre déclaration de revenus 2023.
+- Cas en ligne : La case 2OP aura déjà été pré-cochée, confirmant que vous avez continué à choisir l'imposition au barème progressif pour cette année (2023). Il n'est pas nécessaire de prendre d'autres mesures.
+
+Comparaison du régime par défaut vs l'option choisie :
+- Régime par défaut : Impôt sur le revenu (IR) à taux fixe, avec un plafond à 35 000 euros.
+- Option choisie : Imposition au barème progressif, prenant en compte la proportionnellement de la répartition des revenus entre les différents barèmes impositifs et les montants fixes associés à chaque barème. Les taux varient en fonction du revenu annuel.
+
+Calcul clair avec des chiffres ronds : Avec un revenu annuel de 48 000 euros, le calcul de l'imposition au barème progressif pour la déclaration de revenus 2023 sera de 5 160 euros.
+
+Conclusion : Il est important de vérifier si vous souhaitez continuer à opter pour l'imposition au barème progressif cette année ou non, en tenant compte des changements éventuels dans la législation fiscale en vigueur et du impact sur votre impôt sur le revenu.

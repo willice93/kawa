@@ -1,0 +1,61 @@
+id: regle_p132_f282b9ea
+titre: Cette règle s'applique à tous les produits des contrats et bons de capitalisation
+  et d'assurance-vie souscrits à compter du 27 septembre 2017. Les prélèvements forfaitaires
+  non libératoires s'appliquent lors de leur versement, à un taux de 12,8 % pour les
+  contrats de moins de 8 ans et 7,5 % pour les contrats de plus de 8 ans (6 ans pour
+  les contrats souscrits avant le 1er janvier 1990).
+source: Brochure IR 2024
+regle:
+  description: 'Cette règle s''applique à tous les produits des contrats et bons de
+    capitalisation et d''assurance-vie souscrits à compter du 27 septembre 2017. Les
+    prélèvements forfaitaires non libératoires s''appliquent lors de leur versement,
+    à un taux de 12,8 % pour les contrats de moins de 8 ans et 7,5 % pour les contrats
+    de plus de 8 ans (6 ans pour les contrats souscrits avant le 1er janvier 1990).
+
+
+    Le traitement des déclarations de revenus implique l''imposition à un taux forfaitaire
+    de 12,8 % pour les produits des contrats de moins de 8 ans et des produits des
+    contrats de plus de 8 ans correspondant aux primes excédant 150 000 €, ou à un
+    taux de 7,5 % pour les produits des contrats de plus de 8 ans correspondant aux
+    primes n''excédant pas 150 000 €. Par option du contribuable, les produits peuvent
+    également être imposés au barème de l''impôt sur le revenu.
+
+
+    Pour être sûr d''y avoir droit, il faut vérifier que le contrat ou le produit
+    en question a été souscrit à compter du 27 septembre 2017 et qu''il se conforme
+    aux conditions définies dans la règle.'
+  formule: revenu_brut * (1 - 0.08)
+cas_pratique: "Titre : Gestion fiscale de contrats de capitalisation et d'assurance-vie\
+  \ (à compter du 27 septembre 2017)\n\nContexte:\nJean Dupont, 48 ans, est un ingénieur\
+  \ en énergétique. Depuis plusieurs années, il a économisé une partie de ses revenus\
+  \ pour constituer un pot d'épargne et s'assurer financièrement à l'avenir. En 2019,\
+  \ il a souscrit un contrat de capitalisation vieillissement avec la Compagnie XYZ,\
+  \ afin d'investir en valeurs boursières.\n\nRevenus :\n- Son salaire annuel brut\
+  \ est de 85 000 €.\n- Il perçoit également des dividendes et rente variable, soit\
+  \ 10 000 € par an.\n\nContrat de capitalisation vieillissement:\n- Le contrat a\
+  \ été souscrit à compter du 27 septembre 2019.\n- La durée du contrat est de 25\
+  \ ans.\n- Les prélèvements forfaitaires non libératoires sont de 350 € par mois.\n\
+  - Les prime de capitalisation annuelle s'élèvent à 4 200 € (350 € x 12).\n\nDéclaration\
+  \ des revenus :\n- Contrat de moins de 8 ans : La prime excède 150 000 €.\n\t* Case\
+  \ 1AK : les prélèvements forfaitaires non libératoires (350 € x 12 = 4 200 €) sont\
+  \ imposés à un taux de 12,8 % (4 200 € x 12,8 % = 537,60 €).\n- La partie non imposée\
+  \ des primes est déclarée sous la case 1GF (4 200 € - 537,60 € = 3 662,40 €).\n\
+  - Contrat de plus de 8 ans : Le régime par défaut serait l'imposition à un taux\
+  \ forfaitaire de 7,5 %, mais Jean a choisi le barème de l'impôt sur le revenu.\n\
+  \nAnalyse:\n- L'option imposée au barème de l'impôt sur le revenu est une option\
+  \ disponible pour les contrats de plus de 8 ans. Les primes annuelles (4 200 €)\
+  \ ne sont pas imposées mais s'ajoutent à son revenu imposable, ce qui peut entraîner\
+  \ un taux d'imposition élevé sur l'ensemble de ses revenus.\n- Le contrat de capitalisation\
+  \ vieillissement est un produit de capitalisation qui permet à Jean de constituer\
+  \ une épargne et de bénéficier des fluctuations du marché boursier dans le cadre\
+  \ d'un long terme (25 ans).\n\nConclusion:\nEn souscrivant un contrat de capitalisation\
+  \ vieillissement, Jean peut économiser et investir pour son avenir financièrement.\
+  \ Il doit cependant prendre en compte que les primes annuelles peuvent entraîner\
+  \ une hausse du revenu imposable, ce qui peut avoir des conséquences sur le montant\
+  \ de l'impôt à payer."
+calcul:
+  formule: revenu_brut * (1 - 0.08)
+  exemple:
+    revenu_brut: 350
+    abattement: 28
+    revenu_net: 322

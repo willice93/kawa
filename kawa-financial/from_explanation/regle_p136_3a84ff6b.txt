@@ -1,0 +1,5 @@
+Cette règle s'applique à ceux qui ont des produits de fonds en euros issus de bons ou de contrats de capitalisation et d'assurance-vie attachés à des versements effectués avant le 27 septembre 2017. Les montants concernés sont ceux déclarés sur la ligne 2DF de leur impôt sur le revenu.
+
+La formule de calcul applicable est de calculer 6,8% du montant déclaré sur la ligne 2DF pour obtenir le montant de CSG déductible. Ce montant sera ensuite déduit automatiquement de leur revenu global de l'année 2023 soumis à l'impôt sur le revenu.
+
+Il est important de vérifier que les produits considérés correspondent à des bons ou contrats de capitalisation et d'assurance-vie, qu'ils ont été attachés à des versements effectués avant le 27 septembre 2017, et que ceux-ci sont mentionnés sur la ligne 2DF de leur déclaration des revenus pour être sûr d'y avoir droit.

@@ -1,0 +1,3 @@
+# Source: page 131
+
+Produits des plans d’épargne retraite – sortie en capital (ligne 2TZ) (CGI, art. 158 5 b quinquies). Lors de la sortie en capital d’un plan d’épargne retraite (PER), la fraction du capital correspondant aux intérêts produits par les versements réalisés pendant la durée du plan d’épargne retraite (versements volontaires (ayant ouverts droits à déduction ou non), et versements correspondant à des cotisations obligatoires) est imposée à l’impôt sur le revenu. Ce montant est à indiquer en ligne 2TZ. Il sera soumis au prélèvement forfaitaire unique au taux de 12,8 % auquel s ‘ajoute les prélèvements sociaux de 17,2 % ou, sur option globale, au barème de l’impôt sur le revenu.

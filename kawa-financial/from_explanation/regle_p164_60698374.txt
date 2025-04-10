@@ -1,0 +1,7 @@
+Règle d'application : Pour les Micro-entrepreneurs (Auto-entrepreneurs) ayant opté pour le versement libératoire de l'Impôt sur le Revenu, la formule de calcul applicabile est suivante :
+
+- À qui s’applique : Les Micro-entrepreneurs (Auto-entrepreneurs) ayant opté pour le versement libératoire de l'Impôt sur le Revenu.
+- Dans quelles conditions : Lorsque les activités menées sont de la nature dudit régime micro BIC ou micro BNC et que le montant du chiffre d’affaires ou des recettes de l'année est mentionné dans la première page de la 2042 C PRO.
+- Quels sont les montants : Le montant à considérer pour le calcul de la formule est le chiffre d’affaires ou les recettes de l'année.
+- Formule de calcul applicable : Le bénéfice net, après déduction des abattements forfaitaires applicables aux régimes micro BIC ou micro BNC, est retenu pour le calcul du taux effectif appliqué pour l'imposition des autres revenus du foyer.
+- Vérification : Il faut vérifier que les conditions précédentes soient remplies et qu'un taux effectif de calculation pour l'imposition des autres revenus du foyer a bien été calculé à partir du bénéfice net mentionné dans la 2042 C PRO.

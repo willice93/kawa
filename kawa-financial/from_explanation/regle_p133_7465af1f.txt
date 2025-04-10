@@ -1,0 +1,9 @@
+Règle applicabile aux contribuables qui ont un revenu imposable inférieur ou égal à 4 600 € ou 9 200 € sur la ligne 2CH, ou n'ont aucun revenu déclaré sur cette ligne.
+
+   Les conditions requises sont qu'il y ait un excédent d'abattement non utilisé après les déductions effectuées pour le revenu imposable sur la ligne 2CH. Si aucun revenu n'est déclaré, l'excédent peut également être appliqué aux revenus déclarés sur la ligne 2DH.
+
+   Le montant ou plafond de l'abattement non utilisé est celui qui reste après les déductions effectuées pour le revenu imposable sur la ligne 2CH, et peut atteindre les valeurs de 4 600 € ou 9 200 € selon les cas. En cas d'absence de revenu déclaré sur la ligne 2CH, l'excédent peut également être appliqué aux revenus déclarés sur la ligne 2DH.
+
+   La formule de calcul applicable est : Crédit d'impôt = 7,5 % * excédent d'abattement non utilisé ou excédent de l'abattement disponible (limité au montant des revenus déclarés ligne 2DH).
+
+   Pour être sûr d'y avoir droit, il faut vérifier que le revenu imposable sur la ligne 2CH est inférieur ou égal à 4 600 € ou 9 200 €, ou bien qu'il n'y ait pas de revenu déclaré sur cette ligne. Il faudra également vérifier l'excédent d'abattement non utilisé, qui sera disponible pour être imputé sur les revenus déclarés sur la ligne 2DH.

@@ -1,0 +1,18 @@
+Titre : Exemple d'application pratique de la règle concernant les travailleurs indépendants en situation BIC, BNC et BA
+
+Nom : Jean Dupont
+Métier : Artisan en menuiserie indépendante
+Adresse : 12 Rue des Roses, Paris 13ème
+Référence fiscale : 01234567890
+
+Situation : Au cours de l'exercice 2021, Monsieur Dupont a réalisé un revenu net professionnel de 50 000 €, des revenus non professionnels de 10 000 € et a reçu un intéressement de 2 000 € pour son activité d'artisan.
+
+Déclaration :
+- Dans la rubrique "Revenus imposables" : Renseigner le montant total des revenus professionnels (50 000 €), revenus non professionnels déclarés sous DSXA (10 000 €) et les intéressesments perçus (2 000 €).
+- Dans la rubrique "DSBA" : Reportez le montant des revenus non professionnels qui ne sont pas pris en compte dans la base de calcul des cotisations sociales (si coché DSXA, il s'agit de 10 000 €).
+
+Comparaison régime par défaut vs régime choisi : En optant pour le régime général des travailleurs indépendants, Monsieur Dupont a déclaré ses revenus dans les cas "revenus imposables" et n'a pas bénéficié du régime simplifié applicable aux travailleurs indépendants. En choisissant ce régime, il est susceptible de payer plus de cotisations sociales par rapport au régime simplifié, mais il aura le droit à un plafond d'impôt et d'autres avantages fiscaux qui ne sont pas accessibles dans le régime simplifié.
+
+Calcul clair avec des chiffres ronds : Le montant total de la base de calcul des cotisations sociales de Monsieur Dupont est de 62 000 € (50 000 € de revenus professionnels + 10 000 € de revenus non professionnels déclarés dans la rubrique DSBA - 2 000 € d'intéressement perçu). Il payera donc des cotisations sociales sur cette base, selon les taux applicables.
+
+Synthèse : Pour suivre le régime général des travailleurs indépendants, Monsieur Dupont doit respecter la déclaration fiscale prévue pour ses revenus professionnels et non professionnels et reporter les montants à prendre en compte dans la base de calcul des cotisations sociales dans la bonne rubrique. Il doit également tenir compte de l'impact du régime choisi sur les cotisations sociales et les avantages fiscaux potentiels.

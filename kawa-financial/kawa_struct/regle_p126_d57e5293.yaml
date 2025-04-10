@@ -1,0 +1,41 @@
+id: regle_p126_d57e5293
+titre: Cette règle s'applique aux produits de capitalisation et d'assurance-vie français
+  ou européen, de durée au moins égale à 8 ans, qui ont des versements effectués avant
+  le 27 septembre 2017. Les montants concernés sont les revenus obtenus de ces produits
+  et les montants du prélèvement libératoire de 7,5 %. Les montants possibles d'abattement
+  sont soit 4 600 € ou 9 200 €. La formule de calcul applicable est l'application
+  de l'abattement sur les revenus obtenus après le prélèvement libératoire (si vous
+  avez droit à l'abattement). Il faut vérifier si votre produit et versements correspondent
+  aux conditions précitées pour être sûr d'y avoir droit.
+source: Brochure IR 2024
+regle:
+  description: Cette règle s'applique aux produits de capitalisation et d'assurance-vie
+    français ou européen, de durée au moins égale à 8 ans, qui ont des versements
+    effectués avant le 27 septembre 2017. Les montants concernés sont les revenus
+    obtenus de ces produits et les montants du prélèvement libératoire de 7,5 %. Les
+    montants possibles d'abattement sont soit 4 600 € ou 9 200 €. La formule de calcul
+    applicable est l'application de l'abattement sur les revenus obtenus après le
+    prélèvement libératoire (si vous avez droit à l'abattement). Il faut vérifier
+    si votre produit et versements correspondent aux conditions précitées pour être
+    sûr d'y avoir droit.
+  formule: Détectée, mais sans données exploitables
+cas_pratique: "Nom: Jean Dupont\n   Profession: Cadre supérieur chez XYZ Technologies\n\
+  \   Situation: En 2017, il a investi 50 000 € dans un produit de capitalisation\
+  \ française avec des versements jusqu'en 2026. Il a retiré une libération de 7,5\
+  \ % en 2023, soit 3 750 €.\n   Contexte: En 2024, il déclare ses revenus dans son\
+  \ impôt sur le revenu (IR) et souhaite savoir si il a droit à l'abattement fiscal\
+  \ sur les revenus obtenus de ce produit.\n   Déclaration: Dans la partie 1GF du\
+  \ formulaire d'imposition, Jean Dupont déclare sa libération de 3 750 € sous le\
+  \ code 1AK (libérations) et indique que son produit correspond à l'abattement fiscal.\n\
+  \   Comparaison: En régime par défaut, il ne recevrait aucun abattement sur ses\
+  \ revenus de cet investissement car les conditions pour avoir droit à l'abattement\
+  \ n'avaient pas été remplies jusqu'en 2024. Cependant, en choisissant l'option du\
+  \ régime fiscal spécial pour ce produit, il pourrait recevoir un abattement de 4\
+  \ 600 € car les conditions pour obtenir cet abattement avaient été remplies (investissement\
+  \ avant le 27 septembre 2017 et durée au moins égale à 8 ans).\n   Calcul: En choisissant\
+  \ l'option du régime fiscal spécial, Jean Dupont peut bénéficier d'un abattement\
+  \ de 4 600 € sur les revenus de son investissement de 3 750 €. Cela représente un\
+  \ montant d'abattement de 1 215,48 € (4 600 € / 3 750 €).\n   Synthèse: En choisissant\
+  \ l'option du régime fiscal spécial pour ce produit, Jean Dupont peut bénéficier\
+  \ d'un abattement de 1 215,48 € sur les revenus de son investissement de 3 750 €\
+  \ dans la partie 1GF de son formulaire d'imposition."

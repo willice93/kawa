@@ -1,0 +1,13 @@
+Nom : Pierre Dupont, Médecin généraliste, Résident français
+
+Contexte : En 2021, vous avez perçu des dividendes et intérêts provenant de votre portefeuille d'actions et d'obligations. Vous avez également perçu des revenus provenant d'un logement que vous possédez à Paris.
+
+Montants concernés : Les revenus imposables provenant du patrimoine sont de 10 000€ pour les dividendes et intérêts, et de 50 000€ pour les revenus provenant d'immobilier situé en France.
+
+Formulaire : Dans la déclaration des impôts personnels, vous devrez compléter la case 1GF pour indiquer les revenus provenant du patrimoine.
+
+Calcul : Le montant déductible est obtenu en multipliant le montant total de vos revenus imposables provenant du patrimoine par 6,8 points (au taux de 9,2 %). Pour ce faire, vous pouvez calculer comme suit : 10 000€ (dividendes et intérêts) x 6,8 = 68€ ; 50 000€ (revenus provenant d'immobilier) x 6,8 = 340€. Ensuite, vous pourrez déduire respectivement 68€ et 340€ de vos revenus imposables.
+
+Comparaison : Si vous n'utilisez pas cette option, les montants déductibles seraient de 0, ce qui augmenterait votre impôt personnel. En utilisant cette option, la somme totale des montants déductibles est de 408€ (68€ + 340€).
+
+Synthèse : Afin de réduire votre impôt personnel, vous pouvez utiliser l'option pour le calcul des montants déductibles de la Contribution Sociale Généralisée sur les revenus du patrimoine.

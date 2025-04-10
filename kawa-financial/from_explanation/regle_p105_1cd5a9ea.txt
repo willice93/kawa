@@ -1,0 +1,13 @@
+Règle d'indemnité de fonction des élus locaux :
+
+- À qui s’applique la règle : Élus locaux, quelle que soit le nombre de leurs mandats.
+- Dans quelles conditions : Tout au long de leur mandat et pourvu qu'ils n'aient pas bénéficié du remboursement des frais de transport et de séjour prévu à l'article L. 2123-18-1 du code général des collectivités territoriales, sauf cas de communes de moins de 3 500 habitants où la règle est applicable sans cette condition depuis 2019.
+- Quels sont les montants ou plafonds :
+   - Pour les élus des communes ayant plus de 3 500 habitants :
+      - Montant mensuel du traitement : 684,34 € (du 1er juillet au 30 juin 2023) et 694,60 € (du 1er juillet au 31 décembre 2023).
+      - Montant mensuel de la fraction représentative de frais d’emploi : 17 % du montant mensuel du traitement (cumul de mandats) ou une fois et demie ce montant (mandat unique).
+   - Pour les élus des communes ayant moins de 3 500 habitants :
+      - Montant mensuel du traitement : 1 559,90 € (du 1er juillet au 30 juin 2023) et 1 583,29 € (du 1er juillet au 31 décembre 2023).
+      - Montant mensuel de la fraction représentative de frais d’emploi : 38,75 % du montant mensuel du traitement.
+- Quelle est la formule de calcul applicable : Le montant de l'indemnité sous déduction de la fraction représentative de frais d’emploi = Montant de l'indemnité total - Fraction représentative de frais d’emploi.
+- Et ce qu’il faut vérifier pour être sûr d’y avoir droit : Vérifiez et corrigez si nécessaire le montant de la fraction représentative de frais que vous pouvez déduire en préremplissant les lignes 1AJ à 1DJ.

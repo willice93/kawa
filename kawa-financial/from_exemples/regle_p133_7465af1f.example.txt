@@ -1,0 +1,11 @@
+Nom : Marie Dupont, employée de banque avec un salaire annuel de 21 000 € net
+
+Contexte : Pour l'année 2023, le revenu imposable déclaré par Marie sur la ligne 2CH de son impôt sur le revenu est inférieur à la barre de 4 600 €. Elle a également des revenus non imposables sur la ligne 2DH.
+
+Exemple de calcul : Pour l'année 2023, Marie a un excédent d'abattement non utilisé de 3 800 € (le revenu imposable déclaré sur la ligne 2CH est de 500 € et ses déductions ont permis de diminuer ce montant initial à 4 100 €, ce qui est supérieur au plafond minimal de l'abattement non utilisé de 4 600 €). Cette somme d'excédent peut être appliquée sur les revenus imposables déclarés sur la ligne 2DH. Selon la formule de calcul de la règle, le crédit d'impôt que Marie pourra obtenir sera de 7,5 % du montant de l'excédent d'abattement non utilisé, soit 3 800 € * 7,5 % = 285 €.
+
+Comparaison : Sans cette règle, le crédit d'impôt que Marie pourrait obtenir serait seulement de 91,8 € (selon la formule régulière de calcul du crédit d'impôt sur les revenus non imposables). Ainsi, en utilisant cette règle, elle obtiendra un avantage fiscal supplémentaire de 285 €.
+
+Bonne pratique : Il est important de vérifier que la condition requise de revenu imposable inférieur ou égal à 4 600 € ou 9 200 € sur la ligne 2CH, ou d'absence de revenu déclaré sur cette ligne, soit respectée pour être éligible à ce crédit d'impôt. Si vous disposez d'un revenu imposable supérieur à ces plafonds, il est possible d'utiliser des déductions pour réduire votre revenu imposable au niveau du plafond requis pour pouvoir bénéficier de cette règle.
+
+Note : Il est également important de garder un bon document de tous les calculs effectués et des preuves de la condition requise (revenu imposable inférieur à 4 600 € ou 9 200 € sur la ligne 2CH, ou d'absence de revenu déclaré sur cette ligne) pour pouvoir valider votre demande en cas de contrôle fiscal.

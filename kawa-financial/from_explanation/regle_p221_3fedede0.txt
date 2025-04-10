@@ -1,0 +1,9 @@
+La règle de calcul s'applique aux plus-values de cession de titres bénéficiant de l'abattement pour durée de détention renforcé, ainsi qu'aux gains d'acquisition d'actions gratuites attribuées à compter du 8.8.2015, lorsqu'ils bénéficient de l'abattement pour durée de détention (de droit commun ou renforcé), de l'abattement fixe de 500 000 € ou de l'abattement de 50 %.
+
+Les montants concernés sont la plus-value soumise à l'impôt sur le revenu et la plus-value soumise à la CSG.
+
+La formule de calcul applicable est : la CSG déductible afférente à ces plus-values et gains est déductible du revenu imposable à hauteur du rapport entre le montant de la plus-value soumise à l'impôt sur le revenu et le montant de la plus-value soumise à la CSG.
+
+Pour être sûr d'y avoir droit, il faut vérifier que les conditions suivantes sont réunies :
+- La personne détenteur des titres ou des actions bénéficie de l'abattement concerné.
+- Le titre ou l'action est un titre bénéficiant de l'abattement pour durée de détention renforcé, ou une action gratuite attribuée à compter du 8.8.2015 bénéficiant de l'un des abattements mentionnés (durée de détention, abattement fixe de 500 000 € ou abattement de 50 %).

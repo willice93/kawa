@@ -1,0 +1,11 @@
+Contexte : Une femme nommée Marie, 45 ans, est propriétaire d'une petite entreprise de vente en ligne depuis trois ans. Elle réalise 80 000 € de bénéfice net pour l'exercice fiscal 2021.
+
+Montants concernés : Le revenu fiscal de référence pour Marie est limité à 67 450 € (limite fiscale variable en fonction de son statut). Le plafond annuel de déduction d'épargne retraite peut être utilisé jusqu'à un maximum de 16 000 €.
+
+Déclaration : Dans le formulaire fiscal, Marie indique son bénéfice net dans la case 1AK (Bénéfices non assujettis au régime fiscal des personnes morales). Elle déclare également sa demande de déduction d'épargne retraite dans la case 1GF.
+
+Comparaison : En régime par défaut, Marie payerait le taux normal de TVA (20%) sur son bénéfice net complet (80 000 €). En choisissant l'option de déduction d'épargne retraite, elle bénéficie d'un réduction de ses impôts à hauteur de 16 000 €.
+
+Calcul clair avec des chiffres ronds : Si Marie choisit le régime par défaut, elle payera 20% de TVA sur 80 000 € (soit 16 000 €). En choisissant l'option de déduction d'épargne retraite, elle ne payera que 20% de TVA sur 64 000 € (le reste de son bénéfice net après avoir déduit le plafond de déduction d'épargne retraite) (soit 13 600 €).
+
+Conclusion : Marie choisit donc l'option de déduction d'épargne retraite en déclarant un bénéfice net de 80 000 € et obtenant une réduction fiscale à hauteur de 16 000 €, ce qui permet de réduire ses impôts passifs de 13 600 €.

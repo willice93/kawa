@@ -1,0 +1,48 @@
+id: regle_p220_9bd3a350
+titre: 'Règle : Déduction de pensions alimentaires pour les contribuables non-résidents'
+source: Brochure IR 2024
+regle:
+  description: "Règle : Déduction de pensions alimentaires pour les contribuables\
+    \ non-résidents\n\n    À qui s’applique la règle: Les contribuables non-résidents\
+    \ de France qui demandent l'imposition de leurs revenus de source française au\
+    \ taux moyen résultant de l'application du barème à l'ensemble de leurs revenus\
+    \ de sources françaises et étrangères.\n\n    Dans quelles conditions: Les pensions\
+    \ alimentaires versées doivent être imposables au nom de leur bénéficiaire en\
+    \ France, et la prise en compte de ces pensions ne doit pas réduire l'impôt déjà\
+    \ dû dans leur État de résidence.\n\n    Quels sont les montants ou plafonds:\
+    \ Il n’y a pas de montant spécifique défini pour cette déduction, mais il faut\
+    \ vérifier que la prise en compte de ces pensions alimentaires ne minore pas l'impôt\
+    \ dont ils sont redevables dans leur État de résidence.\n\n    Quelle est la formule\
+    \ de calcul applicable: Pour le calcul du taux moyen, les pensions alimentaires\
+    \ doivent être déduites du total des revenus de sources françaises et étrangères.\n\
+    \n    Et ce qu’il faut vérifier pour être sûr d’y avoir droit: Les contribuables\
+    \ non-résidents doivent vérifier que les pensions alimentaires sont imposables\
+    \ au nom du bénéficiaire en France et ne réduisent pas l'impôt déjà dû dans leur\
+    \ État de résidence."
+  formule: Non spécifiée
+cas_pratique: "Titre : Déduction de pensions alimentaires pour contribuables non-résidents\
+  \ en France : Un cas concret\n\n Nom: Marie Dupont\n Profession: Ingénieur civil\
+  \ (Revenus français : 120 000€, Revenus étrangers : 80 000€)\n État de résidence:\
+  \ États-Unis\n\n Contexte : Marie Dupont est un ingénieur civil qui vit actuellement\
+  \ aux États-Unis. Elle a fait une demande pour être imposée au taux moyen en France\
+  \ sur les revenus provenant de sources françaises et étrangères. En outre, elle\
+  \ versait des pensions alimentaires (10 000€ par an) à son ex-époux qui est demeuré\
+  \ en France.\n\n Montants concernés:\n - Revenus français : 120 000€\n - Revenus\
+  \ étrangers : 80 000€\n - Pensions alimentaires : 10 000€ (par an)\n\n Formule de\
+  \ calcul applicable: Les pensions alimentaires doivent être déduites du total des\
+  \ revenus de sources françaises et étrangères, afin de déterminer le taux moyen.\
+  \ Par exemple, les revenus totaux sont de 200 000€ (120 000€ + 80 000€). Ainsi,\
+  \ les pensions alimentaires seront déduites de cette somme et la taux moyen sera\
+  \ calculé sur le résultat.\n\n Décision : Marie Dupont peut bénéficier de la déduction\
+  \ de pensions alimentaires si elle vérifie que celles-ci sont imposables au nom\
+  \ du bénéficiaire en France et ne réduisent pas l'impôt déjà dû dans son État de\
+  \ résidence. Si elle le fait, sa taux moyen sera calculé sur les revenus net de\
+  \ ses pensions alimentaires (190 000€ - 10 000€ = 180 000€).\n\n Comparaison du\
+  \ régime par défaut vs l'option choisie: En tant que contribuables non-résident,\
+  \ Marie Dupont doit s'assurer que sa demande pour être imposée au taux moyen est\
+  \ correcte et qu'elle bénéficie des déductions qu'elle lui sont accordées en France.\
+  \ Cela permettra d'éviter les impôts excessifs sur ses revenus français et étrangers.\n\
+  \n Synthèse : Pour les contribuables non-résidents de France, la compréhension de\
+  \ la règle pour la déduction de pensions alimentaires est primordiale. Il convient\
+  \ de s'assurer que ces pensions sont imposables au nom du bénéficiaire en France\
+  \ et ne réduisent pas l'impôt déjà dû dans leur État de résidence."

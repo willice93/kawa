@@ -1,0 +1,3 @@
+# Source: page 167
+
+Déclarez lignes 5AK à 5CK le montant des bénéfices de source étrangère ouvrant droit à un crédit d’impôt égal à l’impôt français. Ces bénéfices ne seront pas retenus pour le calcul du prélèvement à la source. Ne les déclarez pas lignes 5HC à 5JC.

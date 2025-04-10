@@ -1,0 +1,11 @@
+Context : Marie Lefèvre, 42 ans, ingénieur en informatique pour le compte d'une grande entreprise de technologie. Elle a investi une partie de ses économies dans des options sur titres de sociétés innovantes. En 2023, elle décide de lever ces options et réalise un gain important.
+
+Amounts : Les options ont coûté à Marie 50 000 € en 2019 et ont été levées en 2023 pour une valeur de 400 000 €. Son revenu annuel est de 80 000 €.
+
+Declaration : Dans le formulaire de déclaration des impôts, elle indique la réalisation du gain sur les options dans la case 1AK (Gains d'immobilisations financières et de titres de sociétés). Elle ne déclare pas les abattements prévus à l'article 150-0 D, 200 A ou 150-0 D ter du CGI.
+
+Comparison : Si Marie avait choisi le régime par défaut, elle aurait pu bénéficier d'abattements sur les gains de ses options. Toutefois, en choisissant de ne pas se conformer à ces règles, elle déclare complètement les gains sur les options et paye l'impôt sur le revenu du solde (50 000 € gain + 80 000 € revenu - 63 500 € plafond d'abattement général).
+
+Calcul : Marie doit payer un impôt de 142 500 € (50 000 € gain + 80 000 € revenu - 63 500 € plafond d'abattement général = 142 500 €).
+
+Conclusion : En choisissant de ne pas s'appliquer aux conditions requises pour les abattements prévus à l'article 150-0 D, 200 A ou 150-0 D ter du CGI lors de la levée d'options sur titres, Marie declare un gain et un revenu plus élevés, et donc paie un impôt supplémentaire.

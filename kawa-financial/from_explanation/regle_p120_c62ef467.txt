@@ -1,0 +1,9 @@
+Règle appliquée aux personnes fiscalement domiciliées en France :
+
+Les conditions : Les pensions de source étrangère telles que celles de retraite, d'invalidité et alimentaires sont concernées à condition qu'elles ne soient pas éligibles pour un crédit d'impôt égal à l'impôt français. Les pensions qui ouvrent droit à un crédit d'impôt égal à l'impôt étranger (déclarables sur les lignes 8VM, 8WM, 8UM) et celles qui n'ouvrent pas droit au crédit d'impôt sont prises en compte.
+
+Les montants : Le montant des pensions à déclarer est déterminé pour chaque pension spécifique. Les pensions déclarées sur les lignes 1AM et 1BM de la 2047 sont considérées pour le calcul de l'acompte à verser dans le cadre du PAS (Plan d'épargne en avenir).
+
+La formule de calcul applicable : Il n'y a pas de formule spécifique de calcul. Les montants des pensions sont déclarés et retenus pour le calcul de l'acompte à verser dans le cadre du PAS.
+
+Vérification pour être sûr d'y avoir droit : Il faut vérifier que les pensions décrétées sont effectivement de source étrangère, qu'elles ne sont pas éligibles pour un crédit d'impôt égal à l'impôt français et qu'ils sont déclarés dans la 2047.

@@ -1,0 +1,13 @@
+Titre : Calcul du revenu fiscal de référence pour un non-résident qui a vendu une propriété en France
+
+Contexte : Nous avons le cas de Monsieur Dupont, un résident canadien ayant vécu à Vancouver pendant plus de 5 ans. En mai 2023, il a vendu sa maison située à Paris pour la somme de 1 200 000 €.
+
+Montants concernés : Les revenus de référence sont déterminés en additionnant les revenus provenant de toutes les sources (y compris des plus-values immobilières). Dans ce cas, le montant de la plus-value immobilière est de 1 200 000 €.
+
+Declaration : Les plus-values immobilières sont déclarées dans la case 1AK du formulaire de déclaration de revenus.
+
+Comparaison : Si Monsieur Dupont n'avait pas choisi l'option de régime spécial pour les non-résidents, son revenu fiscal serait calculé en application du régime par défaut français, ce qui aurait entraîné des impôts supérieurs.
+
+Calcul : En additionnant la plus-value immobilière (1 200 000 €) à ses autres revenus de référence pour l'année 2023, le total du revenu fiscal de référence est de 1 500 000 €.
+
+Conclusion : En appliquant cette règle fiscale lors d'une vente d'immobilier en France par un non-résident, les plus-values immobilières sont prises en compte pour déterminer le revenu fiscal de référence qui sera utilisé pour calculer les impôts.

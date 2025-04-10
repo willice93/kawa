@@ -1,0 +1,3 @@
+# Source: page 364
+
+EXEMPLE Un couple marié avec deux enfants à charge (3 parts) dispose d’un revenu net imposable de 54 000 €. – Calculer le revenu par part : 54 000 €/3 = 18 000 € Cette somme est comprise entre 11 294 € et 28 797 € – Multiplier le revenu net imposable par le taux correspondant à cette tranche de revenu : 54 000 € × 0,11 = 5 940 € – Déduire du résultat 1 242,34 € × 3 = 3 727,02 € – Impôt brut : 5 940 € – 3 727,02 € = 2 212,98 € arrondi à 2 213 €

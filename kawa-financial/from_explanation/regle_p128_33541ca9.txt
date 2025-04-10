@@ -1,0 +1,12 @@
+La règle s'applique aux personnes physiques qui perçoivent des dividendes issus de Plans d'épargne en actions (PEA).
+
+Les conditions pour appliquer cette règle sont les suivantes :
+- Les dividendes sont exonérés d'impôt sur le revenu, à condition que certains précautions soient prises concernant la ligne 2FU.
+- Les dividendes issus des sociétés d'investissements immobiliers cotées (SIIC) et des sociétés de placement à prépondérance immobilière à capital variable (SPPICAV) ne bénéficient pas de l'abattement de 40 % et doivent être déclarés ligne 2TS.
+- Les revenus distribués pris en compte pour la détermination du bénéfice imposable de votre entreprise ou de la société de personnes dont vous êtes associé sont à déclarer ligne 2DC.
+
+Le montant correspond aux dividendes perçus sur le PEA qui sont exonérés d'impôt sur le revenu.
+
+La formule de calcul applicable est de déclarer ces dividendes comme is au niveau des lignes 2DC.
+
+Pour être sûr d'y avoir droit, il faut vérifier que les dividendes perçus sont en effet issus de PEA et qu'ils sont exonérés d'impôt sur le revenu, conformément aux conditions mentionnées précédemment.

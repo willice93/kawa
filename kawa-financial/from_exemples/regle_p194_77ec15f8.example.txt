@@ -1,0 +1,25 @@
+Titre : Reduction de CSG pour bénéficiaires d'aides financières - Exemple pratique
+
+Situation : Mme Marie Dupont, veuve de 62 ans, qui reçoit régulièrement une allocation de veuve et une aide pour personnes âgées handicapées (APAH) depuis plusieurs années. Son revenu total est inférieur au plafond imposé par le gouvernement pour bénéficier de ces aides financières.
+
+Revenus concernés :
+- Allocation de veuve : 1 200 €/mois (montant initial des aides)
+- Aide pour personnes âgées handicapées (APAH) : 800 €/mois (montant initial des aides)
+
+Déclaration des revenus dans les bonnes cases :
+- Allocation de veuve : 1AK
+- Aide pour personnes âgées handicapées (APAH) : 1GF
+
+Calcul de la CSG à 3,8 % :
+- Partie de la CSG au taux de 3,8 % sur l'allocation de veuve : 1200 * 0.038 = 45,6 €/mois
+- Partie de la CSG au taux de 3,8 % sur l'aide pour personnes âgées handicapées (APAH) : 800 * 0.038 = 30,4 €/mois
+
+Calcul des aides financières rémunérées avec application de la CSG à 3,8 % :
+- Montant net d'aide obtenu pour l'allocation de veuve : 1200 - 45,6 = 1154,4 €/mois
+- Montant net d'aide obtenu pour l'APAH : 800 - 30,4 = 769,6 €/mois
+
+Comparaison du régime par défaut vs l'option choisie :
+- Régime par défaut : Les montants des aides financières sont taxés au taux général de CSG (15 %). Dans ce cas, les montants à retenir seraient respectivement de 180 €/mois pour l'allocation de veuve et 120 €/mois pour l'APAH.
+- Option choisie : La partie de la CSG au taux de 3,8 % uniquement est prise en compte dans le calcul des aides financières rémunérées. Les montants à retenir sont donc respectivement de 45,6 €/mois pour l'allocation de veuve et de 30,4 €/mois pour l'APAH.
+
+Conclusion : Par application de la règle énoncée, Mme Dupont peut conserver un montant supérieur grâce à la réduction de la CSG au taux de 3,8 % sur ses aides financières, ce qui permettra d'améliorer sa situation financière.

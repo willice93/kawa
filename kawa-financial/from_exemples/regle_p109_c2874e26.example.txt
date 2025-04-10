@@ -1,0 +1,23 @@
+Nom : Jean Doe
+   Profession : Directeur général d'une entreprise à but non lucratif avec moins de 50 salariés, nommée "L'association pour la protection de l'environnement"
+   Situation : En 2023, l'entreprise a réalisé un bénéfice de 45 000 €.
+
+   **Exemple de déclaration fiscale**
+
+   Ligne 1AK - Bénéfice total de l'entreprise : 45 000 €
+
+   Ligne 1GF - Exonération pour les entreprises couvertes par un accord d'intérêt ou d'accord de participation : 6 000 € (exonéré)
+
+   **Comparaison**
+
+   Sous le régime par défaut, l'impôt serait calculé sur le bénéfice total de 45 000 €. Avec l'option choisie, la déduction d'une exonération de 6 000 € est applicable, réduisant le montant taxable à 39 000 €.
+
+   **Calcul clair avec des chiffres ronds**
+
+   Sous le régime par défaut : Impôt = (45 000 € - impôts directs et indirects pris en compte) x taux d'impôt.
+
+   Avec l'option choisie : Impôt = (39 000 € - impôts directs et indirects pris en considération) x taux d'impôt.
+
+   **Conclusion**
+
+   Pour l'exercice fiscal 2023, l'entreprise "L'association pour la protection de l'environnement" est éligible à une exonération de 6 000 € grâce aux conditions applicables aux entreprises couvertes par un accord d'intérêt ou d'accord de participation.

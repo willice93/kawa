@@ -1,0 +1,20 @@
+Nom : Marie Dupont, employée indépendante
+Profession : Photographe professionnelle
+Situation : Financièrement stable avec des revenus provenant majoritairement du patrimoine (bénéfices de société).
+
+Montants concernés :
+- Revenu annuel estimé : 80 000€ (cas de régime par défaut) ou 75 000€ (cas d'option choisie)
+- Montant estimé de la CSG déductible initial : 3 000€
+
+Formulaire : Fiche de déclaration annuelle des personnes physiques
+Case concernée : 6DE
+
+Comparaison entre régime par défaut et option choisie :
+- Régime par défaut : CSG déductible à 1,75% sur le revenu estimé (3 000€)
+- Option choisie : CSG déductible calculée sur le plafond de 75 428€ (en 2022), soit 1 302€
+
+Calcul clair avec des chiffres ronds :
+- Régime par défaut : revenu estimé = 80 000€, CSG déductible = 3 000€ (soit un écart de 5 628€)
+- Option choisie : revenu estimé = 75 000€, CSG déductible = 1 302€ (soit un écart de 1 698€)
+
+Pour utiliser cette règle, vérifiez les justificatifs nécessaires afin de prouver l'inexactitude du montant estimé initial de la CSG déductible. Dans ce cas-ci, Marie Dupont doit faire une déclaration correcte dans la case 6DE (CSG déductible) en considérant la possibilité d'option choisie. En optant pour cette dernière, elle réduit son écart de CSG à verser de 5 628€ à 1 698€.

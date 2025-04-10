@@ -1,0 +1,11 @@
+Titre : Réduction fiscale applicabile a les automobilistes que han adquirit un nou vehicle i han facturat des gastos reals de carburant o han escollit l'opció de càrregues de carburant
+
+Context: Maria López, un empleyat autònom que treballa en el sector de la construcció. Ella ha comprat un nou vehicle el passat mes a un preu TTC de 25.000 € amb l'opció de càrregues de carburant inclosa.
+
+Maria ha fet gastos reals de 150 € en carburant durant la primera garantia del vehicle. Ara, ella vol saber si pot aplicar per la reducció fiscal i quant seria.
+
+Calcul: La reducció fiscal que Maria pot aplicar serà de 2250 € (25.000 x 9 %). Però, ha de vèrificar que les condicions esmentades anteriorment siguin complertes i que el montant de la reducció calculada no excedeixi el plafóndimaxim imposat per l'Estat o l'organisme de finançament.
+
+Exemple de declaració: Si Maria escollira el regímen per defecte (1AK), ha de declarar 25.000 € com a preu de la compra del vehicle i 150 € com a gastos reals de carburant en les cases corresponents (1AK, 1GF).
+
+Comparació: Comparem el regímen per defecte amb l'opció de fraus carburant escollida. En el cas del regímen per defecte, la quantia total que Maria ha de declarar seria de 25.150 € (25.000 + 150). Per contra, si ella escollia l'opció de fraus carburant, la quantia total que hauria de declarar seria de 24.875 € (25.000 - 125). Això significa que Maria pot reduir la quantia que ha de declarar en un 375 € escollint l'opció de fraus carburant.

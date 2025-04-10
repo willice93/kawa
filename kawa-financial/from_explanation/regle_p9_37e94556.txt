@@ -1,0 +1,11 @@
+La règle s'applique aux personnes qui n'ont plus de revenus fonciers en 2024.
+
+Les conditions sont :
+- Les charges déductibles CSG doivent être calculées sur les revenus du patrimoine.
+- Si le montant calculé est inexact, il doit être corrigé dans la case 6DE.
+
+La formule de calcul applicable est la d'obtenir la somme des charges déductibles CSG connues, calculées sur les revenus du patrimoine.
+
+Pour être sûr d'y avoir droit, il faut vérifier que :
+- Le montant obtenu correspond exactement aux charges déductibles CSG connues, calculées sur les revenus du patrimoine de l'année en question.
+- Les données renseignées dans la déclaration n°2044 spéciale sont exactes et complètes.

@@ -1,0 +1,7 @@
+La règle s'applique à celui(s) qui effectuent un apport dans leur foyer fiscal. Cette règle est applicabile lorsque la plus-value obtenue lors de cet apport est placée en report d'imposition, avec l'abattement pour durée de détention appliqué.
+
+Les montants ou plafonds concernés sont le montant d'impôt résultant de l'application du barème au revenu imposable du foyer de l'année de l'apport, majoré des plus-values placées en report d'imposition (avec abattement pour durée de détention), et le montant des plus-values placées en report d'imposition (avec abattement).
+
+La formule de calcul applicable est la suivante : taux d'impôt sur le revenu = rapport entre (montant d'impôt résultant de l'application du barème au revenu imposable de l'année de l'apport majoré des plus-values placées en report d'imposition et abattement pour durée de détention) - (montant des plus-values placées en report d'imposition et abattement)
+
+Pour être sûr d'y avoir droit, il faut vérifier que l'on est en possession de documents justifiant les montants d'impôt, les revenus imposables, les plus-values obtenues lors de l'apport et les éventuels abattements.

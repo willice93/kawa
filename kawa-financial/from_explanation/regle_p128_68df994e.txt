@@ -1,0 +1,10 @@
+Cette règle s'applique aux personnes qui ont exercé l'option globale pour la taxation progressively imposable sur les revenus et gains mobiliers, et dans le cas où leurs revenus déclarés sont inscrits à ligne 2DC.
+
+Il existe un plafond de 40 % d'abattement appliqué aux revenus déclarés à cette ligne. Les dépenses déductibles engagées pour l'acquisition du revenu (principalement frais de garde des titres) inscrites à la ligne 2CA sont déduites après l'application de cet abattement de 40 %.
+
+La formule de calcul applicable est simple : si les revenus déclarés à ligne 2DC sont R, l'abattement sera de 40 % de R. Ensuite, les frais de garde des titres seront déduits de cette somme abattue.
+
+Pour être sûr d'y avoir droit : il faut que les conditions suivantes soient remplies :
+- Vous avez exercé l'option globale pour la taxation progressively imposable sur les revenus et gains mobiliers.
+- Vos revenus sont déclarés à ligne 2DC.
+- Les frais de garde des titres inscrits à la ligne 2CA soient vérifiables en tant que dépenses déductibles engagées pour l'acquisition du revenu.

@@ -1,0 +1,14 @@
+Nom: Marie Dupont
+   Profession: Retraitée en 2023 après avoir travaillé pendant 45 ans dans le secteur de l'enseignement
+
+Situation: En 2023, madame Dupont a cessé de percevoir des revenus fonciers. Elle vendit sa maison en décembre 2023 et reçoit les fonds pour son compte courant.
+
+Montants concernés: Les revenus fonciers de l'année 2023 ont été de 15 000€ avant la vente de la maison.
+
+Déclaration dans les bonnes cases si applicable: Les revenus fonciers de l'année 2023 doivent être déclarés dans la case 1AK (Revenus professionnels et agricoles).
+
+Comparison entre régime par défaut vs option choisie: En tant que retraitee, madame Dupont est soumise au régime général. Avec la cessation de ses revenus fonciers en 2023, les revenus de l'année ne seront plus pris en compte pour le calcul des acomptes.
+
+Calcul clair avec des chiffres ronds: Si Marie Dupont n'avait pas cessé de percevoir des revenus fonciers en 2023, ses acomptes seraient calculés sur une base de 15 000€ + les revenus de son travail. En 2023, elle gagne 30 000€ professionnellement. Avec le régime général, cela fait un total de 45 000€ de revenus annuels. Les acomptes seraient donc de 10% (taux d'acomptes en France) de 45 000€, soit 4 500€. Mais avec la cessation de ses revenus fonciers, les acomptes sont calculés uniquement sur les revenus de son travail et ne prennent pas en compte les revenus de 2023 issus des revenus fonciers (15 000€). Les acomptes seraient donc de 4 500€ seulement.
+
+Conclusion: La cessation de ses revenus fonciers en 2023 permet à madame Dupont de réduire de moitié son montant d'acomptes pour cette année, passant de 4 500€ à 2 250€.

@@ -1,0 +1,21 @@
+Nom: Jean Dupont, architecte indépendant
+
+Situation: M. Dupont a vendu son appartement en 2021 et a réalisé une plus-value de 350 000€. Il a également reçu un héritage de 100 000€ en 2019, qui constitue une créance mentionnée dans le texte (3XA).
+
+Calculs :
+- Plus-value de l'appartement : 350 000€
+- Héritage reçu en 2019 : 100 000€
+
+Régime par défaut : Taux de prélèvement de 17,2 % sur les autres types de plus-values et créances (3XM ou 3XA).
+
+Option choisie pour l'héritage de 2019 : Imposition et contributions pour le compte des retraites (CEHR) appliquées en plus de la taxe sur le revenu (IR), avec un taux de prélèvement de 15,5 %.
+
+Declaration :
+- Plus-value de l'appartement : 3AK (Impôt sur les plus-values au barème - 3WM)
+- Héritage de 2019 : 1GF (Impôts directs de personnes physiques - Héritages, donations et legataires universels)
+
+Calcul des impôts :
+- Plus-value de l'appartement : 350 000€ x 17,2 % = 60 600€ (Impôt sur les plus-values au barème - 3WM)
+- Héritage de 2019 : 100 000€ x 15,5 % = 15 500€ (Impôts directs de personnes physiques - Héritages, donations et legataires universels - CEHR)
+
+Synthèse : M. Dupont doit payer un impôt sur les plus-values de 60 600€ pour sa plus-value de l'appartement en 2021 (3AK), ainsi qu'un impôt supplémentaire de 15 500€ pour son héritage reçu en 2019 (1GF).

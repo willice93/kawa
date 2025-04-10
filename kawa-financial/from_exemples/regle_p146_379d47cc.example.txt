@@ -1,0 +1,9 @@
+Context : Jean Dupont, 45 ans, ingénieur en informatique, a vendu sa maison située à Paris pour un montant de 900 000 euros. Il avait acheté la propriété il y a 12 ans et l'a vendue à un particulier qui lui offrait l'option pour l'imposition au barème.
+
+Application : Le montant de la plus-value sur la vente est de 850 000 euros (900 000 - 50 000 = acquisition). En appliquant l'exonération de 50 %, le montant imposable est de 425 000 euros.
+
+Déclaration : La fraction de plus-value imposable est déclarée sur la ligne 3VG (425 000 euros) et l'abattement pour durée de détention est appliqué sur la ligne 3SG (12 ans x 2 % = 24 000 euros). Enfin, la fraction de plus-value exonérée est déclarée sur la ligne 3VQ (50 % de la plus-value imposable = 212 500 euros).
+
+Comparaison : En comparant le régime par défaut avec l'option choisie, on constate que l'option pour l'imposition au barème permet un abattement supplémentaire de 24 000 euros.
+
+Résumé : Pour Jean Dupont, la vente de sa maison à un particulier ayant l'option pour l'imposition au barème a été fiscalement bénéfique, avec un abattement supplémentaire de 24 000 euros et une exonération de 212 500 euros sur la plus-value.

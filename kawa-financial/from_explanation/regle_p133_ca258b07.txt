@@ -1,0 +1,7 @@
+La règle s'applique aux propriétaires de contrats d'assurance-vie et de bons de capitalisation issus de sources françaises ou européennes qui ont opté pour le prélèvement libératoire de 7,5%. Cette règle est applicable lorsque les montants en question sont utilisés pour l'application de l'abattement fiscal de 4600 € (ou 9200 €).
+
+La formule de calcul consiste à prendre le montant des produits des contrats mentionnés sur la ligne 2DH de votre déclaration fiscale.
+
+Pour être sûr d'y avoir droit, il est nécessaire de vérifier les deux conditions suivantes :
+- Le prélèvement libératoire de 7,5% a été effectué sur les produits des contrats mentionnés.
+- Les contrats en cause ont été ouverts à partir du 1er janvier 2008. (Cette condition ne s'applique pas pour l'abattement de 9200 €)

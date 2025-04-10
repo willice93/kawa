@@ -1,0 +1,14 @@
+Nom: Jean Dupont, employé à XYZ Corporation depuis 5 ans avec un revenu annuel de 60 000 € avant taxes.
+
+Situation : Je suis actionnaire de 1000 actions de ma propre société et j'ai décidé de les vendre pour un montant total de 72 000 €. J'ai conservé ces actions sous la forme nominative depuis leur acquisition et n'ai jamais donné en location.
+
+Déclaration des plus-values :
+- Gain sur cession de valeurs mobilières : 72 000 € (Montant total de la vente, ligne 3VG)
+
+Comparaison du régime par défaut vs l'option choisie :
+- Si je ne fais aucun choix, le taux applicable sera de 30 % sur mon gain (ligne 1AK). Cela signifierait que j'aurais à payer 21 600 € en taxes.
+- Si je choisis la taxation du gain de levée d'option en salaires, le taux applicable sera de 18 % (ligne 3VJ ou 3VK). Ce choix me permettrait de payer 12 960 € en taxes.
+
+Calcul : En optant pour la taxation du gain de levée d'option en salaires, je réduirais mes taxes de plus-value de 8 640 €.
+
+Conclusion : Il est intéressant de prendre connaissance des différents régimes et conditions de taxation des plus-values de cession de valeurs mobilières avant d'effectuer une telle vente afin d'optimiser les économies fiscales.

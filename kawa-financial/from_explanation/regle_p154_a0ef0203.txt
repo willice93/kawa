@@ -1,0 +1,11 @@
+Règle d'application : Calcul de la contribution salariale sur les gains d'acquisition d'actions gratuites attribuées à compter du 16.10.2007
+
+Cette règle s'applique aux salariés ayant reçu des actions gratuites depuis le 16.10.2007 (ligne 3VN).
+
+Conditions d'application : Les gains d'acquisition doivent être réalisés sur les actions attribuées, et le pourcentage de la contribution salariale est de 10 %.
+
+Montant ou plafond : Il n'y a pas de plafond spécifié dans le texte. Cependant, il convient de vérifier les autres lois ou réglementations applicables en matière d'impôts et de cotisation sociale pour connaître tout plafond potentiel.
+
+Formule de calcul applicable : Montant des gains d'acquisition x 10 % = Montant de la contribution salariale sur les gains d'acquisition
+
+Vérification : Assurez-vous que les gains en question sont ceux des actions gratuites attribuées à compter du 16.10.2007 (ligne 3VN), et que la réalisation de ces gains a été effectivement réalisée. Il est également important de vérifier qu'aucun autre plafond ou règle ne s'applique pour cette même situation, en consultant d'éventuels autres textes législatifs ou réglementaires.

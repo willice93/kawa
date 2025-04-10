@@ -1,0 +1,48 @@
+id: regle_p175_fce430f1
+titre: Cette règle s'applique aux propriétaires qui louent des meublés de tourisme
+  classés situés dans les zones non tendues B2 ou C et qui ont un chiffre d'affaires
+  annuel inférieur à 15 000 € pour ces locations. Les recettes correspondantes doivent
+  être indiquées sur les lignes 5QS, 5RS, 5SS de la déclaration des impôts. Un abattement
+  forfaitaire de 92% (71% + 21%) sera appliqué sur ces recettes, avec un minimum de
+  305 €. Il est nécessaire de vérifier que le logement concerné dépend de la zone
+  B2 ou C en utilisant le simulateur disponible sur le site Service Public (https://www.service-public.fr/simulateur/calcul/zonage-abc).
+source: Brochure IR 2024
+regle:
+  description: Cette règle s'applique aux propriétaires qui louent des meublés de
+    tourisme classés situés dans les zones non tendues B2 ou C et qui ont un chiffre
+    d'affaires annuel inférieur à 15 000 € pour ces locations. Les recettes correspondantes
+    doivent être indiquées sur les lignes 5QS, 5RS, 5SS de la déclaration des impôts.
+    Un abattement forfaitaire de 92% (71% + 21%) sera appliqué sur ces recettes, avec
+    un minimum de 305 €. Il est nécessaire de vérifier que le logement concerné dépend
+    de la zone B2 ou C en utilisant le simulateur disponible sur le site Service Public
+    (https://www.service-public.fr/simulateur/calcul/zonage-abc).
+  formule: revenu_brut * (1 - 0.92)
+cas_pratique: "Nom : Jean Dupont, agent immobilier spécialisé dans la location de\
+  \ meublés de tourisme.\n\n   Année calendaire : 2021\n\n   Situation : Possède un\
+  \ appartement situé à Biarritz, dans la zone B2 (zone non tendue), qu'il loue comme\
+  \ meublé de tourisme pendant l'année 2021. Le chiffre d'affaires pour cette location\
+  \ atteint un montant total de 13 500 €.\n\n   Déclaration des impôts :\n\n   - Ligne\
+  \ 1AK : Revenus professionnels: 78 000 € (montant habituel)\n   - Ligne 1GF : Autres\
+  \ revenus (revenus de la location meublé de tourisme): 13 500 €\n   - Ligne 5QS,\
+  \ 5RS et 5SS : 0 € (car ces recettes correspondantes sont exonérées)\n\n   Comparaison\
+  \ : Regime par défaut vs l'option choisie\n\n   - Sous le régime par défaut, Jean\
+  \ Dupont devrait déclarer les 13 500 € de revenus provenant de la location meublé\
+  \ de tourisme et payer l'impôt sur ce montant.\n   - En revanche, en optant pour\
+  \ cette règle, il bénéficie d'un abattement forfaitaire de 92% (71% + 21%) sur ces\
+  \ recettes, avec un minimum de 305 €. Donc, il ne devra pas déclarer ces recettes\
+  \ comme revenus dans son impôt sur le revenu annuel et ne payera pas d'impôt sur\
+  \ cette partie spécifique.\n\n   Calcul clair avec des chiffres ronds : Les 13 500\
+  \ € de revenus provenant de la location meublé de tourisme sont abattus de 92%,\
+  \ ce qui donne 12 725 € d'abattement forfaitaire (13 500 x 0,92). Le reste à déclarer\
+  \ comme revenu est donc 0 €.\n\n   Conclusion : Grâce à cette règle spécifique,\
+  \ Jean Dupont ne devra pas déclarer les 13 500 € de revenus provenant de la location\
+  \ meublé de tourisme pour l'année 2021, et ainsi ne payera pas d'impôt sur cette\
+  \ partie spécifique. Il doit cependant vérifier chaque année que le logement concerné\
+  \ dépend de la zone B2 ou C en utilisant le simulateur disponible sur le site Service\
+  \ Public (https://www.service-public.fr/simulateur/calcul/zonage-abc)."
+calcul:
+  formule: revenu_brut * (1 - 0.92)
+  exemple:
+    revenu_brut: 500
+    abattement: 460
+    revenu_net: 40

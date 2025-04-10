@@ -1,0 +1,9 @@
+La règle en question s'applique aux personnes qui bénéficient d'un abattement fixe de 500 000 € ou d'un abattement pour durée de détention renforcée sur les plus-values.
+
+   Les conditions sont les suivantes :
+    - L'abattement est appliqué aux plus-values bénéficiant du régime fiscal commun à la CSG et à l'impôt sur le revenu (IR).
+    - Il y a un montant de la plus-value soumise à l'impôt sur le revenu, après abattement, qui est utilisé pour calculer le montant de la CSG déductible.
+    - Le montant de la plus-value soumise à la CSG, avant abattement, est également nécessaire pour le calcul.
+   La formule de calcul applicable est : CSG déductible = (Montant de la plus-value soumise à l'impôt sur le revenu après abattement) / (Montant de la plus-value soumise à la CSG avant abattement).
+
+   Pour être sûr d'y avoir droit, il faut vérifier que les plus-values concernées bénéficient bien du régime fiscal commun à la CSG et au IR, et que l'abattement est appliqué comme prévu. Il convient également de faire attention aux délais de dénonciation pour le choix de l'abattement.

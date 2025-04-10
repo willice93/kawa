@@ -1,0 +1,5 @@
+La règle s'applique aux salariés qui perçoivent des rémunérations pour les jours de repos ou RTT (Réduction du Temps de Travail). Les conditions requises sont que les montants perçus ne dépassent pas le plafond annuel de 7 500 € par salarié.
+
+La formule de calcul est simple, il s'agit d'un montant total perçu pour les jours de repos ou RTT au cours de l'année. Si ce montant est inférieur ou égal à 7 500 €, il est entièrement exonéré d'impôt sur le revenu.
+
+Il faut vérifier que les rémunérations perçues pour les jours de repos ou RTT sont exactement celles mentionnées dans l'article 81 quater du Code Général des Impôts (CGI), qui régit également les heures supplémentaires exonérées. Il est important de bien préciser que les limites annuelles ne s'additionnent pas entre ces deux types de rémunération et le plafond maximum applicable à chaque salarié reste donc 7 500 €.

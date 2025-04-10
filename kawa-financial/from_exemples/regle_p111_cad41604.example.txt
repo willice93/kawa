@@ -1,0 +1,7 @@
+Nom : Jeanne Dupont, infirmière à l'Hôpital général de Paris
+   Situation : Jeanne travaille à l'Hôpital général de Paris et vit à 50 kilomètres de là, dans la ville de Versailles. Elle utilise régulièrement le métro et l'autocar pour se rendre au travail chaque jour.
+   Montants concernés : Les coûts mensuels des billets d'autobus sont de 100 euros et les frais de parking sont de 50 euros par mois.
+   Déclaration dans les bonnes cases : Les frais de transport doivent être déclarés dans la case 1AK (Frais de transport) sur la feuille de sa déclaration fiscale annuelle.
+   Comparaison régime par défaut vs option choisie : S'il n'y a pas de déduction pour ces frais, Jeanne paierait 500 euros de plus en impôt chaque année (100 euros * 12 mois = 1200 euros par an / 2). Si elle peut justifier ses frais de transport et la distance supérieure à 40 kilomètres, elle pourra bénéficier de cette déduction et diminuer son impôt d'environ 500 euros.
+   Calcul clair avec des chiffres ronds : Pour l'année 2021, les frais mensuels de transport sont de 100 + 50 = 150 euros par mois et donc de 1800 euros par an. Jeanne paierait 500 euros de moins en impôt s'il peut justifier ses frais.
+   Conclusion : En déclarant correctement ses frais de transport lors de sa déclaration fiscale annuelle, Jeanne peut bénéficier d'une déduction et réduire son montant à verser en impôt. Cela permettra à Jeanne de garder plus de son argent pour les dépenses quotidiennes ou pour l'enregistrer en épargne, par exemple.

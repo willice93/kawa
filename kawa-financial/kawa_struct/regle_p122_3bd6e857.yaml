@@ -1,0 +1,62 @@
+id: regle_p122_3bd6e857
+titre: 'Règle appliquée aux retenues à la source sur les retraites viagères à titre
+  onéreux :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle appliquée aux retenues à la source sur les retraites viagères
+    à titre onéreux :
+
+
+    Conditions d''applicabilité : Les retraite viagère à titre onéreux versées à des
+    personnes domiciliées fiscalement en France.
+
+
+    Montants ou plafonds : Acompte prévu au 2° de l’article 204 A du CGI, calculé
+    par l''administration fiscale.
+
+
+    Formule de calcul applicable : Le montant versé est diminué de l''acompte mentionné
+    ci-dessus.
+
+
+    Vérification pour être sûr d''y avoir droit : Vérifier la nationalité et le domicile
+    fiscal en France du bénéficiaire. En cas de changement de domicile, il est important
+    de notifier cette modification à l''administration fiscale.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titre : Application de la règle sur les retenues à la source sur les
+  retraites viagères à titre onéreux pour une personne domiciliée en France
+
+
+  Contexte : Jean Dupont, 65 ans, professeur émérite à l''Université Paris-Sud, qui
+  a choisi de prendre sa retraite et de vivre à son domicile situé dans la région
+  parisienne. Il a opté pour une retraite viagère à titre onéreux et s''attend à des
+  retenues sur ses retraites.
+
+
+  Montants concernés : Jean Dupont a choisi un taux de retraite viagère à 75% de son
+  salaire net avant retraite. L''acompte calculé par l''administration fiscale pour
+  ce montant est de 15%.
+
+
+  Déclaration : Le montant de la retraite viagère versée à Jean Dupont sera diminué
+  de l''accompte de 15%, c''est-à-dire qu''il recevra 85% du montant initial. Il doit
+  déclarer ce montant dans les cases 1AK sur son formulaire de déclaration annuelle
+  (2042).
+
+
+  Comparaison : Sans cette règle, Jean Dupont recevrait entièrement le montant de
+  sa retraite viagère et pourraient être soumis à un taux supérieur d''imposition.
+  Cependant, en appliquant la règle de retenue à la source sur les retraites viagères
+  à titre onéreux, il doit payer moins d''impôt au cours de l''année calendaire suivante,
+  car le taux d''imposition du régime par défaut serait plus élevé.
+
+
+  Calcul clair avec des chiffres ronds : Jean Dupont a choisi un montant de retraite
+  viagère de 20 000€. L''acompte calculé est de 15%, donc le montant versé sera diminué
+  de 3 000€, ce qui laisse 17 000€ de revenus net pour Jean Dupont pendant l''année
+  calendaire suivante.
+
+
+  Conclusion : En appliquant cette règle, Jean Dupont peut mieux planifier ses finances
+  en connaissant le montant réellement versé pour sa retraite viagère, et éviter des
+  éventuels remboursements d''imposition supplémentaires.'

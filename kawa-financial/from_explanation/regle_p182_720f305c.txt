@@ -1,0 +1,6 @@
+Règle applicables aux Inventeurs non professionnels (CGI, art. 93 quater) :
+- À qui s'applique : Inventeurs et auteurs non professionnels de logiciels originaux qui commercent des produits basés sur un logiciel, une invention brevetable ou un actif incorporel assimilé.
+- Dans quelles conditions : Les produits en question doivent être ceux de cession ou de concession de licences d'exploitation d'un logiciel protégé par le droit d'auteur, d'une invention brevetable ou d'un actif incorporel assimilé.
+- Quels sont les montants ou plafonds : Aucun montant spécifié, mais il s'agit de produits qui doivent être imposés au taux réduit de 10 %.
+- Quelle est la formule de calcul applicable : Les produits en question sont imposables au taux réduit de 10 % et doivent être déclarés dans les lignes 5QJ, 5RJ ou 5SJ. Si ces produits sont soumis aux cotisations sociales par les organismes de sécurité sociale, ils doivent être déclarés dans les cases 5TC, 5UC, 5VC.
+- Et ce qu'il faut vérifier pour être sûr d'y avoir droit : Vérifiez que vous remplissez effectivement les critères de l'inventeur non professionnel (non professionalité).

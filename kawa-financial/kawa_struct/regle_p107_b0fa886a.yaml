@@ -1,0 +1,55 @@
+id: regle_p107_b0fa886a
+titre: 'Règle d''application : Ce montant est applicable aux retraités français et
+  assimilés.'
+source: Brochure IR 2024
+regle:
+  description: 'Règle d''application : Ce montant est applicable aux retraités français
+    et assimilés.
+
+
+    Conditions : Les retraités français bénéficient de cette somme lorsqu''ils ont
+    atteint leur âge de retraite (62 ans pour les hommes, 60 ans pour les femmes depuis
+    le 1er janvier 2023) et s''il n''y a pas d''autres revenus supérieurs à ce montant
+    pendant l''année considérée.
+
+
+    Montants : Le plafond mensuel de la sécurité sociale est de 3 666 € en 2023, avec
+    un montant annuel de 43 992 €.
+
+
+    Formule de calcul applicable : Aucune formule spécifique à appliquer car c''est
+    un plafond fixe et non un montant calculé.
+
+
+    Verification pour y avoir droit : Il faut vérifier que l''on a atteint l''âge
+    de retraite (62 ans pour les hommes, 60 ans pour les femmes depuis le 1er janvier
+    2023) et que l''on n''a pas d''autres revenus supérieurs à ce montant pendant
+    l''année considérée.'
+  formule: Non spécifiée
+cas_pratique: 'Contexte : Un retraité français nommé Paul, âgé de 65 ans et veuf depuis
+  deux ans, vit seul depuis son logement qu''il a acquis en 1987. Son seul revenu
+  est sa retraite mensuelle de 2 000 €.
+
+
+  Montants concernés : Le plafond mensuel de la sécurité sociale est de 3 666 €, avec
+  un montant annuel de 43 992 €. Son revenu mensuel est de 2 000 € et son revenu annuel
+  est de 24 000 €.
+
+
+  Declaration : Paul doit déclarer dans les cases 1AK et 1GF sur sa déclaration d''imposition
+  des personnes physiques (DIFP).
+
+
+  Comparaison régime par défaut vs l''option choisie : En tant que retraité, le régime
+  de retraite est appliqué par défaut. Il n''a pas choisi d''autres options fiscales.
+
+
+  Calcul clair avec des chiffres ronds : En 2023, Paul ne dépasse pas le plafond de
+  3 666 € mensuel de la sécurité sociale. Son revenu annuel est inférieur au montant
+  annuel de cette aide (24 000 € < 43 992 €).
+
+
+  Conclusion : Paul, étant un retraité français et ayant atteint l''âge de retraite
+  et n''ayant pas d''autres revenus supérieurs à ce plafond pendant l''année considérée,
+  est éligible à cette aide mensuelle de la sécurité sociale. En utilisant les cas
+  1AK et 1GF pour sa déclaration DIFP, il bénéficiera de 3 666 € par mois en 2023.'

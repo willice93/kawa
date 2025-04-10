@@ -1,0 +1,6 @@
+Règle applicabile per la deduzione di spese e cariche:
+   - Applicabile a: i contribuenti che hanno scelto l'opzione baratta
+   - Condizioni: quando vengono pagate le spese o le cariche in questione
+   - Montanti/plafond: il limite per le deduzioni è stabilito dalla legge fiscale attuale
+   - Formula di calcolo: la deduzione della spesa o della carica è possibile dopo averla provata e documentata con i necessari bilanci e receipt
+   - Verifica per essere sicuro di diritto a questa deduzione: verificare che la spesa o la carica sia stata pagata in relazione alla propria attività commerciale o professionale, e che sia stata provata ed evidenziata con i necessari documenti.

@@ -1,0 +1,29 @@
+Règle d'application des prélèvements sociaux en France :
+
+- À qui s’applique la règle : Tous les revenus de toutes les personnes physiques résidant en France ou non, soumis aux prélèvements sociaux.
+- Dans quelles conditions : Les différents types de revenus sont classés selon des critères différents et chaque catégorie a son propre plafond et formule de calcul applicable.
+
+  1. Revenus déjà soumis aux prélèvements sociaux sans CSG déductible (2CG) : Les revenus qui ne sont pas exonérés du prélèvement de solidarité, tels que le revenu d'indemnisation complémentaire de retraite (IRC), les dividendes et les gains des opérations immobilières.
+   - Plafond : Il n’y a pas de plafond pour ces revenus.
+   - Formule de calcul : La taxe est fixée à 20% du montant de l'impôt sur le revenu (IR) déterminé sur les revenus considérés.
+   - Vérifier : Les revenus doivent être déjà soumis aux prélèvements sociaux et ne pas être exonérés du prélèvement de solidarité.
+
+  2. Revenus déjà soumis aux prélèvements sociaux avec CSG déductible si option barème (2BH) : Les revenus salariés ou les revenus de profession libérale pour lesquels on a choisi l'option barème de calcul des impôts.
+   - Plafond : Le plafond annuel pour ces revenus est de 36 048 € (2021). En cas d’excéder ce plafond, le prélèvement de solidarité est appliqué à la totalité du montant.
+   - Formule de calcul : La CSG déductible est fixée à 7,5% du montant de l'IR déterminé sur les revenus considérés. Le reste des revenus (soumis au prélèvement de solidarité) est soumis à la taxe de 17,2% pour un maximum annuel de 381 € par personne (2021).
+   - Vérifier : Les revenus doivent être déjà soumis aux prélèvements sociaux et il doit y avoir option barème choisie pour le calcul des impôts.
+
+  3. Autres revenus déjà soumis aux prélèvements sociaux avec CSG déductible (2DF) : Les revenus tels que les pensions de retraite complémentaires, les allocations familiales, les pensions de cessation d'activité ou de chômage, etc.
+   - Plafond : Il n’y a pas de plafond pour ces revenus.
+   - Formule de calcul : La CSG déductible est fixée à 7,5% du montant de l'IR déterminé sur les revenus considérés. Le reste des revenus (soumis au prélèvement de solidarité) est soumis à la taxe de 14% pour un maximum annuel de 381 € par personne (2021).
+   - Vérifier : Les revenus doivent être déjà soumis aux prélèvements sociaux et ne pas appartenir à une autre catégorie de revenu.
+
+  4. Revenus soumis au seul prélèvement de solidarité de 7,5 % (2DG) : Les revenus tels que le revenu de capital (RC), les intérêts et les gains mobiliers.
+   - Plafond : Il n’y a pas de plafond pour ces revenus.
+   - Formule de calcul : Le prélèvement de solidarité est fixé à 7,5% du montant de l'IR déterminé sur les revenus considérés.
+   - Vérifier : Les revenus doivent être déjà soumis aux prélèvements sociaux et ne pas appartenir à une autre catégorie de revenu.
+
+  5. Revenus soumis au seul prélèvement de solidarité à soumettre à la CSG et à la CRDS (2DI) : Les revenus tels que les gains provenant d'opérations immobilières avec une durée minimale de garde de 5 ans, les gains des sociétés civiles de placement (SCP), les profits d'entreprise pour les sociétés de personnes (SARL) et les revenus provenant de la location de biens affectés à l'habitation.
+   - Plafond : Il n’y a pas de plafond pour ces revenus.
+   - Formule de calcul : Le prélèvement de solidarité est fixé à 7,5% du montant de l'IR déterminé sur les revenus considérés. La CSG et la CRDS sont appliquées en fonction des autres revenus de la personne concernée.
+   - Vérifier : Les revenus doivent être déjà soumis aux prélèvements sociaux et ne pas appartenir à une autre catégorie de revenu.

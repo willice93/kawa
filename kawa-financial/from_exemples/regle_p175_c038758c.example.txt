@@ -1,0 +1,17 @@
+Titre : Application de la cotisation sociale et contribution sociale pour l'activité de location meublée de courte durée et hébergement touristique - Exemple réel
+
+Nom et Prénoms : Jean-Pierre Dupont, professionnel d'hôtellerie
+
+Situation : M. Dupont exploite une petite entreprise d'hébergement touristique à Montpellier dans le sud de la France. Il loue des chambres dans deux bâtiments situés dans la ville et propose également une location meublée de courte durée.
+
+Revenus : Les revenus annuels de M. Dupont sont supérieurs à 23 000 € (1AK). Son revenu imposable des activités d'hébergement touristique est de 8 500 €, et son revenu imposable des activités de location meublée de courte durée est de 49 000 €.
+
+Calcul : En application de la règle ci-dessus, M. Dupont doit payer des cotisations sociales et contributions sociales sur ses revenus d'activités d'hébergement touristique (8 500 €) et de location meublée de courte durée (49 000 €).
+
+Declarations : Les déclarations à faire sont celles des impôts sur les revenus professionnels pour chaque activité. Pour les cotisations sociales, il doit remplir la case 1GF dans le tableau de déclaration des cotisations sociales.
+
+Comparaison : En régime par défaut, M. Dupont payerait une cotisation sociale à 94,65 % sur les revenus d'hébergement touristique et 83,10 % sur les revenus de location meublée de courte durée (cotisations sociales générales). Cependant, en choisissant l'option du régime réduit des personnes indépendantes, M. Dupont verra sa cotisation sociale sur ses revenus d'hébergement touristique et de location meublée de courte durée être réduite à 13 % (cotisations sociales réduites).
+
+Calcul clair : En régime par défaut, M. Dupont payerait des cotisations sociales sur les revenus d'hébergement touristique de 8 500 € * 94,65 % = 7 971,75 €, et sur les revenus de location meublée de courte durée de 49 000 € * 83,10 % = 40 279 €. En choisissant l'option du régime réduit des personnes indépendantes, M. Dupont payera des cotisations sociales sur les revenus d'hébergement touristique de 8 500 € * 13 % = 1 105 €, et sur les revenus de location meublée de courte durée de 49 000 € * 13 % = 6 370 €.
+
+Conclusion : En choisissant le régime réduit des personnes indépendantes pour ses activités d'hébergement touristique et de location meublée de courte durée, M. Dupont verra sa cotisation sociale réduite de manière significative. Il doit également déclarer ses revenus dans les bonnes cases pour chaque activité pour respecter les règles applicables en matière de cotisations sociales.

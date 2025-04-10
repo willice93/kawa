@@ -1,0 +1,10 @@
+Règle appliquée : Crédit d'impôt sur les cotisations syndicales
+
+   Conditions d'application : Les salariés qui perçoivent un salaire net imposable supérieur à zéro et payent des cotisations syndicales sont éligibles pour ce crédit.
+
+   Montants ou plafonds : La limite de déduction des cotisations syndicales est de 270 € (1 % de 27 000 € salaire net imposable). Le montant du crédit d'impôt est de 270 € x 66 %, ce qui donne un crédit d'impôt de 178 €.
+
+   Formule de calcul : Crédit d'impôt = (Déduction des cotisations syndicales) x Taux d'imposition sur le crédit d'impôt
+                                            = (270 €) x 66 %
+
+   Vérification pour être sûr d'y avoir droit : Les salariés doivent être éligibles au crédit d'impôt et payer des cotisations syndicales inférieures à la limite de déduction (270 € dans l'exemple). Ils doivent également respecter les autres conditions générales applicables pour bénéficier du crédit d'impôt.

@@ -1,0 +1,13 @@
+Cette règle s'applique aux gains obtenus sur l'option d'achat de logement en France.
+
+Les conditions sont que le montant du gain annuel ne dépasse pas 152 500 € pour la fraction taxable à 30 % (ligne 3VI), et supérieur à 152 500 € pour la fraction taxable à 41 % (ligne 3VF).
+
+Le plafond est de 152 500 € pour le montant du gain annuel en dessous duquel il est taxé à 30 %, et plus que 152 500 € pour la fraction taxable à 41 %.
+
+La formule de calcul applicable est :
+- Pour la fraction taxable à 30 % (jusqu'à 152 500 €), Taxe = Gain * 0.30
+- Pour la fraction taxable à 41 %, (au-delà de 152 500 €), Taxe = (Gain - 152 500) * 0.41
+
+Pour être sûr d'y avoir droit, il faut vérifier que :
+- Le montant du gain annuel ne dépasse pas le plafond de 152 500 € pour la fraction taxable à 30 % (ligne 3VI).
+- Les conditions spécifiques aux options d'achat de logement ont été respectées.

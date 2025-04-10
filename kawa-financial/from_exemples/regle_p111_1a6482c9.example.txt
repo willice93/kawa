@@ -1,0 +1,17 @@
+Nom : Julien Moreau
+   Profession : Chauffeur taxi à Paris
+   Situation : Achat d'un véhicule électrique (Tesla Model 3)
+
+   Montant initial du barème applicable aux véhicules thermiques (selon l'annexe IV du Code général des impôts) : 800 €/an
+   Montant ajouté pour le passage au véhicule électrique (calcul de 20 % sur le montant initial) : 160 €/an
+   Montant total à déclarer pour la TVA sur le véhicule : 960 €/an
+
+   Déclaration : TVA, 1AK, 800 € (montant initial) + 160 € (ajout pour passage au véhicule électrique) = 960 €
+
+   Comparaison régime par défaut vs option choisie :
+   - Régime par défaut (TVA sur les véhicules thermiques) : montant à déclarer : 800 €/an
+   - Option choisie (TVA sur les véhicules électriques) : montant à déclarer : 960 €/an
+
+   Calcul clair avec des chiffres ronds : En passant de un véhicule thermique à un véhicule électrique, le montant total à déclarer augmentera de 160 €/an.
+
+   Conclusion : Ainsi, si vous optez pour l'achat d'un véhicule électrique comme votre nouveau taxi, prenez soin de déclarer correctement la TVA dans les bonnes cases et prendez en compte l'augmentation du montant à déclarer de 160 €/an.

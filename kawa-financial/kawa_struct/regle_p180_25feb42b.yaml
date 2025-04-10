@@ -1,0 +1,80 @@
+id: regle_p180_25feb42b
+titre: 'Règle d''application de la taxe sur une indemnité acquise à titre onéreux
+  de fonds de commerce et de clientèle :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle d''application de la taxe sur une indemnité acquise à titre
+    onéreux de fonds de commerce et de clientèle :
+
+
+    Cette règle s''applique aux personnes qui reçoivent une indemnité acquise en 2023
+    à titre onéreux de fonds de commerce ou de clientèle.
+
+
+    Les conditions requises sont que la plus-value soit exonérée.
+
+
+    Les montants ou plafonds concernés sont les suivants :
+
+    - Pour une indemnité n’excédant pas 23 000 €, le taux est de 0 %.
+
+    - Pour une indemnité comprise entre 23 000 € et 107 000 €, le taux est de 2 %.
+
+    - Pour une indemnité comprise entre 107 000 € et 200 000 €, le taux est de 0,60
+    %.
+
+    - Pour une indemnité supérieure à 200 000 €, le taux est de 2,60 %.
+
+
+    La formule de calcul applicable est la suivante : pour chaque personne titulaire
+    d''une indemnité, on multiplie la somme de l''indemnité par son taux correspondant
+    (selon les plafonds définis précédemment) et on additionne ces montants pour obtenir
+    la taxe totale.
+
+
+    Il faut vérifier que l''indemnité est acquise en 2023 à titre onéreux de fonds
+    de commerce ou de clientèle, qu''elle est exonérée de la plus-value et que les
+    montants sont exacts pour être sûr d''y avoir droit.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Contexte : Pierre, 45 ans, est devenu propriétaire en 2023 d''un magasin
+  de vente de matériel informatique. Il a acquis cette entreprise avec son épouse
+  pour un montant de 175 000 €, en payant 50 000 € en espèces et en prenant un prêt
+  bancaire de 125 000 €. Le reste du prix d''acquisition est une indemnité acquise
+  à titre onéreux de fonds de commerce et de clientèle.
+
+
+  Calcul de la taxe sur cette indemnité :
+
+  - Pour le montant compris entre 23 000 € et 107 000 €, le taux est de 2 %. Donc
+  152 000 € (le total de l''indemnité moins les 50 000 € déjà payés en espèces) x
+  2% = 3 040 €.
+
+  - La taxe sur la partie supérieure du montant (ici, le seul cas applicable est pour
+  une indemnité supérieure à 200 000 € avec un taux de 2,60 %) est de 175 000 € x
+  2,60% = 4 625 €.
+
+  - La taxe totale sur l''indemnité acquise à titre onéreux de fonds de commerce et
+  de clientèle est donc 3 040 € + 4 625 € = 7 665 €.
+
+
+  Déclaration dans les bonnes cases :
+
+  - Pour le montant compris entre 23 000 € et 107 000 €, la déclaration est dans la
+  case 1AK.
+
+  - La taxe sur la partie supérieure du montant (ici, le seul cas applicable est pour
+  une indemnité supérieure à 200 000 € avec un taux de 2,60 %) doit être déclarée
+  dans la case 1GF.
+
+
+  Comparaison avec le régime par défaut : si l''indemnité avait été acquise à titre
+  gratuit, elle aurait été totalement imposable. En revanche, en optant pour cette
+  règle d''imposition sur une indemnité acquise à titre onéreux de fonds de commerce
+  ou de clientèle, Pierre et son épouse ont réduit leur charge fiscale par rapport
+  au régime par défaut.
+
+
+  Conclusion : Cette règle est utile pour les personnes qui reçoivent une indemnité
+  acquise à titre onéreux de fonds de commerce ou de clientèle, car elle permet de
+  diminuer la charge fiscale sur cet montant imposable. Il convient de vérifier les
+  conditions requises (ici, la plus-value est exonérée) pour être sûr d''y avoir droit.'

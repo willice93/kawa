@@ -1,0 +1,19 @@
+Règle de calcul des cotisations sociales s'applique aux personnes :
+   - Travaillant dans un emploi salarié ou dirigeant d'une entreprise (sauf sociétés exonérées)
+   - qui ont des revenus retenus pour le calcul de l'impôt sur le revenu
+
+ Les conditions sont que :
+   - Il ne soit pas tenu compte des plus-values et moins-values professionnelles à long terme, des reports déficitaires, des exonérations (y compris celles attachées aux cotisations Madelin et aux régimes facultatifs, ainsi qu'aux nouveaux plans d'épargne retraite), de la déduction des frais professionnels de 10 %, des sommes exposées pour l'acquisition de parts sociales.
+   - Une partie des dividendes perçus par les gérants associés d'une entreprise soumise à l'impôt sur les sociétés est prise en compte dans la base de calcul.
+
+ Les montants ou plafonds sont :
+   - Le revenu retenu pour le calcul de l'impôt sur le revenu
+
+ La formule de calcul applicable est la suivante :
+   - La base de calcul des cotisations sociales correspond à la somme calculée en tenant compte des éléments mentionnés dans les conditions.
+
+ Il faut vérifier pour être sûr d'y avoir droit que :
+   - Les revenus perçus sont retenus pour le calcul de l'impôt sur le revenu.
+   - Les exonérations, plus-values et moins-values professionnelles à long terme, reports déficitaires, frais professionnels supérieurs à 10 % n'ont pas été pris en compte.
+   - Les droits d'acquisition de parts sociales n'ont pas été pris en compte.
+   - Les gérants associés d'une entreprise soumise à l'impôt sur les sociétés ont inclus leur part des dividendes dans la base de calcul des cotisations sociales.

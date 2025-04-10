@@ -1,0 +1,78 @@
+id: regle_p165_98df5f4f
+titre: Cette règle s'applique aux entreprises qui ont opté pour le régime fiscal du
+  versement libératoire de l'impôt sur le revenu pour des activités relevant des BIC
+  (Petites et Moyennes Entreprises Innoveurs) dans l'année 2023.
+source: Brochure IR 2024
+regle:
+  description: 'Cette règle s''applique aux entreprises qui ont opté pour le régime
+    fiscal du versement libératoire de l''impôt sur le revenu pour des activités relevant
+    des BIC (Petites et Moyennes Entreprises Innoveurs) dans l''année 2023.
+
+
+    Conditions: L''entreprise doit indiquer le chiffre d''affaires total réelisé dans
+    cette année, comprenant le chiffre d''affaires déduit pour le calcul des cotisations
+    sociales. Ce chiffre d''affaires doit être celui que l''entreprise a indiqué dans
+    ses déclarations mensuelles ou trimestrielles souscrites à l''appui des versements
+    libératoires.
+
+
+    Montant / Plafond: L''administration calcule un bénéfice à partir de ce chiffre
+    d''affaires par application de l''abattement forfaitaire suivant :
+
+    - 71 % pour les activités de ventes et assimilées (5TA à 5VA)
+
+    - 50 % pour les prestations de services et les locations meublées (5TB à 5VB)
+
+
+    Formule de calcul applicable: Le bénéfice est déterminé en multipliant le chiffre
+    d''affaires par l''abattement forfaitaire applicabl e (71% pour les activités
+    de ventes et assimilées ou 50% pour les prestations de services et les locations
+    meublées) et en soustrayant ce résultat du chiffre d''affaires original.
+
+
+    Pour être sûr d''y avoir droit, vérifiez que votre entreprise répond aux conditions
+    suivantes :
+
+    - Opté pour le régime fiscal du versement libératoire de l''impôt sur le revenu
+    pour des activités relevant des BIC dans l''année 2023.
+
+    - Votre entreprise est une PME innoveuse.
+
+    - Les déclarations mensuelles ou trimestrielles que vous avez souscrites à l''appui
+    des versements libératoires sont correctes et complètes.'
+  formule: revenu_brut * (1 - 0.5)
+cas_pratique: 'Contexte : Jean Dupont est le directeur d''une entreprise de conception
+  de logiciels innovants, qui a opté pour le régime fiscal du versement libératoire
+  de l''impôt sur le revenu en 2023. Son entreprise est considérée comme une PME innoveuse
+  en raison de son activité dans le secteur des technologies de l''information et
+  des communications (TIC).
+
+
+  Montants concernés : Le chiffre d''affaires total réelisé par Jean Dupont pour l''année
+  2023 était de 850 000 euros, après déduction des cotisations sociales.
+
+
+  Déclaration : Il a soumis ses déclarations mensuelles ou trimestrielles correctes
+  et complètes à l''appui des versements libératoires de l''impôt sur le revenu.
+
+
+  Calcul du bénéfice : En application de la règle, le bénéfice calculé pour les activités
+  de ventes et assimilées est de 850 000 \* 71% = 607 500 euros. Le bénéfice calculé
+  pour les prestations de services et les locations meublées serait de 425 000 \*
+  50% = 212 500 euros.
+
+
+  Comparaison du régime par défaut vs l''option choisie : En choisissant le régime
+  fiscal du versement libératoire, Jean Dupont a bénéficié d''un taux réduit d''impôt
+  sur le revenu de 7,5% au lieu des 30% applicables en régime par défaut pour un tel
+  type d''entreprise.
+
+
+  Conclusion : En appliquant cette règle, Jean Dupont a ainsi économisé 241 250 euros
+  sur ses impôts sur le revenu en 2023.'
+calcul:
+  formule: revenu_brut * (1 - 0.5)
+  exemple:
+    revenu_brut: 500
+    abattement: 250
+    revenu_net: 250

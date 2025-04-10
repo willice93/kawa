@@ -1,0 +1,16 @@
+Context : Marie-Anne, un entrepreneur indépendant qui gère son propre cabinet de conseil en ressources humaines depuis 5 ans, désire optimiser ses cotisations pour la retraite.
+
+Marie-Anne a perçu un bénéfice imposable de 200 000€ en 2021. Son cabinet est indépendant et elle ne travaille pas avec d'autres personnes.
+
+Conditions à remplir :
+- Les cotisations versées sur les nouveaux plans d'épargne retraite doivent être effectuées à compter du 1er octobre 2019 pour être éligibles.
+
+Montants concernés :
+- Le plafond de la sécurité sociale est de 178 656€ en 2021 (1AK).
+- Les cotisations versées sur les nouveaux plans d'épargne retraite doivent excéder 15 % de la fraction de bénéfice imposable comprise entre 43 992€ et 351 936 €.
+
+Calcul : Pour calculer les cotisations, il faut d'abord déterminer la fraction de bénéfice imposable concernée. Dans le cas de Marie-Anne, cela correspond à 200 000€ - (43 992€ * 15 %) = 172 856€. Ensuite, on multiplie ce montant par 15 %, ce qui donne 25 928,80€.
+
+Comparaison : Si Marie-Anne ne fait aucune cotisation supplémentaire pour la retraite, elle n'optimise pas son régime de retraite et elle payera plus d'impôts sur le revenu. En choisissant de faire des cotisations supplémentaires, elle maximise ses cotisations versées sur les nouveaux plans d'épargne retraite et optimise ainsi son régime de retraite.
+
+Conclusion : Pour bénéficier du régime fiscal applicable pour les non-salariés associés gérants (AG), Marie-Anne doit effectuer des cotisations supplémentaires versées sur les nouveaux plans d'épargne retraite, en respectant les conditions et plafonds imposés. Elle peut déclarer ces cotisations dans la case 1GF de son formulaire de déclaration annuelle.

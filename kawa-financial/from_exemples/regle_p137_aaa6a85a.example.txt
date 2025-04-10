@@ -1,0 +1,5 @@
+Un example : Mademoiselle Émilie Dupont, propriétaire de la boutique de vêtements "Étoile Bleue" à Marseille, a déclaré sur sa feuille de déclaration n°2047 un revenu net de 56 000 € en 2021. Elle choisit le régime d'imposition par option globale pour l'année fiscale 2021, ce qui signifie qu'elle peut bénéficier d'un taux forfaitaire de 12,8 % ou bien de l'application du barème progressif.
+
+Son revenu net de 56 000 € est soumis à l'impôt sur le revenu. Après application de l'exonération de 50 %, la fraction imposable sera calculée pour 28 000 €. Cette fraction imposable doit être reportée dans la ligne 2DC car ce sont des revenus non distribués.
+
+En comparant le régime par défaut (barème progressif) et l'option choisie (taux forfaitaire), il est clair que Mademoiselle Dupont versera un montant de 3 456 € d'impôt sur le revenu pour l'année fiscale 2021 en optant pour le régime d'imposition par option globale. Sans cette option, elle aurait payé un montant plus élevé, soit 4 480 €.

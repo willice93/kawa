@@ -1,0 +1,12 @@
+Nom: Jean Dupont
+   Profession: Infirmier à l'Hôpital de la Croix-Rouge
+   Situation: Je n'ai pas assez d'argent pour m'entretenir et pour héberger mon fils de 12 ans, Louis, qui vit avec moi depuis plus d'un an.
+
+ Montants concernés : La somme forfaitaire est de 3 968 € par enfant, mais étant donné que mon fils n'est pas marié ou pacsé, la somme restera à 3 968 €.
+   Déclaration dans les bonnes cases: Si appliquée, ce serait dans le cas de déclaration 1AK (Personne seule ayant des revenus) ou 1GF (Premier conjoint ou partenaire avec revenus).
+
+ Comparaison régime par défaut vs option choisie : L'option choisie, la réduction du montant forfaitaire au prorata des mois concernés lorsque l'hébergement de l'enfant ne porte que sur une fraction de l'année permettra de me permettre d'avoir un plus grand montant en fin d'année, ce qui peut aider à mieux gérer mes finances.
+
+ Calcul clair avec des chiffres ronds : En utilisant la formule de calcul applicable, si mon fils vit avec moi pendant 9 mois de l'année, je pourrais réduire la somme forfaitaire par 1/4 (car chaque mois entier doit être retenu pour ce calcul), cela représente une économie de 3 968 € * 9/12 = 2 774,40 €.
+
+ Conclusion: En faisant appliquer cette règle, j'ai espérance d'avoir un peu plus d'argent pour me permettre de gérer mes finances et de mieux vivre avec mon fils, Louis.

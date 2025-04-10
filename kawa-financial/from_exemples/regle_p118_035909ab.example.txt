@@ -1,0 +1,23 @@
+Nom : Jean Dupont
+   Profession : Retraité en exercice (exercice 2021)
+   Situation : Gagne un revenu fixe de 3000€ par mois et a décidé de retirer 5000€ sur son compte Madelin.
+
+Declaration de revenus 2021 :
+- Grosses rémunérations (box 1AK) : 36 000€
+- Rentes, prestations de retraite ou allocations (box 1GF) : 54 000€ (6000€/mois x 12 mois)
+   Retrait sur Madelin :
+   - Montant imposé au barème : 3 750€ (5 000€ x 75%)
+       - Box 1AS : 2 250€ (3 750€ x 60%)
+       - Option pour l'imposition au taux forfaitaire de 7,5 % disponible mais non choisie
+   Retrait sur PERIN :
+   - Partie correspondant aux versements ayant fait l'objet d'une déduction (box 1AI) : 60 000€ (6000€/mois x 12 mois) imposée au barème progressif.
+   - Partie correspondant aux produits (box 2TZ) : 43 200€ (5000€ x 12,8%) ou, sur option globale, au barème progressif.
+
+Comparaison du régime par défaut vs l'option choisie :
+   - Retrait sur Madelin : Régime par défaut est le barème avec une option disponible pour l'imposition au taux forfaitaire de 7,5 %. Jean a opté pour le régime par défaut (barème).
+   - Retrait sur PERIN : Régime par défaut est la progression du barème progressif. Jean a choisi l'option globale qui permet d'être imposé au taux forfaitaire de 12,8 % ou, sur option globale, au barème progressif.
+
+Calcul clair avec des chiffres ronds :
+   - Retrait sur Madelin : Impôt calculé à 60% du montant imposé soit 3 750€ (5 000€ x 75%) réparti entre les cases 1AS et non-imposable car option pour l'imposition au taux forfaitaire de 7,5 % n'a pas été choisie.
+   - Retrait sur PERIN : Pour la partie correspondant aux versements ayant fait l'objet d'une déduction (box 1AI) : Impôt calculé à 22,5 % du montant imposé soit 13 500€ (60 000€ x 22,5%) et pour la partie correspondant aux produits (box 2TZ) : Montant non-imposable car option globale choisie.
+   Synthèse : Jean a retiré un total de 5 000€ sur son compte Madelin et 60 000€ sur son compte PERIN. Son impôt pour cette année sera de 13 500€ pour la partie correspondant aux versements ayant fait l'objet d'une déduction (box 1AI) sur le compte PERIN et non-imposable pour la partie correspondant aux produits (box 2TZ). Il n'y aura pas d'impôt à payer pour le retrait réalisé sur son compte Madelin car il ne s'est pas mis en option pour l'imposition au taux forfaitaire de 7,5 %.

@@ -1,0 +1,8 @@
+Nom : Jean Dupont
+   Profession : Employé salarié
+   Situation : A perçu en 2023 des dividendes liés aux produits de fonds en unités de compte des bons ou contrats de capitalisation et d'assurance-vie qu'il avait investis avant le 27 septembre 2017.
+   Revenus concernés : Les dividendes perçus sur lesquels il a déjà payé les prélèvements sociaux en 2023 ont été prélevés par l'établissement payeur. Le montant total est de 8 000€.
+   Déclaration : Sur sa déclaration annuelle, Jean devra renseigner le montant sous la ligne 2DF (8 000€).
+   Comparaison régime par défaut vs option choisie : En cas d'option cochée pour l'imposition au barème progressif, le taux serait supérieur à celui du régime par défaut. Cependant, dans notre exemple, Jean n'a pas coché cette option (cas 2OP non coché).
+   Calcul clair avec des chiffres ronds : La déduction correspondant à la CSG sera de 750€ (10% du montant de 8 000€).
+   Synthèse : Afin d'optimiser sa déduction de la CSG, Jean Dupont a bien renseigné le montant de ses dividendes sous la ligne 2DF de son formulaire annuel et a respecté les critères requis (révenus perçus en 2023, déjà prélevés par l'établissement payeur et éligibles à CSG déductible).

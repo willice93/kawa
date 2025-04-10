@@ -1,0 +1,20 @@
+Titre : Déduction de pensions alimentaires pour contribuables non-résidents en France : Un cas concret
+
+ Nom: Marie Dupont
+ Profession: Ingénieur civil (Revenus français : 120 000€, Revenus étrangers : 80 000€)
+ État de résidence: États-Unis
+
+ Contexte : Marie Dupont est un ingénieur civil qui vit actuellement aux États-Unis. Elle a fait une demande pour être imposée au taux moyen en France sur les revenus provenant de sources françaises et étrangères. En outre, elle versait des pensions alimentaires (10 000€ par an) à son ex-époux qui est demeuré en France.
+
+ Montants concernés:
+ - Revenus français : 120 000€
+ - Revenus étrangers : 80 000€
+ - Pensions alimentaires : 10 000€ (par an)
+
+ Formule de calcul applicable: Les pensions alimentaires doivent être déduites du total des revenus de sources françaises et étrangères, afin de déterminer le taux moyen. Par exemple, les revenus totaux sont de 200 000€ (120 000€ + 80 000€). Ainsi, les pensions alimentaires seront déduites de cette somme et la taux moyen sera calculé sur le résultat.
+
+ Décision : Marie Dupont peut bénéficier de la déduction de pensions alimentaires si elle vérifie que celles-ci sont imposables au nom du bénéficiaire en France et ne réduisent pas l'impôt déjà dû dans son État de résidence. Si elle le fait, sa taux moyen sera calculé sur les revenus net de ses pensions alimentaires (190 000€ - 10 000€ = 180 000€).
+
+ Comparaison du régime par défaut vs l'option choisie: En tant que contribuables non-résident, Marie Dupont doit s'assurer que sa demande pour être imposée au taux moyen est correcte et qu'elle bénéficie des déductions qu'elle lui sont accordées en France. Cela permettra d'éviter les impôts excessifs sur ses revenus français et étrangers.
+
+ Synthèse : Pour les contribuables non-résidents de France, la compréhension de la règle pour la déduction de pensions alimentaires est primordiale. Il convient de s'assurer que ces pensions sont imposables au nom du bénéficiaire en France et ne réduisent pas l'impôt déjà dû dans leur État de résidence.

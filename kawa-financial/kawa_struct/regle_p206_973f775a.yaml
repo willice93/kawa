@@ -1,0 +1,74 @@
+id: regle_p206_973f775a
+titre: Règle s'applique aux associés de sociétés d'exercice libéral (SEL), associés
+  de société de droit commun (SARL, SAS, SA) exerçant une activité juridique libérale
+  réglementée et aux professions juridiques réglementées de ces mêmes sociétés.
+source: Brochure IR 2024
+regle:
+  description: "Règle s'applique aux associés de sociétés d'exercice libéral (SEL),\
+    \ associés de société de droit commun (SARL, SAS, SA) exerçant une activité juridique\
+    \ libérale réglementée et aux professions juridiques réglementées de ces mêmes\
+    \ sociétés.\n   Les conditions pour y avoir droit sont que les rémunérations des\
+    \ associés concernés doivent être liées à leur activité professionnelle libérale\
+    \ et qu'elles soient reportables dans la rubrique « Rémunération des associés\
+    \ de SEL et professions juridiques réglementées de SDC » du volet social (DSSI/DSSJ).\n\
+    \   Les montants ou plafonds concernés sont la rémunération nette des cotisations\
+    \ et contributions sociales obligatoires déductibles.\n   La formule de calcul\
+    \ applicable est simplement de reporter le montant net de cette rémunération dans\
+    \ la rubrique DSSI/DSSJ.\n   Il faut vérifier que l'abattement fiscal forfaitaire\
+    \ pour frais de 10% n'est pas appliqué sur le montant reporté, que les associés\
+    \ ne déclarent pas leur rémunération dans la rubrique fiscale 1GB/1HB et que les\
+    \ indemnités ou allocations journalières d'invalidité servies en cas d'incapacité\
+    \ temporaire d'exercer son activité professionnelle par les régimes complémentaires\
+    \ obligatoires d'invalidité- décès ne sont pas reportées."
+  formule: Non spécifiée
+cas_pratique: 'Exemple de cas pratique :
+
+
+  Nom : Alexis Dupont
+
+  Profession : Avocat associé dans une Société d''Exercice Libéral (SEL) spécialisée
+  en droit fiscal
+
+  Revenus 2021 : 100 000 €
+
+
+  Situation : Le 31 décembre 2021, vous, Alexis Dupont, avocat associé dans une SEL
+  en activité depuis janvier 2021, avez perçu des rémunérations liées à votre activité
+  professionnelle de 100 000 € net des cotisations et contributions sociales obligatoires.
+
+
+  Votre mission est d''appliquer la règle applicable aux associés de sociétés d''exercice
+  libéral (SEL) exerçant une activité juridique libérale réglementée et aux professions
+  juridiques réglementées de ces mêmes sociétés, en vous basant sur les conditions
+  suivantes :
+
+
+  1. Les rémunérations doivent être liées à votre activité professionnelle et reportables
+  dans la rubrique « Rémunération des associés de SEL et professions juridiques réglementées
+  de SDC » du volet social (DSSI/DSSJ).
+
+  2. Le montant net de ces rémunérations doivent être déclaré pour calculer votre
+  fiscalité, sans appliquer l''abattement fiscal forfaitaire pour frais de 10%.
+
+  3. Ne reportez pas cette rémunération dans la rubrique fiscale 1GB/1HB.
+
+  4. Ne reportez pas vos indemnités ou allocations journalières d''invalidité servies
+  en cas d''incapacité temporaire d''exercer votre activité professionnelle par les
+  régimes complémentaires obligatoires d''invalidité- décès.
+
+
+  Calcul :
+
+  - Montant reporté dans la rubrique DSSI/DSSJ : 100 000 € (revenu net des cotisations
+  et contributions sociales obligatoires)
+
+  - Montant non déclaré ou non reporté dans la rubrique fiscale 1GB/1HB : 0 €
+
+  - Montants de frais de 10% non appliqués : 0 €
+
+
+  Conclusion : Vous, Alexis Dupont, devrez déclarer votre rémunération nette de 100
+  000 € dans la rubrique DSSI/DSSJ pour le calcul de vos cotisations et contributions
+  sociales obligatoires. Cette rémunération n''est pas reportable ni déclarable dans
+  la rubrique fiscale 1GB/1HB, ni dans les régimes complémentaires obligatoires d''invalidité-
+  décès.'

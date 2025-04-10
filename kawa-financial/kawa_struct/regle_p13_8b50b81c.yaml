@@ -1,0 +1,69 @@
+id: regle_p13_8b50b81c
+titre: 'Règle de calcul pour le CSG (Contribution Sociale Généralisée) déductible
+  connue :'
+source: Brochure IR 2024
+regle:
+  description: 'Règle de calcul pour le CSG (Contribution Sociale Généralisée) déductible
+    connue :
+
+
+    Cette règle s''applique aux personnes physiques ayant des revenus provenant du
+    patrimoine.
+
+
+    Les conditions requises sont que le montant estimé de la CSG déductible soit inexact.
+
+
+    Le plafond de ce calcul n''est pas spécifié dans le texte fourni.
+
+
+    La formule de calcul est de corriger le montant estimé de la CSG déductible si
+    cela s''avère inexact en modifiant la valeur saisie dans la case 6DE du formulaire.
+
+
+    Pour être sûr d''y avoir droit, vérifier que vous disposez des justificatifs nécessaires
+    pour prouver l''inexactitude du montant estimé initial de la CSG déductible.'
+  formule: Non spécifiée
+cas_pratique: 'Nom : Marie Dupont, employée indépendante
+
+  Profession : Photographe professionnelle
+
+  Situation : Financièrement stable avec des revenus provenant majoritairement du
+  patrimoine (bénéfices de société).
+
+
+  Montants concernés :
+
+  - Revenu annuel estimé : 80 000€ (cas de régime par défaut) ou 75 000€ (cas d''option
+  choisie)
+
+  - Montant estimé de la CSG déductible initial : 3 000€
+
+
+  Formulaire : Fiche de déclaration annuelle des personnes physiques
+
+  Case concernée : 6DE
+
+
+  Comparaison entre régime par défaut et option choisie :
+
+  - Régime par défaut : CSG déductible à 1,75% sur le revenu estimé (3 000€)
+
+  - Option choisie : CSG déductible calculée sur le plafond de 75 428€ (en 2022),
+  soit 1 302€
+
+
+  Calcul clair avec des chiffres ronds :
+
+  - Régime par défaut : revenu estimé = 80 000€, CSG déductible = 3 000€ (soit un
+  écart de 5 628€)
+
+  - Option choisie : revenu estimé = 75 000€, CSG déductible = 1 302€ (soit un écart
+  de 1 698€)
+
+
+  Pour utiliser cette règle, vérifiez les justificatifs nécessaires afin de prouver
+  l''inexactitude du montant estimé initial de la CSG déductible. Dans ce cas-ci,
+  Marie Dupont doit faire une déclaration correcte dans la case 6DE (CSG déductible)
+  en considérant la possibilité d''option choisie. En optant pour cette dernière,
+  elle réduit son écart de CSG à verser de 5 628€ à 1 698€.'

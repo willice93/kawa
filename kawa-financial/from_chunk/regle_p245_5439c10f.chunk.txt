@@ -1,0 +1,3 @@
+# Source: page 245
+
+Versements sur deux années civiles Si les versements de la prestation compensatoire en capital ou en nature sont répartis sur deux années civiles et excèdent au total 30 500 €, la base de calcul de la réduction d’impôt de la première année s’obtient en multipliant le plafond global de 30 500 € par le rapport existant entre les versements effectués la première année (ligne 7WN) et le total des versements prévus (ligne 7WO). Si le total des versements prévus est inférieur à 30 500 €, la base de la réduction d’impôt de la première année est égale au montant des versements effectués la première année.

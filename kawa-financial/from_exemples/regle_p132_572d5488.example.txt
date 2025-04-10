@@ -1,0 +1,19 @@
+Nom : Pierre Dupont, employé à la Société ABC SAS, résidant à Paris.
+
+Situation : En 2015, Pierre a investi dans une assurance-vie de 4600 € auprès de Société XYZ, une entreprise française établie en Union Européenne (UE). En 2019, il a également investi 4600 € dans une autre assurance-vie auprès de Société ABC SAS, une entreprise française établie en UE.
+
+En vertu des règles fiscales applicables aux contrats d'assurance-vie de plus de 8 ans souscrits auprès d'entreprises françaises ou établies dans l'Union Européenne (UE) ou l'Espace Économique Européen (EEE), Pierre peut bénéficier d'un abattement pour ces investissements.
+
+Pour les versements effectués avant le 27/09/2017, Pierre a bénéficié d'un barème progressif puis d'un prélèvement forfaitaire libératoire. Pour ses versements postérieurs au 27/09/2017, il a obtenu un abattement de 7,5 % pour chaque versement, sans option pour le barème progressif.
+
+Voici la déclaration que Pierre devra faire sur ces investissements :
+- Première assurance-vie (Société XYZ) : Dans les bonnes cases 1AK et 3077-4600 € (montant de l'investissement).
+- Deuxième assurance-vie (Société ABC SAS) : Dans les bonnes cases 1GF et 3077-4600 € (montant de l'investissement).
+
+Comparaison du régime par défaut vs l'option choisie :
+- Régime par défaut : Tous les versements bénéficient d'un prélèvement forfaitaire libératoire, qui peut s'avérer coûteux pour les plus gros investisseurs.
+- Option choisie : Les versements effectués à compter du 27/09/2017 bénéficient d'un abattement de 7,5 % pour chaque versement, ce qui peut réduire sensiblement les impôts à payer.
+
+Calcul clair avec des chiffres ronds : Pour un versement de 4600 € dans une assurance-vie souscrit auprès d'une entreprise française établie en UE, Pierre bénéficiera d'un abattement de 7,5 % (345 €) pour chaque versement, réduisant ainsi son impôt à payer de 345 €.
+
+Conclusion : Le régime fiscal applicables aux contrats d'assurance-vie de plus de 8 ans souscrits auprès d'entreprises françaises ou établies dans l'Union Européenne (UE) ou l'Espace Économique Européen (EEE) peut réduire sensiblement les impôts à payer, mais il est important de vérifier que les produits correspondent à des contrats d'au moins 8 ans et sont souscrits auprès d'une entreprise mentionnée.

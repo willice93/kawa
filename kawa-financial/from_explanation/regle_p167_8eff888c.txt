@@ -1,0 +1,9 @@
+Règle applicable : Crédit d'impôt sur les bénéfices de source étrangère.
+
+Conditions d'application : Les bénéfices de source étrangère sont déterminés par les lignes 5AK à 5CK, et ne seront pas retenus pour le calcul du prélèvement à la source (non déclarables dans les lignes 5HC à 5JC).
+
+Montant ou plafonds : Le montant des bénéfices de source étrangère est égal à celui qui est déclaré dans les lignes 5AK à 5CK. Le crédit d'impôt sur ces bénéfices est égal à l'impôt français calculé sur ce même montant.
+
+Formule de calcul : Le crédit d'impôt sur les bénéfices de source étrangère est calculé en multipliant le montant des bénéfices de source étrangère (lignes 5AK à 5CK) par l'impôt français applicable.
+
+Vérification : Pour être sûr d'y avoir droit, il faut vérifier que les bénéfices déclarés dans les lignes 5AK à 5CK sont bien de source étrangère et qu'ils ne sont pas retenus pour le calcul du prélèvement à la source.

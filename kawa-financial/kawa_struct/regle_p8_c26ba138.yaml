@@ -1,0 +1,31 @@
+id: regle_p8_c26ba138
+titre: 'Règle de calcul pour les produits imposables :'
+source: Brochure IR 2024
+regle:
+  description: "Règle de calcul pour les produits imposables :\n\n- Cette règle s'applique\
+    \ aux produits dont les primes excédent la somme de 150 000 €.\n- Les conditions\
+    \ sont que le montant des primes doit dépasser cette limite de 150 000 € pour\
+    \ être concerné par cette règle.\n- Le taux d'imposition est de 12,8 %.\n- La\
+    \ formule de calcul applicable est la suivante :\n  Montant Impose = (Montant\
+    \ des primes - 150 000 €) * 12,8 %\n\n- Pour être sûr de bénéficier de cette règle,\
+    \ il faut vérifier que le montant des primes dépasse les 150 000 €."
+  formule: Détectée, mais sans données exploitables
+cas_pratique: "Contexte : Marie est professionnellement indépendante et travaille\
+  \ en tant qu'agent immobilier dans la région de Paris. Elle a généré des commissions\
+  \ imposables sur plusieurs ventes cette année.\n\nSituation : Les commissions imposables\
+  \ qu'elle a reçues ont un montant total de 200 000 €.\n\nCalcul : Pour utiliser\
+  \ la règle décrite, nous devons calculer le Montant Impose en fonction des commissions\
+  \ (Montant des primes) de Marie.\n\nApplication de la formule de calcul :\n  Montant\
+  \ Impose = (Montant des primes - 150 000 €) * 12,8 %\n\nCalcul détaillé :\n  Premièrement,\
+  \ on soustrait le plafond de 150 000 € aux commissions qu'elle a reçues (200 000\
+  \ € - 150 000 €) ce qui donne un résultat de 50 000 €.\n\nEnsuite, on multiplie\
+  \ cette somme par le taux d'imposition de 12,8 % (50 000 € * 12,8 %). Le calcul\
+  \ montre que Marie doit payer 6 400 € d'impôts sur les commissions imposables supérieures\
+  \ à 150 000 €.\n\nComparaison : Si Marie n'appliquait pas cette règle et utilisait\
+  \ le régime par défaut, elle devrait payer un taux d'imposition plus élevé sur l'ensemble\
+  \ des commissions (un taux de 36,1 % si elle dépasse le plafond d'imposition de\
+  \ 80 000 €), ce qui donnerait un montant impose beaucoup plus élevé.\n\nConclusion\
+  \ : Pour éviter de payer plus d'impôts que nécessaire sur les commissions imposables\
+  \ supérieures à 150 000 €, Marie doit déclarer correctement ce montant dans la case\
+  \ 1GF (Produits imposables non liés à des droits de succession ou de donation) de\
+  \ son formulaire d'imposition."

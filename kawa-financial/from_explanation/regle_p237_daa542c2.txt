@@ -1,0 +1,10 @@
+La règle s'applique aux particuliers qui font des dons ou cotisations à un ou plusieurs partis politiques en France.
+
+Les conditions sont les suivantes :
+- Le montant des dons et cotisations versés doit être déclaré sur la ligne 7UH de la 2042 RICI (Récapitulatif de l'Impôt sur la Revenue des Personnes Physiques).
+- Le plafond annuel pour chaque foyer fiscal est de 15 000 €. Ce montant est appliqué automatiquement sur le montant indiqué dans la ligne 7UH.
+- De plus, la personne ne peut pas donner ou cotiser plus de 7 500 € par an à un ou plusieurs partis politiques. Ce plafond est individuel et non par foyer fiscal.
+
+La formule de calcul applicable pour l'obtention de la réduction d'impôt est de prendre le montant indiqué dans la ligne 7UH et de le limiter au montant maximum du plafond annuel de 15 000 € par foyer fiscal.
+
+Il faut vérifier que les dons ou cotisations sont effectivement effectués à un parti politique en France, qu'ils ont été déclarés sur la ligne 7UH de la 2042 RICI et que le montant total des dons et cotisations par an ne dépasse pas les plafonds indiqués.

@@ -1,0 +1,5 @@
+La règle s'applique aux cotisations sociales d'un chef d'exploitation ou d'une entreprise agricole dont le montant dépasse 10% du capital social et des primes d'émission. Les conditions sont que le montant excédentaire doit être supérieur à 10%. La formule de calcul est simplement :
+
+   Le montant excédentaire (Excès) = Montant des cotisations sociales - (Capital social + Primes d'émission) x 10%
+
+   Pour être sûr de bénéficier de cette règle, il faut vérifier que le montant total des cotisations sociales dépasse réellement 10% du capital social et des primes d'émission.

@@ -1,0 +1,11 @@
+Règle d'application : Les cotisations versées par les titulaires de mandats électifs nationaux ou locaux.
+
+ Conditions d'application : Les cotisations doivent être versées dans le cadre de ces mandats.
+
+ Plafonds applicables :
+   - Les cotisations ne sont pas soumises au plafond de 7 500 €.
+   - Les cotisations sont prises en compte pour le plafond de 15 000 €.
+
+ Formule de calcul applicable : Il n'y a pas de formule de calcul car les cotisations ne sont pas additionnées à l'ensemble des dons et cotisations, mais sont prises en compte pour dépasser le plafond de 15 000 €.
+
+ Verification pour y avoir droit : La condition principale est d'être titulaire d'un mandat électif national ou local.

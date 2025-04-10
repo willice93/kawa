@@ -1,0 +1,20 @@
+Titre : Calcul des primes de partage applicables aux lignes 1AD à 1DD pour les propriétaires-locataires en situation spécifique
+
+Nom : Maria Rossi
+Profession : Infirmière
+Situation : Propriétaire-locataire d'un appartement à Milan, co-propriétaire avec son frère
+Revenus : 30.000 € (rente) et 24.000 € (salaire) par an
+
+Le plafond de déduction d'impôts pour les locataires propriétaires est fixé à 6.000 €. La prime de partage exonérée peut être calculée avec la formule suivante :
+
+Prime de partage exonérée = (Valeur totale des lignes 1AD-1DD) - ((Plafond de déduction x Nombre de co-propriétaires))
+
+Dans notre cas, Maria Rossi et son frère sont co-propriétaires d'un appartement. Le plafond de déduction de 6.000 € n'a pas été dépassé (30.000 € + 24.000 € = 54.000 €, divisé par 2 = 27.000 € < 6.000 €).
+
+En conséquence, Maria Rossi est éligible à la prime de partage exonérée. Si on applique la formule ci-dessus aux revenus de la ligne 1AD et 1DD (rente et salaire), on obtient :
+
+Prime de partage exonérée = (54.000 €) - ((6.000 € x 2)) = 42.000 €
+
+Il est important de noter que si les versants avaient dépassé le plafond de déduction, la prime de partage serait diminuée proportionnellement. Par exemple, s'il y avait trois co-propriétaires et le montant total des revenus était supérieur à 18.000 € (le plafond de déduction multiplié par le nombre de versants), la prime de partage exonérée serait réduite proportionnellement pour chacun des co-propriétaires.
+
+En résumé, en appliquant cette règle à notre exemple de Maria Rossi et son frère, nous pouvons déduire que Maria est éligible à une prime de partage exonérée de 42.000 € pour l'année fiscale en question.

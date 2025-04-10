@@ -1,0 +1,11 @@
+Contexte : Jean Dupont est le directeur d'une entreprise de conception de logiciels innovants, qui a opté pour le régime fiscal du versement libératoire de l'impôt sur le revenu en 2023. Son entreprise est considérée comme une PME innoveuse en raison de son activité dans le secteur des technologies de l'information et des communications (TIC).
+
+Montants concernés : Le chiffre d'affaires total réelisé par Jean Dupont pour l'année 2023 était de 850 000 euros, après déduction des cotisations sociales.
+
+Déclaration : Il a soumis ses déclarations mensuelles ou trimestrielles correctes et complètes à l'appui des versements libératoires de l'impôt sur le revenu.
+
+Calcul du bénéfice : En application de la règle, le bénéfice calculé pour les activités de ventes et assimilées est de 850 000 \* 71% = 607 500 euros. Le bénéfice calculé pour les prestations de services et les locations meublées serait de 425 000 \* 50% = 212 500 euros.
+
+Comparaison du régime par défaut vs l'option choisie : En choisissant le régime fiscal du versement libératoire, Jean Dupont a bénéficié d'un taux réduit d'impôt sur le revenu de 7,5% au lieu des 30% applicables en régime par défaut pour un tel type d'entreprise.
+
+Conclusion : En appliquant cette règle, Jean Dupont a ainsi économisé 241 250 euros sur ses impôts sur le revenu en 2023.

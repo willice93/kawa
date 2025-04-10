@@ -1,0 +1,20 @@
+Titre : Application de la règle fiscale en matière de pension pour Mme Dupont, retraitée le 1er janvier 2023
+
+Contexte : Mme Dupont, âgée de 67 ans, a pris sa retraite le 1er janvier 2023. Elle perçoit une pension mensuelle de 3 500 € provenant de son ancien employeur et une rente mensuelle de 1 500 € provenant de la Caisse Nationale d'Assurance Vieillesse (CNAV).
+
+Déclaration : Le montant à déclarer pour Mme Dupont sera le résultat des calculs suivants, effectués sur chacun de ses revenus.
+
+Pour sa pension de retraite, les déductions seront prises en compte comme suit :
+- Cotisations de sécurité sociale (assurance maladie) = 137.50 € (calculé à partir du taux de 8.3 % sur la base de 1 666.67 €, montant mensuel maximal assujetti aux cotisations de sécurité sociale en 2023)
+- Contribution sociale généralisée (CSG) = 69.75 € (calculé à partir du taux de CSG de 8.3 % sur la base de 850 €, fraction acquittée au titre des premiers 1 000 € de rente mensuelle)
+- La contribution sociale sur les rentes de régimes de retraite à prestations définies (retrait chapeau) sera déductible jusqu'à la limite de 1 000 € de rente mensuelle. Ainsi, sur sa rente mensuelle de 1 500 €, seuls les premiers 850 € seront pris en compte pour ce calcul : contribution sociale généralisée = 39.25 € (calculé à partir du taux de CSG de 6.6 % sur la base de 850 €)
+
+Pour sa rente mensuelle de 1 500 €, les déductions seront prises en compte comme suit :
+- Cotisations de sécurité sociale (assurance maladie) = 0 € (car le montant de la rente ne dépasse pas le plafond mensuel maximal assujetti aux cotisations de sécurité sociale en 2023)
+- Contribution sociale généralisée = 157.50 € (calculé à partir du taux de CSG de 8.3 % sur la base de 1 875 €, montant mensuel de la rente dépassant le plafond des cotisations de sécurité sociale)
+
+Résultat : Mme Dupont déclarera un revenu total net de 3 367.25 € (somme obtenue en calculant le montant net pour sa pension et son revenu de rente, en tenant compte des déductions mentionnées ci-dessus)
+
+Comparaison : Sans les déductions appliquées, Mme Dupont devrait déclarer un revenu total de 4 167.25 € (somme obtenue en ajoutant la pension et la rente mensuelle sans aucune déduction)
+
+Synthèse : La règle de déduction des cotisations de sécurité sociale et de la contribution sociale généralisée est applicable à toutes les retraitées qui perçoivent un revenu en 2023. En appliquant cette règle, Mme Dupont bénéficiera d'une économie fiscale de 799.5 € sur son revenu total net déclaré.

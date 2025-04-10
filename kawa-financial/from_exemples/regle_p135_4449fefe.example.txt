@@ -1,0 +1,19 @@
+Nom : Marie Dupont, Profession : Professeur d'Economie au lycée public local
+
+Contexte : En 2023, Madame Dupont a déclaré un revenu de 45 000€ hors prélèvements sociaux en tant que professeur d'Economie au lycée public local. Elle a opté pour l'imposition au barème progressif de l'Impôt sur le revenu (1AK). Elle dispose également de placements boursiers et d'assurance-vie.
+
+Montants concernés :
+- Revenus distribués et produits de placement à revenu fixe : 500€
+- Produits attachés aux fonds en unités de compte des bons ou contrats de capitalisation ou d'assurance-vie afférents aux primes versées à compter du 27.9.2017 : 3 000€
+- Produits des fonds en euros des bons ou contrats de capitalisation et d'assurance-vie afférents à l'année de la clôture ou du retrait (2023), attachés aux primes versées à compter du 27.9.2017 : 2 500€
+
+Déclaration dans les bonnes cases :
+- 1AK pour l'imposition au barème progressif de l'Impôt sur le revenu
+- Cas 1GF pour CSG
+
+Calcul clair avec des chiffres ronds :
+- Somme des montants mentionnés ci-dessus : 500€ + 3 000€ + 2 500€ = 5 000€
+
+Régime par défaut vs option choisie (l'imposition au barème progressif de l'Impôt sur le revenu) : Si Madame Dupont ne s'était pas optée pour l'imposition au barème progressif de l'Impôt sur le revenu, elle n'aurait pas pu bénéficier de la déduction de CSG applicable.
+
+Conclusion : En optant pour l'imposition au barème progressif de l'Impôt sur le revenu en 2023, Madame Dupont a pu s'approprier une déduction de CSG sur les montants concernés mentionnés dans la règle (500€ + 3 000€ + 2 500€ = 5 000€). Elle doit faire le point pour vérifier qu'elle a opté correctement et pour déclarer ces montants dans les bonnes cases.

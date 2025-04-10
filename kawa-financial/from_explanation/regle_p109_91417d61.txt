@@ -1,0 +1,9 @@
+Règle s'applique à : Travailleurs ayant plusieurs employeurs pour lesquels ils ont effectué des heures supplémentaires.
+
+   Conditions : Les travailleurs doivent avoir réalisé des heures supplémentaires auprès de plusieurs employeurs, dépassant le plafond annuel de 7 500 € au total.
+
+   Montants ou plafonds : La règle concerne la rémunération annuelle perçue à titre des heures supplémentaires. Le plafond annuel est de 7 500 € par employeur, mais le plafond total pour les différents employeurs peut être dépassé au total sans qu'il le soit pour chaque employeur.
+
+   Formule de calcul applicable : Si la rémunération annuelle perçue à titre des heures supplémentaires dépasse 7 500 € au total, alors la fraction qui excède 7 500 € est automatiquement ajoutée au montant du salaire imposable.
+
+   Verification pour être sûr d'y avoir droit : Vérifier le nombre de travailleurs ayant effectué des heures supplémentaires auprès de plusieurs employeurs, ainsi que la rémunération annuelle perçue à titre des heures supplémentaires pour chaque employeur.

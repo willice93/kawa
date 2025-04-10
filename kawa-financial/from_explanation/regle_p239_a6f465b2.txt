@@ -1,0 +1,11 @@
+Règle applique à : Contribuables français qui font des dons aux organismes en aide aux personnes en difficulté, établis dans l'un des États précités.
+
+   Conditions requises : Les dons doivent être versés à ces organismes.
+
+   Montants ou plafonds :
+   - Donnés en tant que réduction d'impôt : 1 000 €, avec un taux de réduction d'impôt de 75 %.
+   - En cas d'excédent du montant des dons par rapport à 1 000 € : 20 % du revenu imposable, avec un taux de réduction d'impôt de 66 %.
+
+   Formule de calcul applicable : Le montant des dons versés est multiplié par le taux de réduction d'impôt correspondant pour obtenir la réduction d'impôt accordée.
+
+   Verification à effectuer pour être sûr d’y avoir droit : Les dons doivent être faits à des organismes vérifiés et enregistrés dans l'un des États précités, et le contribuable doit remplir tous les autres critères de la loi sur les impôts.

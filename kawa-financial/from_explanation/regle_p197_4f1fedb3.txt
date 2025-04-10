@@ -1,0 +1,7 @@
+Règle de calcul des cotisations sociales :
+
+Cette règle s'applique aux employés salariés.
+Elle est applicabile lorsque le revenu retenu pour le calcul de l'impôt sur le revenu est considéré.
+Les montants ou plafonds concernent les plus-values et moins-values professionnelles à long terme, les reports déficitaires, les exonérations liées aux cotisations Madelin et aux régimes facultatifs, ainsi qu'aux nouveaux plans d'épargne retraite, la déduction des frais professionnels de 10 % et des sommes exposées pour l'acquisition de parts sociales.
+La formule de calcul applicable est celle qui considère uniquement le revenu retenu pour le calcul de l'impôt sur le revenu.
+Pour être sûr d'y avoir droit, il faut vérifier que les montants ou plafonds mentionnés dans la règle ne sont pas tenus compte dans le calcul des cotisations sociales.

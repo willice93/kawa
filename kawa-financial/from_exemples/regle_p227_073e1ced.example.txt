@@ -1,0 +1,11 @@
+Contexte : Mme Dupont, 72 ans, retraitée depuis 5 ans et détentrice d'une pension de retraite d'un montant annuel de 10 000 €. Elle reçoit également une pension d'invalidité d'un montant annuel de 3 000 €.
+
+Montants concernés : Montant annuel du plafond de la sécurité sociale en 2022 (4 114 €), montant total des cotisations d'épargne retraite versées par Mme Dupont en 2023.
+
+Déclaration dans les bonnes cases : Montant des cotisations d'épargne retraite à déclarer dans la case 1AK de son modèle de déclaration de revenus pour l'année 2023.
+
+Régime par défaut vs option choisie : Mme Dupont bénéficie du régime d'épargne retraite simples (ERS), qui est le régime par défaut pour les retraités et personnes invalides déclarant des pensions de retraite ou d'invalidité.
+
+Calcul clair avec des chiffres ronds : Les cotisations d'épargne retraite versées par Mme Dupont en 2023 sont montées à 1 500 €. Le plafond de déduction minimal est calculé comme suit : 10 % du montant annuel du plafond de la sécurité sociale de 2022 (4 114 €) + plafond ou fraction du plafond de déduction non utilisé en 2020, 2021 et 2022 = 562,8 € (si aucune déduction n'a été effectuée précédemment).
+
+Conclusion : Pour appliquer la règle dans la vie réelle de Mme Dupont, elle doit verser 1 500 € en cotisations d'épargne retraite et déclarer ce montant dans la case 1AK de son modèle de déclaration de revenus pour l'année 2023. Le plafond de déduction minimal s'élevait à 562,8 € en 2023, ce qui signifie que Mme Dupont peut déduire le montant de ses cotisations d'épargne retraite jusqu'à cet écart maximum.

@@ -1,0 +1,20 @@
+Titre : Calcul des plus-values et moins-values dans le régime réel - Exemple de cas pratique
+
+Nom : Marie Dupont, 45 ans, entrepreneur indépendant en design graphique
+
+Situation : Marie acheta un matériel informatique en 2017 pour son activité professionnelle, au prix de 5000€. Elle a déclaré ce matériel comme bien professionnel et a pratiqué les amortissements linéaires sur une période de 5 ans (1000€ par an). En 2021, elle revendit ce matériel pour un prix de 3000€.
+
+Montants concernés :
+- Revenus totaux : 8000€ (prix de vente du matériel)
+- Prix de revient diminué des amortissements : 5000€ - (1000€/an x 5 ans) = 3000€
+- Abattement forfaitaire : 87% appliqué aux recettes. Abattement sur les 8000€ de revenus totaux : 6960€
+
+Déclaration :
+- Case 1AK : Montant des amortissements pratiqués pendant la période (3000€)
+- Case 1GF : Abattement forfaitaire (6960€)
+
+Calcul de la plus-value : Plus-value = (Revenus totaux - Prix de revient diminué des amortissements) - Abattement forfaitaire = (8000€ - 3000€) - 6960€ = -5960€
+
+Comparaison : Dans le régime par défaut, Marie devrait payer une taxe sur les revenus de 17,2% (soit environ 1408€). En revanche, grâce au régime réel et à l'abattement forfaitaire, elle ne doit pas payer d'impôts sur cette plus-value.
+
+Conclusion : L'exemple de Marie montre que si les conditions du régime réel sont remplies et que les amortissements sont pratiqués selon le mode linéaire, il est possible d'éviter payer d'impôts sur certaines plus-values.

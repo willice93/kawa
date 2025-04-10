@@ -1,0 +1,9 @@
+Règle applicabile aux personnes qui n'exercent plus d'activité salariée mais perçoivent des pensions.
+
+Condition : Les cotisations de rachat au régime de base d'assurance-vieillesse et aux régimes complémentaires légalement obligatoires sont déductibles du montant de vos pensions.
+
+Montants ou plafonds : Le montant des cotisations de rachat au régime de base et, le cas échéant, aux régimes complémentaires légalement obligatoires ARRCO et AGIRC.
+
+Formule de calcul applicable : Si le montant des cotisations de rachat au régime de base et, le cas échéant, aux régimes complémentaires légalement obligatoires est supérieur à celui de vos salaires (que vous perceviez ou non par ailleurs des pensions), déclarez le montant de vos salaires lignes 1AJ à 1DJ et le montant des rachats lignes 1AK à 1DK.
+
+Pour être sûr d'y avoir droit, il faut vérifier que les cotisations de rachat au régime de base et aux régimes complémentaires légalement obligatoires sont enregistrées sur votre déclaration no 2042C.

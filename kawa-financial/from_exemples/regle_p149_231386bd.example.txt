@@ -1,0 +1,14 @@
+Nom: Jean Dupont, profession: entrepreneur autochtone en artisanat de la forêt, vivant à Montréal avec sa famille depuis 15 ans.
+
+Contexte: À l'occasion d'une vente de son ancienne résidence secondaire, Jean a réalisé une plus-value de 120 000$ en 2021. Il a choisi de placer cette plus-value en report d'imposition avec le bénéfice du abattement pour durée de détention applicable.
+
+Situation : Pour les fins de l'application de la règle, Jean doit déclarer les montants suivants dans ses formulaires d'imposition (cases 1AK et 1GF) :
+
+- Montant d'impôt résultant de l'application du barème au revenu imposable de 2021 : 25 000$
+- Montant des plus-values placées en report d'imposition avec abattement pour durée de détention : 120 000$
+
+Calcul : Taux d'impôt sur le revenu = (Montant d'impôt résultant de l'application du barème au revenu imposable de 2021 + Montant des plus-values placées en report d'imposition avec abattement pour durée de détention) - Montant des plus-values placées en report d'imposition sans abattement = (25 000$ + 120 000$) - 120 000$ = 25 000$
+
+Comparaison : Comparons le régime par défaut vs l'option choisie par Jean. En faisant une déclaration sous le régime par défaut, il devrait verser 25 000$ d'impôt en 2021. En choisissant de placer cette plus-value en report d'imposition avec abattement pour durée de détention, Jean ne devra pas verser d'impôt sur cette somme aujourd'hui et devra verser 25 000$ seulement lorsque la propriété sera vendue ou qu'elle sera utilisée comme résidence principale.
+
+Conclusion : La déclaration de Jean montre clairement comment appliquer la règle de placement en report d'imposition avec abattement pour durée de détention en vue d'économiser sur l'impôt dans une situation réelle de vie.

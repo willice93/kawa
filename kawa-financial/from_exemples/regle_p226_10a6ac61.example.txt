@@ -1,0 +1,16 @@
+Contexte : Jean Doe est propriétaire d'une entreprise agricole en activité depuis 2017 et est titulaire du contrat Madelin agricole. En parallèle, il travaille chez une autre entreprise en tant que salarié à temps plein, sous le régime PERE (Personnel Engagé à Responsabilité Équivalente).
+
+   Année concernée : 2023
+
+   Montants :
+   - Pour les cotisations versées dans le cadre de son contrat Madelin agricole, Jean Doe a dépensé un montant total de 16 000 €.
+   - Son entreprise a enregistré un bénéfice imposable de 250 000 € dans l'année 2023.
+   - Pour son activité sous le régime PERE, Jean Doe verse des cotisations au montant total de 10 000 €.
+
+   Déclaration :
+   - Dans la section 1AK pour les cotisations versées dans le cadre du contrat Madelin agricole, il déclarera le montant total déduit, c'est-à-dire 16 000 €. Il déclare également le bénéfice imposable de son entreprise de 250 000 €, et calculera la fraction correspondante à 15 % de cette somme entre 43 992 € et 351 936 € (c'est-à-dire jusqu'à 351 936 € - 43 992 € = 307 944 €). Il déclare alors le montant correspondant à cette fraction de la quote-part du bénéfice imposable, soit 307 944 € * 15 % = 45 691,60 €. Enfin, il déduira le montant des cotisations déduites dans la ligne 1AK, c'est-à-dire 16 000 € - 45 691,60 € = -29 691,60 €.
+   - Dans la section 1GF pour les cotisations versées sous le régime PERE, il déclarera le montant total des cotisations déduites de ses salaires, soit 10 000 €.
+
+   Comparaison : En utilisant le régime par défaut (sans cotisation), Jean Doe aurait payé un impôt plus élevé sur les revenus agricoles et non-salariés. Par ailleurs, en utilisant le régime PERE, il bénéficie de l'exonération d'impôt sur le revenu (abondement de l'employeur) pour une partie des cotisations versées par son employeur, ce qui réduit sensiblement la charge fiscale.
+
+   Synthèse : Pour appliquer cette règle dans sa vie réelle, Jean Doe devra se rappeler de calculer correctement les montants des cotisations déductibles pour chacun de ses régimes impositifs (Madelin agricole et PERE) et en déclarer le montant final dans les bonnes cases. Il peut ainsi bénéficier d'une réduction de charge fiscale significative sur ses revenus non-salariés et un avantage fiscal sur les cotisations versées sous son régime PERE.

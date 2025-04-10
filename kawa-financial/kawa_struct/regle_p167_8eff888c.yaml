@@ -1,0 +1,62 @@
+id: regle_p167_8eff888c
+titre: 'Règle applicable : Crédit d''impôt sur les bénéfices de source étrangère.'
+source: Brochure IR 2024
+regle:
+  description: 'Règle applicable : Crédit d''impôt sur les bénéfices de source étrangère.
+
+
+    Conditions d''application : Les bénéfices de source étrangère sont déterminés
+    par les lignes 5AK à 5CK, et ne seront pas retenus pour le calcul du prélèvement
+    à la source (non déclarables dans les lignes 5HC à 5JC).
+
+
+    Montant ou plafonds : Le montant des bénéfices de source étrangère est égal à
+    celui qui est déclaré dans les lignes 5AK à 5CK. Le crédit d''impôt sur ces bénéfices
+    est égal à l''impôt français calculé sur ce même montant.
+
+
+    Formule de calcul : Le crédit d''impôt sur les bénéfices de source étrangère est
+    calculé en multipliant le montant des bénéfices de source étrangère (lignes 5AK
+    à 5CK) par l''impôt français applicable.
+
+
+    Vérification : Pour être sûr d''y avoir droit, il faut vérifier que les bénéfices
+    déclarés dans les lignes 5AK à 5CK sont bien de source étrangère et qu''ils ne
+    sont pas retenus pour le calcul du prélèvement à la source.'
+  formule: Détectée, mais sans données exploitables
+cas_pratique: 'Titre : Crédit d''impôt sur les bénéfices de source étrangère - Exemple
+  d''application
+
+
+  Contexte : Marie Dupont, travailleuse indépendante en informatique, a des revenus
+  provenant de clients situés à l''étranger. Elle réside à Paris et déclare ses revenus
+  annuels au fisc français.
+
+
+  Montants concernés : Les bénéfices de source étrangère s''élèvent à 50 000 € (declarés
+  dans les lignes 5AK à 5CK). L''impôt applicable sur ces revenus est de 30% (taux
+  applicable pour le régime par défaut).
+
+
+  Déclaration : La déclaration des bénéfices de source étrangère doit être effectuée
+  dans les lignes 5AK à 5CK.
+
+
+  Comparaison : Dans le cas du régime par défaut, Marie doit payer un impôt de 15
+  000 € (calculé sur 50 000 € x 30%). Si elle choisit l''option du crédit d''impôt
+  sur les bénéfices de source étrangère, le même montant pourrait être remboursé lors
+  de son prochain versement d''impôts à la source.
+
+
+  Calcul clair avec des chiffres ronds : Marie a des revenus annuels de 50 000 € provenant
+  de clients situés à l''étranger. Si elle choisit le régime par défaut, elle doit
+  payer un impôt de 15 000 €. Si elle choisit le crédit d''impôt sur les bénéfices
+  de source étrangère, elle pourra rembourser le même montant lors de son prochain
+  versement d''impôts à la source.
+
+
+  Conclusion : En choisissant le crédit d''impôt sur les bénéfices de source étrangère,
+  Marie peut réduire l''impôt qu''elle doit payer à la source en reçoivant un remboursement
+  lors de son prochain versement d''impôts. Il est donc important pour elle de vérifier
+  que les bénéfices déclarés dans les lignes 5AK à 5CK sont bien de source étrangère
+  et qu''ils ne sont pas retenus pour le calcul du prélèvement à la source.'

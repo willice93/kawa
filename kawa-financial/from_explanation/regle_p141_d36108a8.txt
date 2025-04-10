@@ -1,0 +1,7 @@
+La règle s'applique aux dirigeants de PME (Petites et Moyennes Entreprises) lorsqu'ils bénéficient de l'abattement fixe de 500 000 € prévu par l'article 150-0 D ter du Code général des impôts, ou lorsque they demandent l'application de l'abattement pour durée de détention renforcée, dans le cas d'option pour l'imposition de leurs revenus et gains mobiliers au barème progressif.
+
+La condition requise est que le montant des plus-values soit éligible à l'un ou à l'autre de ces abattements.
+
+Le plafond est fixé à 500 000 € pour l'abattement fixe et la formule de calcul n'est pas spécifiée, car c'est un abattement fixe. La formule pour l'abattement en durée de détention renforcée varie selon les cas particuliers et ne peut être déterminée sans connaître ces cas.
+
+Il faut vérifier que les conditions requises sont réunies (être dirigeant d'une PME, bénéficier d'un des abattements mentionnés ou avoir demandé l'application de l'abattement pour durée de détention renforcée) et que le montant des plus-values est correctement déclaré sur la ligne 3UA de la 2042 C.

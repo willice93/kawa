@@ -1,0 +1,11 @@
+Règle : Déduction de pensions alimentaires pour les contribuables non-résidents
+
+    À qui s’applique la règle: Les contribuables non-résidents de France qui demandent l'imposition de leurs revenus de source française au taux moyen résultant de l'application du barème à l'ensemble de leurs revenus de sources françaises et étrangères.
+
+    Dans quelles conditions: Les pensions alimentaires versées doivent être imposables au nom de leur bénéficiaire en France, et la prise en compte de ces pensions ne doit pas réduire l'impôt déjà dû dans leur État de résidence.
+
+    Quels sont les montants ou plafonds: Il n’y a pas de montant spécifique défini pour cette déduction, mais il faut vérifier que la prise en compte de ces pensions alimentaires ne minore pas l'impôt dont ils sont redevables dans leur État de résidence.
+
+    Quelle est la formule de calcul applicable: Pour le calcul du taux moyen, les pensions alimentaires doivent être déduites du total des revenus de sources françaises et étrangères.
+
+    Et ce qu’il faut vérifier pour être sûr d’y avoir droit: Les contribuables non-résidents doivent vérifier que les pensions alimentaires sont imposables au nom du bénéficiaire en France et ne réduisent pas l'impôt déjà dû dans leur État de résidence.

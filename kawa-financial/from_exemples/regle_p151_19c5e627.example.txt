@@ -1,0 +1,8 @@
+Nom : Jean Doe
+   Profession : Développeur informatique indépendant
+   Situation : À la fin de l'année 2021, Jean a réalisé une plus-value imposable sur la cession d'actifs numériques, notamment de codes source et de licences logiciels qu'il a créés. La déclaration concernante porte le numéro 2086.
+   Montants : La plus-value imposable sur la déclaration 2086 s'élève à 15 000 €, le taux d'imposition est fixé à 12,8 % et les prélèvements sociaux associés sont de 13,75 %.
+   Declaration : Cas 3CN - Imposition au barème progressif des plus-values de cessions d'actifs numériques
+   Calcul : Plus-value imposable (15 000 €) × 12,8 % = 1920 € + Prélèvements sociaux (13 750 €) = Montant total à payer (15 670 €)
+   Comparaison : Sans l'option choisie, Jean aurait dû payer une impôt de 1896 € (15 000 € × 12,5 % + 13 750 €), mais en optant pour le barème progressif, il réduit sa facture à 15 670 €.
+   Synthèse : Jean Doe, développeur informatique indépendant, a réalisé une plus-value imposable de 15 000 € sur la cession d'actifs numériques en 2021. En optant pour l'imposition au barème progressif, il réduit sa facture à payer de 306 €, pour un montant total à payer de 15 670 €.

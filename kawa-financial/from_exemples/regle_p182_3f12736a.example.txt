@@ -1,0 +1,19 @@
+Titre : Application de l'abattement fiscal pour artistes créateurs – cas d'Émilie Girardin
+
+Contexte : Émilie Girardin est une artiste peintre professionnelle, vivant à Paris. Son premier tableau a été vendu en 2021 pour un montant de 80 000 €. Elle déclare ses revenus annuels sous la catégorie des bénéfices non commerciaux selon le régime de la déclaration contrôlée.
+
+Montants concernés :
+- Les revenus imposables de l'artiste sont de 80 000 € pour l'année 2021 (déclarés dans la case 1AK).
+- L'abattement appliqué est de 50 %.
+- Le montant total de l'abattement plafonné est de 50 000 € par an.
+
+Déclaration :
+- Les revenus imposables de 80 000 € déclarés dans la case 1AK ont bénéficié d'un abattement de 50 %.
+- Le bénéfice imposable après application de l'abattement est donc de 40 000 € (80 000 € × 0,5 = 40 000 €).
+
+Comparaison :
+- Sans l'option choisie, le bénéfice imposable serait de 80 000 €. Avec l'option choisie, il est réduit à 40 000 € (réduction de moitié).
+- Cela signifie que les artistes créateurs peuvent bénéficier d'un économie de 40 000 € sur leurs revenus imposables la première année et pour les quatre années suivantes, en respectant les conditions requises.
+
+Conclusion :
+- Les artistes créateurs ont jusqu'à la fin de leur cinquième année d'activité pour bénéficier de l'abattement sur leurs revenus imposables, sachant que le montant total de l'abattement est plafonné à 50 000 € par an.

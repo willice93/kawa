@@ -1,0 +1,8 @@
+Nom: Jean Dupont
+   Profession: Cadre supérieur chez XYZ Technologies
+   Situation: En 2017, il a investi 50 000 € dans un produit de capitalisation française avec des versements jusqu'en 2026. Il a retiré une libération de 7,5 % en 2023, soit 3 750 €.
+   Contexte: En 2024, il déclare ses revenus dans son impôt sur le revenu (IR) et souhaite savoir si il a droit à l'abattement fiscal sur les revenus obtenus de ce produit.
+   Déclaration: Dans la partie 1GF du formulaire d'imposition, Jean Dupont déclare sa libération de 3 750 € sous le code 1AK (libérations) et indique que son produit correspond à l'abattement fiscal.
+   Comparaison: En régime par défaut, il ne recevrait aucun abattement sur ses revenus de cet investissement car les conditions pour avoir droit à l'abattement n'avaient pas été remplies jusqu'en 2024. Cependant, en choisissant l'option du régime fiscal spécial pour ce produit, il pourrait recevoir un abattement de 4 600 € car les conditions pour obtenir cet abattement avaient été remplies (investissement avant le 27 septembre 2017 et durée au moins égale à 8 ans).
+   Calcul: En choisissant l'option du régime fiscal spécial, Jean Dupont peut bénéficier d'un abattement de 4 600 € sur les revenus de son investissement de 3 750 €. Cela représente un montant d'abattement de 1 215,48 € (4 600 € / 3 750 €).
+   Synthèse: En choisissant l'option du régime fiscal spécial pour ce produit, Jean Dupont peut bénéficier d'un abattement de 1 215,48 € sur les revenus de son investissement de 3 750 € dans la partie 1GF de son formulaire d'imposition.

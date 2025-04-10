@@ -1,0 +1,20 @@
+Nom : Pierre Dupont
+   Profession : Chercheur au CNRS (Centre national de la recherche scientifique)
+   Situation : Titulaire d'un contrat de chercheur permanent depuis 5 ans et perçoit un traitement brimeur de 4000€/mois. En plus de cela, il a reçu une subvention spéciale de 1000€ pour la publication de son dernier livre.
+
+   Declaration des revenus :
+   -------------------------------
+   | Ligne     | Montant             |
+   |----------|--------------------|
+   | 1AF      | 48000€ (Salaire mensuel de 4000€ x 12) |
+   | 1AG      | 5000€ (Subvention pour publication de livre)     |
+   | 1AK-DK   | Frais réels et justifiés                              |
+   |          | (Aucuns frais concernant cette activité sont pris en compte car il n'a pas dépassé le plafond d'optention)      |
+   | 1GF-JF   | 0€ (Il a opté pour le régime fiscal des traitements et salaires et ne souhaite pas bénéficier de la déduction forfaitaire de 10%)   |
+   -------------------------------
+
+   Comparaison du régime par défaut vs l'option choisie :
+   - Régime par défaut : Il percevrait une deduction forfaitaire de 4800€ (10% sur son salaire mensuel de 48000€)
+   - Option choisie : Il ne déclare pas la déduction forfaitaire de 10%, ce qui lui permettra de conserver tout son revenu
+
+   Synthèse : Pierre Dupont, chercheur au CNRS, a opté pour le régime fiscal des traitements et salaires en ayant un contrat de recherche permanent depuis 5 ans. Il n'a pas bénéficié de la déduction forfaitaire de 10% car il reçoit une subvention spéciale pour la publication de son livre qui est supérieure à 833,33€/mois (plafond d'optention). Il n'a pas non plus bénéficié de cette déduction en raison de ses frais réels et justifiés insuffisants pour le dépasser. Il conserve ainsi tout son revenu.

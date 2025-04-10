@@ -1,0 +1,48 @@
+id: regle_p9_b8766535
+titre: Règle appliquée aux dons versés à des organismes établis en France ou des organismes
+  d'aide aux personnes en difficulté.
+source: Brochure IR 2024
+regle:
+  description: 'Règle appliquée aux dons versés à des organismes établis en France
+    ou des organismes d''aide aux personnes en difficulté.
+
+
+    Conditions : Les dons doivent être effectués en France et ne dépasser 1 000 €
+    par an pour bénéficier de la réduction d''impôt.
+
+
+    Montants ou plafonds : La réduction d''impôt est maximale à 1 000 € par année.
+
+
+    Formule de calcul applicable : La réduction d''impôt s''applique sur le montant
+    des dons et est calculée en multipliant ce montant par 60%.
+
+
+    Vérification pour être sûr d''y avoir droit : Il faut conserver les preuves de
+    vos dons (reçus, chèques, etc.) afin de pouvoir justifier votre bénéfice en cas
+    de contrôle fiscal.'
+  formule: revenu_brut * (1 - 0.6)
+cas_pratique: "Nom : Jean Dupont\n   Profession : Ingénieur civil\n   Situation :\
+  \ Vous êtes titulaire d'un revenu annuel de 75 000 € et souhaitez contribuer à un\
+  \ organisme caritatif français.\n\n   Dans le cadre de vos dons caritables, vous\
+  \ avez versé 1 200 € au cours de l'année fiscale 2021. Vous souhaitez connaître\
+  \ la réduction d'impôt que vous pourrez bénéficier en cas de déclaration.\n\n  \
+  \ Montants concernés : Les dons effectués versé à des organismes établis en France\
+  \ ou des organismes d'aide aux personnes en difficulté ne dépassent pas 1 000 €\
+  \ par an pour bénéficier de la réduction d'impôt. La réduction d'impôt est maximale\
+  \ à 1 000 € par année.\n\n   Formule de calcul applicable : La réduction d'impôt\
+  \ s'applique sur le montant des dons et est calculée en multipliant ce montant par\
+  \ 60%. Vous avez donc versé un total de 1 200 €, ce qui vous permet de bénéficier\
+  \ d'une réduction d'impôt de (1 200 € * 60%) = 720 €.\n\n   Vérification pour être\
+  \ sûr d'y avoir droit : Il faut conserver les preuves de vos dons (reçus, chèques,\
+  \ etc.) afin de pouvoir justifier votre bénéfice en cas de contrôle fiscal. Enregistrez-les\
+  \ dans la case 1AK de votre déclaration de revenu.\n\n   Comparaison : Si vous aviez\
+  \ choisi le régime par défaut, vos impôts seraient calculés sur un montant total\
+  \ de 75 000 €. En optant pour cette réduction d'impôt spécifique aux dons caritables,\
+  \ votre impôt sera diminué de 720 € en cas de déclaration."
+calcul:
+  formule: revenu_brut * (1 - 0.6)
+  exemple:
+    revenu_brut: 200
+    abattement: 120
+    revenu_net: 80

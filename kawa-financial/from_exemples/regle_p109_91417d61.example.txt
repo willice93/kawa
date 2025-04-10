@@ -1,0 +1,13 @@
+Nom : Alexis Dupont
+   Profession : Ingénieur logiciel à deux emplois successifs (Employeur A et Employeur B)
+   Année en question : 2022
+
+   Revenu annuel de chaque employeur en 2022 (1AK pour Employeur A, 1GF pour Employeur B):
+   - Employeur A : 53 000 € + 4 000 € d'heures supplémentaires
+   - Employeur B : 60 000 € + 9 000 € d'heures supplémentaires
+
+   Verification pour être sûr d'y avoir droit : Alexis Dupont a effectué des heures supplémentaires auprès de deux employeurs, dont les rémunérations annuelles à titre des heures supplémentaires sont supérieures au plafond annuel (7 500 €) pour chaque employeur.
+
+   Formule de calcul applicable : La fraction qui excède le plafond annuel est automatiquement ajoutée au montant du salaire imposable (4 000 € + 9 000 € = 13 000 €).
+
+   Montant global à déclarer pour les heures supplémentaires : 13 000 € dans la case "Salaire Imposable" (1AK et/ou 1GF)

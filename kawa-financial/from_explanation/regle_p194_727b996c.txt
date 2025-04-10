@@ -1,0 +1,15 @@
+La règle s'applique à tout individu soumis aux cotisations sociales au titre du régime général des travailleurs indépendants. Les revenus imposables déclarés dans les cases de votre déclaration fiscale, pour les bénéfices industriels et commerciaux (BIC), bénéfices non commerciaux (BNC) et bénéfices agricoles (BA), qu'ils soient professionnels ou non-professionnels (sous réserve que vous aiez coché la rubrique "Vos revenus sont soumis à cotisations sociales au titre du régime général des travailleurs indépendants"), seront pris en compte par votre Urssaf dans la base de calcul de vos cotisations et contributions sociales.
+
+Les conditions pour bénéficier de cette règle sont :
+- Que les revenus soient imposables dans les cases "revenus imposables" de votre déclaration fiscale
+- Que vous soyez soumis aux cotisations sociales au titre du régime général des travailleurs indépendants
+- Que ces revenus puissent provenir de source étrangère ouvrant droit à un crédit d'impôt égal à l'impôt français ou n'ouvrant pas droit à crédit d'impôt.
+
+Les montants ou plafonds concernés sont les montants déclarés dans les cases "revenus imposables" de votre déclaration fiscale pour les BIC, BNC et BA.
+
+La formule de calcul applicable est la prise en compte de ces revenus imposables par votre Urssaf dans la base de calcul de vos cotisations et contributions sociales.
+
+Pour être sûr d'y avoir droit, il faut :
+- Faire une déclaration fiscale complète
+- Cocher la rubrique "Vos revenus sont soumis à cotisations sociales au titre du régime général des travailleurs indépendants" (si cela s'applique)
+- Déclarer les montants imposables dans les cases "revenus imposables" de votre déclaration fiscale.

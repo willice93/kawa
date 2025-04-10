@@ -1,0 +1,11 @@
+Règle applicable à ceux qui ont exercé des activités dans les zones francs urbaines-territoires ou détenus des droits d'auteur en tant qu'immigrants, dans les conditions suivantes :
+
+1. Conditions : Les bénéfices non imposables doivent provenir soit de l'exonération prévue en faveur des activités exercées dans les zones francs urbaines-territoires (en vertu de l'article 44 octies et 44 octies A du CGI) ou des droits d'auteur détenus par un immigré (en vertu de l'article 155 B).
+
+2. Montants ou plafonds : Le montant est le total des bénéfices non imposables correspondants à ces exonérations, après abattement de 34 %.
+
+3. Formule de calcul applicable : Le montant de vos bénéfices non imposables (après abattement) correspondants aux exonérations prévues en faveur des activités exercées dans les zones francs urbaines-territoires et des droits d'auteur des immigrés est calculé en prenant le total de vos bénéfices non imposables et en soustrayant 34 % de leur montant.
+
+   Exemple : Si vous avez des bénéfices non imposables de 1000 €, votre montant sera de 660 € après abattement (1000 - (1000 * 34 %)).
+
+4. Vérifier pour être sûr d'y avoir droit : Pour bénéficier de cette exonération, vous devez avoir exercé des activités dans une zone francs urbaines-territoires ou détenu des droits d'auteur en tant qu'immigrant. Vous devrez également présenter un justificatif de ces activités ou droits d'auteur, ainsi que prouver que ces bénéfices non imposables ne sont pas inclus dans le calcul du revenu fiscal de référence.

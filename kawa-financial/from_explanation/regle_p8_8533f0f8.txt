@@ -1,0 +1,12 @@
+Règle d'Abattement des revenus de parts et actions à 40% s'applique aux particuliers.
+
+Les conditions requises pour bénéficier de cet abattement sont :
+- Les personnes concernées doivent être des particuliers.
+- Les gains proviennent d'actions ou parts cotées sur une échange réglementé (Bourse).
+- Il doit y avoir option barème (la valeur du bénéfice est calculée en fonction d'une formule définie auparavant).
+
+Les montants concernés sont les gains obtenus à partir de la vente ou de l'exercice des droits sur des actions ou parts cotées. Le plafond est de 96 584 euros par an (limite annuelle par personne).
+
+La formule de calcul applicable pour cet abattement est : 40% du montant total des gains obtenus à partir de la vente ou de l'exercice des droits sur des actions ou parts cotées.
+
+Il faut vérifier que les conditions précédentes sont remplies et que le bénéficiaire ne dépasse pas le plafond imposé annuel par personne (96 584 euros).

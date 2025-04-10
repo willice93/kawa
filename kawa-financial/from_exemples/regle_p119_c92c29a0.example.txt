@@ -1,0 +1,9 @@
+Nom : Jean Dupond, entrepreneur indépendant
+
+Situation : En 2023, vous avez vendu votre société de gestion immobilière (PERO) pour un montant de 500 000 euros. En plus des versements obligatoires vers la Caisse de retraite complémentaire agricole (CRCA), vous avez également versé 100 000 euros en capitaux versés à sortie de cette société (participation au capital).
+
+Calcul : Pour ce montant de 100 000 euros, selon la règle donnée, il n'existe aucune possibilité d'option pour l'imposition à un taux forfaitaire de 7,5%. Il sera donc imposé au barème de l'impôt sur le revenu sans abattement ni option. Vous pouvez le déclarer dans la case 1AK du formulaire de déclaration des impôts sur le revenu.
+
+Comparaison : En régime par défaut, ce montant serait imposé à votre taux progressif d'impôt sur le revenu (par exemple à 30% pour un revenu supérieur à 175 000 euros). En choisissant l'option de l'imposition à un taux forfaitaire de 7,5%, vous payez moins d'impôts sur cette partie du montant.
+
+Conclusion : En choisissant cette option pour la partie de capital versée à sortie de votre PERO, vous enregistrez un économie d'impôt de 22 500 euros (100 000 x 7,5%).

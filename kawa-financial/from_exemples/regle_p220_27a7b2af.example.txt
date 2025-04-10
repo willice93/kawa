@@ -1,0 +1,12 @@
+Nom: Pierre Dupont
+   Profession: Entrepreneur indépendant
+   Situation: Possède un bien immobilier loué avec option d'achat et dépense des frais de maintenance et d'entretien du bien.
+   Revenu annuel: 60 000 euros (Reddito dal patrimonio)
+   Spenses totales annuelles: 5 000 euros (Valore totale delle spese deduttibili)
+
+Calcul de la tasse sur la valeur ajoutée (CSG) selon la règle française applicable aux personnes ayant un revenu provenant du patrimoine :
+5 000 euros / 60 000 euros = 8,33% de CSG applicable.
+
+Pour s'assurer d'être éligible à la déduction, vérifier que les frais utilisés sont réellement déductibles en application de la loi française et que tous les documents de preuve nécessaires soient disponibles (declaration dans les cases 1AK ou 1GF si applicable).
+
+Pour comparaison, sous le régime par défaut, Pierre Dupont serait assujetti à une tasse sur la valeur ajoutée de 5,5% tandis que sous l'option choisie, il bénéficie d'un taux de 8,33%.
