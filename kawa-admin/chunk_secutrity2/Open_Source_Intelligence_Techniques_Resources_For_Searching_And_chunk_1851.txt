@@ -1,0 +1,6 @@
+ou through an email
+that your sent message is read by the recipient. You can also view log files within your online
+account. The tracking image inserted by Get Notify is invisible to the recipient. Optionally, you
+can specify your own images to be used as tracking images by going to the preferences section
+after signing in to GetNotify.com. Your recipient will not see “.getnotify.com” at the end of his
+or her email address. If you want to send a single email to multiple recipients, you should ad

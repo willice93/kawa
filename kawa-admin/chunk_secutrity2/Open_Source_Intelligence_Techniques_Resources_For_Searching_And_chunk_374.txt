@@ -1,0 +1,6 @@
+steps of the previous instruction, the option was chosen to create a USB drive that would
+boot to either a BIOS or UEFI computer. These terms refer to the way that the computer starts.
+BIOS is traditionally associated with Windows while UEFI is associated with Apple. That option
+allows the created drive to work on either a Windows or Apple computer, but it requires a
+Windows operating system to make the drive. The following steps will create a Linux USB boot
+drive from an Apple computer without

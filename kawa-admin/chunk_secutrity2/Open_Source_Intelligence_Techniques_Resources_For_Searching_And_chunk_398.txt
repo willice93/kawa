@@ -1,0 +1,10 @@
+most relevant content for my research. The following search will display only newer
+PowerPoint files that contain the exact phrase Cisco Confidential within the content of the slides.
+
+Search Engines 59
+
+“Cisco Confidential” filetype:pptx
+
+The result is exactly 976 PowerPoint files of interest. There are many uses for this technique. A
+search of filetype:doc “resume” “target name” often provides resumes created by the target which
+can include cellular telephone numbers, personal addresses, work

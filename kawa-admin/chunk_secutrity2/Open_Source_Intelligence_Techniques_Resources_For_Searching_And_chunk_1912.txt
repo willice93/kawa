@@ -1,0 +1,9 @@
+ffmpeg.exe and ffplay.exe. Downloading the correct version of
+FFmpeg can be difficult. Navigating to the above website will present dozens of options for
+various operating systems. In order to make this easier, you can type in the exact address below
+and download a working version for Windows. It also includes every script in this section.
+
+https://inteltechniques.com/data/ffmpeg.zip
+Video Codec Player
+
+When you identify an online or offline video that offers value to your investigation, you sho

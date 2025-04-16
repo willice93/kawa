@@ -1,0 +1,20 @@
+2
+Cipher Suite TLS.ECDHE_RSA_WITH_AES_ 128 GCM_SHA256 (@xce2F)
+
+Trusted False: 50%; unknown error
+Heartbleed Heartbeat Disabled (OK)
+
+Certificate Chain
+
+25c18fcese 547708
+CN=192.168.1.2, ST
+CNe192.168.1.2, ST=Connec
+
+evsicccea65953cbb4877a74d9972de 35602bd6be25cee9F
+=Connecticut. C=US, emailAddress=none, O=Honeywell, OU=Notifier
+ticut, C=US, emailAddress =none, O=Honeywell, OU=Notifier
+
+Figure 86 Censys 8 vb search fire alarm details page
+
+Basic Information
+Device Honeywell Notifier (fire alarm)

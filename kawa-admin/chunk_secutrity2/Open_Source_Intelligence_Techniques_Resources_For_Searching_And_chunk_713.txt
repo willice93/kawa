@@ -1,0 +1,9 @@
+the title of his video that reads “28 minutes ago”. Clicking
+on this link opens the target video within a standard Facebook page, instead of an embedded
+pop-up page, which hides the information we need. When opening that link, notice the URL of
+the new page. In this example, it is the following.
+
+https://www.facebook.com/crazycraigscrafts /videos/445432539206610/
+
+The Video ID is seen in this address, represented by “445432539206610”. This video number 1s
+vital to obtain the additional informat

@@ -1,0 +1,10 @@
+compared to Google Maps. A side by
+side comparison can be seen in a few pages with the custom maps tool. By default, this view will
+always be of the south side of a location, looking north. The curved arrows in the upper right
+comer allow you to navigate to three additional views which display the west, north, and east
+sides of the location.
+
+Dual Maps (data.mashedworld.com/dualmaps/map.htm)
+
+This website provides a satellite view of a location on both Google Maps and Bing Maps
+simultaneously.

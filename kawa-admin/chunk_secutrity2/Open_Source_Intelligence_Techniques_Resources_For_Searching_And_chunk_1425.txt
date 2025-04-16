@@ -1,0 +1,7 @@
+oomed in by double-clicking and panned left and right by dragging the mouse while
+holding a left click. Double-clicking an area of the street will refresh the window to the view from
+that location. Clicking “Back to map” in the lower left will return you to the standard map view.
+
+Historic Street View: In late 2014, Google began offering the ability to view all stored street
+view images for any single location. This option is available within the standard street view layout
+within the search are

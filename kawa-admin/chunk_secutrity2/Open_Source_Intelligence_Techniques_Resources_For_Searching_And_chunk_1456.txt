@@ -1,0 +1,6 @@
+sic Maps. There were a handful of URLs that still presented
+Google’s classic view with additional tools. Google has officially disabled all of these hidden sites,
+but there is still one option left. Gokml.net hosts an interactive map tool that appears very similar
+to the classic version of Google Maps. It uses Google’s live stream of mapping data, but displays
+options no longer available in the current Google Maps. Most of these are related to the layout
+of the page and allow you to customize th

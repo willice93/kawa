@@ -1,0 +1,6 @@
+his example, the same target was chosen as was used previously. However, much more
+information was obtained. We now have direct links to her Twitter, Google+, AboutMe, Flickr,
+Foursquare, Github, Instagram, Klout, Yelp, and YouTube profiles. We also have links to her
+personal blog, employer, Snapchat account, and IMDB page. As a further benefit, hovering over
+any social network profile link, such as her friends or retweets, will immediately change the detail
+menu to information found about the n

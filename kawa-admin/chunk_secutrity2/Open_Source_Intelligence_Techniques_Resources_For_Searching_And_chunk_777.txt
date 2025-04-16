@@ -1,0 +1,10 @@
+.
+Furthermore, the Facebook API no longer allows the display of this data either. There is a
+solution, and it will involve minimal geek work.
+
+First, identify the page of your target. For this example, I will use the following public profile:
+https://www.facebook.com/darya.pino/ friends
+
+She has several friends, so I will hold down the Space Bar on my keyboard to load the entire
+page. I will now highlight her entire friends list and use ctrl-c or right-click>copy to copy the
+data. I find it best

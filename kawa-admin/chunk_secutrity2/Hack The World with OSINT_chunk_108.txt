@@ -1,0 +1,32 @@
+s scans.
+
+Table 19 Important SSH Censys fields
+
+Censys field Example
+
+| 22.ssh.v2.banner.comment Ubuntu-2ubuntu2.3
+
+| 22.ssh.v2.bannetr.taw SSH-2.0-OpenSSH_6.6.1p!
+
+Ubuntu-2ubuntu2.3
+| 92, ssh.v2.banner.software | OpenSSH_6.6.1pt
+
+“22. ssh.v2.banner.version Be ee
+
+“22.ssh.v2.metadata.product “OpenSSH
+- 22.ssh.v2.metadata.version 6.6.1p!
+
+22.ssh.v2. selected. client_ to_ serve aes 1 28-ctr
+
+_t.cipher
+
+be
+)
+)
+ao 22.ssh. v2,selected. client_to_serve none
+
+Remote Management 33
+
+oe z
+
+3123bf1a945f50a

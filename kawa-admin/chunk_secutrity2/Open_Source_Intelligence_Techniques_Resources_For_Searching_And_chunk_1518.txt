@@ -1,0 +1,7 @@
+e in a
+web browser by itself, and then copy the address of the image. If I want to view the image from
+the actual location, I must right-click on the image and select “view image” with my Firefox
+browser. Chrome users will see “open image in new tab” and Internet Explorer users will see
+“properties” which will identify the URL of the image. This link is what you want in order to
+conduct a reverse image analysis. If you paste this link in the Google Images reverse online search,
+the result will b

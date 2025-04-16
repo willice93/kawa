@@ -67,3 +67,69 @@ cas_pratique: 'Titre : Application de la règle d''imposition sur les sorties en
   correctement la règle d''imposition sur les sorties en capital de ses plans d''épargne
   retraite. Il pourra ainsi calculer sa contribution fiscale appropriée et éviter
   toute pénalité.'
+embedding_text: 'Règle : Règle d''imposition applicabile aux sorties en capital des
+  plans d''épargne retraite (PER) :
+
+  - À qui s''applique la règle : Les personnes ayant effectué un retrait en capitale
+  d''un PER.
+
+  - Dans quelles conditions : Lorsque le montant du retrait correspond aux intérêts
+  produits par les versements réalisés pendant la durée du plan (dont ceux volontaires
+  ou obligatoires).
+
+  - Quels sont les montants ou plafonds : Le montant à indiquer en ligne 2TZ de la
+  déclaration d''impôt sur le revenu est le montant imposé qui sera soumis au prélèvement
+  forfaitaire unique.
+
+  - Quelle est la formule de calcul applicable : Le montant est soumis à un taux de
+  12,8 % (12,8%) plus les prélèvements sociaux de 17,2 %. En option globale, le montant
+  peut être imposé au barème de l''impôt sur le revenu.
+
+  - Et ce qu’il faut vérifier pour être sûr d''y avoir droit : Vérifier que le retrait
+  est en capital et correspond aux intérêts produits par les versements réalisés pendant
+  la durée du plan (dont ceux volontaires ou obligatoires).
+
+  Formule : Non spécifiée
+
+  Cas pratique : Titre : Application de la règle d''imposition sur les sorties en
+  capital des plans d''épargne retraite (PER) par Jean Dupont, commerçant
+
+
+  Contexte : Jean Dupont, un commerçant vivant à Paris, a effectué un retrait en capital
+  de son plan d''épargne retraite (PER). Le montant du retrait correspond aux intérêts
+  produits par les versements réalisés pendant la durée du plan.
+
+
+  Montants concernés : Les données de Jean Dupont sont les suivantes :
+
+  - Montant imposé sur le retrait en capital : 5000 € (d''après ligne 2TZ de la déclaration
+  d''impôt sur le revenu)
+
+  - Taux applicable : 12,8 % pour l''imposition des sorties en capital + 17,2 % de
+  prélèvements sociaux = 29,36 % (calcul : 5000 x 0.2936 = 1468 €)
+
+  - Barème de l''impôt sur le revenu : La répartition de la base imposable suivant
+  les barèmes est de 2 711 € pour le barème A, et le reste (28 289 € - 2 711 €) pour
+  le barème B
+
+  - Montant d''imposition selon l''option globale : Le montant imposé suivant la répartition
+  sur les barèmes est de 3 640 € (calcul : 5000 x 0.73 [barème B] - 2 198 [barème
+  A])
+
+  - Comparaison régime par défaut vs option choisie : Le montant imposé dans le cas
+  du régime par défaut est plus élevé (1468 €) que celui de l''option choisie (3 640
+  €). Toutefois, en optant pour l''option globale, Jean Dupont peut bénéficier d''un
+  crédit d''impôt réduit sur ses autres revenus.
+
+
+  Déclaration : Dans les cas de sorties en capital des PER, le montant imposé doit
+  être indiqué à la ligne 2TZ (Intérêts des plans d''épargne retraite) de la déclaration
+  d''impôt sur le revenu. Pour Jean Dupont, cela équivaut à un montant de 5000 €.
+  En optant pour l''option globale, ce montant est indiqué à la ligne 1GF (Option
+  globale).
+
+
+  Conclusion : En suivant ces instructions, Jean Dupont peut s''assurer d''appliquer
+  correctement la règle d''imposition sur les sorties en capital de ses plans d''épargne
+  retraite. Il pourra ainsi calculer sa contribution fiscale appropriée et éviter
+  toute pénalité.'

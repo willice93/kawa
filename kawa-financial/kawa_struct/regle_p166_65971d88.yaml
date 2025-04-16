@@ -74,3 +74,75 @@ cas_pratique: 'Example Scenario:
   On her tax declaration for 2023, Jeanne will report her recettes hors taxes for
   2023 (case 1AK) and the calculated imposable profit (case 1GF). She will also confirm
   that her abattement meets the minimum threshold of 305€.'
+embedding_text: 'Règle : La règle applique aux personnes physiques qui exploitent
+  une activité commerciale ou artisanale. Cette règle est applicable lorsque les recettes
+  hors taxes des trois années précédentes sont disponibles.
+
+
+  Les montants ou plafonds de la règle consistent en :
+
+  - Les recettes hors taxes de l''année d''imposition (l''année courante) et des deux
+  années précédentes
+
+  - Un abattement de 87 %
+
+  - L''abattement ne peut pas être inférieur à 305 €.
+
+
+  La formule de calcul applicable est :
+
+  Le bénéfice imposable = (Moyenne des recettes hors taxes des trois années) x 0.13
+  (soit 87 % abattu)
+
+
+  Il faut vérifier que les recettes hors taxes pour chaque année sont disponibles
+  et que l''abattement n''est pas inférieur à 305 €, pour être sûr d''y avoir droit.
+
+  Formule : Non spécifiée
+
+  Cas pratique : Example Scenario:
+
+
+  Name: Jeanne Dupont, Self-employed Baker
+
+  Year: 2023
+
+
+  Background: Jeanne Dupont is a self-employed baker who runs her business, "Le Pain
+  Quotidien", from a small shop in the heart of Paris. She has been in operation for
+  over five years and her sales have grown steadily since she started.
+
+
+  Income and Expenses (2021, 2022, 2023 - all figures in Euros):
+
+  - 2021: Recettes hors taxes: 50,000€ / Dépenses: 20,000€ / Solde: 30,000€
+
+  - 2022: Recettes hors taxes: 60,000€ / Dépenses: 22,000€ / Solde: 38,000€
+
+  - 2023 (Estimated): Recettes hors taxes: 70,000€ / Dépenses (estimated): 24,000€
+
+
+  Tax Calculation:
+
+  1. Calculate the average of the three years'' net income: (30,000€ + 38,000€ + 70,000€)
+  / 3 = 45,000€
+
+  2. Apply the 87% abatement to the average net income: 45,000€ x 0.87 = 38,950€
+
+  3. The imposable profit for 2023 will be the recettes hors taxes of 2023 (70,000€)
+  minus the abattement of 38,950€: 70,000€ - 38,950€ = 31,050€
+
+
+  Comparison:
+
+  - Without the 87% abatement, Jeanne''s imposable profit for 2023 would have been
+  70,000€.
+
+  - With the 87% abatement, her imposable profit is significantly reduced to 31,050€.
+
+
+  Declaration:
+
+  On her tax declaration for 2023, Jeanne will report her recettes hors taxes for
+  2023 (case 1AK) and the calculated imposable profit (case 1GF). She will also confirm
+  that her abattement meets the minimum threshold of 305€.'

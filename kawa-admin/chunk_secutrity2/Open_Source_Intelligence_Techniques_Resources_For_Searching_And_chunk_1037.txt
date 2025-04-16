@@ -1,0 +1,6 @@
+posted content on Reddit
+since 2005. This provides us an amazing collection of most deleted posts. The next time your
+target wipes out various Reddit posts before you can collect the evidence, Pushshift may reveal
+the deleted content. This site allows you to download the entire archive, but that may be overkill
+for most users. Instead, we can take advantage of their robust application programming interface
+(API). First, let’s assume that you are only interested in a specific user that has delete

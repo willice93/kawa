@@ -1,0 +1,6 @@
+lated regions stand out in various ways. For example, they can be darker or brighter than
+similar regions which have not been manipulated. JPEG Quality should match the onginal quality
+of the image that has been photoshopped. Error Scale makes the differences between the original
+and the recompressed image bigger. Magnifier Enhancement offers different enhancements:
+Histogram Equalization, Auto Contrast, and Auto Contrast by Channel. Auto Contrast mostly
+keeps the colors intact; the others can c

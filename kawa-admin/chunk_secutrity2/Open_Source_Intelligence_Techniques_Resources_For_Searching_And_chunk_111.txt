@@ -1,0 +1,8 @@
+numerous malicious files that target
+Windows machines, but were present on my system (mostly as email attachments). This
+notification allowed me to manually remove those files, which could prevent future infection of
+my Windows virtual machines. If you have concerns about having a “naked” Mac with no
+antivirus, the following instructions will configure your Mac to be better protected.
+
+First, you must install a package manager called Brew. This program 1s very beneficial when there
+is a need to

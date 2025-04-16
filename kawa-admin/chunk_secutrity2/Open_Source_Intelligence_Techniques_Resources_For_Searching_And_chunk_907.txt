@@ -1,0 +1,8 @@
+the tesults of the same targets
+when the search criteria was changed to “Compare their followers” in the dropdown menu next
+to the search button. We now see that the first and second subject still have no one in common.
+The first and third subject have 200 people that follow both of their Twitter feeds. You can click
+the result link to identify these 200 people.
+
+Followerwonk possesses other search capabilities for user analysis. The first tab at the top of the
+scteen will search any term or te

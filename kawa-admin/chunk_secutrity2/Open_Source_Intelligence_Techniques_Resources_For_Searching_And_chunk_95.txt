@@ -1,0 +1,8 @@
+ok to find
+information without possessing a deep understanding of computers or the internet. Explicit
+descriptions and occasional screen captures will ensure that the techniques can be recreated on
+any computer. Several universities have adopted this book as requited reading, and I am honored
+to play a small role in some amazing courses related to network security.
+
+I realize that people who use these techniques for devious purposes will read this book as well.
+Colleagues have expressed their co

@@ -1,0 +1,16 @@
+get video page. Pasting the video address into this window
+executes the exact command required to replicate the process previously completed manually.
+
+Mac
+
+Similar to the Windows directions, save a copy of the proper YouTube-DL file in your
+Documents folder. Open TextEdit and type in the following exact text. Save the file as
+videos.command in the Documents folder.
+
+#!/bin/bash
+
+echo "Enter the Video or Channel URL: "
+
+read youtube_url
+
+python ~/Documents/Apps/Portable/YT-DL/youtube-dl.py $yout

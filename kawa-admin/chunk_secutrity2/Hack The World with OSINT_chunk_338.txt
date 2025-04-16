@@ -1,0 +1,26 @@
+S701, AS54837, AS131279
+
+25/SMTP
+
+secon cmnesaiiieneiinedlieslbac
+Se sedenell
+
+Banner roan el CENT HOSTHANE ; Sat, 23 Dec 2017 21:59-15 +0839
+250-silibanknet k coiopiicamnney _HOSTNAME [CLIENT_IP], pleased to meet you
+
+ISOHELP
+
+STARTTLS 454433 1Snatavailable-after start
+
+Figure 149 Censys mail.silibank.net.kp details
+
+ASN Country KP
+Registry apnic —_
+
+ong Potong-gang District
+
+etientity’SIVTI-AP
+
+vering SMTP Start TLS Configurations
+WK mait methods of getting the Start TLS
+ettings from Censys.io

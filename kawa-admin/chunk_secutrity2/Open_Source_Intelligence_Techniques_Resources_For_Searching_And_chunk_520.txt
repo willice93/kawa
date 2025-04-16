@@ -1,0 +1,19 @@
+act name, on my website, within the past month, and only PDF files. The Google and Bing
+“Open” options will launch a new tab with the exact terms required for these options.
+
+Find web-pages where of the following apply
+
+Result:
+
+itevinteltechniques.com filetype:PDF
+
+site:inteltechniques.com filetype:PDF
+
+Figure 3.09: An Advangle search menu in use.
+
+82 Chapter 3
+
+Keyword Tool (keywordtool.io)
+
+Keyword Tool displays autocomplete data from Google, Bing, YouTube, and the App Store.
+You have likely

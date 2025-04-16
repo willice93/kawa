@@ -1,0 +1,7 @@
+e. The cache
+may be missing Tweets you want to see. I next replicated this process on Bing and Yandex. Bing’s
+cached view was taken on December 7, 2017 while Yandex’s cached view was collected on
+November 3, 2017. Each of these possessed unique posts and images. Figure 5.04 displays a
+recovered post from Bing. Next, I returned to Google to obtain further data. I searched the
+following, which provided only results that possess a URL that begins with twitter.com, then my
+target’s user name, then “

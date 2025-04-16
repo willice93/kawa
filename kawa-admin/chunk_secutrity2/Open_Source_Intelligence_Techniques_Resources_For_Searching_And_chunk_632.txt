@@ -1,0 +1,9 @@
+e and after the search result.
+
+Pentity_id=651620441 &offset=3”
+
+In this example, the user ID of this profile is 651620441. We will use this number for numerous
+searches within the next instruction. Alternatively, you can use my custom Facebook search tool
+to immediately obtain the user ID number of any profile. This tool will be explained later. Some
+usets prefer to look at the URLs of a target's photos in order to identify the user ID, but I believe
+this is bad practice. If a user has no photo

@@ -1,0 +1,7 @@
+ould now change your agent to that of a mobile device or Google
+Chromebook which may not look as suspicious. To do so, you would click on the menu bar icon,
+and simply select the desired configuration. To return to the default Firefox option in your native
+operating system, click on the checkmark icon in the lower left. Figure 1.09 displays an example
+where a mobile version of Yahoo was delivered to a desktop computer.
+
+I have used this on several occasions to bypass poor security protocols. Dur

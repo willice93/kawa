@@ -1,0 +1,7 @@
+(crimereports.com)
+
+Crime Reports delivers a very comprehensive map of criminal incidents, traffic accidents,
+tegistered sex offenders, police reports, and emergency incidents. The only option for search is
+an address. Alternatively, you can move the map to a desired location. After you have selected an
+area of interest on the map, you can select the types of notifications to populate the map. These
+include violent crimes, property crimes, traffic issues, and emergency incidents. As long as you

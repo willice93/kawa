@@ -1,0 +1,6 @@
+found online that included a serial number in the Exif data, and another
+image was found of a target of the investigation, these two photos can be analyzed. If the serial
+number as well as make and model of camera match, there is a good likelihood that the same
+camera took both images. It is important to know that this data can be manipulated, though.
+Using software such as Exif Tool (see Chapter Nineteen), a user can modify this data. While this
+is not a popular tactic to use, it is still possi

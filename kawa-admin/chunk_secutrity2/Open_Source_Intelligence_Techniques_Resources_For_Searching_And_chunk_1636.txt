@@ -1,0 +1,25 @@
+lent &#039;Try Honesty&#039;” webkitallowfullscreen
+mozallowfullscreen allowfullscreen></iframe>“,
+
+width: 480,
+
+height: 272,
+
+duration: 247,
+
+description: “Music Video Directed by Sean Michael Turtell. “Winner MuchMusic Awards Best
+Rock Video.”,
+
+thumbnail_url: “https://i.vimeocdn.com/video/513053154_295x166.jpg”,
+
+thumbnail_ width: 295,
+
+thumbnail_height: 167,
+
+upload_date: “2014-06-25 21:29:06”,
+
+video_id: 99199734,
+
+uri: “/videos/99199734”
+
+The portion relevant to this topic is the thumbnail

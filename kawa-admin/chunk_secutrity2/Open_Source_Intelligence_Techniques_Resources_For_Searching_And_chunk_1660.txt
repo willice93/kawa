@@ -1,0 +1,11 @@
+ook reverse video search discussion, we used the following video page as an example.
+
+https: //www.facebook.com/billytalent/videos/10153157582551992/
+
+10153157582551992 is the video ID for this media. Entering the following address into a web
+browser will reveal a text-only view of the Facebook data for this video.
+
+https://www.facebook.com/video/video_data/?video_id=10153157582551992
+At the bottom of this page, you should see a line of code similar to the following.
+
+Hd_source: "https://video-l

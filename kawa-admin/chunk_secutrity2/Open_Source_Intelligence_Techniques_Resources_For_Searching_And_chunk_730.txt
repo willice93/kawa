@@ -1,0 +1,11 @@
+https://www.doogal.co.uk/BatchReverseGeocoding.php
+
+Copy and paste the entire contents of the lower box from the Text Mechanic Find and Replace
+Text Tool to the Input box of the Doogal website. Click the “Reverse Geocode” button and
+witness the conversion of these coordinates into street addresses. Many of these will be the home
+addresses of the viewers of our target video. Below is the actual output, with modifications in
+otder to protect the privacy of the viewers.
+
+122 Chapter 4
+
+Latitude,Lon

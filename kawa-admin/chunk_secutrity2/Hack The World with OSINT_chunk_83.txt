@@ -1,0 +1,12 @@
+ailing to prepare, you are preparing to fail
+
+- Benjamin Frankdin
+
+2 How to Setup your OSINT Lab
+
+There are some essential tools required to set up your OSINT lab.
+They aren’t too complicated and shouldn’t cost any additional money.
+Some of the tools do have commercial versions. If you download
+anything, check the hash MD5 + SHA-1 or SHA-2 256 or above. MD5
+is too short, so should not be relied on solely. Also, check files with
+anti-virus or Virustotal.com. Be safe when setting up your lab. Anot

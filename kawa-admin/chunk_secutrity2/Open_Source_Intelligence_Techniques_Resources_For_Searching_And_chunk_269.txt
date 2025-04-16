@@ -1,0 +1,8 @@
+s a way to
+have numerous computers within your single computer.
+
+Before installing Buscador, you must possess vittual machine software. There are several
+ptograms that allow you to create and execute virtual machines. Many of these are paid programs,
+such as VMWare. However, I will focus on VirtualBox in this section. VirtualBox is completely
+free and easy to operate. All methods presented here for VirtualBox can be replicated on
+VMWare, and I will identify some key differences when appropiate.

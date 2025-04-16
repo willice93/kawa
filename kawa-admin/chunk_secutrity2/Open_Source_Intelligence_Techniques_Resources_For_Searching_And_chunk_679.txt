@@ -1,0 +1,9 @@
+es-liked/7 /places-liked/intersect
+https://www.facebook.com/search/4/pages-liked/7 /pages-liked/intersect
+https://www.facebook.com/search/4/photos-liked/7/photos-liked/intersect
+https://www.facebook.com/search/4/photos-of/7/photos-of/intersect
+
+https: //www.facebook.com/search/4/photos-commented/7 /photos-commented/ intersect
+https://www.facebook.com/search/4/photos-interacted /7/photos- interacted /intersect
+https: //www.facebook.com/seatch/4/photos-interested /7/photos- interested /intersect
+h

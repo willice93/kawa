@@ -64,3 +64,61 @@ cas_pratique: 'Titre : Application de la règle pour les salariés travaillant �
   Conclusion : Marie est dans une situation favorable pour bénéficier du plafond annuel
   rémunération nettement inférieur ou égal à 7 500 €, car son revenu brut n''excède
   pas 8 037 € par an.'
+embedding_text: 'Règle : La règle s''applique aux personnes qui sont salariées et
+  qui travaillent à temps partiel ou sur une partie de l''année seulement. La limite
+  annuelle de rémunération nette imposable est de 7 500 €, tandis que le montant brut
+  correspondant du plafond annuel est de 8 037 € (un calcul en fonction d''impôts
+  et cotisations sociales nécessaires n''est pas précisé dans le texte). Il n''y a
+  pas de proratisation en fonction de la durée d''activité. Pour être sûr d''avoir
+  droit à cette limite, il faut vérifier que les revenus sont nettement inférieurs
+  ou égaux à 7 500 € par année.
+
+  Formule : Non spécifiée
+
+  Cas pratique : Titre : Application de la règle pour les salariés travaillant à temps
+  partiel ou occasionnellement
+
+
+  Contexte : Nous considérons l''exemple d''une personne nommée Marie, qui est enseignante
+  en tant que travail occasionnel dans une école locale. Elle travaille toute l''année,
+  mais pas tous les jours, et son revenu annuel brut n''excède pas 8 037 €.
+
+
+  Données clés :
+
+  - Nom de la personne : Marie
+
+  - Profession : Enseignante occasionnel(le)
+
+  - Montant brut annuel : 8 037 €
+
+  - Montant net annuel imposable (plafond) : 7 500 €
+
+  - Pas de proratisation en fonction de la durée d''activité
+
+
+  Déclaration des revenus :
+
+  - Cas 1AK : Revenus occasionnels et professionnels imposables - Cas applicable pour
+  Marie car elle est salariée en tant qu''enseignante occasionnel(le)
+
+
+  Analyse du régime par défaut :
+
+  En vertu de la règle, si le revenu annuel brut de Marie atteint 8 037 € ou moins,
+  son revenu net imposable sera de 7 500 €.
+
+
+  Calcul clair :
+
+  - Revenu brut annuel : 8 037 €
+
+  - Plafond annuel rémunération nettement inférieur ou égal à 7 500 € (pas d''impôts
+  et cotisations sociales supplémentaires)
+
+  - Revenu net imposable : 7 500 €
+
+
+  Conclusion : Marie est dans une situation favorable pour bénéficier du plafond annuel
+  rémunération nettement inférieur ou égal à 7 500 €, car son revenu brut n''excède
+  pas 8 037 € par an.'

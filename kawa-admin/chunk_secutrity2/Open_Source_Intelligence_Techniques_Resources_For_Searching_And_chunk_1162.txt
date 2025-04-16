@@ -1,0 +1,10 @@
+ttom as a
+collection. Choosing the Export option allows you to download all results as a PDF document,
+Word document, or Excel spreadsheet. Note that you are only allowed 20 free searches per day.
+In my experience, this has been sufficient for most investigations.
+
+Find Any Email (findanyemail.net)
+
+Find Any Email takes the technique used in the previous example to confirm valid email
+addtesses, and attempts to discover new addresses. It asks for two pieces of information. The full
+name is the r

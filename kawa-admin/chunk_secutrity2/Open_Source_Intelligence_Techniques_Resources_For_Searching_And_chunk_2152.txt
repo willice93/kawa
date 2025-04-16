@@ -1,0 +1,22 @@
+Remove HA 4
+
+Group SU Hard Disk
+
+VT-x/AMD-V, Nested Paging
+Start >
+
+Show Log...
+
+Show in Finder rontrotier
+
+Create Alias on Desktop aster: Android §.1.0 2015 Clone-disk1 .vidk (Normal, 1.03 GB)
+ave: Android 5.1.0 2015 Clone-disk2. vmdk (Normal, 5.51 GB)
+
+Sort y Master: Android 5.1.0 2015 Cione-disk3.vmdk (Normal, 8.00 GB)
+
+Figure 21.04: A VirtualBox menu with a clone option in the menu.
+
+Virtual machines to export Appliance settings
+
+ei Android 4.4.4 2015 - Desoription Configuration
+§ Android S.

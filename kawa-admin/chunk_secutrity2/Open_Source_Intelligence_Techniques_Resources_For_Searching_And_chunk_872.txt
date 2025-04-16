@@ -1,0 +1,9 @@
+hanged by clicking on the blue plus sign in the upper night area. Clicking on each visible dot will
+display the details of the message. This will include exact date and time, the message content, and
+the user that posted the Tweet. The area in the lower left is a word cloud that identifies words
+that appear in messages more commonly than others.
+
+MapD: Harvard (http://worldmap.harvard.edu/tweetmap)
+
+Harvard’s version of this data interface is more basic with fewer options. This may not sound
+lik

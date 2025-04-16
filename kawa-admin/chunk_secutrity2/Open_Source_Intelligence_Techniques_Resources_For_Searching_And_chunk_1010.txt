@@ -1,0 +1,12 @@
+ld present you with a tutorial.
+
+Instagram (instaport.me)
+
+This is not an official Instagram export option, but it will archive an entire account if supplied
+the target user name and password. Log in with the target Instagram account, select the option
+to export all photos and videos, and the “Download only” link to download all Instagram content
+
+in a compressed file.
+International Social Networks
+
+While this book is heavily focused on social networks popular in the United States, they tend to

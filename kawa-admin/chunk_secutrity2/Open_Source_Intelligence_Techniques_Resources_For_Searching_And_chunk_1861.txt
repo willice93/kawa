@@ -1,0 +1,9 @@
+. PACER has been criticized for being hard to use and for demanding
+fees for records which are in the public domain. In reaction, non-profit projects have begun to
+make such documents available online for free.
+
+RECAP (courtlistener.com/recap)
+
+RECAP (PACER backwards) allows users to automatically search for free copies during a search
+in PACER, and to help build up a free alternative database at the Internet Archive. It is an
+extension for the Firefox and Chrome browsers which for each PACER do

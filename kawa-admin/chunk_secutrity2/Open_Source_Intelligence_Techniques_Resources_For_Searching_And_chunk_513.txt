@@ -1,0 +1,8 @@
+It should be noted that the file type option on this page
+is limited to popular file types, where the filetype operator can handle many other file extensions.
+
+Bing Advanced Search (search.yahoo.com/web/advanced)
+
+Bing does not technically provide an advanced search page similar to Google’s. However, since
+Yahoo uses Bing’s search, you can use Yahoo’s advanced search page as a replacement. This page
+will allow you to easily create a search that filters by individual terms, exact phrases, omitted

@@ -1,0 +1,11 @@
+umber. Instead of typing “314-555-1212”, the user may enter “three one four
+five five five one two one two”. Some will get cteative and post “314 five five five 1212”. This is
+enough to confuse both Craigslist’s servers as well as the spammers. This can make searching
+difficult for an analyst. The hard way to do this is to conduct several searches similar to the
+following.
+
+site:craigslist.org “314-555-1212”
+
+site:craigslist.org “314” “555” “1212”
+
+site:craigslist.org “three one four” “five five

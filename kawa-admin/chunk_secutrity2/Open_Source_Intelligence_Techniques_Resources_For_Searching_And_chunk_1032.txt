@@ -1,0 +1,15 @@
+ts,
+categories, or users that included the word “surveillance”.
+
+site:reddit.com “surveillance”
+
+If you wanted to force Google to restrict its searching to a specific Sub-Reddit, such as OSINT,
+you would add “/r/osint” after the first portion. If you wanted to restrict the searching to a
+specific user, you would add “/uset/CHRISB” to the end. Specifically, the following would apply.
+
+site:reddit.com/r/osint “surveillance”
+site:reddit.com/user/CHRISB “surveillance”
+
+Deleted Content
+
+If you have i

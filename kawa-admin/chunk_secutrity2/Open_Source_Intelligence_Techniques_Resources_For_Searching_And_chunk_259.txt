@@ -1,0 +1,8 @@
+ot, there ate no viruses and everything works exactly as intended when the system was
+created.
+
+This chapter presents ways that you can harden your security by using a Linux operating system
+duting your investigations. Many years ago, this may have been intimidating to non-technical
+users. Today, implementing Linux into your investigations is extremely easy. This chapter 1s
+intentionally at the beginning of the book in order to better protect you and your investigations
+right away. Once we start

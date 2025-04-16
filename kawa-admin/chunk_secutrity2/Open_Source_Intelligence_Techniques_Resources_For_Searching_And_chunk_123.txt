@@ -1,0 +1,8 @@
+, especially in the Application Programming Interfaces (APIs)
+chapter, will fail when used in conjunction with Microsoft’s browsers. They require a more
+sophisticated solution with proper add-ons. I will focus on Firefox first, as it is my preferred
+browser for every investigation.
+
+Many readers find that security restrictions on their computers prohibit them from installing any
+software, including web browsers. While I have found that downloading portable versions of
+Firefox and Chrome eliminat

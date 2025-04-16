@@ -1,0 +1,8 @@
+with very little
+input. The entire process follows.
+
+When you launch FOCA, you will see the main program with few action choices. Click on
+“Project” and then “New project”. Create a project name and provide the target website if you
+have one. Choose a location to store any documents located and include any notes necessary.
+Click the “Create” button to create your project. You will be prompted to name your project file,
+which will be the target domain name by default. Choose the same location as

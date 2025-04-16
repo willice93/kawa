@@ -1,0 +1,26 @@
+t links. Next is a small excerpt.
+
+“familyName”: “Lorang”,
+“sivenName”: “Bart”,
+“fullName”: “Bart Lorang”’,
+“chats”: [
+“chent”: “gtalk”’,
+“handle”: “lorangb@gmail.com”
+“client”: “skype”,
+“handle”: “bart.lorang”
+“websites”: |
+“url”: “http://rainmaker.cc/”
+“photos”: [
+“typeName”: “Twitter”,
+“url”:
+“http://a0.twimg.com/profile_images/1364842224/Bart_Profile_1_norm
+al.jpg-
+
+“typeName”: “Tungle Me”,
+
+“type”: “tungleme”,
+
+“typeld”: “tungleme”,
+
+“url”: “https://tungle.me/public/bartlorang/Image”
+“typeN

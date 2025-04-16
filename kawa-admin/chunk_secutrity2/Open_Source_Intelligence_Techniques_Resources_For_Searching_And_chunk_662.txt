@@ -1,0 +1,9 @@
+ed” option will display the common places that your target’s friends
+visit. This may identify local hangouts and favorite bars.
+
+The “ftiends/recent-places-visited” option will display the common places that your target’s
+friends have recently visited. This may identify more relevant places of interest.
+
+The “friends/places-checked-in” option will display the common places that your target’s friends
+have checked-in through the Facebook app or website. This miay identify more accurate places
+of i

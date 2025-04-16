@@ -1,0 +1,7 @@
+nter full name of video file on desktop:
+mediainfo.exe “Youserprofile% \desktop\%VIDEO%” > “Youserprofile% \desktop\% VIDEO” txt
+
+Double-click the metadata.bat file and you should be prompted to enter the name of a video file
+residing on your desktop. Place any video file of interest on your desktop and enter that file name.
+This will create a new text file on your desktop that will have the same name as yout target video.
+The content of this new “report” will contain all of the available inform

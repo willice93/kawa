@@ -1,0 +1,11 @@
+he no longer posts his email, likely to
+prevent spam. However, the following search is quite productive.
+
+from:humanhacker email since:2006-01-01 until:2009-12-31
+This isolates only his posts from the beginning of Twitter until the end of 2009. Only four results
+
+ate present, including the Tweet as seen in Figure 5.01. We will use this data during our
+automation process as discussed in Chapter Twenty-Two (sorry Chitis).
+
+HumanHacker @humanhacxer - 1 Oct 2000
+Podcast recarding today. If: you have

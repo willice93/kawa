@@ -1,0 +1,19 @@
+_name: “REDACTED “,
+name: “Stephen REDACTED”,
+language: “English”,
+
+phone: number: “618972XXXX”’,
+address city: “Tampa”,
+
+line1: “28XX Falcon XXXX”’,
+state: “FL”,
+
+zip_code: “XCXX”
+
+line_type: “Mobile”,
+
+carrier: “New Cingular Wireless Pcs, Llc”,
+
+The result provided the complete customer name, billing address, and cellular provider. Caller
+ID database results are my current favorite way to extract cellular and landline information from
+telephone numbers. They have been much more reliable than s

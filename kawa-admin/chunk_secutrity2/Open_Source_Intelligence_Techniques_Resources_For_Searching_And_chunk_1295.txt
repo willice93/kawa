@@ -1,0 +1,8 @@
+ques Custom Person Search Tool.
+Putting It All Together
+
+At first glance, the results obtained from free people search engines may appear redundant. There
+are definitely areas that repeat the same information. However, this can be beneficial for
+verification and building confidence in the results. Occasionally, what appears to be redundant
+might present further details. This can include a third report of an identical address that now
+includes an apartment number. In order to display the ways tha

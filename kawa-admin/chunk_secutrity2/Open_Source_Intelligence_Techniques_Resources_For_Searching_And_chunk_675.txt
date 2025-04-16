@@ -1,0 +1,6 @@
+erg and Chris Hughes” will display numerous profiles and pages that both
+subjects “liked”. The flaw with this type of search is that it is not unique per Facebook profile.
+There are dozens of profiles for people named Chris Hughes. This native search does not know
+which Chris Hughes you have an interest. Therefore, I never recommend this type of written
+query. Instead, the following URL will display only pages liked by both Mark Zuckerberg
+(Facebook user number 4) and Chris Hughes (Facebook user

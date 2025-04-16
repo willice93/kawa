@@ -1,0 +1,6 @@
+ortal will identify how to program this service into your server using various types of
+computer programming languages. They do not provide a URL solution similar to the previous
+examples. Instead, we will need to add a bit of technology. Next Caller accepts curl requests to
+their database and will return complete results. Curl is a command line tool for getting or sending
+files using URL syntax. Next Caller will provide you with a user name and password for your free
+trial account. For the purp

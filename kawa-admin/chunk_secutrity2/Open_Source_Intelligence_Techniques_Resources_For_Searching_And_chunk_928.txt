@@ -1,0 +1,10 @@
+. My peak
+Tweeting time is at 11:00 a.m. There is a very obvious sleep pattern present within this result.
+
+Figure 5.19: A FollerMe posting history by time.
+TweetT opic (tweettopicexplorer.neoformix.com)
+
+This simple tool provides one feature that I have found helpful in my investigations. Once you
+supply the target Twitter user name, it collects the most recent 3,200 Tweets and creates a word
+cloud. This identifies the most common words used within posts by the target. There are several
+sites t

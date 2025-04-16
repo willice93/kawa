@@ -1,0 +1,28 @@
+nd Holding B.V. (AT)
+Routing 62.245.96.0/19 via AS11164, AS2603, AS6830
+Protocols 80/HTTP
+
+—————
+ee
+
+80/HTTP
+
+Copyright © 2017 "ee & Cie. KS
+GET / poe BE
+Page Title Miele@home
+GET/ [view page]
+Fagure 95 Censys Miel(@ Home detail
+Now, go into the HTTP HTML details to verify this is a Miele
+gateway. Scroll below the table to the HTTP Body section.
+internet of shite 145
+
+
+g0/HTIP
+
+GET /
+Server Microsoft liS 7.5
+Status Line 200 OK
+Page Title Unitec
+GET / |view pagel
+
+Figure 100 ) Unitec web server d

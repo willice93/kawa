@@ -1,0 +1,8 @@
+with new
+capabilities never available before. It is a very exciting time for internet investigations.
+
+The first chapter helps you properly configure your online investigation computer. It briefly
+discusses proper secutity protocols and free software. Great emphasis is placed on proper use of
+secute web browsers. A major change since the previous edition was the launch of Firefox version
+57. In this update, all legacy add-ons were eliminated. If the add-ons were not upgraded to
+Firefox’s new req

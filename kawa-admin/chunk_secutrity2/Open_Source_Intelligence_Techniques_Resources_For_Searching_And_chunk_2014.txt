@@ -1,0 +1,7 @@
+ocess, the reward will be worth it.
+
+An application programming interface (API) is an interface for software components to
+communicate with each other. APIs are used all over the internet. For example, when you use
+websites mentioned earlier such as AllMyTweets or Followerwonk, you are taking advantage of
+an API. These sites display Twitter information about a target. They obtain this information from
+the Twitter API. Twitter, just like many social sites, allows the public access to the API of i

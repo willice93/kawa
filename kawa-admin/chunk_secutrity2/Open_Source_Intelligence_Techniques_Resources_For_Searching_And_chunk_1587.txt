@@ -1,0 +1,8 @@
+re are three different enhancements
+available at the moment: Histogram Equalization, Auto Contrast, and Auto Contrast by Channel.
+Auto Contrast mostly keeps the colors intact; the others can cause color shifts. Histogram
+Equalization is the most robust option. You can also set this to none.
+
+The Clone Detector highlights copied regions within an image. These can be a good indicator
+that a picture has been manipulated. Minimal Similatity determines how similar the cloned pixels
+need to be to the

@@ -1,0 +1,30 @@
+imulates the “Menu open” option within an application.
+Home: Returns to the Home screen.
+
+Power: Shuts down the device.
+
+410 Chapter 21
+
+9 @ a4 B 11:24
+
+Kik
+
+WhatsApp  Snapchat Yik Yak Whisper
+
+Facebook Twitter Instagram Swarm Periscope
+
+Tinder SKOUT Blendr Grindr
+
+al roe
+
+Voice Hangouts D.. Truecaller Mr Number  PrivacyStar
+AES
+
+: Si
+esas ,
+
+Settings Browser Contacts Play Store Secure Eras.
+
+Figure 21.02: A custom Android emulator home screen with several apps installed into groups.
+
+Latitude 3

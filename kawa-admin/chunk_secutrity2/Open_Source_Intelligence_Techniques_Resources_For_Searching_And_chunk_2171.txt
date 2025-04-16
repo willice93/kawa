@@ -1,0 +1,17 @@
+ns social-engineer.org and cnn.com. The
+result identified over 70 unique hosts, including the following.
+
+[*] [host] internationaldesk.blogs.cnn.com (<blank>)
+{*] [host] crossfire.blogs.cnn.com (<blank>)
+
+[*] [host] reliablesources.blogs.cnn.com (<blank>)
+{*] [host] lightyears.blogs.cnn.com (<blank>)
+
+[*] [host] commercial.cnn.com (<blank>)
+
+[*] [host] collection.cnn.com (<blank>)
+
+Recon-ng 421
+
+We can replicate this type of search on Google to make sure that we are not missing any hosts
+that co

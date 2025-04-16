@@ -1,0 +1,6 @@
+pages that have specific content within the
+title of the page. Practically every web page on the internet has an official tide for the page. This
+is often included within the source code of the page and may not appear anywhere within the
+content. Most webmasters carefully create a title that will be best indexed by search engines. If
+you conduct a search for “osint video training” on Google, you will recetve 115,000 results.
+However, the following search will filter those to 863. These only incl

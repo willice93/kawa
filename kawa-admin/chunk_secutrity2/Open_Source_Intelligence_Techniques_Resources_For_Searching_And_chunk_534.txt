@@ -1,0 +1,9 @@
+unpopular) results and focus on lesser known websites (or well known, if
+desired). You can select to remove (or include) the top 100,000, 10,000, 1,000, or 100 results.
+
+Tor Search Engines
+
+Tor is free software for enabling anonymous communication. The name is an acronym derived
+from the original software project name The Onion Router. Tor directs internet traffic through
+a free, worldwide, volunteer network consisting of more than six thousand relays to conceal a
+user's location and usage from

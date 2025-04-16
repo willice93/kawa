@@ -1,0 +1,11 @@
+ng
+multiple accounts to click each link. This can verify that the multiple accounts actually belong to
+the same target.
+
+My complaint with BananaTag is the number of steps involved to access the service. When
+conducting techniques like this, I prefer to use methods that do not require registration and the
+
+IP Addresses 351
+
+installation of software. If this is something you will do on a regular basis, it is worth the
+configuration time. If you only need to identify one or two IP addresses, I rec

@@ -1,0 +1,16 @@
+ritical Infrastructure Networks for
+Smart Grid, SCADA, and Other Industrial Control Spsteons
+
+Waltham: Syngress.
+
+Kubecka, Chrstina. n.d. “DefCon 22 Social Engineering CTF.”
+HypaSec. DefCon 22 Social Engineering CTF. Las Yes:
+
+Matherly, John. 2016. hitps:// wuw.shodan.io/ search?query=*. 3
+March. 2016.
+
+Mehnle, Julian. 2016. SPF Record Status. 14 8.
+http://www.openspf.org/ SPF_Record_Syntax.
+
+2017. Microsoft IIS. 5 November. Accessed November 5, 2017.
+http://www.cvedetails.com /product/3436/ Mic

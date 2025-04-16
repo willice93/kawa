@@ -1,0 +1,10 @@
+minal.
+
+freshclam -v
+clamscan -r -i /
+
+The first option will download all virus definition updates, and should be executed before each
+scan. The second option conducts a scan of the entire computer, and will only prompt you with
+details of found viruses. While it may appear to be dormant, it is working, and will notify you
+upon completion. All of these commands must be exact. In order to assist with this, I have
+created a web page with all of these commands at IntelTechniques.com/ clamav. On a f

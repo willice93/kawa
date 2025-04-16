@@ -1,0 +1,7 @@
+ons. You can look through a
+few sites and teach yourself how to read this confusing data, or you can use an automated service.
+
+IP2Location (ip2location.com/free/email-tracer) provides a large text box into which an entire
+email header can be copied for analysis. The response includes the IP address and location of the
+sender, interactive map identifying the originating location, internet service provider, and links to
+additional information from an IP search. Anyone wanting more information fro

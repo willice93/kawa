@@ -1,0 +1,8 @@
+nal window and type the specific commands required. This can be very difficult and
+unforgiving. There are seldom point-and-click icons that launch similar to Windows. This has
+always created a barrier between the geeks and the norms. Either you know how to issue Linux
+commands or you do not. If you don’t, then you never get to take advantage of the power of
+Linux and Python.
+
+We wanted to eliminate that barrier. We wanted to make powerful Linux programs easily
+accessible to everyone. My initial

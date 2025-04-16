@@ -1,0 +1,8 @@
+orld. Its main markets are
+Argentina, Spain, Colombia, Chile, Peru, and the US Latino community. The search functionality
+is fairly straight-forward, but the following URLs may produce more efficient results.
+
+taringa.net/buscat/posts/Pq=OSINT (Searches OSINT within post comments) —
+taringa.net/buscar/comunidades/?q=OSINT (Searches OSINT within community posts)
+taringa.net/buscar/shouts/?q=OSINT (Searches OSINT within “Shout” posts)
+tatinga.net/buscar/imagenes/?q=OSINT (Searches OSINT within ima

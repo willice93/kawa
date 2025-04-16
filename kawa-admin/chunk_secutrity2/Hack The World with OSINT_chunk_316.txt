@@ -1,0 +1,9 @@
+, risk assessment
+or included in security policies. There is no printer anti-virus, or next-generation printer
+intrusion protection systems and typically have limited to no usable logs for secutity
+purposes. There is a reason Censys.io has written the ability to tag detected printer
+devices.
+
+ec in 2017, I began -— to report these issues to Brother to no avail. Sadly, Brother
+sa = pmeastenis ds bounty program, Off to a CERT as a vulnerability
+report. Printers aren’t super sexy, but they can prov

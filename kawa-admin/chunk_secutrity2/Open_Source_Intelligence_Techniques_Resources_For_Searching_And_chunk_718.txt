@@ -1,0 +1,6 @@
+he details that this is definitely the correct video. What I am most interested in is
+the GPS coordinates near the beginning of the result. Note that I modified these numbers in
+order to better protect the privacy of the user. This GPS data represents the location of the user
+broadcasting the live video. Is this always accurate? No. This location can be provided due to
+multiple different types of data streams. In a perfect scenario, this will be a location based on the
+GPS identified by the mobi

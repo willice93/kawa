@@ -1,0 +1,20 @@
+: ma
+
+a . a moeeennngenenmmennnne
+Satya SaaS
+rT TT LNT ane aee
+
+led to — on
+
+RIF a
+
+Function Code 91 = SemiSAN (Semiconductor Sensor Automation
+Network).
+
+Per the Modbus protocol RFC, in the and device identification and
+user defined function codes “there are two ranges of user-defined
+function codes, i.e. 65 to 72 and from 100 to 110 decimal. Function
+codes and MEI Types shall not be part of this published
+
+Specification. These function codes and MEI Types are specifically
+reserved: 43/0-12 and

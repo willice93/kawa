@@ -1,0 +1,10 @@
+all of the details listed previously,
+plus the actual IP addresses of each visit. In this demo, I know the following about those that
+clicked on my trap. Note that I redacted the IP addresses to respect the privacy of those involved.
+
+User's IP Country/City Access Date
+
+173.244.48.111 United States (Los Angeles, California) 2017-12-29 12:58:55
+213.133.92.111 Cyprus (Nicosia, Nicosia) 2017-10-31 04:00:19
+125.31.39.111 Macau 2017-04-22 03:36:57
+198.8.80.111 United States (Los Angeles, California)

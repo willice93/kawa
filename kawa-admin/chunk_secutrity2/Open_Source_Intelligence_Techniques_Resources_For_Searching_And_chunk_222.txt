@@ -1,0 +1,6 @@
+add-on mentioned in this chapter. The
+configurations discussed here have already been applied and you are ready to begin your
+searching. This profile could be copied to an unlimited number of computers. While I will
+attempt to update this file occasionally, it will likely be somewhat outdated when you install.
+Correct this by clicking the settings button on the Firefox add-ons page and choosing Check for
+updates. This will apply any add-on updates available. You may also notice a row of bookmark

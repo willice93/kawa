@@ -1,0 +1,6 @@
+to operate. These advanced systems offer many
+features that are not available on typical hardwate scanners. These systems contain the basic
+hardware required to receive the frequencies and then pass data to a computer. Special software
+on the computer controls the hardware and allows for advanced monitoring. This can include
+decoding alpha-numeric pagers; receiving digital satellite imagery from weather satellites;
+identifying beacons from airplanes and ships; and deciphering amateur radio sign

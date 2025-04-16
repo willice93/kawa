@@ -1,0 +1,7 @@
+wever, there are some additional
+features which makes this tool noticeable. Image Raider lets you input up to 20 images at a time,
+which means you can run a multi-reverse image search by using this tool. Unlike other image
+search tools where you can only provide images via URL or by directly uploading from the
+computer, this service has multiple options for providing the source image. Among other
+methods, you can add a URL of a web page and it will fetch all the images from that page and
+use the

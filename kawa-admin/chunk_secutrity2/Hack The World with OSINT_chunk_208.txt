@@ -1,0 +1,21 @@
+r Samsung OVR</title>
+nn Citie> <meta http-equiv= fx
+i = Cache-
+
+“6 6D
+
+6.6 Dorking to find Anonymous FTP login services
+There are many Censys FTP anonymous service dorking search
+strings which can be used in an 1Pv4 search.
+
+e 21.ftp.banner.banner: “220 USE ANONYMOUS
+LOGIN”
+
+e “ONLY anonymous access”
+e 220 Anonymous FTP Server
+e 220 Anonymous FTP Server ready
+e 220 (TK Anonymous FTP Server)
+
+A general search string which can be further refined:
+
+protocols: '"21/ftp" AND 21.ftp.banner.banner: an

@@ -1,0 +1,8 @@
+ilable in the free version, but I have never found that to be a hindrance to my
+investigations. Genymotion is quite clear that if you plan on making money by designing an app
+through their product, you should pay for a license. Non-commercial usage allows unlimited use
+of the free personal version.
+
+The GPS option within Genymotion is the most beneficial feature of their toolset. Clicking this
+icon will launch the GPS menu. Clicking the Off/On switch will execute the location spoofing
+service an

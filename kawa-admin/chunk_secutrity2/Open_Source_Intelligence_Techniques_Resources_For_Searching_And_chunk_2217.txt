@@ -1,0 +1,10 @@
+his chapter
+was a Radio Shack PRO-2055. At the time of this writing, pre-owned devices were available for
+under $50 on Craigslist. One benefit of this type of scanner is that it can be programmed either
+manually or through computer software. Since the instructions for programming a scanner will
+vary by device, it will not be explained here. The instruction manual for the device should provide
+the proper instructions.
+
+Software Defined Radio (SDR)
+
+Some radio receivers require a computer in order

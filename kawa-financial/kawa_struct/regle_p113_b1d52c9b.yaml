@@ -79,3 +79,81 @@ cas_pratique: 'Context : John Doe, self-employed graphic designer living in a 15
   Conclusion: By properly declaring his home office expenses and meeting all conditions
   set forth by the rule, John successfully reduced his taxable income and benefited
   financially.'
+embedding_text: 'Règle : Règle de calcul : Dépenses afférentes aux locaux professionnels
+
+
+  Cette règle s''applique à tout individu qui est propriétaire ou locataire d''une
+  habitation principale et utilise une partie de cette habitation pour des fins professionnelles.
+
+
+  Il se peut que vous puissiez déduire ces dépenses si :
+
+  1. Votre employeur ne met pas à votre disposition un bureau ou local spécifique
+  nécessaire à l''exercice de l''activité professionnelle.
+
+  2. Une partie de votre habitation principale est effectivement utilisée à des fins
+  professionnelles.
+
+
+  Les montants ou plafonds concernés sont les dépenses propres au local affecté à
+  l''usage professionnel ainsi qu''une quote-part des dépenses communes à l''ensemble
+  du logement, calculées en fonction du rapport entre la superficie du local professionnel
+  et la superficie totale du logement.
+
+
+  La formule de calcul applicable est : les frais propres au local professionnel +
+  (frais communs * proportion du local professionnel par rapport à l''ensemble du
+  logement)
+
+
+  Il faut vérifier que :
+
+  1. Votre employeur ne fournit pas un bureau ou local spécifique nécessaire à l''exercice
+  de votre activité professionnelle.
+
+  2. Une partie de votre habitation principale est effectivement utilisée pour des
+  fins professionnelles.
+
+  3. Les dépenses déduites répondent aux conditions précédentes et sont justifiées.
+
+  Formule : Non spécifiée
+
+  Cas pratique : Context : John Doe, self-employed graphic designer living in a 150m²
+  apartment in Paris. He rents the entire apartment and has designated a 20m² area
+  as his home office for his design work.
+
+
+  Scenario: In this tax year, John has spent €600 on electricity bills for his home,
+  €400 on internet and telephone services, and €300 on maintenance costs (plumbing,
+  heating) for the entire apartment. The remaining 20m² of the apartment is used as
+  a workspace for his graphic design business, which doesn''t provide him with an
+  office space.
+
+
+  Calculation:
+
+  1. Direct costs related to the home office (electricity, internet/phone services):
+  €600 + €400 = €1000
+
+  2. Common expenses proportionate to the home office: Total common expenses (€600)
+  x Proportion of workspace area in total apartment (20m² / 150m²) = €80
+
+  3. Total deductible expenses: €1000 + €80 = €1080
+
+
+  Declaration: In his tax declaration, John will fill out the following fields:
+
+  - Box 1AK for taxable income (€42,000 in this example)
+
+  - Box 1GF to declare his home office expenses (€1080)
+
+
+  Comparison: If John didn''t have a home office and worked solely from client locations
+  or coffee shops, he wouldn''t be eligible for any deductions on these expenses under
+  the default regime. However, by opting for the home office expense deduction, he
+  saves €1080 in taxes this year.
+
+
+  Conclusion: By properly declaring his home office expenses and meeting all conditions
+  set forth by the rule, John successfully reduced his taxable income and benefited
+  financially.'

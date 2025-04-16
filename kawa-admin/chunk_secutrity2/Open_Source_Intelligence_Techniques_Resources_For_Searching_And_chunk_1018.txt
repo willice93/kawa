@@ -1,0 +1,10 @@
+Baidu. The searches are not restricted to the social network profiles. I
+have found the following search on Google or Baidu to work best for English queries. Replace
+“Michael Smith” with your target’s real name or user name.
+
+site:user.qzone.qq.com “michael smith”
+China: Renren (renren.com)
+
+Literally translated as “Everyone's Website”, Renren is a Chinese remake of Facebook. It is one
+of the most popular Chinese social networks. Users earn points for activities such as logging in,
+posting statu

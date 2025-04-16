@@ -1,0 +1,8 @@
+a search of .jpg and copy the entire URL of the first search result. Note that
+since Vine has stopped accepting new submissions, some videos no longer have a jpeg file
+associated with the post. In this example, the post includes the following image address.
+
+https://v.cdn.vine.co/r/videos/52B2D72BF811392_4f9b1663eae.0.2.4118360994298.mp4 jpg
+
+Navigating to that URL should present a large primary screen capture of the target video.
+Conducting a reverse image search through various services will

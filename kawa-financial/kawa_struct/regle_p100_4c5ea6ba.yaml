@@ -59,3 +59,39 @@ cas_pratique: 'Titre : Calcul de l''indemnité de licenciement hors plan social 
 
   En conclusion, Jean Dupont bénéficiera d''une indemnité de licenciement hors plan
   social ou PSE exonérée égale à 170 000 €.'
+embedding_text: "Règle : Règle d'indemnité de licenciement hors plan social (PS) ou\
+  \ PSE exonérée :\n\n- Cette règle s'applique aux employés qui bénéficient d'une\
+  \ indemnité de licenciement hors plan social ou PSE.\n- Les conditions pour obtenir\
+  \ cette indemnité sont que le contrat de travail ne soit pas réglementé par un accord\
+  \ collectif et qu'il n'y ait pas de clause de non-exonération dans le contrat.\n\
+  - Le montant le plus élevé possible est la somme des deux éléments suivants :\n\
+  \  - du montant légal ou conventionnel (sans limite) ;\n  - soit 50 % de l'indemnité\
+  \ totale, soit le double de la rémunération annuelle brute de l'année civile précédente,\
+  \ mais sans excéder 263 952 €.\n- La formule de calcul applicable est : max(Montant\
+  \ légal ou conventionnel, (0.5 * Indemnité totale) ou (Double de la rémunération\
+  \ annuelle brute de l'année civile précédente)) si ce dernier ne dépasse pas 263\
+  \ 952 €.\n- Il est nécessaire de vérifier que le contrat de travail n'est pas réglementé\
+  \ par un accord collectif et qu'il n'y a pas de clause de non-exonération dans le\
+  \ contrat pour être sûr d'y avoir droit.\nFormule : Non spécifiée\nCas pratique\
+  \ : Titre : Calcul de l'indemnité de licenciement hors plan social (PS) ou PSE pour\
+  \ Jean Dupont, ingénieur en génie électrique\n\nJean Dupont est un ingénieur en\
+  \ génie électrique qui travaille chez Acme Electronics depuis 15 ans. Il vient d'être\
+  \ licencié et estime bénéficier d'une indemnité de licenciement hors plan social\
+  \ ou PSE.\n\nLe contrat de travail de Jean Dupont n'est pas réglementé par un accord\
+  \ collectif, et il n'y a pas de clause de non-exonération dans le contrat.\n\nJean\
+  \ Dupont gagne 85 000 € par an en bruts avant impôts. L'année civile précédente\
+  \ était donc 2021, avec un revenu annuel brut estimé à 85 000 €.\n\nEn appliquant\
+  \ la règle de calcul de l'indemnité de licenciement hors plan social ou PSE exonérée\
+  \ :\n- L'élément légal ou conventionnel est inexistant, donc ce montant ne sera\
+  \ pas considéré.\n- Le taux pour l'option choisie (50 % de l'indemnité totale) représente\
+  \ 50 % de son indemnité totale.\n- L'option « double de la rémunération annuelle\
+  \ brute » est applicable. En calculant 2 fois le revenu annuel brut de Jean Dupont\
+  \ (85 000 € x 2), on obtient un montant de 170 000 €.\n- Le plafond maximum est\
+  \ défini à 263 952 €, donc seul le montant obtenu au calcul précédent sera utilisé\
+  \ pour les cas où ce dernier ne dépasse pas le plafond. Dans notre exemple, il n'est\
+  \ pas le cas (170 000 € < 263 952 €).\n- Enfin, en appliquant la formule de calcul\
+  \ : max(Montant légal ou conventionnel, (0.5 * Indemnité totale) ou (Double de la\
+  \ rémunération annuelle brute de l'année civile précédente)) si ce dernier ne dépasse\
+  \ pas 263 952 €), on obtient un montant de 170 000 €, qui est supérieur à zéro.\n\
+  \nEn conclusion, Jean Dupont bénéficiera d'une indemnité de licenciement hors plan\
+  \ social ou PSE exonérée égale à 170 000 €."

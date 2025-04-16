@@ -1,0 +1,18 @@
+niques.com/data/2018api.txt, which can be copied and pasted from the site.
+
+<html><head></head><body>
+
+<script type=“text/javascript”>function doservice(email) {window.open
+
+( http://trial.serviceobjects.com/ei/emailinsight.asmx/GetContactInfoByEmail?Email=' +
+email +'&LicenseKey=XXXX-XXXX-XXXX', servicewindow’);}
+
+</script>
+
+<form onsubmit=“doservice(this.service.value); return false;”>
+
+<input type=“text” name=“service” size=“40” value=“Email Address” />
+
+<input type=“submit” /></form>
+
+</body

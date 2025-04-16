@@ -1,0 +1,10 @@
+direct URL access, or those that wish to save specific
+searches for future use, the following apply. These are very similar to Reddit. Notice the inclusion
+of “&b=on” (searches body of posts) and “&nsfw=on” (searches adult content).
+
+Text Search: https://seatchvoat.co/?t=OSINT&b=on&nsfw=on
+
+User Search: https://searchvoat.co/Pu=CHRISB&b=on&nsfw=on
+
+Domain Search: https://searchvoat.co/?d=inteltechniques.com&b=oné&nsfw=on
+Subverse (Sub-Reddit) Search: https://searchvoat.co/Ps=OSINT&b=oné&nsfw=on

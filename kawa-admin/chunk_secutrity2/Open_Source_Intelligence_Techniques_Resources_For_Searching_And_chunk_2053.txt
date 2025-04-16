@@ -1,0 +1,14 @@
+aller ID service.
+
+<head></head><body>
+
+<script type=“text/javascript”>function docidall(cidall) {
+window.open(http://api.opencnam.com/v2/phone/+1' + cidall, 'frame1');
+window.open(http://api.opencnam.com/v2/phone/+1' + cidall +
+"account_sid=XXX&auth_token=XXX', 'frame2’);
+
+window.open (http://cnam.bulkcnam.com/?id=XXX&did=' + cidall, 'frame3’);
+window.open(http://cnam.calleridservice.com/queryPu=USERNAME&k=XXX&n=' +
+cidall, 'frame4');
+
+window.open(http:/ /trial.serviceobjects.com/gppl/geophonep

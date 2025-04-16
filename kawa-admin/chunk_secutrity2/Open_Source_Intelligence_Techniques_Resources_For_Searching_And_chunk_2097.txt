@@ -1,0 +1,14 @@
+igure 21.01 (left) displays the default view of the home
+screen of version 7.0.0.
+
+e Navigate within the Android emulator by single clicking on icons and using the “Back”
+icon in the lower left that appears similar to a left facing arrow.
+
+e Consider the following customizations to improve the look and feel of the device. Figure
+21.01 (right) displays the view of the home screen after these configurations have been
+
+made.
+
+Drag any app icons up and drop them in the “Remove” option.
+
+Click the “A

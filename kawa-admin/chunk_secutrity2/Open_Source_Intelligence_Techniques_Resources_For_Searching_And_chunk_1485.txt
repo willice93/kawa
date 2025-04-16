@@ -1,0 +1,8 @@
+ines
+will present a simple search field ready for any keyword desired. I have found an all-in-one Google
+CSE to be a bit unreliable and sporadic with results. Therefore, I created my own option, which
+can be seen in Figure 13.01. This search tool has three sections, all of which are explained below.
+
+The “Documents by Service” column allows entry of any terms, and the first option will populate
+the remaining search fields. You can then choose to execute your search for data on Google
+Docs, Googl

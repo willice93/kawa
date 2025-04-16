@@ -1,0 +1,14 @@
+en “555” or “five five five”, and then “1212” or “one two
+one two”. With this search, you would receive a result if any combination of the following was
+used.
+
+314-555-1212
+314.555.1212
+3145551212
+
+314 555 one two one two
+three one four 555-1212
+
+This search will not catch every possible way to post a phone number. For example, if the user
+had typed “314 555 twelve twelve”, the above technique would not work. The researcher must
+consider the alternative ways that a target will post a number on a

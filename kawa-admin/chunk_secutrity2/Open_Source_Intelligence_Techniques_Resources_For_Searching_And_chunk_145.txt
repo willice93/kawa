@@ -1,0 +1,10 @@
+ach of these into a new Firefox browser and exported
+the settings. If desired, import these configurations into your own Firefox browser for a turn-key
+solution. This technique will be explained at the end of this section, but I encourage you to
+consider customizing your own version of Firefox. If you plan to use the Buscador Virtual
+Machine explained in the next chapter, all of these configurations have already been conducted
+and are the default option upon boot.
+
+8 Chapter 1
+
+Video Download He

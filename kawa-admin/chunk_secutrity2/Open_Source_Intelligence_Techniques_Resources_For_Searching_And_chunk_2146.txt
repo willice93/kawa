@@ -1,0 +1,9 @@
+create an exact duplicate of the chosen machine in the
+default folder for VirtualBox machines. You can identify this folder by right-clicking
+yout new machine and choosing “Show in Finder” (Mac) or “Show on disk” (Windows).
+
+416 Chapter 21
+
+You can now use this cloned device to conduct your investigation. Any changes made within it
+will have no impact on the master device. In fact, I title my master investigation devices “Master
+7.0.0” and “Master 6.0.0”. This way, I know to only open these to

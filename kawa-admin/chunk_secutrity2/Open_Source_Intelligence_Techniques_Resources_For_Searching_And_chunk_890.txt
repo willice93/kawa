@@ -1,0 +1,6 @@
+It wntes these Tweets in a separate sheet inside the Google
+Spreadsheet. After the initial set is pulled, the archiver will poll Twitter every hour and pull in the
+matching Tweets that have been posted since the last run. In addition to Tweets, the Twitter
+Archiver app will also import other data including the Tweet’s reT'weet & favorite count, the
+user’s friend & follower count, and whether they are verified or not. If you would like to stop
+archiving Tweets for a particular search term, go to

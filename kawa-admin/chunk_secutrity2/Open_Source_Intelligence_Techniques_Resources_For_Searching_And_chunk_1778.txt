@@ -1,0 +1,6 @@
+you know the IP address of a website, it can be entered into an address field instead of the
+domain name. As an example, when you enter google.com into a browser, your connection
+forwards you to 74.125.224.72. Typing this IP address directly into your browser will present the
+Google landing page. The way that you encounter IP addresses as a target of your research will
+vaty widely. Law enforcement may receive an IP address of an offender after submitting a
+subpoena to an internet provider. Any o

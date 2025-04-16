@@ -1,0 +1,10 @@
+rk, as they
+all leverage the Twitter API in order to function. Please only use covert accounts, and never your
+own personal Twitter sign-in. )
+
+Convert Name to ID: This is the most reliable way to take a Twitter user name, such as
+jms_dot_py, and convert it to the corresponding user number, which is 817668451. This can be
+vital for investigations. Users can always change their user name at any time, but the user number
+cannot be modified.
+
+Convert ID to Name: This is the opposite of the above te

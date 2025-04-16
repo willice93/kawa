@@ -1,0 +1,9 @@
+r online profiles may be attacked by those we are hunting. Make sure that your
+accounts are locked-down and immune to traditional password attacks.
+
+Recuva (piriform.com/recuva/download/standard)
+
+The final application to discuss in this chapter is Recuva. It scans your drive for deleted files and
+attempts to recover (Recu-va) any desired data. I include this because I have been contacted by
+numerous people that have accidentally deleted online evidence. I am guilty of this as well. Simply
+launc

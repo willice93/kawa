@@ -1,0 +1,6 @@
+hat do this, but this service takes it a vital step further. Clicking on any word within the
+result displays only the Tweets that include the selected term. In Figure 5.20, you can see that I
+tend to Tweet about OSINT more than anything else. Clicking on any of the “ios” or “Facebook”
+citcles would immediately identify posts related to those terms. I have used this when I have a
+target with too many posts to read quickly. TweetTopic allows me to quickly learn what my target
+posts about and immed

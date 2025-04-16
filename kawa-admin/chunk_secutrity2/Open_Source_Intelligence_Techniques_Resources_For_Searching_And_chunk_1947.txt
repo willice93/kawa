@@ -1,0 +1,6 @@
+on from the selected accounts. It
+will then map out each post on an embedded Google map. The column on the nght will display
+all of the geo-located posts in chronological order (Figure 19.06). You can double-click any of
+them to see additional information. The map will change so that the center marker is the location
+of the chosen message. The lower right window will display the message and a link to the onginal
+source. The latest version will allow you to enter multiple targets from numerous ac

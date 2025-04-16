@@ -1,0 +1,10 @@
+f this linked option
+does not always mean that a cached version exists.
+
+Archive.is (archive.is)
+
+There are two additional options for historic archives of web pages. However, neither of them is
+vety powerful and my successes with these services have been minimal. Archive.is will allow you
+to search a domain and display any captured archives of the home page. They also offer a wildcard
+service that will search an entire domain for any captured pages. If I wanted to search
+inteltechniques.com for

@@ -1,0 +1,6 @@
+, I knew I could re-install Windows if something really bad happened. This was reactive
+thinking. I believe that we must all proactively attack vulnerabilities in our privacy and security
+while conducting online research. This chapter is not meant to be a complete guide to computer
+security or a manual for total privacy. Instead, I hope to quickly and efficiently propose the most
+beneficial strategies that will protect you from the majority of attacks. Applying the changes
+mentioned in this chap

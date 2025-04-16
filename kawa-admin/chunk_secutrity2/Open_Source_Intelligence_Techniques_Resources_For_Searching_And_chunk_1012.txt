@@ -1,0 +1,6 @@
+ting Facebook credentials. Most search options function without logging into an
+account. The page at vk.com/people offers advanced search which allows filtering by location,
+school, age, gender, and interests. Most profiles publicly display a user’s birthday, location, and
+full photo collection. In addition to the publicly visible content, I have found a third-party
+technique to be beneficial. You should see the user ID number or user name of each VK user
+within the URL of the profile page. As a

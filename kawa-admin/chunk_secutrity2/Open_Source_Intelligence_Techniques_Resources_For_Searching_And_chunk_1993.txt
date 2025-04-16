@@ -1,0 +1,6 @@
+sses that were used by the suspect while he traded illegal images of nude children. While I
+needed to confirm that these addresses were assigned to the suspect from his internet service
+provider, I first wanted to isolate the addresses according to the services that owned them. I used
+IP Net Info to conduct a bulk search of all addresses in less than a minute. The results allowed
+me to immediately identify the addresses that were most likely to be associated with his home
+internet service provid

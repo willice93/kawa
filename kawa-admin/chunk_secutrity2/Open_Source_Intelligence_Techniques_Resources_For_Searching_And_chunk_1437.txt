@@ -1,0 +1,6 @@
+illary.com) and Open Street Cam
+(openstreetcam.org) appear similar to other mapping websites when first loading. You see a
+typical map view identifying streets, landmarks, and buildings. Enabling the satellite view layer
+displays images from the Open Street Map project. The real power is within the crowd-sourced
+street view images. While in any map view, colored lines indicate that an individual has provided
+street-level images to Mapillary or Open Street Cam, usually from a GPS-enabled smart ph

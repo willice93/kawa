@@ -1,0 +1,9 @@
+the results is easy with support for standard CSV files that can be later
+opened with Microsoft Excel, or imported into any other utility.
+
+Sleeping Time (sleepingtime.org)
+
+This site allows for a search of an exact Twitter profile name, and provides the average time
+period that this user sleeps. The historical Tweets are analyzed according to the times of posts.
+Data is then presented that suggests when the user is usually sleeping due to lack of posting
+during a specific time period. A query

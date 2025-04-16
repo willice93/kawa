@@ -1,0 +1,8 @@
+ay to identify the user number of any Facebook
+uset was through the Graph API. While you were on a user’s main profile, you could replace
+“www” in the address with “graph” and receive the profile ID number of that user. This no
+longer works because Facebook removed the ability to search their graph API by user name.
+However, we can still obtain this powerful number through two search options.
+
+The first option involves viewing the source code of any user’s Facebook profile. The process
+for this

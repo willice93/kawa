@@ -1,0 +1,8 @@
+need for this resource.
+
+If you are on your home computer, and connected to the internet, you are using a connection
+from your internet service provider (ISP). If you navigate to a website that is monitoring visitors,
+it knows your IP address, approximate location, and internet provider and type (cable, DSL, etc.).
+
+However, if you are on that same computer, with the same internet connection, you can use a
+VPN to protect you. The VPN software connects your computer to one of their servers over t

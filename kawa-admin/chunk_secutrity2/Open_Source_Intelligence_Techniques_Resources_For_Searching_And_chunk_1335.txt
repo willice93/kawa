@@ -1,0 +1,6 @@
+rget. Knowing the provider was essential as not to waste time requesting records from
+companies that had no data to provide. The websites used back then have either disappeared, or
+now charge a substantial fee for access. Five years ago, I noticed that an overwhelming amount
+of my target telephone numbers were connected to Voice Over Internet Protocol (VOIP)
+services such as Google Voice and Twilio. This would often be indicated by a result of
+“Broadband” or “Internet” instead of something obvio

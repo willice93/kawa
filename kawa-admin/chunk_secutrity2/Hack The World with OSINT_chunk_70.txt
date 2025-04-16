@@ -1,0 +1,31 @@
+APPG Al, lIoActive &
+Y Yen/ Proton Mail, evil
+fan, Drew J and all the
+ring the reseatch and
+
+Sia Sig bd
+
+at:
+
+102
+
+465
+
+#4
+
+a
+
+1900
+
+0.9 Organization of the book
+
+The book is divided by major protocol and service. Examples for each
+service and risk importance in a penetration and security researcher
+perspective.
+
+Chapter 1: The Censys.io and ZMap.io Project
+
+Information about the two projects and usefulness
+
+Chapter 2: Setting up your OSINT lab
+Get your virtual machine, lab and tools prepared. w

@@ -1,0 +1,8 @@
+some
+basic refinements to the search to filter by name, title, company, school, location, and others.
+Knowing the real name will be most beneficial. The results page will include the target’s employer,
+location, industry, and a photo. After identifying the appropriate target, clicking the name will
+open that user’s profile. If searching a common name, the filters will help limit options.
+
+The profiles on LinkedIn often contain an abundance of information. Since this network is used
+ptimarily fo

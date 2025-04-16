@@ -1,0 +1,6 @@
+ote that there are
+no spaces in the entire search string and omit the quotation marks. This operator creates a result
+that includes every website that I have a link to on any of the pages within my website. This can
+be useful to an investigator. When a target's website is discovered, this site can be large and
+contain hundreds of pages, blog entries, etc. While clicking through all of these is possible,
+sometimes links are hidden and cannot be seen by visually looking at the pages. This operator

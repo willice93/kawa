@@ -1,0 +1,9 @@
+c employee profiles returned no results. A search on Facebook of the name of the secret
+project identified two employees leaking inappropmate information.
+
+Profile Information
+
+At this point, you should be able to locate a target’s profile, analyze the publicly available content,
+and seatch by topic. That is just the tip of the iceberg. Facebook collects a lot of additional
+information from everyone’s activity on the social network. Every time someone “Likes”
+something or is tagged in a photo, F

@@ -1,0 +1,6 @@
+of the iceberg. These
+will display the historic view of a Reddit user account at a specific moment in time. While this
+may provide enough evidence for your investigation, you should also take the next step and
+identify any user analytics. The following direct URL displays all available metadata for the user
+CHRISB. This includes an analysis of the user’s posts, which identifies the most liked and disliked
+comments and submissions by the user; his or her activity isolated by year, day of the wee

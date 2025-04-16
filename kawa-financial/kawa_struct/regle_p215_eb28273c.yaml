@@ -76,3 +76,71 @@ calcul:
     revenu_brut: 800
     abattement: 160
     revenu_net: 640
+embedding_text: 'Règle : Cette règle s''applique aux propriétaires qui exercent une
+  activité de location de meubles de tourisme classés dans une zone non tendue, où
+  les recettes annuelles ne dépassent pas 15 000 euros.
+
+
+  Les montants ou plafonds concernés sont le chiffre d''affaires total annuel et l''abattement
+  de 92% appliqué directement par la MSA (Ministère des Solidarités actives et du
+  Renumération des cadres et des indépendants).
+
+
+  La formule de calcul est simple : si le chiffre d''affaires total annuel est inférieur
+  à 15 000 euros, il peut être inscrit dans les cases 5QT/5RT pour bénéficier de l''abattement
+  de 92%.
+
+
+  Vérifier que les conditions suivantes sont remplies :
+
+  - Exercice de location de meubles de tourisme classés dans une zone non tendue.
+
+  - Recettes annuelles inférieures à 15 000 euros.
+
+
+  Ainsi, pour être sûr d''y avoir droit, il faut exercer cette activité et que vos
+  recettes soient inférieures au plafond imposé.
+
+  Formule : revenu_brut * (1 - 0.2)
+
+  Cas pratique : Titre : Optimisation de l''impôt sur les revenus pour un propriétaire
+  locataire de meubles de tourisme dans une zone non tendue
+
+
+  Contexte: Jean Dupont, 42 ans, est un professionnel indépendant qui exerce la location
+  de meubles de tourisme en dehors des zones tendues. Sa résidence principale se trouve
+  à Montpellier et il possède une maison à Saint-Tropez, où il achète les meubles
+  et loue le logement aux vacanciers.
+
+
+  Montants concernés:
+
+  - Chiffre d''affaires total annuel: 12 000 euros
+
+  - Abattement de 92% appliqué directement par la MSA (Ministère des Solidarités actives
+  et du Renumération des cadres et des indépendants)
+
+
+  Déclaration: Les revenus générés à partir de cette activité doivent être déclarés
+  dans les cases 5QT/5RT sur la déclaration de revenus.
+
+
+  Comparaison: Régime par défaut (impôt de 20%) vs Option choisie (abattement de 92%):
+  En optant pour l''abattement de 92%, Jean Dupont réduit son impôt annuel à 800 euros,
+  au lieu des 2 400 euros en cas d''impôt à 20%.
+
+
+  Calcul clair avec des chiffres ronds:
+
+  - Le chiffre d''affaires total est de 12 000 euros.
+
+  - L''abattement de 92% est donc de 11 360 euros (12 000 * 92/100).
+
+  - Ainsi, le montant imposable est réduit à 640 euros (12 000 - 11 360) et l''impôt
+  annuel à payer est de 800 euros (640 * 20%).
+
+
+  Conclusion: Optant pour l''abattement de 92%, Jean Dupont réduit considérablement
+  son impôt sur les revenus. Il est donc important de vérifier que les conditions
+  requises sont remplies et d''appliquer cette règle à chaque exercice de location
+  de meubles de tourisme.'

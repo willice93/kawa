@@ -68,3 +68,69 @@ cas_pratique: 'Titre : Calcul des plus-values et moins-values dans le régime r�
   Conclusion : L''exemple de Marie montre que si les conditions du régime réel sont
   remplies et que les amortissements sont pratiqués selon le mode linéaire, il est
   possible d''éviter payer d''impôts sur certaines plus-values.'
+embedding_text: 'Règle : La règle de calcul pour les plus-values et moins-values dans
+  le régime réel s''applique à toutes les personnes physiques qui génèrent des bénéfices
+  dans ce cadre. Cela se produit lorsque :
+
+
+  1. Les conditions du régime réel sont applicables (sont spécifiées par la loi sur
+  les impôts).
+
+  2. Le prix de revient doit être diminué du montant des amortissements, ce qui est
+  considéré comme étant pris en compte de l''abattement forfaitaire de 87 % appliqué
+  aux recettes.
+
+  3. Les plafonds de cette règle sont définis par la loi sur les impôts et peuvent
+  varier.
+
+  4. La formule de calcul est la suivante : Plus-value = (Revenus totaux - Prix de
+  revient diminué des amortissements) - Abattement forfaitaire
+
+  5. Il faut vérifier que toutes les conditions du régime réel sont remplies et que
+  les amortissements sont pratiqués selon le mode linéaire pour être sûr d''y avoir
+  droit.
+
+  Formule : Non spécifiée
+
+  Cas pratique : Titre : Calcul des plus-values et moins-values dans le régime réel
+  - Exemple de cas pratique
+
+
+  Nom : Marie Dupont, 45 ans, entrepreneur indépendant en design graphique
+
+
+  Situation : Marie acheta un matériel informatique en 2017 pour son activité professionnelle,
+  au prix de 5000€. Elle a déclaré ce matériel comme bien professionnel et a pratiqué
+  les amortissements linéaires sur une période de 5 ans (1000€ par an). En 2021, elle
+  revendit ce matériel pour un prix de 3000€.
+
+
+  Montants concernés :
+
+  - Revenus totaux : 8000€ (prix de vente du matériel)
+
+  - Prix de revient diminué des amortissements : 5000€ - (1000€/an x 5 ans) = 3000€
+
+  - Abattement forfaitaire : 87% appliqué aux recettes. Abattement sur les 8000€ de
+  revenus totaux : 6960€
+
+
+  Déclaration :
+
+  - Case 1AK : Montant des amortissements pratiqués pendant la période (3000€)
+
+  - Case 1GF : Abattement forfaitaire (6960€)
+
+
+  Calcul de la plus-value : Plus-value = (Revenus totaux - Prix de revient diminué
+  des amortissements) - Abattement forfaitaire = (8000€ - 3000€) - 6960€ = -5960€
+
+
+  Comparaison : Dans le régime par défaut, Marie devrait payer une taxe sur les revenus
+  de 17,2% (soit environ 1408€). En revanche, grâce au régime réel et à l''abattement
+  forfaitaire, elle ne doit pas payer d''impôts sur cette plus-value.
+
+
+  Conclusion : L''exemple de Marie montre que si les conditions du régime réel sont
+  remplies et que les amortissements sont pratiqués selon le mode linéaire, il est
+  possible d''éviter payer d''impôts sur certaines plus-values.'

@@ -1,0 +1,11 @@
+e desktop with the following Terminal command
+In -s /mnt/hgfs/foldername/home/osint/Desktop/Shared_Folder
+
+36 Chapter 2
+
+Updates
+
+Upon creation of your new Buscador virtual machine, you should apply all system updates by
+clicking on the “Software Updater” in the lower left portion of the dock. This will update your
+core system and standard applications such as your browsers. Next, launch the Terminal (first
+black box icon in the dock). If prompted to update, type Y and striking the enter key. Fi

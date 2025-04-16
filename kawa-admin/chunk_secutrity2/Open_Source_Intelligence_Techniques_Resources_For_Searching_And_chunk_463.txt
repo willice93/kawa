@@ -1,0 +1,6 @@
+t it is important to
+note now that it also possesses a cache option. Very similar to Google and Bing, Yandex presents
+a green drop-down menu directly under the title of the search result. Figure 3.05 (third image)
+displays their cache menu option. Selecting the Cached page option opens a new tab displaying
+the most recent Yandex archive of the page. The top banner displays the date and time of capture,
+the original website address, and a search option to highlight selected keywords within the re

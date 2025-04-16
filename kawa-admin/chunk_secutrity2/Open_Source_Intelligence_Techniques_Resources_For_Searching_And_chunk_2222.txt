@@ -1,0 +1,11 @@
+em authorized for use without a license since 1996. There are 14 FRS
+channels available which operate on 14 specific frequencies. The following table identifies these
+frequencies.
+
+Channel 01 - 462.5625 Channel 06 - 462.6875 Channel 11 - 467.6375
+Channel 02 - 462.5875 Channel 07 - 462.7125 Channel 12 - 467.6625
+Channel 03 - 462.6125 Channel 08 - 467.5625 Channel 13 - 467.6875
+Channel 04 - 462.6375 Channel 09 - 467.5875 Channel 14 - 467.7125
+Channel 05 - 462.6625 Channel 10 - 467.6125
+
+The most c

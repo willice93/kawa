@@ -1,0 +1,7 @@
+rch Tool (inteltechniques.com/osint/person.html)
+
+The abundance of free person search tools can get overwhelming. They each have strengths and
+weaknesses, and none of them are consistent on accurate results. In years past, I would manually
+visit each site and enter my target information. This would usually result in small, yet valuable,
+pieces of information from each service. Today, I use a custom search tool that I created to search
+all possible sites simultaneously. This free tool will not lo

@@ -1,0 +1,11 @@
+t Query, and a new tab will open with the
+results from TowerData.
+
+Application Programming Interfaces (API) 399
+
+Compromised Email Addresses
+
+In Chapter Eight, I explained how to query email addresses through services such as Have I Been
+Pwned and Hacked-Emails in order to identify database breaches that possessed the target
+account. I also explained in Chapter Nine how this same technique could be used to assume email
+addresses based on a user name. In that example, michaelb on Twitter could be

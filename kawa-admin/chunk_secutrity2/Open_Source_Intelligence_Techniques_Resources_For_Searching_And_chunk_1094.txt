@@ -1,0 +1,6 @@
+ent delivery system within their website. This
+often resulted in a large headache while trying to maintain order, prevent feuds between readers,
+and delete direct threats. Today, most news websites use third party services to host these
+comments. The most popular are Facebook and Disqus. When Facebook is utilized, most people
+use their real names and behave better than when using only a user name on Disqus. Any
+complaints about the comment activity can be referred to Facebook since they technica

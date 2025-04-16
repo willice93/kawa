@@ -1,0 +1,12 @@
+er, there are thousands of publicly visible
+documents waiting to be found. The shated files are stored on the onedrive.live.com domain. A
+query for resumes would be as follows. This search could be conducted on Google or Bing. The
+result on Google was 3,550 resume files with personal information.
+
+site:onedrive.live.com “resume”
+
+Amazon Web Services (amazonaws.com)
+
+Amazon Web Services is a large collection of servers that supply storage and internet application
+
+hosting in “the cloud”. Instead

@@ -1,0 +1,6 @@
+ican company, it is a global social network. If you know that your
+target is in a specific country, you can filter your search accordingly. This can be done manually
+by navigating to a foreign subdirectory such as uk.linkedin.com (UK), ca.linkedin.com (Canada),
+ot br.linkedin.com (Brazil). This tedious method of searching can be replaced with a custom
+Google search engine. Navigate to inteltechniques.com/osint/linkedin.country.html. You will
+see a single search field. Conduct your query and you

@@ -1,0 +1,10 @@
+all updates. I then shut the machine down
+completely and delete the New Install snapshot, without saving it, and create a new snapshot
+titled New Install. This new snapshot possesses all of the updates and I repeat the investigation
+process. I usually delete and create a new snapshot weekly. The use of snapshots is very similar
+between VirtualBox and VMWare, but let’s take a look at the minor differences.
+
+VirtualBox use of Snapshots
+
+Completely shut down the Virtual Machine
+In the VirtualBox Me

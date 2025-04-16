@@ -1,0 +1,9 @@
+onstrations, I present my own custom
+online tool that automates many processes. For every example, I will use a target domain of
+phonelosers.org, the website of the Phone Losers of America, a telephone hacking and prank
+calling organization. Assume that this website is the focus of your investigation and you want to
+
+Domains Names 321
+
+tetrieve as much information as possible about the site, the owner, and the provider of the
+content. For the standard Whois search, as well as many other options,

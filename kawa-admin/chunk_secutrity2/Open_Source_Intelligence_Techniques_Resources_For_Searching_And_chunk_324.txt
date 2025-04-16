@@ -1,0 +1,6 @@
+on from the Buscador dock will prompt you with a menu for
+selecting a single URL or multiple URLs. If choosing a single URL, you are allowed to type it
+directly into the menu and it fetches a screen capture. If you choose the multiple URL option, it
+displays “The next window will prompt for the text file that contains the target domains”.
+Clicking OK will open a file manager window that will allow you to select a text file on your
+machine that contains the suspect domains. You may need to create

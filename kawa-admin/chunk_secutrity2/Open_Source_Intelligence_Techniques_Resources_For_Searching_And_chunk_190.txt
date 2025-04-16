@@ -1,0 +1,8 @@
+ll identify any available
+metadata about the image. Figure 1.08 (left) displays the right-click menu with a new option to
+View Image Exif Data. Figure 1.08 (night) displays partial results that identify the make and model
+of the camera used to capture an image.
+
+Overall, most photos on social networks do not contain any metadata. They have been
+“scrubbed” in order to protect the privacy of users. However, many blogs and personal websites
+display images that still contain metadata. While Chapter

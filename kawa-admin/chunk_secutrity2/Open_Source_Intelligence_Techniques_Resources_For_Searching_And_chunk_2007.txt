@@ -1,0 +1,11 @@
+rivate only to you, and you can testify to the integrity of your evidence.
+While this may seem like a tedious process, it may halt any scrutiny toward the preservation of
+your evidence, and confirm to yout opponents that you have gone above and beyond the
+requirements to protect your investigation.
+
+384 Chapter 19
+
+KeePassXC (keepassxc.org/download)
+
+Similar to VeraCrypt, KeePassXC creates a single file which is encrypted and protected with a
+strong password. The difference is that KeePassXC onl

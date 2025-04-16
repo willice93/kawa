@@ -1,0 +1,7 @@
+re time,
+sharpness, saturation, and other image details. Mixed in with this data is the serial number field.
+This is most common in newer SLR cameras and will not be present in less expensive cameras.
+These cameras usually identify the make, model, and serial number of the camera inside every
+photo that they capture. A serial number of a camera associated with an image can be valuable
+data. This can help an analyst associate other photos found with a target's camera. If an
+“anonymous” image was

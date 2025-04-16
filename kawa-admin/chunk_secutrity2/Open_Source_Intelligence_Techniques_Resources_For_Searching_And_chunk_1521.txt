@@ -1,0 +1,12 @@
+subject.
+
+Bing Reverse Image Match
+
+In 2014, Bing launched its own reverse image search option titled “Image Match”. This feature
+
+286 Chapter 14
+
+can be launched from within any page on Bing Images by clicking the Image Match icon to the
+tight of the search field. Figure 14.01 (second) displays this option. This service does not seem
+to be as robust as Google’s. In my experience, I often receive either much fewer results, although
+they do match. On a few occasions, I have received matched imag

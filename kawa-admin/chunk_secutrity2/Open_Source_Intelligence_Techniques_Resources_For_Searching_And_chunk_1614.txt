@@ -1,0 +1,8 @@
+in some countries and blocked in others. If
+you encounter a video that will not play for you because of a country restriction, you have options.
+Before proceeding, consider identifying from which geographical areas a video is restricted. For
+this, we will rely on the polsy.org.uk country restriction checker. After you have identified a video
+with possible country restrictions, paste the video ID into the following URL. Note that the
+following video ID (MGhMdT_C-vQ) is blocked in the U.S.
+
+http:

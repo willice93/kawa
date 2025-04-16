@@ -1,0 +1,8 @@
+t useful of all of these options. Provide a
+target Twitter name and TweetBeaver will extract the most recent 3,200 posts from the account.
+Furthermore, it will include date and time of each and the direct URL to the message. When I
+have a Twitter target of interest, I run this tool on the account daily. It has helped me obtain the
+new posts every day, and identify previous posts deleted after my initial acquisition. Figure 5.09
+displays the first line of a result.
+
+Figure 5.09 A TweetBeaver user

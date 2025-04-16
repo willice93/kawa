@@ -1,0 +1,9 @@
+your target. If you know the city where your target lives, you can use this as a filter. The address
+of a search to identify every user that currently lives in Denver is as follows.
+
+https://www.facebook.com/search/str/denver/pages-named/residents/present
+
+This will reveal an enormous amount of profiles. You can filter them by adding more search
+criteria. The following URL would display only users that live in Denver and are chefs.
+
+https: //www.facebook.com/search/str/Denver/pages-named/teside

@@ -1,0 +1,7 @@
+l websites.
+
+Some of the APIs detailed here will only provide information that you could otherwise obtain on
+the official website. The benefit of this API access is that only the content related to your target
+is presented. You will not receive sponsored links, ads, or misleading text and graphics. If you
+have multiple targets to research, using the API instead of the web interface will be much faster.
+You can even automate the search and execute hundreds of queries all at once. Ideally, you can

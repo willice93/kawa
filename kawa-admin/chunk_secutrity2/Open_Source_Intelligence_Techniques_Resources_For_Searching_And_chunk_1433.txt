@@ -1,0 +1,10 @@
+smooth interface will
+easily provide a comparison of the available images for any location. One advantage of Zoom
+Earth ts the ability to view satellite images in true full-screen mode. This allows creation of full-
+screen captures without branding, menus, or borders. This could be more appropriate for live
+demonstration instead of a standard Google or Bing window.
+
+Map Box (mapbox.com)
+
+While these satellite images only offer city-level views, you will not find a more recent collection
+of data.

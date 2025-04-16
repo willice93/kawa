@@ -1,0 +1,6 @@
+rocess. Navigating to the above website will present the same
+options in a web page that are possible by typing out the operators. This will help you get familiar
+with the options, but it will be beneficial to understand the operators for later use. The Advanced
+Search page will allow you to specify a specific phrase for which you are searching, just like the
+quotes in a search will allow. The site and filetype operators used earlier can be achieved by
+entering the desired filters on this page.

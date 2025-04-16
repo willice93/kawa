@@ -62,3 +62,39 @@ cas_pratique: 'Context: Marie Leclerc, 38 years old, self-employed artisanal fis
   Conclusion: By operating outside French territorial waters and meeting the other
   requirements as a self-employed artisanal fisherman domiciled in France, Marie can
   benefit from an income tax abatement, significantly reducing her annual tax liability.'
+embedding_text: "Règle : Règle applicabile aux Marins Pêcheurs fiscalement domiciliés\
+  \ en France qui exercent leur activité hors des eaux territoriales françaises :\n\
+  \nConditions requises :\n- Exercice de l'activité sur un navire de pêche classé\
+  \ en 1re, 2e ou 3e catégorie de navigation.\n\nMontant ou plafond :\n- Pour les\
+  \ marins salariés et artisans pêcheurs imposables dans la catégorie des salaires\
+  \ :\n   - Un abattement est appliqué sur le salaire perçu (pour les marins salariés)\
+  \ et la part de rémunération (pour les artisans pêcheurs) qui excèdent une rémunération\
+  \ de référence de 20 193 € en 2023.\n   - La fraction de la rémunération exonérée\
+  \ est égale à :\n      - 40 % pour les navires pratiquant la petite pêche ou la\
+  \ pêche côtière.\n      - 60 % pour les marins embarqués sur les navires de pêche\
+  \ au large et de grande pêche.\n\nFormule de calcul applicable :\n- Pour les marins\
+  \ salariés : Abattement = (Salaire excédant la rémunération de référence) x 0,40\
+  \ (pour petite pêche ou pêche côtière) ou 0,60 (pour pêche au large et grande pêche).\n\
+  - Pour les artisans pêcheurs : Abattement = (Part de rémunération imposable dans\
+  \ la catégorie des salaires excédant la rémunération de référence) x 0,40 (pour\
+  \ petite pêche ou pêche côtière) ou 0,60 (pour pêche au large et grande pêche).\n\
+  \nVérification requise pour être sûr d'y avoir droit :\n- Exercice de l'activité\
+  \ sur un navire de pêche classé en 1re, 2e ou 3e catégorie de navigation.\n- Fiscal\
+  \ domiciliation en France.\n- Activité exercée hors des eaux territoriales françaises.\n\
+  Formule : Non spécifiée\nCas pratique : Context: Marie Leclerc, 38 years old, self-employed\
+  \ artisanal fisherman based in La Rochelle, France. In 2023, she is operating a\
+  \ fishing vessel classified as 2nd category of navigation outside the French territorial\
+  \ waters.\n\nMarie's revenue:\n- Gross earnings from fishing activities: €60,000\
+  \ (declared on line 1AK)\n- Referencesalary: €20,193\n\nIncome tax form calculation:\n\
+  - Eligible abatement amount (Artisanal fisherman category): (Gross earnings - Reference\
+  \ salary) x 0.40 (for coastal fishing or small-scale fishing) = (€60,000 - €20,193)\
+  \ x 0.40 = €18,597.20\n\nIncome tax form declaration:\n- Line 1GF: Taxable base\
+  \ salary: €60,000 - €20,193 (Reference Salary) = €39,807\n- Line 1AK: Gross earnings\
+  \ from fishing activities: €60,000\n- Line 1LF: Deduction for artisanal fisherman:\
+  \ €18,597.20\n\nComparison:\nBy choosing the artisanal fisherman regime instead\
+  \ of the regular income tax regime, Marie saves on her taxes by benefiting from\
+  \ a 40% abatement (60% for large-scale fishing) on earnings exceeding the reference\
+  \ salary, totaling €18,597.20 in savings in this example.\n\nConclusion: By operating\
+  \ outside French territorial waters and meeting the other requirements as a self-employed\
+  \ artisanal fisherman domiciled in France, Marie can benefit from an income tax\
+  \ abatement, significantly reducing her annual tax liability."

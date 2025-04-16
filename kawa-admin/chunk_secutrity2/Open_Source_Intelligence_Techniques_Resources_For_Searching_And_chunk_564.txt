@@ -1,0 +1,12 @@
+Google.
+
+inurl:ftp -inurl:(http | https) “cisco” filetype:pdf
+
+This results in 20,000 options within multiple FTP servers hosted on numerous domains. The
+first result is hosted on the Southwest Cyberport FTP server and connects to a PDF document
+at the following address. It appears to be a chapter of a textbook.
+
+ftp://ftp.swcp.com/pub/cisco/03chap01.pdf
+
+Manually changing the last “01” to “02” loads the second chapter of the book. However, it is
+easiet to eliminate the document name altogether

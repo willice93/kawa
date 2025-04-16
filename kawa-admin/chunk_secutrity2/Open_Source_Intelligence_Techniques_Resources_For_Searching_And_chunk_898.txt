@@ -1,0 +1,7 @@
+files communicating with each other while being
+monitored. You can also use the Geo search mentioned earlier within Tweet Deck. A column
+that searches “geocode:43.430242,-89.736459,1km” will display a live feed of Tweets posted
+within the specified range. A more precise seatch of “geocode:43.430242,-89.736459,1km fight”
+would add the keyword to filter the results. Figure 5.12 displays Tweet Deck with several searches.
+
+The columns of Tweet Deck are consistently sized. If more columns are created

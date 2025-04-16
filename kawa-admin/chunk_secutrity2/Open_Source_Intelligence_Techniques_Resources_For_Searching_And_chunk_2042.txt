@@ -1,0 +1,11 @@
+s associated with private email services. However,
+john@sharklasers.com may not seem so obvious. Both accounts belong to a service that provides
+disposable email accounts. Full Contact will attempt to identify these for you. The URL of the
+request should appear as follows, if the email address is john@shark.com. The result appears
+below the URL.
+
+https: //api.fullcontact.com/v2/email/disposable.html?email=john@shark.comé&apiKkey=XXX
+
+<message>
+
+Email user name is not sub addressed. Email's domai

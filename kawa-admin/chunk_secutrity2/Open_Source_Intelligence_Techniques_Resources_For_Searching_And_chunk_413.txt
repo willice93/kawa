@@ -1,0 +1,6 @@
+to search between two identifiers. These could be sequential
+numbers or years. As an example, OSINT Training 2015..2018 would result in pages that include
+the terms OSINT and training, and also include any number between 2015 and 2018. I have used
+this to filter results for online news articles that include a commenting system where readers can
+express their views. The following search identifies websites that contain information about
+Bonnie Woodward, a missing person, and between 1 and 999 co

@@ -1,0 +1,11 @@
+s
+saved within this profile on the Bookmarks bar. These are actually JavaScript programs that
+perform a function when executed on a target page. The following explains each option as of this
+
+Prepare Your Computer 23
+
+JavaScript Bookmarklets
+
+A bookmarklet is a bookmark stored in a web browser that contains JavaScript commands that
+add new features to the browser. Bookmarklets are unobtrusive JavaScripts stored as the URL of
+a bookmark in a web browser or as a hyperlink on a web page. Regardless

@@ -1,0 +1,9 @@
+, incoming Tweets, and mentions, it is not always
+complete. The following would include this data for 2008.
+
+“humanhacker’” since:2008-01-01 until:2008-12-31
+
+There are many uses for a date range search. Any supported Twitter search should work
+combined with dates. This might include a location search for a specific date related to an
+investigation. As a test of the possibilities, consider that you want to identify an email address for
+this target. His live Twitter page will not reveal this, as

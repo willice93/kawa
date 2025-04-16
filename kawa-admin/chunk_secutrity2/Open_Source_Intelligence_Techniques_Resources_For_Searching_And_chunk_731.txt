@@ -1,0 +1,10 @@
+gitude,Address
+
+33.9042,-80.8772,"58411 Lower Richland Blvd, Hopkins, SC 29061, USA"
+40.006389,-75.706111,"246-38 E. Pennsylvania Ave, Downingtown, PA 19335, USA"
+33.7933,-83.7108,"2256 S Madison Ave, Monroe, GA 30655, USA"
+42.0504,-72.5712,"969 Elizabeth Cir, Longmeadow, MA 01106, USA"
+37.2976,-78.3957,"1070-1498 Pine St, Farmville, VA 23901, USA"
+30.3092,-92.1164,"21739-21799 LA-93, Carencro, LA 70520, USA"
+
+Below these results is an interactive world map that has marked each location as seen

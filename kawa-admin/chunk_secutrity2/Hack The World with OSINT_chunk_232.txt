@@ -1,0 +1,18 @@
+ny
+
+7.6 General Siemens systems Censys search using cettificates
+Siemens does try to make some of their products more secure by
+using certificates. There are two quick dorks which search in thik
+Certificate properties for Siemens.
+
+parsed.subject_dn: siemens OR parsed.issuer.organization:
+siemens
+
+parsed.subject_dn: siemens OR parsed.issuer.organizatiom: siemens
+
+| Q Certificates >
+
+Certificates
+Page: 1/1,193 Results: 29.805 Time: 3314ms
+
+_ #& C=DE, O=Siemens, serialNumber=ZZZZZZY5, OU=Copyright

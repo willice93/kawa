@@ -1,0 +1,20 @@
+to add several targets.
+Typing add contacts launches the contact dialogue. The following displays the prompts received
+and the target details that I entered. Note that all fields are optional.
+
+first_name (TEXT): Bart
+middle_name (TEXT):
+
+last_name (TEXT): Lorang
+
+email (TEXT): lorangb@gmail.com
+title (TEXT):
+
+region (TEXT):
+
+country (TEXT):
+
+426 Chapter 22
+
+The following commands display the contacts; load the Have I Been Pwned (HIBP) credential
+breach module; and execute the script. The respon

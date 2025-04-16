@@ -1,0 +1,9 @@
+celebrity marketing company WhoSay for 93 % of his
+tweets, while the remainder are posted from a traditional web client on his computer. He does
+not post from a mobile device. This information was not available directly from his profile online.
+For those that want to replicate this option in the Terminal, below is the command.
+
+python tinfoleak.py -i -s --conv --social --hashtags --mentions --meta --media d --geo -(user name)
+Instalooter
+
+This utility attempts to extract media from a target’s In

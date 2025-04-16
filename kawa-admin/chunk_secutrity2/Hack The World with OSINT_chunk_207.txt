@@ -1,0 +1,20 @@
+se the
+IPv4 search string, with all the various HTTP ports:
+
+(ports:(80 OR 8080 OR 8888 OR
+ean 7547 as,
+"Web Viewer for Samsung DVR" )) AND 80.http.get.title
+
+co (ports:(80 OR 8080 OR 8888 OR 7547)) AND 80.hitp. get tithe: “web vy
+‘ . ro Viewer foe —
+; ae Oye
+
+ipv4 Hosts
+page: 1/3,205 Resuts: 80,111 Time 4266
+
+i 162.246.214.3
+@ Level 3 Parent, LLC (3356) Chaparral, New Mexico, United States
+“ 7547/cwmp, 80/http, 2080/http, 6888/http
+@ Web Viewer for Samsung DVR
+
+©) 7547.cwmp.get. body: Viewer fo

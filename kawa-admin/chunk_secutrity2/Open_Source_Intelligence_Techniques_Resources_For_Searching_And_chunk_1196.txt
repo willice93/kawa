@@ -1,0 +1,7 @@
+t domain. In this example, the host is mx1.sub4.homie.mail.dreamhost.com.
+This tells me that Dreamhost is likely the email provider. You could have also replicated this
+process in one click using the email seatch tool at Records Finder (tecordsfinder.com/email).
+
+These techniques help me identify the email providers or hosts behind business email accounts.
+If I am conducting a consensual penetration test, this information may lead me toward a social
+engineering attack against the host. If I am t

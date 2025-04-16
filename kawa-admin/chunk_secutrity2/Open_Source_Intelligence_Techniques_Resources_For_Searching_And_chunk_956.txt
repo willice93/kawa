@@ -1,0 +1,11 @@
+on of Firefox with the recommended add-ons (Chapter One), right-click
+
+168 Chapter 6
+
+within this window and choose “Copy All Links” > “Current Tab”. This copies all of the
+Instagram account hyperlinks within the target’s followers list into your computer clipboard.
+Open your desired documentation software, such as Word, Excel, or any text editor, and paste
+the contents into the application.
+
+I prefer Excel (or Calc within the free LibreOffice suite), because I want to easily delete
+duplicates.

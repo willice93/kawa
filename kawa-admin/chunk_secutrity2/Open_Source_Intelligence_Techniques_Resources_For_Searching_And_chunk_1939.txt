@@ -1,0 +1,6 @@
+e access to many mapping tools. These tools can import data from spreadsheets and help you
+visualize the content. In order to maintain the scope of open source intelligence, I will focus on
+only a few specific tools. Within the application, the first step is to display your location of
+interest. This can be accomplished by typing the address or GPS coordinates in the upper left
+search field. When you see your target location and have set the zoom to an appropriate level,
+you arte ready to start

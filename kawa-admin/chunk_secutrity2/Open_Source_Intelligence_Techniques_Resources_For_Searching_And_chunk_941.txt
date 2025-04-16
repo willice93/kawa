@@ -1,0 +1,9 @@
+filter a bit more by only locating Instagram posts that “tag” our target within
+the message.
+
+site:instagtam.com "@alexalbrecht" -site:instagram.com/alexalbrecht
+
+Similar to the previous search, it forces Google to ignore the target’s profile, and only focus on
+people that are posting “to” the target with @alexalbrecht instead of just his user name alone.
+These searches can be modified to include or exclude keywords, user names, real names, or any
+other terms with which you have interest. You co

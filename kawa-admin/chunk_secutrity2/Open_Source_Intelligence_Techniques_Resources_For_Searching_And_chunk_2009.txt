@@ -1,0 +1,8 @@
+button and provide the name of the website, your user name
+on the site, and a URL from where you would access the login page from. If you have a
+password already, enter it here. If not, consider allowing KeePassXC to generate a secure
+option for you.
+
+e Click the icon of the black dice on the right side of the new entry window. Use the slider
+ot the box at the end to specify the length of the password. When you are done
+generating a password, click on the “eye” to preview the password. Supply th

@@ -1,0 +1,9 @@
+y service, and without supplying the credentials for your
+personal Google account, you can generate the following URL. Replace “SZqNKAd_gTw” with
+the ID of your target video. The result will be the restricted video in full screen view. Some users
+report that this technique will also bypass videos that have a viewing country restriction.
+
+https://www.youtube.com/v/SZqNKAd_gTw
+
+If this technique should ever stop working, you can also use a non-Google service to achieve the
+same result. Navigate to

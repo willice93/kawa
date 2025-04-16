@@ -1,0 +1,8 @@
+tions or plan to use bootable USB drives
+consistently, I highly recommend Apple laptops or Linux builds from System76.
+
+Whether you chose the Windows or Apple route, you should now possess a USB drive that
+contains an entire operating system within it. The benefits of these drives are not limited to
+OSINT related needs. The security of these systems 1s likely much stronger than any other option.
+Not only are you operating within a Linux environment which has very few viruses or
+vulnerabilities,

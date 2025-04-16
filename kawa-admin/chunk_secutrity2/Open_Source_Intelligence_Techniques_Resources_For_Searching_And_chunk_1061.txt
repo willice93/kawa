@@ -1,0 +1,14 @@
+ties 189
+
+Active Search: http://4chansearch.com/?q=OSINT&s=4
+
+Archives Search: http://4chansearch.com/?q=OSINT&s=7
+
+Archives Alternative: https://archive.4plebs.org/_/search/text/OSINT/order/asc/
+Google Search: https://www.google.com/search?q=site:4chan.org%20O0SINT
+
+Hacker News (news.ycombinator.com)
+
+While this site is targeted toward a tech-savvy community, general discussion topics ate followed
+by millions of users daily. Fortunately, we have a lot of control with searching specific posts.
+k

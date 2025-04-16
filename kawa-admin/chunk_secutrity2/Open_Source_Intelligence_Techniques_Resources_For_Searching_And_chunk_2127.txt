@@ -1,0 +1,9 @@
+ltipeer Connectivity Framework without an
+internet connection. Though it wasn't designed with the purpose in mind, throughout 2014 it was
+used as a communication tool in civil protests. Launching the app within your emulator will
+identify live messaging and numerous chat rooms. These rooms can often contain valuable
+intelligence about live events from people directly involved. A social network login is not required
+
+Android Emulation 413
+
+and people can use any pseudonym desired. I have used thi

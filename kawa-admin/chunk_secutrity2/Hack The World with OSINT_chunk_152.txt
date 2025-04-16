@@ -1,0 +1,26 @@
+Metadata description displaying the technology and version 80. http.get.title
+e Manufacturer and Vendor
+
+¢ Metadata product name
+
+— —
+ere
+
+r 80.ht theaders.unknown _{u'value’: u'Wed, -
+
+| an get | ae GMT", u'key’: u'date’}
+Metadata software version f
+e The status code
+
+es
+
+| SOR rsa
+
+80. http. get. .headers.x_xss ; protec - iz mode=block
+
+© Status line | tion Se een eee
+© Header server version 80. http. get. headers. x peal te ee (10. 472,10) ee
+
+.
+
+© tie = | 80. http. get. headers. strict. “tra

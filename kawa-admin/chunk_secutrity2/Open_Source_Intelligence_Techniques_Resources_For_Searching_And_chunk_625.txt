@@ -1,0 +1,12 @@
+unctioning
+
+as reliably as it should. A search of the term “OSINT” in the Facebook search field identified
+
+some Facebook posts that contain the term within the content. A search of Posts about “OSINT”
+
+also produces results, but neither method identified all possible public posts. The reasons that
+this search does not completely work are unknown. However, we do know that Facebook does
+
+support this type of search.
+
+Instead of searching from the search field, you should conduct your query throug

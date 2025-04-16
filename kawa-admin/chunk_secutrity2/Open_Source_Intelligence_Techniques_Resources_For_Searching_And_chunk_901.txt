@@ -1,0 +1,12 @@
+do vou al 4k on the fonts?
+
+Figure 5.12: A Tweet Deck search screen.
+
+156 Chapter 5
+
+Hootsuite Feed (hootsuite.com)
+
+While Tweet Deck is my preferred viewer of live Twitter information, it does not display well for
+large audiences. If I am broadcasting my screen to a digital projector for a room full of people to
+see, the text is usually too small to accurately view from a distance. Hootsuite offers a solution to
+this predicament. If you wanted to display a live feed of anyone mentioning “OSINT”

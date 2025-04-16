@@ -1,0 +1,9 @@
+The Google view on the left will also contain a search field in the lower left
+corner. Searching an address in this field will center both maps on the same address. This will
+provide a comparison of the satellite images stored on each service. This can quickly identify the
+service that has the better imagery. While this can provide a quick side-by-side comparison,
+upcoming automated solutions are preferred.
+
+Here Maps (here.com)
+
+Another option for an alternative satellite view of a location is

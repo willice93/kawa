@@ -1,0 +1,9 @@
+e collection of Tweets that can be collected and archived
+appropniately. There may be no other way of identifying these messages since you cannot likely
+scroll back that far. In my investigations involving targets with several thousand posts, I conduct
+multiple searches within Twitter that span several years. The following would collect yearly sets
+of Tweets posted by humanhacker since 2006.
+
+from:humanhacker since:2006-01-01 until:2006-12-31
+from:humanhacker since:2007-01-01 until:2007-12-31
+fr

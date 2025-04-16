@@ -1,0 +1,7 @@
+ur investigations. Similar to the instruction in Chapter Two
+about using a clean virtual machine for every investigation, you should consider a new Android
+virtual device every time to research a target. The steps taken previously may seem too
+complicated to execute every day, so you may want to maintain a master copy and clone it.
+
+The paid version of Genymotion will allow you to clone any machine. This is very beneficial
+when you have a custom emulator that contains a lot of configuration. You

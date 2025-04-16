@@ -1,0 +1,13 @@
+own search option similar to that in Figure 20.01.
+This text is available in the digital version located at inteltechniques.com/data/2018ap1.txt.
+<script type="text/javascript">
+
+function doflemail(flemail) {
+window.open(https:// api. flickr.com/services/rest/?method= flicke. people. findByEmaitl&api_k
+ey=XXX&find_email=' + flemail, 'flickremailwindow’);
+
+}</script>
+
+<form onSubmit="doflemail(this.flemail.value); return false;">
+
+<input name="flemail" size="40" placeholder="Email Address" type=

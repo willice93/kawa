@@ -1,0 +1,8 @@
+are using an Apple computer, you might not. Antivirus applications only protect against known
+variants of viruses. They do not stop everything. A new virus can often bypass the best software
+detection solutions. A better defense is applying better browsing habits instead of relying on an
+application.
+
+There are a dozen popular antivirus companies that will provide a free solution. For most
+Windows users, I simply recommend to use Microsoft’s products. Users of Windows 7 should
+use Microsoft Secu

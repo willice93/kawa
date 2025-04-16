@@ -1,0 +1,7 @@
+ed by the presence of
+the keywords entered and only in the language provided. Searching “Online Investigation” on
+Twitter only provides results that have that exact spelling in English characters. However,
+searching the Arabic output provides Tweets that include the Arabic spelling of the selected
+wotds. This technique is extremely important when you have located a user name in a foreign
+language. As with all computer-generated translation services, the results are never absolutely
+accurate. I e

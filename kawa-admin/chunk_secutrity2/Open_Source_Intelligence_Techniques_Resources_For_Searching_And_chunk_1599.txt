@@ -1,0 +1,8 @@
+e was taken, if it is stored in the image. Figure 14.13 displays the result.
+
+Thumbnail Analysis shows any hidden preview image inside of the original image. The preview
+can reveal details of the original image or the camera used. Figure 14.14 displays the online image
+(eft) while the original thumbnail displays a different view (right).
+
+The next time you identify a digital image as part of your online investigation, these tools will
+peek behind the scenes and may display evidence of tampering.

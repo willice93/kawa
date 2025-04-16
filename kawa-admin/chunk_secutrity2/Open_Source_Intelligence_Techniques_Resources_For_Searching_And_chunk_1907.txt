@@ -1,0 +1,7 @@
+the programs to a portable flash drive and execute them directly
+from the drive. Storing these applications on a portable drive will keep you prepared to conduct
+queries from any location. I recommend visiting Portable Apps (portableapps.com), Pen Drive
+Apps (pendriveapps.com), and Portable Freeware (portablefreeware.com).
+
+All of the software mentioned in this chapter is free for personal use. Before using, read any help
+files included to ensure that you are not violating any of the terms of s

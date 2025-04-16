@@ -1,0 +1,6 @@
+ext, assume that we are looking for videos of Bob Ross teaching viewers how to paint with oils.
+After a search on YouTube of Bob Ross, I found the official Bob Ross channel located at
+https://www.youtube.com/user/BobRossInc. Clicking on the Videos option on that page
+navigated me to https://www.youtube.com/user/BobRossInc/videos. This page displays over
+600 full episodes of his television program. I relaunched the Video Download option in the
+Buscador dock and supplied the URL. Buscador began to

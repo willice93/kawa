@@ -1,0 +1,7 @@
+/internet/save-twitter-hashtag-tweets /6505)
+
+Twitter Archiver may be the simplest online tool for saving and updating Twitter streams. It is a
+Google add-on that takes a few minutes to setup, and the above website contains a complete
+video tutorial. The tool uses a Google Docs spreadsheet to capture all Tweets that match supplied
+search terms. You can use the tool to monitor Tweets around any hashtag, learn what people are
+saying about a keyword; track popular search terms; save Tweets from any

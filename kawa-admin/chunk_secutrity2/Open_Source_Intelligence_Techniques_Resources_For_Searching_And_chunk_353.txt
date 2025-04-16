@@ -1,0 +1,9 @@
+model, and serial number of a
+cameta or location data of the capture. Document metadata can include your name, computer
+name, and network login details. If you ever plan to upload documents or images to the internet,
+
+50 Chapter 2
+
+you may want to remove all of the metadata that could compromise your investigation. MAT can
+clean or “scrub” individual and bulk files. Launching this application from the dock presents an
+interface that allows selection of files (Add) and metadata removal from sele

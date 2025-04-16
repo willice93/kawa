@@ -1,0 +1,12 @@
+Yandex. Next, we should check the Wayback Machine as mentioned in Chapter Three. If you
+recall, you can search their archives by keywords or direct URL. The following address connects
+us directly to their archive of his account.
+
+142 Chapter 5
+
+http:/ /web.archive.org/web/*/twitter.com/WestCom field
+
+This identified a capture of his profile on December 6, 2017. Opening this archive displayed his
+Twitter profile dating back to November 8, 2017. Figure 5.06 displays this deleted Tweet.
+
+While our

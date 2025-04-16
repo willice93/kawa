@@ -1,0 +1,9 @@
+34 Chapter 2
+
+VirtualBox (virtualbox.org)
+
+Volumes could be written about the features and abilities of VirtualBox. I will explain how to
+configure and maintain a virtual machine within the application. Installation instructions can be
+found at virtualbox.org and are very straightforward. You would install VirtualBox in the same
+manner that you would install any other application in Windows, Mac, or Linux. The default
+options during setup will be sufficient for our needs. The only requirement f

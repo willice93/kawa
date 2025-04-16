@@ -1,0 +1,6 @@
+have any, so let’s add some. Typing use recon/domains-contacts/pgp_search will use
+the recon module PGP search feature. It will scan all of the stored domains that we have located
+and search for any email addresses associated with public PGP keys within those domains. Typing
+run and striking enter executes the process, while submitting show contacts afterward displays
+the results. The following is the partial output with 33 new email addresses identified. Each of
+these addresses are now stored

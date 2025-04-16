@@ -1,0 +1,8 @@
+have an IP address instead of a domain, IP Net Info will perform the same series of
+searches for you. The first screen will allow you to enter multiple IP addresses and search them
+all. This is convenient when an investigator has received login IP addresses from an online
+provider such as Yahoo or Facebook. Both Domain Hosting View and IP Net Info will export
+the results as a text file for archiving.
+
+Real World Application: In a child pornography investigation, I was supplied over 200 IP
+addre

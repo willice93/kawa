@@ -1,0 +1,7 @@
+one of these isn't exposing something important, like a hosbital ney ork.
+
+Utilising printers as attack tools isn’t theoretical and makes for an interesting and
+potentially juicy target. Printers are connected to your network, they have information
+about your network, sometimes in-built administrative tools which can be dual used and
+can be used as a stealthier attack pivot to get deeper into a network. Printers and multi-
+function scanners are usually over looked for security testing, patching

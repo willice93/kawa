@@ -1,0 +1,10 @@
+profile, as publicly visible to any user. These files were saved to
+disk, and titled as follows.
+
+001-https___facebook.com_JohnDavis9 | 2017-11-17-10-15-11.pdf
+002-https__facebook.com_JohnDavis9_photos | 2017-11-17-10-16-12.pdf
+003-https__facebook.com_JohnDavis9_about | 2017-11-17-10-17-18.pdf£
+004-https__facebook.com_JohnDavis9_ friends | 2017-11-17-10-19-31.pdf
+005-https__facebook.com_JohnDavis9_events | 2017-11-17-10-22-11.pdf
+
+Most notable within these captures is the “Photos” section ident

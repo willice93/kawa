@@ -1,0 +1,21 @@
+-key”) AND tags raw "DSLeable modem
+
+IPv4 Hosts lop Million Websites
+
+Your query ((tags: “known-private-key") AND tags .faw: “DSL/ cable modem") found 366
+
+Certificates
+
+Figure 113 Censys.io scan Rnown-public-key tag and DSI_/ Cable Modem
+2 : :
+
+Yourquery{(tags: “known-private-key”) AND tags.raw: “DSL/cable modem") found 366,465 IPv4 hosts,
+
+Country Breakdown
+
+Country Hosts Frequency
+Thattand 203,979 55.63%
+Dominican Republic 84,246 22,9856
+Spain 45,996 12.54%
+Panama 11,731 3.2%
+Ecuador 3,874 1.

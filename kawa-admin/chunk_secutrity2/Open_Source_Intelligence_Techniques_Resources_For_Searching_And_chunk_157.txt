@@ -1,0 +1,7 @@
+e. The file can later be archived to a removable storage device. The title of the
+document will match the title of the web page and it will include the URL of the selected page.
+
+This method is preferred over a standard screen capture for several reasons. A typical screen
+captute only captures the visible area and not the entire page. You must then open a program
+into which you “paste” the data and then save the file. The FireShot extension automates this
+and saves it in a format that is difficu

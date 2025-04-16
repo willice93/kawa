@@ -1,0 +1,11 @@
+This is the first tool where we can choose to either display the
+results on the screen or download them as a CSV spreadsheet. This option simply extracts a user’s
+
+favorites (or likes) as discussed earlier. The results include the original author, date and time, text
+of the message, a direct URL to the post, and the author’s bio, as seen in Figure 5.08.
+
+Tweet author's
+
+Tweeting (and
+. www. twitter.com/TerorF : .
+@TerrorFanatics Wed Dec 06 02:20:06. ” anatics/etatuses #Horror articles, videcs,

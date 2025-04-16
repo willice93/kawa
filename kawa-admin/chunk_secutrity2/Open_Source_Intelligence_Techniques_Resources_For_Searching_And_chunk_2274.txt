@@ -1,0 +1,8 @@
+n email address.
+When I have a real name, the goal is to find email addresses, user names, and a telephone number.
+When I have a telephone number, my goal is to verify the name and identify a physical address
+and relatives. When I have a domain name, my goal is to locate a real name and address. The
+cycle continues after each new piece of information is discovered.
+
+Each example will identify only the services used. It will not display the actual address to navigate
+to the website. However, ever

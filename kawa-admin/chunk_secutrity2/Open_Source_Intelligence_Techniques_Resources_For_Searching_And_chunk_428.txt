@@ -1,0 +1,8 @@
+ics.
+This is only the first layer of a Google custom search engine. Google offers an additional element
+to its custom engines. This new layer, labeled Refinements, allows you to specify multiple actions
+within one custom search engine. The best way to explain this is to offer two unique examples.
+
+For the first example, I want to create a custom search engine that will allow us to search several
+social networks. Additionally, we will isolate the results from each network across several tabs at
+t

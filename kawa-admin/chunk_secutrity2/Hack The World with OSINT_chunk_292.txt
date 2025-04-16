@@ -1,0 +1,20 @@
+© 217.172.27.133
+@ as(198610) 9
+
+
+174
+
+CASE STUDY: Riding the Printer
+
+Discovering hackable printers with ease on the internet
+
+Printers:
+
+Not to be trusted
+
+v- com QAM cane Center aes
+Figure 122 Printers, a perfect attack pivot on your network
+
+While researching this book, these lovely gems of printers began appearing in the
+search results. Censys.io is quite in-depth and also can apply Tags to devices or systems
+it finds. This nifty method can discover Brother or Dell re-branded Brother print

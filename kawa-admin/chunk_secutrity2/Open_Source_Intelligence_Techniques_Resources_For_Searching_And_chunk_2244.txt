@@ -1,0 +1,9 @@
+76.4000 186.8000 198.7500
+
+436 Chapter 23
+
+Real World Application: While attending a computer security conference, a non-scheduled
+presentation was offered to select attendees in reference to new exploits being used on corporate
+networks. Since I did not receive an invitation, I was not allowed entry. I connected my
+headphones to a portable scanner and began scanning the common ranges used by wireless
+microphones while sitting in the hallway outside of the closed-door session. Within moments, I

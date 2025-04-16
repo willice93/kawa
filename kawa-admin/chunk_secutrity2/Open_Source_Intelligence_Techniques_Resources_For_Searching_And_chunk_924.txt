@@ -1,0 +1,22 @@
+.
+
+Platforms most tweeted from
+
+’3@ YoruFukurou 2768 Twitter for Android Egy
+3 ~—TweetCaster for
+iOS
+
+‘Twitter Web Client
+
+24 Twitter for
+Websites
+
+Sy Slashdot login
+
+Figure 5.18: A portion of a Twitonomy search result identifying user platforms.
+
+Tinfoleak (tinfoleak.com)
+
+This Twitter analytics tool provides a simple yet thorough report. It was mentioned as an
+application in Chapter Two, but you can take advantage of a web option here. The website
+requires that you log into your Twitter accoun

@@ -1,0 +1,9 @@
+tiple providers within new tabs. It currently fetches images from Google Satellite
+
+Online Maps 267
+
+(standard and 45 degree views), Bing Satellite, Bing Bird’s Eye (N, E, S, W), Google Street View,
+Bing Street View, Terra Server Satellite, Land Viewer Satellite, Here Satellite, Wikimapia Satellite,
+Zoom Earth Satellite, Yandex Satellite, Map Box Satellite, Descartes Satellite, Mapillary Street
+View, and Open Street Cams Street View. It also queries YouTube, Facebook, and Periscope for
+any posts

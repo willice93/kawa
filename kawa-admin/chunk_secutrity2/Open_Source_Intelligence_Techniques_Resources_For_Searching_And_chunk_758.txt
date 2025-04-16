@@ -1,0 +1,6 @@
+. The information provided may
+identify other partial email addresses and will confirm the last two digits of all telephone numbers
+attached to the account. Do not click “Continue” on this screen, as it will send a password reset
+request to that individual. As a final reminder, this notification could happen even without
+clicking this button. This would not lock him out of the account or gain you access, but it will
+raise suspicion. The following summaty will explain the result for each type of

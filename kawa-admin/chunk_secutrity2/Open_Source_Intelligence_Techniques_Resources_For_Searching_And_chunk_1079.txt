@@ -1,0 +1,6 @@
+eem a bit weird and redundant, but I will explain my process. I have
+found that successfully spoofing GPS is more reliable in Chrome than Firefox. I have also
+witnessed Firefox block elements required by Tinder, likely due to default privacy settings. While
+you might be able to make Firefox work with Tinder, this Chrome process simply worked better
+for me. There are many GPS spoofing extensions available for Chrome and Firefox, and most
+should work. I found the Manual Geolocation option especial

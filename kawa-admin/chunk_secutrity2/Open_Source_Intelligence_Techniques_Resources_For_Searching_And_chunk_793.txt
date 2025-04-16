@@ -1,0 +1,9 @@
+er’s profile including recent Tweets.
+
+To these accounts: This field allows you to enter a specific Twitter user name. The results will
+only include Tweets that were sent to the attention of the user. This can help identify associates
+of the target and information intended for the target to read.
+
+Mentioning these accounts: While these messages might not be in response to a specific user,
+the target was mentioned. This is usually in the form of using “@”. Anyone mentioning me within
+a Tweet may

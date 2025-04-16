@@ -1,0 +1,28 @@
+TP 600 Sences Codes
+
+Descript ion
+
+ith this FIP setting: Code 500. Use the Censys
+ch string, then click one oft
+
+Q Det
+
+10054 Connection reset peer, ‘T’
+oe The” CCT ie
+
+“ g @ ;
+: rcibly closed by the remot hicyst
+
+4%
+1st) W
+
+10060 Cannot connec
+t connect to remote server
+10061 Cannot connect to remote server. The connection
+actively refused by the server
+10066 Directory not empty
+10068 Too many users, server is full
+
+3.10 Exploring SSH services
+
+Censys recognises the SSH protocol version 2 in it

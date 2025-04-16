@@ -1,0 +1,10 @@
+ents that are created by the user. The examples below identify
+searches that would display documents by type.
+
+site:docs.google.com/presentation/d — 865,6000 PowerPoint presentations
+site:docs.google.com/drawings/d — 68,600 Google flowchart drawings
+site:docs.google.com/file/d — 6,945,000 images, videos, PDF files, and documents
+site:docs.google.com/folder/d — 94,000 collections of files inside folders
+site:docs.google.com/open — 1,400,000 external documents, folders, and files
+
+In 2013, Google

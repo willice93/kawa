@@ -1,0 +1,8 @@
+tionally, most
+basic scanners cannot monitor this range. Only expensive highly specialized devices can
+accurately monitor this traffic.
+
+Real World Application: A police department in a Chicago suburb executed a search warrant
+on the home of a child predator. The suspect heard the entry from a basement room where he
+possessed the receiver of a witeless audio room monitor. This early warning allowed him time to
+destroy evidence and flee through a basement window. A standard frequency scanner coul

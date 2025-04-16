@@ -1,0 +1,21 @@
+'
+
+Froyre OY Censys 80/H] feo SyStCM details u wth java. util. Random
+
+The HTTP body will contain the Java package references using the
+weak java.util.Random. Using a find function in your browser will
+highlight all instances in use.
+
+> package com. stevyai.blog; \n\nimport java.util Random; \n\nfinal class Top
+
+aa
+
+Figure 70 Censys html body using java.util. Random
+
+CASE STUDY: Making Ministers WannaCry
+
+hank
+
+jou j keynote for BI)
+gor her warfare exercises | > At EU and
+ATO member cybe Brusse

@@ -1,0 +1,9 @@
+cebook friends and extract their information into your Yahoo contacts. This will often
+include the user’s full name and any email addresses associated with the target.
+
+Changed User Name
+
+If you have an ongoing investigation, you should make note of your tatget’s Facebook user ID
+number. If he or she changes the real name or user name of the Facebook profile, this user ID
+will always connect to the live account. A previous Graph example displayed a Facebook user
+number of 651620441. You can now

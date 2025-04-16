@@ -1,0 +1,13 @@
+com/v2/phone/+16187271233?account_sid=f10&auth_token=AU5c43d8
+
+Telephone Numbers 247
+
+This queries the domain (opencnam.com), the target number (16187271233), our account ID
+(f10), and our license number (AU5c43d8). Note that Open CNAM requires a “1” before the
+ten-digit number.
+
+Everyone API (everyoneapi.com)
+
+This service is owned by the same company as Open CNAM (Telephone Research LLC). The
+difference with this option is that it will display the cellular company that previously owned the
+num

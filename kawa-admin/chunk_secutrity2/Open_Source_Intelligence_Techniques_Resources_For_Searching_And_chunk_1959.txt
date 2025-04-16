@@ -1,0 +1,6 @@
+an, but is better than not archiving
+the footage. CamStudio is completely free and simple to use. It can also work as a portable
+application from a flash drive. Upon launch, the program is ready to start recording. Before
+hitting the record button, I suggest visiting the “Video Options” menu under “Options”. If you
+ate going to use this recording as official documentation of an investigation, you should increase
+the quality to 100%. This will create a large file, but the quality is worth the siz

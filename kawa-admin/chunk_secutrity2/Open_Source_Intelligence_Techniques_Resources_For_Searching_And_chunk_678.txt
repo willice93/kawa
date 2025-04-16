@@ -1,0 +1,9 @@
+k
+Zuckerberg and Arie Hasit. It should be noted that I am using these examples because of the
+single digit user numbers. Your user number searches will likely be much longer and appear
+similar to “17893008278”.
+
+https://www.facebook.com/seatch/4/places-visited/7 /places-visited/intersect
+https://www.facebook.com/search/4/recent-places-visited/7/recent-places-visited/intersect
+https://www.facebook.com/search/4/places-checked-in/7 /places-checked-in/intersect
+https://www.facebook.com/search/4/plac

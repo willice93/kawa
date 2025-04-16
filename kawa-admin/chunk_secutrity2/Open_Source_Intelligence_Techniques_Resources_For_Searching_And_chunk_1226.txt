@@ -1,0 +1,8 @@
+e, Check User names, Pipl, PeekYou,
+User Sherlock, UsetSearch, Twitter, Facebook, YouTube, Tumblr, Instagram, Googlet+, and
+Email Search. The last option populates a search on Google of the target user name with the
+addition of the most popular email address domains, including quotation marks and the OR
+operator, as discussed in Chapter Three. If your target user name is Intel Techniques, it conducts
+the following Google search.
+
+"IntelTechniques@gmail.com"OR"IntelTechniques@yahoo.com"OR"IntelTe

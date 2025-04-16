@@ -1,0 +1,6 @@
+single threaded and quite slow when running on big images. Choose a Mode:
+Projection of the value in the image onto the principal component; Difference between the input
+and the closest point on the selected principal component; Distance between the input and the
+closest point on the selected principal component, or the closest point on the selected principal
+Component. There are three different enhancements available: Histogram Equalization, Auto
+Contrast, and Auto Contrast by Channel. Auto Con

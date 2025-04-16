@@ -1,0 +1,9 @@
+n on YouTube and Facebook videos. The first search we should
+conduct in relation to this ID is a Periscope API query. The following URL presents the server
+data available about the video ID in this example. The Twitter Tools page mentioned in Chapter
+Five possesses an option to translate an ID to the direct output page.
+
+https://api.periscope.tv/api/v2/getBroadcastPublic?token=1djGXMpDewzJZ
+
+Within the data from this query, we can see the following. Note that this is only a partial list of
+detai

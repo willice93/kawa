@@ -1,0 +1,11 @@
+n, you can use Google. Conduct the following style of search on the. Google main
+page, replacing the listed number with the target number.
+
+site:pipl.com 5554458543
+
+This should provide a single result that will link to the Pipl page that identifies all residences on
+the same street as the house with the target telephone number. This lists the telephone number
+and address of each household. The telephone numbers are links that will open a profile on that
+number.
+
+Real World Application: As a det

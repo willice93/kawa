@@ -1,0 +1,9 @@
+l was created as part of my training at Justin Seitz’s python training course. It requests a
+Twitter user name after launching from the dock. It then downloads the photos posted to the
+target account and creates a spreadsheet of the account activity. A new folder titled the name of
+your Twitter target is placed in the Twitter folder inside the Home directory of Buscador. Inside
+this new folder is the following content.
+
+Photos: This folder contains all images extracted from the account.
+
+Twitter

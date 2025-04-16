@@ -1,0 +1,39 @@
+Rabbit Hole An OSINT Journey:
+
+Open Source Intelligence Gathering for Penetration Testing
+Amsterdam: Hypasec ISBN-13: 978-0995687547
+
+Table 95 Censys Basic Parsed Certificate fields
+
+basic Information
+
+parsed.s
+
+Fake name Bi
+
+erial_number:
+
+—————
+es
+
+meee |
+*
+
+& ee
+
+Table 96 Censys Parsed Fingerprint fields
+
+) rent tbs St Gael
+ee |
+
+Table 97 Censys Apple Certificate Validation fields
+
+Apple Validation
+
+Further Resources 247
+
+y
+
+Table 98 Censys NGS Firefox | “ulidation Certificate fields
+
+NSS Fir

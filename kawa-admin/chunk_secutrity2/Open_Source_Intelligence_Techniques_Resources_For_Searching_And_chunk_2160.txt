@@ -1,0 +1,17 @@
+anages workspace snapshots
+
+spool Spools output to a file
+
+unset Unsets module options
+
+use Loads specified module
+
+workspaces Manages workspaces
+
+Recon-ng 419
+
+Typing show modules will reveal the current functions available. Think of a module as a
+“resource”. Just like Twitter is a website resource that we can use through a web browser,
+“twitter_mentions” is a specific resource that we can use in Recon-ng. The following modules
+
+were available at the time of this writing. We will use some of th

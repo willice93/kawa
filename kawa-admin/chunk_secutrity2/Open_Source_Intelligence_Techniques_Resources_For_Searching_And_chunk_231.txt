@@ -1,0 +1,10 @@
+rnatively,
+you could install the extension Click&Clean to automate this chore.
+
+Passwotds and forms: I recommend disabling these features by unchecking both boxes:
+“Enable Autofill to fill out web forms in a single click”, and “Offer to save your web passwords”.
+If you have stored form-fill information or passwords in Chrome, I recommend removing any
+data before conducting investigations.
+
+Chrome Extensions: To install add-ons in Chrome, navigate to the settings menu. Click
+“Extensions” on the u

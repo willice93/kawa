@@ -1,0 +1,25 @@
+ch engine and utilize to setup your lab accounts.
+
+2.7 Obtaining API Keys
+
+To search databases effectively on the internet, you need API
+keys. You will need to setup some accounts to get API keys, using
+10-minute email or similar.
+
+Censys.io API Key and Secret
+. Go to http://www.censys.io
+. Sign up and log in
+Click My Account
+. Your API key and Sectet ate in API Credentials
+
+—
+
+Wh
+
+2.8 Configuring Maltego and API Keys
+
+p Maltego for Wind
+
+: account at:
+eoister tor a Maltego ¢ 3
+wt // www.paterva

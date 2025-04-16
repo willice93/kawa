@@ -1,0 +1,7 @@
+era Trace (camerattace.com/ trace)
+
+An additional site, which is still free, that provides this service is called Camera Trace. Type in
+the serial number of a camera and the site will attempt to locate any online photographs taken
+with the camera. This service claims to have indexed all of Flickr and 500px with plans to soon
+add Smugmug, Picasa, and Photobucket. A sample search using a serial number of “123” revealed
+results for Panoramio, even though the site is not listed as being included in

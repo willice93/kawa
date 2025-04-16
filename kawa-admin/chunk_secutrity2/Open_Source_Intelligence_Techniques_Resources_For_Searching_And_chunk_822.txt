@@ -1,0 +1,10 @@
+questions on interrogation and social
+
+Figure 5.01: An old Twitter post including an email address of the target.
+Media and Likes
+You may want to filter all results from a target Twitter profile and only see those which have
+some type of media embedded. There is not a search operator to force this, but the following
+direct URL will display only these posts.
+https:/ /twitter.com/humanhacker/media/
+A trend that has seen rapid adoption over the past few years is the “Liking” of posts. When a
+uset

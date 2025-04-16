@@ -1,0 +1,12 @@
+categories may provide a filter that can be applied
+that will make the results more manageable.
+
+Carrot2 (carrot2.org)
+
+This is another search engine that groups seatch results into sets of topics. Similar to iSeek, it
+displays clustered results which allow you to navigate through large numbers of search results
+
+Search Engines 83
+
+quickly. One way that this service stands out from the others is that it offers three different layout
+formats for viewing and filtering the results. The initial sear

@@ -1,0 +1,9 @@
+wing example. Your target email address is
+bill@microsoft.com, and you want to know if he is a Mac or Windows user. You could first
+navigate to appleid.apple.com/account and attempt to make an Apple account with that address.
+
+Email Addresses 213
+
+If allowed to proceed past the first screen, then that user does not already have an account there
+associated with the target address. If you are informed that the email address is already in use,
+then you know that your target is a Mac user, and that

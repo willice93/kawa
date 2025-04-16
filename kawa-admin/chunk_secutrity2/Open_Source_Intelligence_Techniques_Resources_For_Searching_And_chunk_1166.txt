@@ -1,0 +1,10 @@
+vide nothing for me. However, if I do identify an existing address, I now have a new piece
+of the puzzle to search. Creating a list of possible addresses can be time consuming. I have the
+following online search tool that should make this easier.
+
+208 Chapter 8
+
+Email Permutator (inteltechniques.com/OSINT/email.html)
+
+This tool was created after being inspired by the Email Permutator project by Rob Ousbey at
+distilled.net. Several similar attempts have been made to improve on the original design

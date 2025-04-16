@@ -1,0 +1,8 @@
+t to navigate at first. Most of the search fields for information forward
+to a sponsored result that will demand a fee for the information. The only free way to search this
+data is to click on the “Begin Search” button overlapping the map in the middle of the page. The
+only fields that should be searched on this page are in the top row and include address, city, and
+state. Entering any address in a target neighborhood will display markers on a map of convicted
+felons in that area.
+
+Crime Reports

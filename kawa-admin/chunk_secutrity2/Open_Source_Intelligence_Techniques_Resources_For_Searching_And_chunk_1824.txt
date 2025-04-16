@@ -1,0 +1,11 @@
+d set of instructions
+
+IP Addtesses 347
+
+should explain the processes with several options. The main website presents several options, but
+only the “Short Link” and “Your Image” services will be explained.
+
+Link You can generate a URL which will redirect to any website that you provide. IP Logger
+will save the IP address of each user who clicked the link. In the box provided, enter any address
+that you want the target to see when clicking on a link. This could be something generic such as
+cnn.co

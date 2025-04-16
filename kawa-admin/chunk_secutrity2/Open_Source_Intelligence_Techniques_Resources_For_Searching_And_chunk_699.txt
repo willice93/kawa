@@ -1,0 +1,10 @@
+t a response from the
+management of the organization.
+
+Event Search
+
+Facebook Events ate a way for members to let friends know about upcoming events in their
+community and to organize social gatherings. Events require an event name, network, host name,
+event type, start time, location, and a guest list of friends invited. Events can be public or private.
+Private events cannot be found in searches and are by invitation only. People who have not been
+invited cannot view a private event's descripti

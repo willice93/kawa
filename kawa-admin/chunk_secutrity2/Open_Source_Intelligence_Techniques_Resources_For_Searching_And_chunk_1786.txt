@@ -1,0 +1,10 @@
+n)
+
+This online port scanner looks for common ports that may be open. An open port indicates that
+a setvice is running on the web server that may allow public connection. A search of 54.208.51.71
+revealed that ports 21, 53, 80, and 443 are open to outside connections. Port 21 is for FTP
+connections, 53 is for DNS settings, 80 is for web pages, and port 443 is for secure web pages.
+
+ViewDNS IP Whois (viewdns.info/whois)
+
+This service was used earlier to display registration information about an i

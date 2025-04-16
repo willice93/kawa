@@ -1,0 +1,7 @@
+ated, mostly connected to cnn.com. These
+included numerous foreign versions and options such as cnn.org and cnn.photos. These are all
+new leads that should be analyzed later. We could now repeat our previous module execution of
+use recon/domains-hosts/bing_domain_web and likely grow our list of hosts substantially.
+
+This is a good time to pause and consider what is happening here. As we find data, Recon-ng
+stores it and applies it to our searches. As those searches reveal more data, that content

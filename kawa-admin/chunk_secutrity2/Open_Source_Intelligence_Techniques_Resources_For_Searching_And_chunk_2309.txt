@@ -1,0 +1,11 @@
+ter profile of the suspect’s daughter, Kylie Davis, at twitter.com/kdavis722. I
+exported the most recent 3,200 posts (Tweets), and saved this as kdavis722.csv on the attached
+disc. I found the messages between Kylie Davis and Patricia Stevens (pstevens6655) of most
+interest. I isolated these messages with the following two queries.
+
+from:kdavis722 to:pstevens6655
+from:pstevens6655 to:kdavis722
+
+Screen captures of these messages were saved as the following.
+
+045-https__twitter.com_from:kdavis722

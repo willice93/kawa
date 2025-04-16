@@ -1,0 +1,10 @@
+followed by virtualization and you
+should find the answers. The rest of this section will assume that your computer meets this
+requirement. All instructions here apply to Windows, Mac, and Linux operating systems. After
+installing VirtualBox, you should install the VirtualBox Extension Pack located on the VirtualBox
+website.
+
+Buscador Download
+
+Buscador is completely free and can be found at https:/ /inteltechniques.com/buscador. The
+user name for this software is osint, and the password is als

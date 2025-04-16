@@ -1,0 +1,6 @@
+ata represents decades of content at your fingertips. Much of it
+is offline and unavailable on the current public internet. Many domains have completely shut
+down. Furthermore, websites that I own appear within the results, even though I have specifically
+blocked archiving them through a configuration file on my server. You would not find these by
+searching the domains directly through the Wayback Machine. This is a reminder that we should
+check all available resources before completing our inve

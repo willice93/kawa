@@ -1,0 +1,25 @@
+etasploit
+
+Most of the time to open Metasploit:
+
+toot@kali:~# msfconsole
+
+senerdenics to open either Metasploit you will need to start the
+services
+
+root@kali:~# service postgresq] start
+
+root(@kali:~# service metasploit start
+root(@kali:~# msfconsole
+
+It is okay most of the time if you get an error after service
+
+metasploit start
+
+i meee ae:
+ploit is started, search for Censys module(s), then go into
+
+the options to input your Key and Secret
+Msf > search censys
+Msf > ili
+‘I~ use auxiliary/gathe

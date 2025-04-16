@@ -1,0 +1,15 @@
+ed associates’ full names from my online presence
+
+It displayed 393 unique URLs of which I have linked in the past on my sites
+
+It identified 87 internal web pages for further investigation
+
+It extracted metadata from images within my web pages
+
+It identified software used to create online files
+
+Buscador Linux Virtual Machine 49
+
+e It accurately associated me with a third-party training company
+e It identified all internal web pages that require a login
+e It identified all internal web pages th

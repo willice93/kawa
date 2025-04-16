@@ -1,0 +1,37 @@
+ther proto OS Stadntied
+
+Protocol Number Percentage
+
+8,866,809 3.89%
+
+UPNE —__ 1,820,000 += =~— Not included in Host
+
+Report
+“SMB Oe ay ae
+
+SE ae eR a
+
+9.2 Exploring DNS
+
+Table 55 Censys Important DN. S fields & examples
+
+Important Censys DNS field Example
+
+53.dns.
+
+me
+U C.ateky com!
+COM {
+
+r 53 dns.lookup.resolves_correctly False
+| 53.dns.lookup-support kaa
+
+53. dns.lookup.additionals.response 34.210,13.81
+
+| 53 dns.lookup.additionals.type A
+
+Table 56 Censys DNS Additionals fields
+
+Example
+
+ys

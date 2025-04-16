@@ -1,0 +1,7 @@
+email address to match that of your target. I prefer to create a form that simplifies this process.
+To do so, you need to create a web page. The page does not need to be uploaded anywhere on
+the internet, and you can execute the page from your computer’s hard drive. If you have web
+development software, it will make it easy. If not, a text editor will work just fine. If you are a
+Windows user, open Notepad and type the following in a new text document.
+
+<html><head></head> <body><script type=“t

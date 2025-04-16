@@ -1,0 +1,10 @@
+the site “www.phonelosers.org/snowplowshow”. This will return
+the main landing page as well as sub-pages that will each have a cached view. If any of these pages
+were to go offline completely, Google would hold the last obtained version for viewing. I could
+have also typed the following directly into any Google search page to be navigated directly to the
+cached page.
+
+cache:www.phonelosets.org/snowplowshow
+Bing Cache (bing.com)
+
+Similar to Google, Bing offers a cached view of many websites. Sea

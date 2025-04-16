@@ -1,0 +1,9 @@
+.
+
+User Search (usersearch.org)
+
+This service stands out a bit from the others in that it only provides actual profile results. It
+searches the supplied user name for a presence on 45 of the most popular websites (basic option)
+ot 115 total websites (advanced option) and returns a list of identified profiles matching the target.
+While this service is the slowest of all options, this could be an indication of account verification
+for more accurate results. I have also found their email address se

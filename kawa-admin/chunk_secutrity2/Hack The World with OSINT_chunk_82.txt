@@ -1,0 +1,14 @@
+THIS CHA PTER:
+
+Conference on Computer and Communications Security}, month = oct, year = 2015 $
+
+*" OSINT lab environment
+https:/ /censys.io/overview " Setting up Censys account
+* Obtaining API key & Secret
+https://censys.io/about " Setting up VM/Kali
+" Installing Maltego, Cens hon ji i
+Geol acation services are provided using the MaxMind Sst e G g0, Censys Python library, ZMap &
+
+GeoLite2 database unless specified otherwise. Routing information is
+
+provided by Merit Network and Team Cymru. By f

@@ -1,0 +1,10 @@
+e notified of offender court dates.
+Find Sex Offender Registry Status: Get info about sex offender registry status changes.
+
+Find a Protective Order: Get info and register to be notified of protective order status changes.
+
+High Programmer (highprogrammet.com/cgi-bin/uniqueid)
+
+Most states use some type of algorithm to create a driver’s license number for a person. Often,
+this number is generated from the person’s name, sex, and date of birth. After you have
+determined your target’s middle initi

@@ -1,0 +1,8 @@
+an active Google account on your new device,
+you should now be able to enter the Google Play Store. You should also now see all core Google
+setvices in your applications menu.
+
+Many users have found this official way to fail them on occasion. I have found that many popular
+apps will not load with the most current versions of these utilities. Therefore, I offer an alternative
+option. Consider creating a second virtual device to have in case of future problems. The
+following instructions will res

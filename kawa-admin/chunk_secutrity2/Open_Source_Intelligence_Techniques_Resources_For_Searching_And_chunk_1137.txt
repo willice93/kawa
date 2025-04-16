@@ -1,0 +1,8 @@
+two properties titled offerup:location:latitude and
+offerup:location:longitude. You can search for these in your browser by pressing ctrl-f (Windows)
+ot command-f (Mac). Next to these fields should display GPS coordinates. In my experience,
+these precise identifiers will either identify the exact location of the target, or a location in the
+neighborhood of the suspect. I would never rely on this all the time, but I have had great success
+getting close to my targets through this technique.
+
+Amaz

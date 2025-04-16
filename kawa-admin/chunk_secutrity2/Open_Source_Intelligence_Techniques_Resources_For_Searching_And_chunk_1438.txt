@@ -1,0 +1,8 @@
+one.
+This is actually quite common, as many people record video of their driving trips that could be
+used in case of an accident. These services make it easy and automated to upload these images.
+The sites then embed these images within their own mapping layers for the public to see.
+
+Clicking these colored lines reveals the street view images in the lower portion of the screen.
+Expanding these images allows you to navigate through that individual’s images similar to the
+Google Street View exper

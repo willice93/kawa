@@ -1,0 +1,11 @@
+tk)
+
+A newer option for IP identification is Blasze. At the time of this writing, it was more popular
+than the previous two methods. It works very similar to What’s Their IP. The difference is that
+you can forward the target to a desired link that may not raise any suspicion. As an example,
+assume that you want to send your target an email message that will identify his IP address. You
+want him to click on a link, but you do not want him to receive an error similar to what is
+
+348 Chapter 17
+
+pt

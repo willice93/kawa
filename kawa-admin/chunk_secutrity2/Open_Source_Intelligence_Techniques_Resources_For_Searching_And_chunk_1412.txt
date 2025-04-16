@@ -1,0 +1,6 @@
+sed call” or any
+other indicator that a call occurred. In my testing, less that 5 percent of the attempts actually
+cause the target telephone to ring only one time. Calling the missed call back reveals nothing
+about the identity of the number. Ultimately, there is a very small chance that the target will know
+that someone attempted a call. In the rare occurrence that the telephone rings, the target will
+never know the identity of the person making the calls. To use the Sly Dial service, call 267

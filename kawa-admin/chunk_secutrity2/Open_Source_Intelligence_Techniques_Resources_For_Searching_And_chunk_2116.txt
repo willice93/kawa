@@ -1,0 +1,8 @@
+.
+
+Facebook The Facebook app on Android will appear similar to a compressed view of a standard
+profile page. The benefit of the mobile app is the ability to check into places. When you click the
+“Check In” tab in the upper right corner, Facebook will present businesses near your current
+spoofed location. With my configuration, Facebook presented the terminals and airlines at the
+Denver airport. If you choose a location, and create a post on your timeline, Facebook will verify
+that you were there

@@ -1,0 +1,6 @@
+vanced search options within LinkedIn and through third-parties,
+I created a custom online tool. Figure 6.04 displays the current version. The left column allows
+queries through a generated LinkedIn URL, isolating keywords, name, title, company, and
+education. This replicates the options available on the official site. The right column uses the
+same data to create a custom Google search in attempts to find direct profile URLs of your
+targets. The middle section converts a user name to the live p

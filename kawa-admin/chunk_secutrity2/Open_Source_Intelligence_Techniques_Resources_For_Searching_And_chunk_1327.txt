@@ -1,0 +1,6 @@
+ate this data, you will need to
+connect to the county clerk of the county of residence. The link here will display a list of all fifty
+states. Clicking the state of the target will present all of the counties with known online databases
+of voter registration content. These will often display the full name of the voter and full address.
+This can be sorted by name or address depending on what information you have about the target.
+Chapter Eighteen presents additional voter registration search opti

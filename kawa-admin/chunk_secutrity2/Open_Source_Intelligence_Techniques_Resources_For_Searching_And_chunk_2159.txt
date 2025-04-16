@@ -1,0 +1,26 @@
+its the current context
+
+Delete Deletes records from the database
+Exit Exits the framework
+
+help Displays this menu
+
+keys Manages framework API keys
+
+load Loads specified module
+
+pdb Starts a Python Debugger session
+query Queries the database
+
+record Records commands to a resource file
+reload Reloads all modules
+
+resource Executes commands from a resource file
+search Searches available modules
+
+set Sets module options
+
+shell Executes shell commands
+
+show Shows various framework items
+snapshots M

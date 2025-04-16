@@ -1,0 +1,7 @@
+system will not possess any of the custom tools and
+will be very basic. However, it also will not have the unique footprint of a custom operating
+system that could jeopardize extremely sensitive investigations. Users can blend-in better with
+this system and not have an immediate appearance as an online investigator.
+
+Before proceeding, it is important to note that this is the most technical portion of the chapter.
+You do not need to replicate any of these options to use Buscador as a virtual mac

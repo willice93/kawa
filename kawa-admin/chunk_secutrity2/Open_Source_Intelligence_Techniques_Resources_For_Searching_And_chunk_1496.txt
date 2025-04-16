@@ -1,0 +1,11 @@
+, you could be jeopardizing your clearance. In these situations, use the
+method discussed in Chapter Nineteen. If this is not a concern the following work well.
+
+Documents 281
+
+Extract Metadata (extractmetadata.com)
+Jeffrey’s Exif Viewer (regex.info/exif.cgi)
+Metashield Analyzer (metashieldanalyzer.elevenpaths.com)
+
+Real World Application: Dennis Lynn Rader, also known as the BTK killer, sent a floppy disk
+to the Wichita Police Department containing a Microsoft Word document in reference to his

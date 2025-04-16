@@ -1,0 +1,8 @@
+g the desired output will provide the
+translation.
+
+Alternatively, you can translate an entire website in one click which will give a native view of the
+layout of the site. Instead of copying individual text to the search box, type or paste in the exact
+URL (address) of the website you want translated. Clicking the “Translate” button will load a
+new page of the site, which will be translated to English. This translation is rarely, if ever, perfect.
+However, it should give you an idea of the cont

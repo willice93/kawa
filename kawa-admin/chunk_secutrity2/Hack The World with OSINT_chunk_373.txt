@@ -1,0 +1,41 @@
+r/censys_search
+Mst > show options
+Msf > set CE
+NSYS-SECRET [enter your API secret]
+
+Msf > set
+et CENSYS UID [enter your API UID]
+
+ws Rest API. The se torn
+gsys Rest API. The searches will essenu) ot '
+“CN tal}y
+
+ire
+ne
+ee senses
+
+se. ,
+: | tent t eotlhi wa
+: 1OHTT 16 Metaspiotl Yaw
+
+Msf > show options
+
+Module options
+
+a Ea SN mmrereh ai ppt? ean 0 een
+
+CENSYS DORK
+
+YS SEARCHTYPE certificates
+ipv4, websites)
+KXKKKAK
+YYYYYY
+
+CENS
+
+certificates,
+
+CENSYS SECRET
+CENSYS UID
+
+Figure 165 Metasploit sho

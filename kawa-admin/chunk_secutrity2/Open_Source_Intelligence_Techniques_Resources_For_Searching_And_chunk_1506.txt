@@ -1,0 +1,9 @@
+the country. Regardless, this is a valuable
+piece to the case and an impressive explanation to the victim. Unfortunately, most of the users
+leave a default user name of “Guest”.
+
+IntelTechniques Paste Search Tool (inteltechniques.com/OSINT/pastebins.html)
+
+There are dozens of online paste sites and more are added monthly. Searching all of them can be
+overwhelming. A custom seatch website that queries all known paste sites is located at the above
+address. At the time of this writing, it searched

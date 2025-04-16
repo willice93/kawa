@@ -1,0 +1,13 @@
+nel
+
+8.5 Find Cinemas
+
+Internet connected cinematic devices are exposed unnecessarj}y to th
+internet. Rarely patched, the firmware and software libraries i :
+decay. Leaving behind exploitable vulnerabilities which can be ne
+for all sorts of naughtiness. In Censys web search, IPv4 enter the
+search string, then select Metadata. Figure 92 Censys solar panel device hype search
+
+metadata.device_type: “cinema” Next, review all the Tags by clicking the More down arrow.
+
+metadata.device_type: ‘cinema’

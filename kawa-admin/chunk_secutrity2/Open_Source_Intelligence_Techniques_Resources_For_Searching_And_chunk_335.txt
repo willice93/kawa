@@ -1,0 +1,11 @@
+https://t.co/D7hqiPmNXj
+Fr Oct 20 17:11:30 +0000 2017,Still best wait a bit. Hanx. https://t.co/DCR6elKZjS
+
+Followers.txt: This file contains a list of all people that follow the target on Twitter. The format
+is the Twitter name of the user followed by the real name provided. From this example, a partial
+result appears as “jenlam8675309, Jennifer Farrell”.
+
+Buscador Linux Virtual Machine 47
+
+Friends.txt: Finally, this file displays the people that your target follows, in the same format as
+the

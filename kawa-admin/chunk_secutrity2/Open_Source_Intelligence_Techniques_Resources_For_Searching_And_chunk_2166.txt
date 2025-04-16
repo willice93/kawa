@@ -1,0 +1,16 @@
+n
+
+reporting/ list
+
+reporting/proxifier
+reporting/pushpin
+
+reporting/xlsx
+
+reporting/xml
+
+Before we can conduct any reseatch within this program, we must create a workspace. A
+workspace is a container that will isolate your work from one investigation to another. Think of
+a workspace as a case file. You may have a stack of cases on your desk, each with its own folder.
+All of your work on a case stays within the folder associated. Workspaces are similar. You should
+create a new workspace for each

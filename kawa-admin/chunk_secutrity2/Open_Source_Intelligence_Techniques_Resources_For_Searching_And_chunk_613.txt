@@ -1,0 +1,10 @@
+ter results by a topic of interest. When people click the “like” button
+
+on a Facebook page, their profiles can be searched by this data. The URL to view every Facebook
+user that likes Budweiser would be as follows.
+
+https://www.facebook.com/search/str/budweiser/ pages-named/ likers
+I was once asked to look into an incident at a community college where vulgar graffiti was found
+
+next to a spray-painted logo of a specific local musical group. I searched for people that liked this
+band on Facebook

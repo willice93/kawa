@@ -1,0 +1,9 @@
+specific local website design company.
+
+ViewDNS Reverse IP (viewdns.info/reverseip)
+
+This page was used previously to translate a domain name into an IP address. It will also display
+additional domains hosted on an individual IP address. This service identified 134 domains
+hosted on 104.28.10.123. These included domains from websites all over the world without a
+common theme. This indicates that he uses a shared server, which is very common. If I would
+have seen only a few domains on the server

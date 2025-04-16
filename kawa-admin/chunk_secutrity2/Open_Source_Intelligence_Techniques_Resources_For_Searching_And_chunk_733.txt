@@ -1,0 +1,10 @@
+audience being reached by your target video stream.
+
+Figure 4.06: A map of the viewer locations of a Facebook Live video.
+
+Finally, after the video stream has ended, you should download a copy of the evidence. While
+video retrieval is explained in more detail later, here is the brief version. Navigate to the address
+of the metadata for your target’s live stream. In our example, it would be the following URL.
+Replace “445432539206610” with the video ID number of your target stream.
+
+https: //www.

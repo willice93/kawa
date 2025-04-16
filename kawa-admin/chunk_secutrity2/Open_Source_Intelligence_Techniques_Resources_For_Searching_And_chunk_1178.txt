@@ -1,0 +1,6 @@
+ublicly post databases of email
+addresses and corresponding passwords on websites such as Pastebin. Manually searching for
+evidence of compromised accounts can get complicated and results are rarely complete. Several
+online services now aid this type of investigation. These services provide one minimal piece of
+information about any email address entered. It will disclose whether that address appears within
+any publicly known hacked email databases. While it will never disclose the owner, any em

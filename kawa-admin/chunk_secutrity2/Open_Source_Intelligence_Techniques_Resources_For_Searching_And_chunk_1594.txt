@@ -1,0 +1,6 @@
+To use this tool simply move your mouse over the image
+and scroll with your mouse wheel. Look for interesting discontinuities in the image. Sweep is the
+position in the histogram to be inspected. You can quickly change this parameter by using the
+mouse wheel while hovering over the image, this allows you to sweep through the histogram.
+Width is the amount of values (or width of the slice of the histogram) to be inspected. The default
+should be fine. Opacity is the opacity of the sweep layer. If

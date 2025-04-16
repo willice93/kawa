@@ -1,0 +1,9 @@
+n with the target’s address. These will occasionally identify associated networks,
+routers, and servers. Additional IP addresses can be later searched for further details. The
+numbers after the IP addresses indicate the number of milliseconds that each “hop” took.
+
+That’s Them (thatsthem.com/ip)
+
+The previous resources rely on conventional IP address data, which is sourced from various
+registration documentation and scanning of servers. Very little information is sensitive or
+personal in nature.

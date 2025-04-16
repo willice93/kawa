@@ -1,0 +1,8 @@
+suspect or a single workspace for
+an entire case. Each situation will be unique. Now that you have a space created, we can begin.
+
+The show command followed by a type of data will identify any stored content that will be used
+during an investigation. Typing show domains should reveal no data returned since we have not
+added any target domain names to our workspace. Therefore, let’s add a domain name for our
+investigation by typing add domains social-engineer.org. Repeating the show domains
+comma

@@ -1,0 +1,10 @@
+ucks or a computer can provide all of the equipment necessary to take
+advantage of this free information.
+
+Hardware
+
+There are two paths you can take in reference to hardware requirements to monitor the airwaves.
+Dedicated devices, such as police scanners and desktop receivers, are easier to configure. A
+Software Defined Radio (SDR) is more complicated and requires a computer. However, the
+monitoring possibilities with an SDR are greater. Overall, I recommend that a novice begin with
+a handheld

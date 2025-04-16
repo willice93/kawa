@@ -1,0 +1,8 @@
+ist, changing the
+search to “site:stlouis.craigslist.org laptop Edwardsville” would filter results. This example would
+only show listings from the St. Louis section of Craigslist. You can use any region in your custom
+searches.
+
+The results that are still current will link to the actual post and display all content of the post. If
+a search result links to a post that has been deleted from Craigslist, a standard “page not found”
+ertor will be returned. You can still get additional information fro

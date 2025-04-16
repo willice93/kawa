@@ -1,0 +1,11 @@
+access Tinder
+from your web browser, several things must be perfectly aligned in order to prevent account
+blocking. Tinder gets bombarded with fraudulent accounts, and their radar for investigative use
+is very sensitive. The following instructions assume that you do not have an existing Tinder
+account.
+
+Open the Chrome browser and search for Manual Geolocation Chrome
+Install the Manual Geolocation Chrome extension
+
+Click the new icon in the toolbar and set your location as desired
+Navigate to ti

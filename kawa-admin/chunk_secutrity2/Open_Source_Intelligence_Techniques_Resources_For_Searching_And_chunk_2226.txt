@@ -1,0 +1,10 @@
+signal
+to travel farther. All MURS and GMRS frequencies should be programmed and monitored in the
+same way as FRS frequencies. The following table identifies the GMRS frequencies.
+
+Channel 01 - 462.550 Channel 07 - 462.700 Channel 13 - 467.650
+Channel 02 - 462.575 Channel 08 - 462.725 Channel 14 - 467.675
+Channel 03 - 462.600 Channel 09 - 467.550 Channel 15 - 467.700
+Channel 04 - 462.625 Channel 10 - 467.575 Channel 16 - 467.725
+Channel 05 - 462.650 Channel 11 - 467.600
+Channel 06 - 462.675 Cha

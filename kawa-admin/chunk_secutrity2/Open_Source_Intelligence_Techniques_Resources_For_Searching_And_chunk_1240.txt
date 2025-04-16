@@ -1,0 +1,10 @@
+h. Finding the content is easy.
+
+Hopefully, the searches explained earlier have helped in identifying a university that the tarpet
+attended. A search for the university’s website will reveal the domain name that the university
+uses. For example, Southern Illinois University at Edwardsville’s website is siue.edu. We can now
+take that information and conduct a specific search for any personal pages on their domain. The
+search should look like:
+
+site:stue.edu laura
+I picked the name of Laura at ran

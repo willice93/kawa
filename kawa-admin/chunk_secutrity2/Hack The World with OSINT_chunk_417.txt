@@ -1,0 +1,37 @@
+Sey
+
+zlint.lints.e_sub_ca _certificate _policies_missing:
+
+oak
+
+
+aor tal_code_must_not_appear:
+
+| zlint.lints. e_sub_¢ cert_post
+
+=
+|
+
+-max_length:
+
+sald a nd as meneenn side
+eee
+
+orale eoey common_name_not_from _san:
+
+-snieetntrenas
+
+= alicearmiaies Ala to: Oa ys a nee ee wis
+
+| zlint.lints.e_ subject. contains_reserved _ip:
+
+Lae Sinisa
+Memnemenete ee ten
+SEN Tv ae)
+
+Ter eage ee empty _w eithout _san:
+
+Baas. ne Ht :
+~ alee ae i i ak a sagas
+
+alint.lints. e_subject._ locality_ name _max length:

@@ -1,0 +1,13 @@
+ata, and can assist with
+easy search. The following options will work best when you are investigating events that occurred
+
+several years prior. While you may get lucky and receive some recent posts, the majority could be
+quite old.
+
+Social Networks: Twitter 151
+
+MapD: MIT (http://mapd.csail.mit.edu/tweetmap/)
+
+MapD is a massive database platform developed through collaboration between MIT and
+Harvard. Currently, each college has their own interface into this data, which supplies Twitter
+post lo

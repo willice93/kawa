@@ -1,0 +1,13 @@
+pen(https://hacked-emails.com/api?g=' + all3 +
+'@yandex.com’, '8leakwindow’);},21000);
+
+set [imeout(function() {window.open(https://hacked-emails.com/apieg=' + all3 +
+'@gmx.com', '9leakwindow’);},23000);
+
+set imeout(function() {window.open(https://hacked-emails.com/apieq=' + all3 +
+'@mail.com', '10leakwindow’);},26000);
+
+set [imeout(function() {window.open(https://hacked-emails.com/apieq=' + all3 +
+'@mac.com’, '1 1leakwindow’);},29000);
+
+set [imeout(function() {window.open(https://hacked-emails.

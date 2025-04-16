@@ -1,0 +1,7 @@
+lumn. That will allow everything to load
+on that page, and that page only. When you are about to navigate to a questionable site that may
+try to install malicious code on your machine, click on the far-right section of the top cell in the
+second column. That will block all scripts on all pages. Conduct your research and reverse the
+change when you are finished. Remember to click the save button (padlock) after each change.
+
+Hopefully, you are practicing these settings and learning how this progr

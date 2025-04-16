@@ -1,0 +1,9 @@
+is password
+when you create or change a password to the website. Click “Apply” and “OK” to save
+the entry.
+
+You have now saved a single password into your database. Repeat for all of your accounts as you
+create them. This program serves two main purposes. First, it securely stores your user names
+and passwords without connecting to the internet. This is a simple database. Second, it assists
+you with creating strong and random passwords that will better protect your accounts. As
+investigators, ou

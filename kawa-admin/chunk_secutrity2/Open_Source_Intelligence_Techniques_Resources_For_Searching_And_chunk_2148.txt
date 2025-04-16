@@ -1,0 +1,10 @@
+d apps in the Play Store that would not allow
+installation under 6.0.0, but installed fine under 7.0.0. I have also witnessed the exact opposite.
+Having both versions available makes us prepared for either situation. You may be reading this
+book long after this writing and have more options present. Ultimately, I would have devices
+created for the most recent version and at least one previous version. If it is the year 2021, this
+may all be irrelevant.
+
+Virtual Device Export
+
+You may be asked to

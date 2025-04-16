@@ -1,0 +1,8 @@
+e “Download Tweets”
+button. This will generate a plain text file with no file extension titled “Download”. Open this
+file within a text viewer, such as Notepad, to display the content. The text below 1s the actual
+content received during the previous search. The message contents were redacted for space and
+privacy. Note that you can now view the actual GPS coordinates, date, and time of each message.
+This could also be imported into a spreadsheet or database.
+
+Sat Jan 10 09:22:46 +0000 2015,37.7

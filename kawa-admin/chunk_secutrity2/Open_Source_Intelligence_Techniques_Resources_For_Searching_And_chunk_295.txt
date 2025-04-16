@@ -1,0 +1,10 @@
+n
+of the previous chapter has been applied within Buscador. As we release updates, we will continue
+to apply changes to strengthen the virtual machine.
+
+Video Utilities
+
+This is the first application that should demonstrate the power of Buscador combined with the
+ease of a point-and-click system. This option executes an open-source video tool called FFmpeg.
+The icon launches a dialogue that firsts notifies you that “The next window will prompt for a
+target media file”. After clicking OK, you are

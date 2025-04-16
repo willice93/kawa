@@ -1,0 +1,34 @@
+DNS Additionals field
+
+'53.dns.lookup.additionals.name — Keyword string
+
+i
+
+|
+
+“53.dns.lookup.additionals.response Text
+
+chi a nctiareamet ae
+
+Table 57 Censys DNS Answers fields
+
+Censys DNS Answers field Example
+
+53.dns.lookup.answers.name = trin
+
+53.dns.lookup.answerts.response Text
+
+a a a a nh od nl ni nl
+
+Table 58 Censys DNS / luthorities fiele is
+
+: ae ia ixample
+Censys DNS Authorities field E P
+
+Other Protocols 151
+
+| Keyword String
+
+! 53.dns.lookup.authorities.response | Text
+
+| Keyword St

@@ -48,3 +48,39 @@ cas_pratique: "Nom : Jeanne Dupont\n   Profession : Ingénieur en mécanique ind
   \ Cela permet à Jeanne Dupont, et à tous les autres indépendants qui se trouvent\
   \ dans la même situation, de s'assurer qu'ils respectent leur obligations fiscales\
   \ en tant que travailleurs indépendants."
+embedding_text: "Règle : Règle de calcul des cotisations facultatives (DSEA/DSEB)\
+  \ s'applique aux travailleurs indépendants, exclusivement hors du régime micro-fiscal.\
+  \ Les montants en question comprennent :\n\n1. Le revenu d'activité imposable majoré\
+  \ des cotisations facultatives déductibles dans le cadre de contrats Madelin et\
+  \ certains régimes facultatifs de sécurité sociale.\n2. Les montants versés dans\
+  \ le cadre des nouveaux plans d'épargne retraite.\n3. Les primes versées au titre\
+  \ de contrats d'assurance groupe (contrats Madelin) souscrits auprès de sociétés\
+  \ d'assurance ou de mutuelles pour la retraite et la prévoyance complémentaire,\
+  \ ainsi que la perte d'emploi subie. Si une souscription a également été faite pour\
+  \ le conjoint collaborateur, les montants correspondants doivent être ajoutés dans\
+  \ la même rubrique que ceux du chef d'entreprise.\n\nLa formule de calcul applicable\
+  \ est la somme totale des montants mentionnés ci-dessus. Il faut vérifier que le\
+  \ régime applicaire est bien celui des travailleurs indépendants hors du régime\
+  \ micro-fiscal pour être sûr d'y avoir droit.\nFormule : Non spécifiée\nCas pratique\
+  \ : Nom : Jeanne Dupont\n   Profession : Ingénieur en mécanique indépendant\n  \
+  \ Année de dépôt des déclarations fiscales : 2023\n   Montants concernés :\n   \
+  \  1. Revenus d'activité imposables : €85,000\n     2. Cotisations facultatives\
+  \ déductibles dans le cadre du régime Madelin : €4,500\n     3. Montants versés\
+  \ dans le cadre des nouveaux plans d'épargne retraite (PEE) : €10,000\n   Formule\
+  \ de calcul : Le revenu d'activité imposable majoré des cotisations facultatives\
+  \ déductibles (85,000 + 4,500 = 89,500€) et des montants versés dans les nouveaux\
+  \ plans d'épargne retraite (89,500 + 10,000 = 99,500€).\n   Cas de déclaration :\
+  \ 1AK\n   Comparaison régime par défaut vs l'option choisie : En tant qu'indépendant\
+  \ hors régime micro-fiscal, la formule de calcul des cotisations facultatives est\
+  \ différent de celle utilisée pour les salariés. Il est donc important de s'assurer\
+  \ de bien remplir les bonnes cases lors de la déclaration de ses revenus fiscaux.\n\
+  \   Calcul clair avec des chiffres ronds : Pour l'exemple, Jeanne Dupont a dépensé\
+  \ 10,000€ dans un nouveau plan d'épargne retraite en 2023 sur son revenu d'activité\
+  \ de 85,000€. La somme à déclarer pour les cotisations facultatives sera donc de\
+  \ (85,000 + 4,500 = 89,500€) + 10,000€ = 99,500€ dans la rubrique 1AK.\n   Conclusion\
+  \ : L'exemple montre comment un travailleur indépendant hors régime micro-fiscal\
+  \ peut calculer les cotisations facultatives en fonction de ses revenus d'activité\
+  \ imposables et des montants versés dans le cadre des nouveaux plans d'épargne retraite.\
+  \ Cela permet à Jeanne Dupont, et à tous les autres indépendants qui se trouvent\
+  \ dans la même situation, de s'assurer qu'ils respectent leur obligations fiscales\
+  \ en tant que travailleurs indépendants."

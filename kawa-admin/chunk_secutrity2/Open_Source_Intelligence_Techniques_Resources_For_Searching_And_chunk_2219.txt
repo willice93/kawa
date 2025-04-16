@@ -1,0 +1,13 @@
+als or Morse
+code. Explanation of these types of devices exceeds the scope of this book. If you have an interest
+in this, I recommend researching the topic on the internet. Beginner devices such as the
+
+Radio Frequency Monitonng 431
+
+RTL2832U-based USB receiver can be purchased for $30. Higher end devices can sell for several
+thousand dollars. I only recommend these for tech savvy individuals.
+
+Antennas
+
+There are several books dedicated to theories and suggestions on proper antenna creation,
+al

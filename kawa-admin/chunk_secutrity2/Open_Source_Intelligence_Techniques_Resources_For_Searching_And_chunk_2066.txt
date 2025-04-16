@@ -1,0 +1,14 @@
+>
+
+<script type=“text/javascript”>function dotower(email) {window.open
+(https://api.towerdata.com/v5/tdPemail=' + email +'&api_key=xxxx&format=html',
+‘towerwindow’);} </script>
+
+<form onsubmit=“dotower(this.raf2.value); return false;”>
+
+<input type=“text” name=“raf2” size=“40” value=“Email Address” />
+
+<input type=“submit” /></form></body></html>
+
+Save this file as towerdata.html. When you open the file, it should appear similar to Figure 20.01.
+You can now type in any email address, click Submi

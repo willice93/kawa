@@ -1,0 +1,12 @@
+location. This can be a great resource to quickly
+determine the areas where a target has visited.
+
+Flickr Map (flickr.com/map)
+
+Flickr attempts to geo locate all of the photos that it can. It attempts to identify the location
+where the photo was taken. It will usually obtain this information from the Exif data, which will
+
+292 Chapter 14
+
+be discussed in a moment. It can also tag these photos based on user provided information. Flickr
+provides a mapping feature that will attempt to populate a m

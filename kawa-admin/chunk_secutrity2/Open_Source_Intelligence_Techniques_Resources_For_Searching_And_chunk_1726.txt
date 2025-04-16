@@ -1,0 +1,10 @@
+of
+this relies on Whois data. A couple of examples should simplify the process.
+
+Spy On Web (spyonweb.com)
+
+Spy On Web is one of many sites that will search a domain name and identify the web server IP
+addtess and location. It also conducts a Whois query which will give you registration information
+of a website. More importantly, it identifies and cross-references website analytic data that it
+locates on a target domain. A search for the website phonelosers.org reveals a “Google AdSense”
+ID of

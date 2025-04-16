@@ -1,0 +1,9 @@
+nce from the location. On any search page, there is an “Advanced” button that will
+display new options. Of these options, there is a category titled “show results”. The last option
+
+200 Chapter 7
+
+in this category is titled “items near me”. Here, you can select a zip code and filter results to a
+minimum of 10 miles from the zip code selected. This will now allow you to search for any item
+and the results will all be from sellers near a specific zip code. This location option will remain
+active a

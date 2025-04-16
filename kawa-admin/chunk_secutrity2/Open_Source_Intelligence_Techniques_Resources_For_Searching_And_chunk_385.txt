@@ -1,0 +1,8 @@
+quotes, reduces the
+seatch results to 8,770.
+
+Each of these pages will contain the words “Michael” and “Bazzell” right next to each other.
+While Google and other search engines have technology in place to search related names, this is
+not always perfect, and does not apply to searches with quotes. For example, the search for
+“Michael Bazzell’”’, without quotes, located pages that reference Mike Bazzell (instead of Michael).
+This same search with quotes did not locate these results. Placing quot

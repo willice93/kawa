@@ -1,0 +1,8 @@
+ection process to complete before navigating to the content folder. A grey
+counter in the upper right should identify the number of photos and videos that have
+been collected.
+
+e Hover over the user name directly above the collected photos. This will activate three
+dots immediately to the right. This will present a menu that will stop the collection
+process or open the folder where the files are being collected. Click “remove” to delete
+the current search from the program view. This will not rem

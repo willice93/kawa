@@ -1,0 +1,11 @@
+w the files before
+
+Prepare Your Computer 3
+
+clicking “Run Cleaner” to remove them. If you are running this program on a computer with
+heavy internet usage, you may be surprised at the amount of unnecessary files present. The first
+time you use this program, the removal process can take several minutes and possibly an hour. If
+you run the program weekly, it will finish the process much quicker.
+
+The Registry tab of CCleaner will eliminate unnecessary and missing registry entries. This can
+help y

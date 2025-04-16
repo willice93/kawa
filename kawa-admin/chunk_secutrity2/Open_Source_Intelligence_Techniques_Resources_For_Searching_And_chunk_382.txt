@@ -1,0 +1,9 @@
+th and others. Most of these techniques can apply to any search engine, but many
+examples will be specific for these two.
+
+Google (google.com)
+
+There are entire books dedicated to Google searching and Google hacking. Most of these focus
+on penetration testing and securing computer networks. These are full of great information, but
+ate often overkill for the investigator looking for quick personal information. A few simple rules
+can help locate more accurate data. No book in existence will replac

@@ -1,0 +1,8 @@
+ate now
+protected on a basic level. By default, most known invasive advertisements, tracking code, and
+malicious content is blocked. This step alone would provide much needed protection from the
+internet. However, we can take it a step further.
+
+Click on the uBlock Origin icon in the menu and select the Dashboard icon to the right. This will
+open a new tab with the program’s configuration page. On the Settings tab, click the option of
+“T am an advanced user”. This will present an expanded menu

@@ -1,0 +1,6 @@
+ts that will identify if the address is valid or invalid. Further information will
+identify potential issues with the address. As an example, I searched test@gmail.com, and
+received the results displayed in Figure 8.01. This indicates that the domain (gmail) is a webmail
+provider, and free for anyone to use. Otherwise, the account is valid and everything else checks
+out. I find this tool to be more reliable than all the others. It also identifies whether an address is
+a “catch-all”, which may in

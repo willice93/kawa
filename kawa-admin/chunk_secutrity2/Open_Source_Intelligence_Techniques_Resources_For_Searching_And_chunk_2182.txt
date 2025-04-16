@@ -1,0 +1,7 @@
+l accounts. Magnify this by tens or
+hundreds of subjects, and you have an easy way to replicate several hours of work. In another
+scenario, you are investigating a list of potential email addresses connected to a case. Entering
+these into Recon-ng allows you to execute your searches across all accounts. The effort to check
+one address is the same to check thousands. This impressive capability is only a small fraction of
+
+what can be done with this application. Now that we have a few profiles in

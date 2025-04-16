@@ -1,0 +1,14 @@
+thorough online
+investigations, mobile environment emulation is required. I highly recommend practicing these
+techniques with non-essential apps and data. This will better prepare you for an actual
+investigation with proper evidence control.
+
+418 Chapter 21
+
+CHAPTER TWENTY- [WO
+
+RECON-NG
+
+Recon-ng is a full-featured web reconnaissance framework written in Python. Complete with
+independent modules, database interaction, built-in convenience functions, interactive help, and
+command completion, Rec

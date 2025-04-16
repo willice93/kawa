@@ -1,0 +1,65 @@
+echnology, VN
+KOCNET, TR
+
+‘565 IPy4 hosts
+
+Hosts
+203,915
+84,246
+46,397
+11,734
+3,874
+3,602
+2,350
+2,313
+667
+
+661
+
+Figure 114 Censys.io scan Knonn-public-key tag and DS1./ Cable Modem Metadata
+
+Frequency
+55.41%
+22.98%
+12.65%
+
+3.2%
+1,06%
+0.98%
+0.44%
+0,63%
+0,19%
+
+0.18%
+
+Country
+
+Thailand
+Dominican Republic
+Spain
+
+Panama
+
+Ecuador
+
+Mali
+
+Peru
+
+Colombia
+
+Turkey
+
+Denmark
+
+Hosts Frequency
+203,979 55 gay
+84.246 = 27 ony
+45,998 12.54%
+11,731 3.2%
+3,874 1.96%
+3,603 0.98%
+2350 064%
+2.295 063%
+1030 0.28%
+727 0

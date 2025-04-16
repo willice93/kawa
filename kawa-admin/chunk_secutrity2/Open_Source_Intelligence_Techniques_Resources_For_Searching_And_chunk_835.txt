@@ -1,0 +1,8 @@
+gure 5.06: A recovered deleted Tweet from the Wayback Machine.
+Twitter Bio Changes (spoonbill.io)
+
+Similar to the way that users delete Tweets and comments, they also modify the information
+within their Twitter Bio on their profile page. Several sites have come and gone which attempt
+to record these modifications, and my current favorite is Spoon Bill. Use of this free service from
+the home page requires you to log into your Twitter account. However, a direct URL query will
+display any stored re

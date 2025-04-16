@@ -1,0 +1,8 @@
+er/download.
+e In the “Free” column, click on “download”.
+e Execute the program and accept the default installation settings.
+
+After the installation completes, launch the program. You have several options under the Cleaner
+tab that will allow you to choose the data to eliminate. The default options ate safe, but I like to
+enable additional selections. Clicking on the “Analyze” button will allow the program to identify
+files to delete without committing to the removal. This will allow you to vie

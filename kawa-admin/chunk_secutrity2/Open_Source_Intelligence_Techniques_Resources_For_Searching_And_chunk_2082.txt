@@ -1,0 +1,10 @@
+for various queries. Many of the user name search services that I
+ptesented earlier were discovered through this option. New Mashups appear daily, and I browse
+them weekly.
+
+Kong (konghq.com)
+
+Kong is a collection of several APIs from several companies. They also offer their own API that
+can be used to access the data from other businesses. This collection includes both paid and free
+services, and most will allow you to test the product within this website. I am currently using this
+website for

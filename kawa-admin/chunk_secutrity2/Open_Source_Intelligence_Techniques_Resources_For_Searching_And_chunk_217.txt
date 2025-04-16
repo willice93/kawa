@@ -1,0 +1,9 @@
+ctly into report, email, or memo for other investigators.
+
+Documents: When I encounter a public FIP server or open web directory (Chapter Three), this
+tool allows me copy the native links to all files encountered. This is helpful for documentation
+after downloading all of the data.
+
+Performing screenshots during my investigation in these examples would never identify the direct
+links to the visible content. Only hovering over the links would temporarily identify the source.
+A combination of scre

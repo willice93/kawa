@@ -1,0 +1,12 @@
+se received is identical to what you would see
+on the HIBP website (Chapter Eight), and is displayed after the commands below. The power
+with this method is that you could load hundreds or thousands of email addresses into Recon-ng
+and execute a search on all of them simultaneously.
+
+show contacts
+use recon/contacts-credentials/hibp_breach
+run
+
+lorangb@gmail.com Seen in the Bitly breach that occurred on 2014-05-68.
+lorangb@gmail.com Seen in the Dropbox breach that occurred on 2012-07-01.
+lorangb

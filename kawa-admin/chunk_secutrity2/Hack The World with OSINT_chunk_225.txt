@@ -1,0 +1,33 @@
+ei. “response. confor | 130
+
+-mity_ level
+
+| "502.modbus-deviee_ e id.mei_ “response. object | Gish ae
+t_code | - CompactCom
+| _Modbus-TCP
+
+———— eles ii nine
+
+502. 02. modbus.device_id.mei _response. object | 73.050
+
+_ s.revision
+
+L. oceeegeemauaaumeallll _HMS
+s.vendor |
+
+| 502.modbus. s.device_ ice_id. support ee ee
+
+| True
+
+lable 47 Basic MODBUS function names and codes
+
+MODBUS function name Function code
+
+»
+
+Table 48 MODBUS Exception codes
+
+; xception code
+MODBUS Exception name Excep
+
+“write

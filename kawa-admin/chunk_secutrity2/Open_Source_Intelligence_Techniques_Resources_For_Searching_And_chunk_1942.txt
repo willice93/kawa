@@ -1,0 +1,9 @@
+he “clock” icon in the upper menu bar of the application. This
+will open a slider menu directly below the icon. This slider can be moved and the result will be
+various satellite images of the target location taken at different times. Figure 19.04 displays the
+same target area with the Historical Imagery option enabled. The view has been changed to the
+
+370 Chapter 19
+
+satellite image obtained on 05/30/2008. Usually, the quality of the images will decline as you
+navigate further back in time (Fig

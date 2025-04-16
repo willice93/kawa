@@ -1,0 +1,9 @@
+ou
+can search by driver’s license number or credit card number and will need a matching last name.
+The receipt will be very similar to the example in the Enterprise demonstration.
+
+Alamo (Alamo.com)
+
+Alamo also titles their receipt retrieval link “Find a Receipt” and it is located in the lower nght
+portion of every page. The process is identical to the previous two examples. ‘The only difference
+is that you must choose a date range. I usually select a start date of one year prior to the current

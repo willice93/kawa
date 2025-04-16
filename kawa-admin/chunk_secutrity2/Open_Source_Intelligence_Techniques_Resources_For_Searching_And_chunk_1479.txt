@@ -1,0 +1,14 @@
+he acronym “OSINT”.
+
+site:cloudfront.net OSINT
+Presentation Repositories
+
+With unprecedented online storage space at all of our fingertips, many people choose to store
+PowerPoint and other types of presentations in the cloud. Several free services have appeared to
+fill this demand. Of those, the following have the majority of publicly available documents.
+
+Slide Share (slideshare.net)
+ISSUU (issuu.com)
+Prezi (prezi.com)
+
+Slide Share and ISSUU allow native searching within their websites. However

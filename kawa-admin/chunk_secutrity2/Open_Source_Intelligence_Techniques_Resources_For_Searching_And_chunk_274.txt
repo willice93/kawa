@@ -1,0 +1,17 @@
+st
+users have VirtualBox with no complaints. I encourage you to test with VirtualBox, and upgrade
+to VMWare if you find yourself restricted by the limitations of VirtualBox.
+
+Buscador VirtualBox Installation
+
+In the VirtualBox menu, click on File > Import Appliance
+
+Navigate to the OVA file that was downloaded (Buscador)
+
+Choose this file and select "Import"
+
+Before starting the new machine, highlight it and choose "Settings"
+
+Under General > Basic, rename this machine as desired (Buscador?)
+
+Un

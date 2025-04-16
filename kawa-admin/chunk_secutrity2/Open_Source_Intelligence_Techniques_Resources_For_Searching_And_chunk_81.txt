@@ -1,0 +1,8 @@
+uirements, the tools no longer work. We lost some great resources, but this
+chapter will outline some new benefits.
+
+A brand-new chapter explains the importance of virtual machines and instructs you on making
+your own or using a pre-configured option called Buscador. This virtual machine, co-created by
+David Westcott and myself, takes away the technical difficulties of installing custom Python
+applications, and leaves the user with a point-and-click environment ready for any type of
+investigatio

@@ -1,0 +1,6 @@
+in my live courses. The vast majority of users rely on web-
+based email such as Gmail or Yahoo. These services do not disclose the IP address of an
+individual user within the email headers. The only email headers that I have encountered over
+the past three years that contained valuable IP addresses were business users that sent emails
+within a desktop client such as Outlook. If you would like to analyze an email header in order to
+identify the IP address and sender information, you have two opti

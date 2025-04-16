@@ -1,0 +1,11 @@
+book.com/search/str/651620441 /events-joined/#/date/events/intersect*
+
+* - You must replace the "#" in these options with a year, such as 2016, for them to function.
+
+104 Chapter 4
+
+The “places-visited” option will display locations that the target has physically visited and allowed
+Facebook to collect the location information. This is often completed through a smartphone,
+sometimes unintentionally. This can be used to disprove alibis or verify trips.
+
+The “recent-places-visited” option will dis

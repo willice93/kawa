@@ -1,0 +1,9 @@
+se either the Facebook user names or user numbers. The example
+above identifies their Facebook friendship start date of November 2006, and displays that they
+both work at Facebook and studied at Harvard. This technique can quickly inform an investigator
+of the main areas in common between two Facebook users.
+
+Facebook ID Creation Date
+
+Digital forensics enthusiast and private investigator Josh Huff at LearnAllTheThings.net has
+conducted a lot of research into the assignment of user ID numbers to

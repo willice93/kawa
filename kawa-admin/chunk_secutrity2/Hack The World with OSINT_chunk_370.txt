@@ -1,0 +1,30 @@
+get.title
+: Hacked by budi_spielberg::
+
+Chapter 12
+
+censys API & Tools
+
+INFORMATION IN THIS CHAPTER:
+
+What the Censys API is
+= Using the API with Metasploit
+= Using the API with Recon NG
+Using the API with SpiderFoot
+
+Yet the deepest truths are best read between the lines, and, for the
+
+most part, refuse to be written.
+
+_ Amos Bronson Alcott
+
+12 Censys with tools
+
+HackerCal,
+
+12.1 Censys API with tools
+u might want to use
+ol forma
+
+There are many reasons yo the Censys API with
+other tools. Getti

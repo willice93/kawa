@@ -1,0 +1,9 @@
+mes 221
+
+Twitter. A manual search of IntelTechniques@gmail.com, IntelTechniques@hotmail.com, and
+IntelTechniques@yahoo.com at Hacked Emails might reveal an active account that appears
+within a compromised database. Unfortunately, this manual search is time consuming and takes
+a lot of redundant effort. Therefore, consider using my previously mentioned custom search tool.
+
+Figure 9.01 displays four search fields near the bottom of the page. The first two allow entry of
+a user name, and then popul

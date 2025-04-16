@@ -1,0 +1,13 @@
+storic
+DNS records, whois data, subdomains, and any suspicious URLs. Queries are straight forward,
+and all available results are freely visible after each search.
+
+Domains Names 335
+
+Figure 16.02: A partial view of a website mapping from Visual Site Mapper.
+
+Shortened URLs
+
+Social networking sites such as Twitter have made the popularity of shortened URL services soar.
+When people post a link to something they want their friends to see, they do not want the link
+to take up unnecessary space. The

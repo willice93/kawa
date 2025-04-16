@@ -1,0 +1,11 @@
+ques.com/mg/osint.cover.med jpg
+
+Figure 15.03: The IntelTechniques Custom Reverse Video Search Tool.
+
+312 Chapter 15
+
+These sources ate not the only video sharing services on the internet. Wikipedia identifies dozens
+of these sites, but searching each of them can become tedious. These sites are no longer restricted
+to pages of video files with standard extensions such as mp4, mpg, and flv. Today, services such
+as Instagram and Vine allow embedded videos that do not conform to yesterday’s video
+s

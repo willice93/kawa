@@ -1,0 +1,8 @@
+se scripts will be allowed, if
+approved by uBlock Onigin’s rules, only for that domain. If I load a blog that has scripts from
+Twitter, they would still be ignored.
+
+These are extreme examples. Let’s bring this back to some sanity. The following is how I
+recommend using uBlock Ongin. Install, enable advanced options, and proceed with your work.
+When you arrive at a website that is blocking something you want to see, open the menu, and
+click on the far-left section of the top cell in the third co

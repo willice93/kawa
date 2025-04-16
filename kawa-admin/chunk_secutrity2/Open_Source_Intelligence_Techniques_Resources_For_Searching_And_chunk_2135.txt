@@ -1,0 +1,6 @@
+possible that you may be asked to send or receive a standard SMS text message. Since your
+virtual device does not possess a cellular connection, and it is not assigned a telephone number,
+there are no native opportunities for this activity. However, you can install Google Voice and
+Hangouts Dialer within your virtual device. Voice will allow you to send and receive SMS text
+messages, and Hangouts Dialer will allow you to make and receive voice calls at the number
+issued by Google Voice. With thi

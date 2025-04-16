@@ -1,0 +1,11 @@
+and why this search worked.
+
+inurl:ftp — Instructs Google to only display addresses that contain “ftp” in the URL.
+
+-inuri:(http | https) — Instructs Google to ignore any addresses that contain either http or https in
+the URL. The separator is the pipe symbol (|) located above the backslash key. It tells Google
+“OR”. This would make sure that we excluded any standard web pages.
+
+filetype:pdf — Instructs Google to only display PDF documents.
+
+“osint” — Instructs Google to mandate that the exact

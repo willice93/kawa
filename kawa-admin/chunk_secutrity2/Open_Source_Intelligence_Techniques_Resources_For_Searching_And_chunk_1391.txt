@@ -1,0 +1,13 @@
+ne two”
+“two zero two 555 one two one two” “202 five five five 1212”
+
+“two zero two 555 1212”
+
+This list would not capture a post that included (202) 555 twelve twelve, but you get the point.
+After submitting these through Google, you should attempt each through Bing. In my effort to
+always provide online tools that automate and simplify these techniques, I have created a
+telephone search tool at the following website.
+
+https: //inteltechniques.com/intel/OSINT/telephone.html
+
+The lower portion o

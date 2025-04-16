@@ -1,0 +1,23 @@
+s.
+
+i~Leae Z th the I add ess 0 | 3 +
+(replace 1.2.3.4 wit P res ' Omain fame of the OWS server you are
+
+If you get "open-resolver-detected” i response, then you have a problem °}
+
+Or, use a form:
+
+[116.39.50.36 ~_|[festithis 1P_
+
+Open recursive resolver detected on 116.39.50.36
+
+IP address 116.39.50.36 is vulnerable to DNS Amplification attacks.
+https:/ /www.us-cert.gov/ncas/alerts /TA13-088A
+
+To find these systems on Censys, tun a Report using:
+
+53.dns.open_resolver
+
+Open Resolver False
+
+Figur

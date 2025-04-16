@@ -1,0 +1,16 @@
+oses of this demonstration, assume that your user name is aaaaa and
+your password is bbbbb. Your target telephone number is 202-555-1212. From a command
+prompt, you could submit the following commands.
+
+curl -X GET \
+
+-u “aaaaa:bbbbb” \
+
+-H “Content-Type: application/json” \
+
+“https: //api.nextcaller.com/v2.1/records/?phone=2025551212&format=json”
+
+This can get quite tiresome when conducting multiple searches. Instead, type the following exact
+URL into the address bar of your web browser.
+
+https

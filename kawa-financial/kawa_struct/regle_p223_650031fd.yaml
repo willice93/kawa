@@ -47,3 +47,36 @@ cas_pratique: "Nom : Jean DOE\n   Profession : Ingénieur en informatique\n   Si
   \ et 7 924 € pour son second enfant, ce qui lui permet de réduire ses impôts de\
   \ manière significative.\n\nConclusion : L'application de cette règle peut être\
   \ une solution intéressante pour Jean DOE afin de diminuer sa charge fiscale."
+embedding_text: "Règle : Cette règle s'applique aux personnes qui versent des pension\
+  \ à des enfants majeurs non comptés à charge. La déduction est limitée :\n- à 6\
+  \ 674 € par enfant si vous êtes seul\n- à 13 348 € par couple marié ou PACSé\n\n\
+  Il s'agit d'une limite maximale par enfant ou par couple. Pour être éligible, il\
+  \ faut vérifier que l'enfant :\n- n'a pas de ressources suffisantes pour lui-même\n\
+  - vit sous votre toit\n\nSi ces conditions sont remplies, vous pouvez déduire une\
+  \ somme forfaitaire de 3 968 € pour les dépenses de nourriture et d’hébergement.\
+  \ Cette somme peut être réduite si l'hébergement de l'enfant ne porte que sur une\
+  \ fraction de l'année. Les autres dépenses peuvent être déduites pour leur montant\
+  \ réel et justifié.\nFormule : Non spécifiée\nCas pratique : Nom : Jean DOE\n  \
+  \ Profession : Ingénieur en informatique\n   Situation : Dépendant de l'assurance\
+  \ maladie-mères (AMM) et versant 1200 € par mois à ses deux fils majeurs non dépendants.\n\
+  \nSituation financière :\n- Revenus mensuels : 3500 € (1AK)\n- Montant déduible\
+  \ en faveur de ses deux enfants majeurs :\n  - Pour le premier enfant, la limite\
+  \ de déduction est de 6 674 € car il n'a aucune autre source de revenus (il vit\
+  \ sous le toit de son père). La somme forfaitaire pour les dépenses de nourriture\
+  \ et d’hébergement serait donc réduite de 3 968 €.\n  - Pour le second enfant, car\
+  \ il est dans un couple (sa mère a pris une pension complémentaire après leur séparation),\
+  \ la limite de déduction est de 13 348 € car les deux parents paient ensemble pour\
+  \ l'éducation et le soutien financier des enfants. La somme forfaitaire pour les\
+  \ dépenses de nourriture et d’hébergement serait donc réduite de 7 924 €.\n\nDéclaration\
+  \ :\n- Cas forfaitaire du premier enfant (1AK, 1GF) : Déductions pour les frais\
+  \ alimentaires : 3 968 €; Détails des autres dépenses justifiées par l'explicatif\
+  \ (exemples : frais scolaires, frais médicaux...).\n- Cas non forfaitaire du second\
+  \ enfant (1AK, 2GF) : Déductions pour les frais alimentaires et d’hébergement: 7\
+  \ 924 €; Détails des autres dépenses justifiées par l'explicatif.\n\nAnalyse : Comparaison\
+  \ régime par défaut vs régime choisi (enfant unique vs couple avec pension complémentaire)\n\
+  - En tant qu'ingénieur en informatique, le régime de prélèvements obligatoires est\
+  \ celui du régime général (RSA). Mais grâce à cette règle, il peut déduire 3 968\
+  \ € pour son premier enfant et 7 924 € pour son second enfant, ce qui lui permet\
+  \ de réduire ses impôts de manière significative.\n\nConclusion : L'application\
+  \ de cette règle peut être une solution intéressante pour Jean DOE afin de diminuer\
+  \ sa charge fiscale."

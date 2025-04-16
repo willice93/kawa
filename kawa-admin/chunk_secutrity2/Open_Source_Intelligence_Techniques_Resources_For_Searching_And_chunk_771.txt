@@ -1,0 +1,9 @@
+re uploaded, and this view is smaller than the original uncompressed
+version. The best way to manually save the photo will vary based on the web browser that you
+are using. Overall, right-clicking and selecting “Save image as” will work.
+
+Tracking Photos
+
+The first two editions of this book discussed a website that would track a photo hosted on
+Facebook. If you encountered an image that had been posted to a non-Facebook site, but the
+original link was obviously from a Facebook server, you could

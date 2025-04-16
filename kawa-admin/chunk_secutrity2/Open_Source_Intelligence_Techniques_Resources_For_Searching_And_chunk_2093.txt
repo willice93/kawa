@@ -1,0 +1,7 @@
+oss all platforms. The operation of virtual devices after installation is identical on all operating
+systems. First, you will need to install the application.
+
+Navigate to the Resources area of the website and click on the “Fun Zone” link. Next, click on
+the “Download Genymotion Personal Edition” link. You will be required to create an account
+for the free service. This can be completed using anonymous information and any real email
+address to which you have access. This setup file will contain

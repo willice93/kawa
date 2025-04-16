@@ -1,0 +1,19 @@
+onfigurator
+
+GET/ [view page]
+
+8080/HTTP
+
+GET /
+Server FST
+Status Line 200 OK
+Page Title Modbus to BACnet Configurator
+GET/ [view page]
+
+Figure 65 80 HTTP Modbus to BACnet Configurator
+
+6.8 Find Samsung Web Viewer for DVR and Security Cameras
+Tits Dork discovers Samsung branded digital video recorders which
+in many cases are CCTV. Many of these systems belong to businesses,
+shia and private citizens, The system can be exposed to the
+internet using a variety of ports which Censys scans as HTTP. U

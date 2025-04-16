@@ -1,0 +1,9 @@
+y protects your passwords, and does not
+store files. If you begin creating numerous covert online accounts, you will need a good password
+manager. This is my preference as it is easy to use, open-source, and free. Download, install, and
+execute KeePassXC, and then follow these directions to create and protect your first database.
+
+e In the database menu select “New Database” and select the location to store it. Create a
+strong master password to protect the content.
+
+e Click the “add new entry”

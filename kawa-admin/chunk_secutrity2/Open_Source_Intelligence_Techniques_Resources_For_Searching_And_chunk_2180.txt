@@ -1,0 +1,11 @@
+t 35 new profiles were added to my
+workspace and 8 new contacts were found. Basically, Recon-ng extracted all information it could
+from Full Contact and populated our database. The following is a small portion of the details
+available by typing show contacts.
+
+Christopher Hadnagy (chris@social-engineer.com) Carnegie Mellon University
+
+Below is a portion of the soctal network profiles added to our database. I obtained this by typing
+show profiles and striking enter.
+
+logan@social-engineer.org | F

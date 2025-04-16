@@ -1,0 +1,34 @@
+y and
+
+dded into the application file. First ch ig AP}
+
+dd Censys.io, then we will double ¢] Which
+e
+
+information was added.
+
+recon-ng]|default] > keys list
+
+ODE ee
+-----=---- +
+| Name Value
+ene ee eee
+—— rrr 4
+<snip>
+
+| censysio_id |
+| censysio_secret |
+
+<snip>
+
+[recon-ng]{default] > keys ad
+ac | | ys add censysio_secret API Secret
+[*] Key 'censysio_secret' added
+[recon-ng]|{default] > k |
+ie. eys add censysio_i
+|*] Key 'censysio_id' added. ae
+|recon-ng|{default]| > show keys
+
+<snip> fe :
+
+| ce

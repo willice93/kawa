@@ -1,0 +1,10 @@
+included in FOCA, the metadata scraper that will be discussed
+later in this book. Voxalead, an Exalead search engine, searches within audio and video files for
+specific words. This is thanks to speech to text technologies. Voxalead will search within all of
+the spoken audio of a file for references to the text searched. The results are presented in a
+timeline view. Currently, the majority of the results of this new product link to news media and
+public news video files.
+
+Searx (searx.me)
+
+This

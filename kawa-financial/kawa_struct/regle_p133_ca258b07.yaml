@@ -41,3 +41,28 @@ cas_pratique: "Nom : Jean Doe\n   Profession : Ingénieur en informatique\n   Si
   \ pour le prélèvement libératoire de 7,5% et en respectant les conditions de cette\
   \ règle, vous bénéficiez d'un abattement fiscal supplémentaire sur vos produits\
   \ de contrats d'assurance-vie et bons de capitalisation."
+embedding_text: "Règle : La règle s'applique aux propriétaires de contrats d'assurance-vie\
+  \ et de bons de capitalisation issus de sources françaises ou européennes qui ont\
+  \ opté pour le prélèvement libératoire de 7,5%. Cette règle est applicable lorsque\
+  \ les montants en question sont utilisés pour l'application de l'abattement fiscal\
+  \ de 4600 € (ou 9200 €).\n\nLa formule de calcul consiste à prendre le montant des\
+  \ produits des contrats mentionnés sur la ligne 2DH de votre déclaration fiscale.\n\
+  \nPour être sûr d'y avoir droit, il est nécessaire de vérifier les deux conditions\
+  \ suivantes :\n- Le prélèvement libératoire de 7,5% a été effectué sur les produits\
+  \ des contrats mentionnés.\n- Les contrats en cause ont été ouverts à partir du\
+  \ 1er janvier 2008. (Cette condition ne s'applique pas pour l'abattement de 9200\
+  \ €)\nCas pratique : Nom : Jean Doe\n   Profession : Ingénieur en informatique\n\
+  \   Situation : Possède un contrat d'assurance-vie et des bons de capitalisation\
+  \ ouverts depuis 2010 issus de sources françaises\n   Montants concernés : Produits\
+  \ des contrats (contrat 1: 40 000€, contrat 2: 75 000€) sur la ligne 2DH de votre\
+  \ déclaration fiscale\n   Déclaration : Les produits des contrats en cause sont\
+  \ indiqués dans les cases 1AK (contrat 1) et 1GF (contrat 2) de votre déclaration\
+  \ fiscale\n   Comparaison régime par défaut vs l'option choisie : Vous avez opté\
+  \ pour le prélèvement libératoire de 7,5% sur vos contrats d'assurance-vie et bons\
+  \ de capitalisation. Par défaut, ce prélèvement était de 32%.\n   Calcul clair avec\
+  \ des chiffres ronds : Pour les produits du contrat 1 (40 000€), le montant de l'abattement\
+  \ fiscal sera de (40 000 * 7,5%) = 3 000€. De même, pour le contrat 2 (75 000€),\
+  \ le montant de l'abattement fiscal sera de (75 000 * 7,5%) = 5 625€.\n   Conclusion\
+  \ : En optant pour le prélèvement libératoire de 7,5% et en respectant les conditions\
+  \ de cette règle, vous bénéficiez d'un abattement fiscal supplémentaire sur vos\
+  \ produits de contrats d'assurance-vie et bons de capitalisation."

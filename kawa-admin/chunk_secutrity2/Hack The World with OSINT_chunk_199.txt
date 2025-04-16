@@ -1,0 +1,17 @@
+lds which are
+
+compromised/pwned or easy to compromise /pwnable systems. Using
+as an example Dorks from
+
+eek // www.exploit-db.com/ghdb/4489/
+; intitle:index of intext:@WanaDecryptor@.exe
+
+2. intitle:index of intext:@Please_Read_Me@..txt
+
+3. intitle:index of intextwnery
+
+ranslating a Google Dork into a Censys Dork. Breaking dow
+
+first Dork: intitle:index of is the same as 80.http.get.title: inde o
+There 1s an AND. The second portion @WanaDecryptorg te
+the text of the website, 80.http.get.body: @

@@ -1,0 +1,6 @@
+hange as you visit different sites. In order
+to explain the function of this menu, I will conduct a demonstration using the website cnn.com.
+Figure 1.05 displays the default view. While this book is printed in black and white, your view
+will be in color, and likely all options will appear grey. Scrolling down this list of scripts that have
+either been loaded or blocked, you can see several questionable scripts such as Facebook,
+Sharethrough, and Turner. These scripts allow tracking across multip

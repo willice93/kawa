@@ -64,3 +64,67 @@ cas_pratique: 'Titre : Gestion des revenus étrangers pour les travailleurs ind�
   Conclusion : Pour s''assurer d''avoir droit à l''exemption, il est important de
   vérifier que les revenus provenant d''activités extérieures ne sont pas erroneusement
   inclus dans la base de calcul des cotisations sociales.'
+embedding_text: 'Règle : Règle applicabile solo ai lavoratori indipendenti:
+
+
+  Le montante o i beneficii da sorgente straniera indicati nelle rubriche di redazione
+  non devono essere integrati nella base di calcolo delle cotizzazioni e contribuzioni
+  sociali se:
+
+  1. La situazione del lavoratore è esclusa dall''applicabilità del Regolamento Europeo
+  883/2004.
+
+  2. I beneficii provengono dall''esercizio di una attività svolta in uno Stato fuori
+  UE, EEA o Svizzera, senza esistenza di convenzione internazionale di sicurezza sociale
+  che faccia riferimento all''attività svolta fuori dalla Francia al regime generale
+  dei lavoratori indipendenti.
+
+
+  La formule di calcolo non è applicabile in quanto i montanti indicati nelle rubriche
+  DSJA o DSJB devono essere esclusi dalla base di calcolo delle cotizzazioni sociali.
+
+
+  Per essere sicuri d''avere diritto all''esenzione, verificare che i benefici da
+  sorgente straniera indicati nelle rubriche "revenu imposable" o "revenu de source
+  étrangère avec crédit d''impôt égal à l''impôt français" non siano stati erroneamente
+  inclusi nella base di calcolo delle cotizzazioni sociali.
+
+  Formule : Non spécifiée
+
+  Cas pratique : Titre : Gestion des revenus étrangers pour les travailleurs indépendants
+  en France
+
+
+  Contexte : Madame Alice Johnson, 42 ans, est une photographe professionnelle qui
+  travaille à la fois en France et aux États-Unis. Son mari, M. John Johnson, 45 ans,
+  est également photographe et travaille principalement aux États-Unis. Les revenus
+  de leurs activités aux États-Unis sont émis par des sources extérieures (étrangères)
+  à la France.
+
+
+  Données clés :
+
+  - Alice et John gagnent un revenu annuel de 150 000 euros chacun provenant d''activités
+  réalisées en dehors de l''Union Européenne, de l''Espace Économique Européen ou
+  de la Suisse.
+
+  - Les couple ne bénéficie pas du régime de sécurité sociale internationale.
+
+  - Ils doivent déclarer les revenus concernés dans les cases 1AK et 1GF de leur déclaration
+  de revenus en France.
+
+
+  Calcul : Les revenus provenant d''activités extérieures ne sont pas intégrés à la
+  base de calcul des cotisations sociales françaises, car ils ne sont pas couverts
+  par le régime général des travailleurs indépendants.
+
+
+  Comparaison : En cas de régime par défaut, les revenus étrangers doivent être déclarés
+  et inclus dans la base de calcul des cotisations sociales. Dans ce cas, il en résulterait
+  un montant supplémentaire à payer en cotisations sociales. L''option choisie permet
+  de bénéficier d''une éventuelle exemption fiscale sur ces revenus.
+
+
+  Conclusion : Pour s''assurer d''avoir droit à l''exemption, il est important de
+  vérifier que les revenus provenant d''activités extérieures ne sont pas erroneusement
+  inclus dans la base de calcul des cotisations sociales.'

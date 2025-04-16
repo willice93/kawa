@@ -1,0 +1,6 @@
+lts, you may want to try Verify Email
+(verify-email.org), TCPIP Utils (tcpiputils.com/email-test), or an old favorite called Email
+Hippo (tools.verifyemailaddress.io). These are similar services that try to identify if an email
+address is valid. The results should be identical to Hunter and these services could be used to
+verify Hunter’s response to a query. Email Hippo provides an additional feature not present in
+the others. As you validate your target addresses, the responses appear at the bo

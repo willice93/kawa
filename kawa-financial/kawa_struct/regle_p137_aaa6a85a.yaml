@@ -54,3 +54,52 @@ cas_pratique: 'Un example : Mademoiselle Émilie Dupont, propriétaire de la bou
   d''impôt sur le revenu pour l''année fiscale 2021 en optant pour le régime d''imposition
   par option globale. Sans cette option, elle aurait payé un montant plus élevé, soit
   4 480 €.'
+embedding_text: 'Règle : Cette règle s''applique aux révénus soumis à l''impôt sur
+  le revenu, qui peuvent être soumis à un taux forfaitaire de 12,8 % ou à un barème
+  progressif sur option globale. Les revenus en question sont ceux déclarés sur la
+  feuille de déclaration n°2047 et reportés sur la feuille de répartition annuelle
+  n°2042.
+
+
+  Il y a plusieurs conditions à respecter :
+
+  - Les montants ou plafonds concernent les révénus qui sont soumis à l''impôt sur
+  le revenu et sont déclarés sur la 2047.
+
+  - La fraction imposable de ces revenus doit être calculée après application de l''exonération
+  de 50 %.
+
+  - Cette fraction imposable est à reporter selon leur nature, soit dans la ligne
+  2DC ou 2TS (pour les revenus distribués).
+
+
+  Pour être sûr d''y avoir droit :
+
+  - Les révénus doivent être soumis à l''impôt sur le revenu
+
+  - Ils doivent avoir été déclarés sur la feuille de déclaration n°2047 et reportés
+  sur la feuille de répartition annuelle n°2042.
+
+  - La fraction imposable doit être calculée après application de l''exonération de
+  50 %.
+
+  - Les revenus doivent être classés dans la ligne 2DC ou 2TS (pour les revenus distribués).
+
+  Cas pratique : Un example : Mademoiselle Émilie Dupont, propriétaire de la boutique
+  de vêtements "Étoile Bleue" à Marseille, a déclaré sur sa feuille de déclaration
+  n°2047 un revenu net de 56 000 € en 2021. Elle choisit le régime d''imposition par
+  option globale pour l''année fiscale 2021, ce qui signifie qu''elle peut bénéficier
+  d''un taux forfaitaire de 12,8 % ou bien de l''application du barème progressif.
+
+
+  Son revenu net de 56 000 € est soumis à l''impôt sur le revenu. Après application
+  de l''exonération de 50 %, la fraction imposable sera calculée pour 28 000 €. Cette
+  fraction imposable doit être reportée dans la ligne 2DC car ce sont des revenus
+  non distribués.
+
+
+  En comparant le régime par défaut (barème progressif) et l''option choisie (taux
+  forfaitaire), il est clair que Mademoiselle Dupont versera un montant de 3 456 €
+  d''impôt sur le revenu pour l''année fiscale 2021 en optant pour le régime d''imposition
+  par option globale. Sans cette option, elle aurait payé un montant plus élevé, soit
+  4 480 €.'

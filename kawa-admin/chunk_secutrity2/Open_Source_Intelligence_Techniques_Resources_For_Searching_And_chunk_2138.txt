@@ -1,0 +1,9 @@
+r no reason. Secure
+Eraser helps with this. On your master copy, after you have updated all of your software, launch
+Secure Eraser and change Random to 0000-0000. Click the start button and allow the process to
+complete. This will remove all of the deleted files. Restart your machine and then clone or export
+the device. The new copy will reflect the reduction of file size, but the master will still be large.
+
+Contact Exploitation
+
+Previous chapters identified ways to combine email accounts such

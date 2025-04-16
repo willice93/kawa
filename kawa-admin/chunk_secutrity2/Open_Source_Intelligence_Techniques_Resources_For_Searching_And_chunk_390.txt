@@ -1,0 +1,7 @@
+ovide
+results of pages located on a specific domain. Second, it will provide all of the results containing
+the search terms on that domain. I will use my name again for a demonstration. I conducted a
+search of “Michael Bazzell” on Google. One of the results is a link to the website forbes.com.
+This seatch result is one of multiple pages on that domain that includes a reference to me.
+However, this search only displayed one of the many pages on that domain that possessed my
+name within them. If y

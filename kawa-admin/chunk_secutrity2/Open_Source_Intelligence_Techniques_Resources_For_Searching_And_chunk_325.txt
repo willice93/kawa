@@ -1,0 +1,12 @@
+this file if one was not
+automatically generated during a previous investigation technique. To do this, click on the nine
+small dots in the upper left portion of Buscador to launch the Applications screen, and click on
+
+Buscador Linux Virtual Machine 45
+
+gedit to open a text editor. Provide a list of suspect websites in this file, one per line, and save it
+to your Desktop (or anywhere you prefer). In this example, my text file appeared as follows.
+
+Inteltechniques.com
+Computercrimeinfo.com
+Priv

@@ -1,0 +1,9 @@
+eal name of your target. The domain field should be the internet domain of the
+business where your target is employed. If your target’s name is John Smith, and he works at
+Microsoft, this service would identify the following email addresses as valid.
+
+sjohn@microsoft.com smithj@microsoft.com jsmith@microsoftcom
+Email Assumptions
+
+You may know about one address, but not others. It can be productive to make assumptions of
+possible email addresses and use the verifiers to see if they exist. For exa

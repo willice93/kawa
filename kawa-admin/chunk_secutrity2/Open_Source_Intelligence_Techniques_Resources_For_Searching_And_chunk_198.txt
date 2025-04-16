@@ -1,0 +1,7 @@
+content to certain products. One
+example is that some older websites require Microsoft’s Internet Explorer to view the content.
+Even though Firefox is capable of displaying the information, a website can refuse the data to
+the browser. Another example is mobile websites that display different content if viewing from
+an iPhone instead of a computer. This can now all be controlled with User Agent Switcher.
+
+When installed, you have a new option in your browser. The menu allows you to choose a mob

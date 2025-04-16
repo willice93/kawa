@@ -1,0 +1,9 @@
+by other users, and location data about the photo. Dissecting and
+documenting this data can assist with future searches. The actual image of these photos may give
+all of the intelligence desired, but the data does not stop there. A search on Flickr for photographs
+related to the Otcupy Wall Street protesters returned over 157,000 results.
+
+My Pics Map (mypicsmap.com)
+
+Flickr is one of the few remaining web services that does not remove the metadata stored within
+images. The data, which will be e

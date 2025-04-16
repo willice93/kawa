@@ -1,0 +1,16 @@
+Restriction 1D}
+
+Submit (Download Options}
+
+Submit {Reverse Video Search)
+
+Submit {Display Frames of Video)
+
+Submit (Display Date, Time, Frames, & Reverse Image of Video)
+
+Figute 15.02: The IntelTechniques Custom YouTube Search Tool.
+Reverse Video Searching
+
+There was a brief mention earlier of conducting a reverse image search on the four still captures
+of a YouTube video. This would use the same techniques as mentioned in Chapter Fourteen for
+images. While there is no official reverse video s

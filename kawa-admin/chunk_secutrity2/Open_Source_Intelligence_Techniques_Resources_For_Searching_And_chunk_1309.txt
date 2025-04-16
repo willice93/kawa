@@ -1,0 +1,9 @@
+number, and home address.
+On rate occasion, I have found this PDF option to be missing from my target profile. When this
+happens, we can create a direct link to the full details. In this example, our target’s page is at
+cvmkr.com/7JON. The following URL presents the entire PDF with the visible details. Basically,
+adding “?pdf=1” at the end of the URL should always present the full resume view.
+
+https://cvmkt.com/7JON?pdf=1
+
+Since Google indexes all of the PDF files that are located, you can also

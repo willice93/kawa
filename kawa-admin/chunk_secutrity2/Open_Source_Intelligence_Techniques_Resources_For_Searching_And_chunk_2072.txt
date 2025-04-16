@@ -1,0 +1,15 @@
+us demonstrations, this entire text is available
+at https://inteltechniques.com/data/2018api.txt. Note that each result will populate within your
+browser approximately one second apart. This is to obey the rate limiting requirements of the
+API providers.
+
+400 Chapter 20
+
+Have I Been Pwned
+
+<script type="text/javascript">
+
+function doall2(all2) {
+
+setTimeout(function() {window.open (https: //haveibeenpwned.com/api/v2/breachedaccount/
+"+ all2 + '@gmail.com?truncateResponse=true’, '1leakwindow’);},

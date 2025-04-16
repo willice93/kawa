@@ -1,0 +1,8 @@
+indows. The biggest difference is that this version will only work on
+Apple devices and not Windows. Insert this drive into a powered-down Mac and turn it on. Hold
+down the Option key while booting, and you should see a new option. It will appear as an orange
+icon at the far right of any other options. Choosing this loads Linux outside of your native Apple
+operating system.
+
+Overall, I have found booting USB drives to be much more reliable on Apple computers versus
+Windows machines. I have also

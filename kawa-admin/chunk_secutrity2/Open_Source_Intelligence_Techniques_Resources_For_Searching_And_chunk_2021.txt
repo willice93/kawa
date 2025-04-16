@@ -1,0 +1,12 @@
+RA\ aici 1 dn *
+
+Figure 20.01: A custom API search page hosted at IntelTechniques.com.
+
+388 Chapter 20
+
+Pip! (dev.pipl.com)
+
+I explained earlier how Pipl can be a huge resource for information about a real name, email
+address, telephone number, or user name. The website is easy to navigate, but the API provides
+only the relevant data and it is easier to digest. A Pip] API key is required to conduct any searches
+and can be obtained for free at their site at pipl.com/api/demo. The XXX in all of th

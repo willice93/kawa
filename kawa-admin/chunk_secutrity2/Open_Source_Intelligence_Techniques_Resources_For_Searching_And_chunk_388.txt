@@ -1,0 +1,10 @@
+t me, the majonty will be and can easily be
+digested. Adding the occupation, residence city, general interest, or college of the target may help
+eliminate unrelated results.
+
+Search Operators
+
+Most search engines allow the use of commands within the search field. These commands are
+not actually part of the search terms and are referred to as operators. There are two parts to most
+operator searches, and each are separated by a colon (:). To the left of the colon is the type of
+operator, such as s

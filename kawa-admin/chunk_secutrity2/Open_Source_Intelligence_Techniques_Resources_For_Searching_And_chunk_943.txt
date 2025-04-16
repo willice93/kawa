@@ -1,0 +1,8 @@
+technique is to locate these
+small thumbnail images and identify the full high-resolution images that were originally uploaded.
+For an example, I will pick on the user “Johnny”. His profile is at instagram.com/johnny. When
+I right-click on his profile picture, and choose to open the image in a new tab, I am presented
+with the following URL that displays a very small photo of the user.
+
+https://scontent-sjc2-1.cdninstagram.com/hphotos-xtp1/t51.2885-19/s150x1 50/917360_
+1513292768967049_387615642_

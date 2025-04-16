@@ -1,0 +1,10 @@
+that is difficult to
+remove. My preference is to download the 32 bit “CLI” option. This is a command line version
+which will require a bit more work to make it run. However, you do not receive any unwanted
+bundled software.
+
+Download the compressed file and unzip it to a folder called metadata. Create a new text file
+within this same folder and title it metadata.bat. Be sure that this file no longer possesses a txt
+file extension. Type the following text into this new batch file.
+
+set /p VIDEO=E

@@ -1,0 +1,25 @@
+06%
+Mail 3,603 0.98%
+Peru 2,350 0.64%,
+Colombia 2.295 0,63%
+Turkey 1,030 0.28%
+Denmark 727 0.2%
+
+Network Breakdown
+
+Autonomous System (AS)
+
+TRIPLETNET-AS-AP Triple T lnternet/Tripte T Broadband, TH
+
+Compas Dominicana de Telfonos, C. por A.- CODETEL, DO
+VODAFONE_ES, ES
+
+Cable & Wireless Panama, PA
+
+CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP Ec
+IKATELNET, ML
+
+Telefonica del Peru SAA,, PE
+EMPRESAS MUNICIPALES DE CALI E.LC.E. E.S.P,, CO
+
+FPT-AS-AP The Corporation for Financing & Promoting T

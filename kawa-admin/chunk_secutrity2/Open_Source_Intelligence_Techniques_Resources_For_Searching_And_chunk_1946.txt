@@ -1,0 +1,7 @@
+on titled “Run Configuration Wizard”. Create a new project and enter
+the user name of your target. Select the networks that you want to search and click “Search” to
+find the accounts. Any accounts identified will be displayed below. Click “Add to Targets” to
+select the accounts desired. Continue this process until you have added any accounts of your
+target. Accept the default options and click “Next” and “Finish” to start the query.
+
+The application will identify posts that contain GPS informati

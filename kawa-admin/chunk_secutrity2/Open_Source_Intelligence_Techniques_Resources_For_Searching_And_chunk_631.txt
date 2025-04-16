@@ -1,0 +1,6 @@
+will vary by browser. In Firefox and Chrome, simply right-click on a Facebook profile
+page and select View Page Source. Be sure not to hover on any hyperlinks during the right-click.
+A new tab should open with the text only view of the source code of that individual profile.
+Within the browser, conduct a search on this page for “entity_id”. This will identify a portion of
+the code within this page that contains that specific term. As an example, the following is the
+source code immediately befor

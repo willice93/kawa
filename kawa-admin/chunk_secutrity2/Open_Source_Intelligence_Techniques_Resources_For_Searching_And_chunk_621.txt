@@ -1,0 +1,12 @@
+s” near the end of
+every previous address to filter by gender. The following address would display every Facebook
+profile of female Microsoft employees that live in Seattle. The final section of my custom
+Facebook search tool, which is explained later, allows you to easily specify the gender of users
+during your searches.
+
+https://www.facebook.com/search/str/seattle/pages-named/residents/present/str/
+microsoft/pages-named/employees/present/females/intersect
+
+Dating Interests
+
+Many Facebook users

@@ -1,0 +1,6 @@
+ebsite is no longer available.
+It is basically a blank page with an error at the top. The second link connects to what appears to
+be an online forum about cars, but the post requested is unavailable. Both of these links are
+designed to make the target believe that whatever was on these pages previously is no longer
+available. Your goal is to get your target to click on one of these links. When he or she does, this
+service will capture their IP Address and forward it to you. The easiest execution

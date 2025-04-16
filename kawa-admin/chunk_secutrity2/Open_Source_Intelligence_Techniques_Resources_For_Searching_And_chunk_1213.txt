@@ -1,0 +1,10 @@
+.
+
+Peek You (peekyou.com)
+
+This service has recently introduced new search options and better accuracy. The standard
+landing page encourages a search of a person’s first and last name. A filter by country option
+exists which may eliminate unwanted results. This often identifies a target’s Twitter page,
+Facebook profile, and related accounts. This basic data is only the beginning of the service’s
+offerings. The “User name” search option performs a query similar to KnowEm that will identify
+social

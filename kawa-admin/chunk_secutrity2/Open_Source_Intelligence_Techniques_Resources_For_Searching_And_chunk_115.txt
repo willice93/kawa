@@ -1,0 +1,8 @@
+inal note
+about ClamAV, you may occasionally receive a false-positive report of a virus. Do not panic.
+Research the file on the internet and identify the issues. If you receive reports of malicious files
+within email, simply delete those messages. The use of ClamAV on Mac computers is more about
+preventing the spread of bad files to Windows users instead of protecting your own machine.
+
+Whether on Windows or Mac computers, protection from malicious software, otherwise known
+as malware, is vital.

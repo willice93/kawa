@@ -1,0 +1,26 @@
+t ee
+which can be aimed and used to aa grees
+
+Country Breakdown
+
+Country Hosts Frequency
+China 1.921096 WSS%
+United States 469,669 95%
+Brazil 220,566 446%
+Taiwan 207,010 419%
+Republic of Korea 202,147 409%
+Russia | 497.189 3.99%
+india 177646 350%
+Canada 96.977 1.96%
+Turkey 96,460 1.95%
+italy 95,801 1.94%
+
+Figure 160 Censys DNS Open Resolver Country Breakaown
+
+11.11 Discovering vulnerable Telnet service banners and
+
+settings
+Search string in the web
+protocols.raw: "73 /telnet"’
+
+Then click Report

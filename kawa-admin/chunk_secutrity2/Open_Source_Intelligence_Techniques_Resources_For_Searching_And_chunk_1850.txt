@@ -1,0 +1,7 @@
+e the message to the valid address. When your target reads the email
+message, Get Notify will track the user’s IP address, geographical location, and notify you
+whether your message was viewed for a length of time or deleted right away.
+
+Get Notify works by adding a small invisible tracking image in your outgoing emails. When your
+email recipient opens your message, this image gets downloaded from a Get Notify server. Get
+Notify will know exactly when your sent email was opened and it notifies y

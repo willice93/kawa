@@ -65,3 +65,65 @@ cas_pratique: 'Nom : Alexis Dupont, entrepreneur en location de meubles professi
   Conclusion synthétique : Alexis Dupont est éligible à l''abattement forfaitaire
   pour les activités de location de meubles professionnels et peut diminuer son impôt
   en montant de 90 250 € par rapport au régime par défaut.'
+embedding_text: 'Règle : La règle s''applique aux activités de ventes et fourniture
+  de logement (cases 5KO à 5MO) ainsi qu''aux autres activités et locations meublées
+  professionnelles (cases 5KP à 5MP). L''abattement forfaitaire sera automatiquement
+  appliqué suivant les conditions suivantes :
+
+  - Pour les activités de ventes et fourniture de logement, l''abattement est de 71
+  %.
+
+  - Pour les autres activités et locations meublées professionnelles, l''abattement
+  est de 50 %.
+
+  La formule de calcul applicable est la suivante :
+
+  Montant_Abatté = Montant_Brut * Taux_d''abattement
+
+  - Le montant d''abattement doit être au moins égal à 305 €. Pour étre sûr d''y avoir
+  droit, il faut vérifier que le chiffre d''affaires est supérieur à 305 €.
+
+  Formule : Non spécifiée
+
+  Cas pratique : Nom : Alexis Dupont, entrepreneur en location de meubles professionnel
+
+
+  Profession : Entrepreneur en location de meubles professionnels avec activité principale
+  à Paris (75002)
+
+
+  Situation : Fin d''exercice 2021, a dépassé le seuil minimal de chiffre d''affaires
+  pour être éligible à l''abattement forfaitaire
+
+
+  Montants concernés :
+
+  - Montant brut des activités : 600 € par jour
+
+  - Taux d''abattement : 50 % pour les autres activités et locations meublées professionnelles
+  (en application de la règle)
+
+  - Chiffre d''affaires total : Calculé en multipliant le montant brut par le nombre
+  de jours ouvrés dans l''exercice fiscal (par exemple, 600 € x 305 jours = 182 700
+  €)
+
+  - Montant d''abattement forfaitaire minimum : 305 €
+
+
+  Déclaration : Les activités de location de meubles professionnels sont déclarées
+  dans les cases 5KP à 5MP
+
+
+  Comparaison régime par défaut vs option choisie : L''option choisie (abattement
+  forfaitaire) permet à Alexis Dupont d''économiser jusqu''à 90 250 € (182 700 € -
+  92 450 €). En cas de non-apport de preuve de la condition nécessaire, l''abattement
+  ne serait pas accordé et le montant imposable serait de 182 700 €
+
+
+  Calcul clair avec des chiffres ronds : En appliquant l''abattement forfaitaire (50
+  %) sur le chiffre d''affaires total, on obtient un montant imposable de 92 450 €.
+
+
+  Conclusion synthétique : Alexis Dupont est éligible à l''abattement forfaitaire
+  pour les activités de location de meubles professionnels et peut diminuer son impôt
+  en montant de 90 250 € par rapport au régime par défaut.'

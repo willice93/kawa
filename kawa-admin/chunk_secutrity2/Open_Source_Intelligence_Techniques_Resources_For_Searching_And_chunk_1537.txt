@@ -1,0 +1,8 @@
+Reddit. It was onginally launched as a way for users to identify
+when someone reposted a photo that had previously been posted on the website. The user could
+then “down-vote” the submission and have it removed from the front page. We can use this in
+investigations to locate every copy of an individual photo on Reddit. You can either provide a
+link to an image or upload an image from your computer.
+
+Real World Application: These reverse image search sites can have many uses to the
+investigator.

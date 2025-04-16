@@ -1,0 +1,20 @@
+sys fields C examples
+[ave
+
+Example
+4s.smb.banner.metadata Varies
+
+“445,smb.banner.smbv1_support | Fee
+
+9,5 Discovet SMB version 1 systems
+
+The EternalBlue Double Pulsar exploit released by the Shadow
+
+Brokers utilised SMB version 1. Supposedly, the exploit was stolen
+
+from the National Security Agency’s toolkit. After the exploit’s release,
+
+‘¢ was repurposed for nefarious purposes. One of which was for the
+
+Wanna Cry mass infections that hit the world in 2017. During and
+afterwards, it was rec

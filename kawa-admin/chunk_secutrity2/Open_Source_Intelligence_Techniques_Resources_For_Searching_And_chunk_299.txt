@@ -1,0 +1,9 @@
+or evidence when close examination of single frames is necessary. Figure 2.02 displays
+a result which created tens of thousands of still images. The created images will be within a new
+folder in the same “Video Utilities” folder mentioned previously, as seen in the example. This
+option can fill your virtual hard dtive space quickly, so be sure to revert to a clean snapshot when
+finished.
+
+40 Chapter 2
+
+Shorten a video (Low activity): I originally added this option within a Windows-based version

@@ -1,0 +1,6 @@
+ace is a website that provides free access to vehicle purchase data. All information on this
+website is public information, and the data comes from dealerships and auto insurance companies
+referencing new vehicle purchases. You can search by real name or VIN to find vehicle purchase
+information, vehicle specifics, and fuel economy information. I submitted four unique names and
+received two positive responses. When a record is found, it is quite revealing. One of my examples
+included the followin

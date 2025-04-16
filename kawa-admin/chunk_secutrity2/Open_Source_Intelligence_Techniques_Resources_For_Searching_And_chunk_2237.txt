@@ -1,0 +1,9 @@
+rent channels.
+This is because all of these devices use the same frequencies. If you received interference from a
+neighbor’s device, you could switch the channel. The channels assigned to these units fall in three
+ranges. The 49 MHz models are older and cheaper units that operate on a frequency similar to
+older cordless phones. The following frequencies are assigned to these units.
+
+49.300 49.830 49.845 49.860 49.875 49.890
+
+The 900 MHz models are more popular and are also used in witeless video

@@ -1,0 +1,6 @@
+anges and extensions right
+away. You do not need to import any profiles or modify any settings. The Chrome option directly
+below Firefox is set to run in Incognito mode to prevent your internet history from being
+recorded. Again, several extensions have already been installed as mentioned previously. The
+bookmarklets have also been added. The third option is the Tor Browser. It is the exact version
+that was explained in Chapter One, and it is also ready to be used. Overall, the entire instructio

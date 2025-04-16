@@ -1,0 +1,47 @@
+i CA TLI ERRterte Yeiy
+
+en
+
+Host Report
+
+E 1.5 | 19,809
+s ra |s7
+2
+d&connect: 47
+-
+= 29910
+&
+a @|3
+13 i4
+1.4 |r ee TN Se RSM en ee Se
+sot |1
+0 2,000,000 4,000,000 6,000,000 8,000,000 9,695,174
+
+Hosts
+
+Figure 141 Censys Top Ten report 22.ssh.v2.banner.version
+Table 65 Censys Top 10 report 22.ssh.v2. banner version
+
+Banner
+
+Number
+
+Percentage
+
+1.99 330.189
+
+3.29%
+
+|
+
+9,695 4 . F F iY
+1.99 BB 220.129 i.
+
+0.0%
+
+a. eee 0.0% won
+gma i ba
+10, 1045 A
+
+as a
+osasaaseteancutmmanammmaanannanatenmatentiattat

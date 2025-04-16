@@ -1,0 +1,6 @@
+t automatically queries over 100 public data sources to
+gather intelligence on IP addresses, domain names, email addresses, host names, and more. You
+simply specify the target you want to investigate, pick which modules to enable, and then
+SpiderFoot will collect data to build up an understanding of all the entities and how they relate
+to each other. Within Buscador, SpiderFoot appears as a simple button within the menu bar of
+Firefox and Chrome. However, it is actually a complex installation of

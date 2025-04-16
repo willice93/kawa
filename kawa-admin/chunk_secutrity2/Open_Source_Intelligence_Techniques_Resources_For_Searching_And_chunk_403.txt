@@ -1,0 +1,12 @@
+-FBI -osint -books -open -source 404
+
+“Michael Bazzell” -police -FBI -osint -books -open -source -“mr. robot” 9
+
+The final search eliminated any results that included any of the restricted words. The nine pages
+that were remaining referenced other people with my name. My goal in search filters is to dwindle
+the total results to a manageable amount. When you are overwhelmed with search results, slowly
+add exclusions to make an impact on the amount of data to analyze.
+
+InURL Operator
+
+We can also

@@ -1,0 +1,16 @@
+2014-10-08 - 2024-10-05
+
+¥ 1144791581 nokiasiemensnetworks.com
+Q tags: untrusted
+
+Figure 82 Censys Stemens untrusted certificates
+
+7.6 Exploring BACnet
+
+A protocol for building automation control networks. ‘hic
+communications protocol can control and exchange information
+between controller devices, heating systems, ait conditioning, water
+heaters, lighting, access control and other automation controls
+Security was not originally designed into the protocol.
+
+Table 52 Important BACnet Censys fiel

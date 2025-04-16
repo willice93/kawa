@@ -1,0 +1,15 @@
+SMTP Metadata Country Breakdown... 52
+Table 27 Censys SMTP Metadata Network Breakdown .....-+-++ 53
+Table 28 Censys SMTP Metadata Common Tags.s-sssrsseeseere 54
+
+Table 29 Censys 15/11/17 Host Report HTTP and HTTPS..70
+
+XXIV
+
+vant HTTP Censys fields & examples......-...++. 71
+
+Table 30 Impo ee ae
+Table 31 HTTP Information Code suvsvvsnsvesseesnenesersenssseereneneeserenes ‘a
+Table 32 HTTP Success Be cersaancenntsnsnsnncsneninsnznnsnnnsenensesenen V2
+Table 33 HTTP i ae 73
+Table 34 HTTP pene Barron

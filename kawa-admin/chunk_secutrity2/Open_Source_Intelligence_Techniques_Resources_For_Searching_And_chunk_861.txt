@@ -1,0 +1,8 @@
+. I have found that the results are not
+always reliable, but worth searching. On the main page, enter the target Twitter user name and
+click “Retrieve Tweets”. This will produce a map with markers identifying the most recent
+locations of that target. You can click on each marker to see the content of the message, but not
+the date and time. This overall view provides a quick glimpse into the general location of the
+target.
+
+In order to view more detailed information about these posts, click on th

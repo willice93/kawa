@@ -58,3 +58,52 @@ calcul:
     revenu_brut: 460
     abattement: 92
     revenu_net: 368
+embedding_text: 'Règle : La règle s''applique aux salariés qui perçoivent des rémunérations
+  pour les jours de repos ou RTT (Réduction du Temps de Travail). Les conditions requises
+  sont que les montants perçus ne dépassent pas le plafond annuel de 7 500 € par salarié.
+
+
+  La formule de calcul est simple, il s''agit d''un montant total perçu pour les jours
+  de repos ou RTT au cours de l''année. Si ce montant est inférieur ou égal à 7 500
+  €, il est entièrement exonéré d''impôt sur le revenu.
+
+
+  Il faut vérifier que les rémunérations perçues pour les jours de repos ou RTT sont
+  exactement celles mentionnées dans l''article 81 quater du Code Général des Impôts
+  (CGI), qui régit également les heures supplémentaires exonérées. Il est important
+  de bien préciser que les limites annuelles ne s''additionnent pas entre ces deux
+  types de rémunération et le plafond maximum applicable à chaque salarié reste donc
+  7 500 €.
+
+  Formule : revenu_brut * (1 - 0.2)
+
+  Cas pratique : Titre : Applicabilité de la règle des indemnités pour les jours de
+  repos ou RTT pour Mme Dupont, infirmière à temps plein
+
+
+  Contexte : Mme Dupont est infirmière à temps plein dans un établissement hospitalier.
+  Elle reçoit des indemnités annuelles pour les jours de repos et le RTT (Réduction
+  du Temps de Travail).
+
+
+  Montant concernés : Les indemnités perçues par Mme Dupont pour les jours de repos
+  ou RTT atteignent 7 300 € par an.
+
+
+  Calcul et déclaration : En appliquant la règle décrite, les 7 300 € perçus par Mme
+  Dupont sont entièrement exonérés d''impôt sur le revenu. Elle déclare ce montant
+  dans la case 1AK de son déclaration d''imposition (Article 81 quater du Code Général
+  des Impôts).
+
+
+  Comparaison : En cas de non-respect de cette règle ou en excédent de plafond, les
+  indemnités perçues pour les jours de repos ou RTT seraient soumises à l''impôt sur
+  le revenu. La réglementation par défaut exigeait un taux d''imposition maximum de
+  20 %, ce qui aurait entraîné une dépense supplémentaire de 1 460 € (calcul : 7 300
+  € x 20 %) pour Mme Dupont. En choisissant cette option, elle a enregistré une économie
+  de 1 460 €.
+
+
+  Conclusion : La règle de l''exonération d''impôt sur les indemnités perçues pour
+  les jours de repos ou RTT permet à Mme Dupont d''économiser 1 460 € sur son impôt
+  annuel en suivant rigoureusement le plafond imposé.'

@@ -1,0 +1,7 @@
+lt, all options are grey in color. This indicates that the. default block list is applicable, and
+only invasive scripts will be blocked everywhere. I clicked on the far-right portion of the top cell
+in the second column. This tured the entire column ted, and indicates that all scripts across all
+websites will be blocked. After I saved my changes, every website will only load the most basic
+text content. This will prohibit much of our research.
+
+Loading a page such as a Twitter profile resulted i

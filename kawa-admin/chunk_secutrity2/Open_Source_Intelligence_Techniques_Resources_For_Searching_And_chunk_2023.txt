@@ -1,0 +1,13 @@
+ame search:
+
+https://api.pipl.com/search/Puser name=osintgeek&no_sponsored=true&key= XXX
+Telephone number search:
+https://api.pipl.com/search/?phoneHHHHHHHH#H#H&no_sponsored=true&key= XXX
+
+These structured requests should start to look familiar now. In the previous examples, the data
+is detailed as follows.
+
+https://api.pipl.com/search/: This tells Pipl to use the latest version.
+
+first_name=michael&last_name=bazzell: This identifies the first and last name of the target.
+city=wood”o20river&stat

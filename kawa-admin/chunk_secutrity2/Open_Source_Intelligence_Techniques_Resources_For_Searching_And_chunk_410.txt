@@ -1,0 +1,11 @@
+ts of this search identified the following publicly available online data folders.
+Each possess dozens of documents and other files related to our search term of OSINT. One
+provides a folder structure that allows access to an entire web server of content. Notice that none
+of these results points to a specific page, but all open a folder view of the data present.
+
+http://cyberwar.nl/d/
+http://bitsavers.trailing-edge.com/pdf/
+http://conference.hitb.org/hitbsecconf2013kul/materials/
+
+OR Operator
+Yo

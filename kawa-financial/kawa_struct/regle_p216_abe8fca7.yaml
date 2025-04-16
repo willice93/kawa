@@ -71,3 +71,71 @@ cas_pratique: 'Titre : Application de la règle fiscale concernant les membres d
   pour une société soumise au régime MSGM/MSGN, il est nécessaire de vérifier que
   le montant excédant 10 % des bénéfices perçus par les membres de la famille, soit
   ici 30 000€, est bien pris en compte dans l''impôt sur le revenu.'
+embedding_text: 'Règle : Règle appliquée aux membres de la famille (conjoint, partenaire
+  PACS, enfants mineurs non émancipés) :
+
+
+  Dans le cas où les bénéfices d''une société soumise à l''impôt sur le revenu (MSGM/MSGN)
+  sont perçus par ces membres et excèdent 10 % du capital social, des primes d''émission
+  et des sommes versées en compte courant détenues en pleine propriété ou en usufruit
+  :
+
+
+  - Montant à vérifier : Bénéfices perçus par les membres de la famille excédant 10
+  % du capital social, des primes d''émission et des sommes versées en compte courant
+  détenues en pleine propriété ou en usufruit.
+
+  - Montants ou plafonds : Bénéfices, capital social, primes d''émission, sommes versées
+  en compte courant détenues en pleine propriété ou en usufruit par les membres de
+  la famille.
+
+  - Formule de calcul : Pas de formule de calcul spécifique fournie, il faut simplement
+  indiquer la part excédante de 10 %.
+
+  - Vérification : Il faut s''assurer que le pourcentage excédant 10 % des bénéfices
+  perçus par les membres de la famille est effectuellement pris en compte dans l''impôt
+  sur le revenu.
+
+  Cas pratique : Titre : Application de la règle fiscale concernant les membres de
+  la famille pour une société soumise au régime MSGM/MSGN
+
+
+  Contextuez : Jean Dupont, ingénieur en informatique, a été cofondateur avec son
+  épouse Marie Dupont d''une nouvelle entreprise nommée "Dupont Informatique". Ils
+  possèdent ensemble 60% du capital social de l''entreprise. Les bénéfices annuels
+  de la société excèdent 300 000€.
+
+
+  Données :
+
+  - Montant des bénéfices annuels de la société : 300 000€
+
+  - Capital social total de l''entreprise : 3 000 000€
+
+  - Pourcentage de capital détenu par Jean et Marie Dupont : 60% (soit 1 800 000€)
+
+  - Montant à vérifier : Les bénéfices perçus par les membres de la famille (i.e.,
+  Jean et Marie Dupont) excèdent 10 % du capital social, des primes d''émission et
+  des sommes versées en compte courant détenues en pleine propriété ou en usufruit.
+
+
+  Formulaire :
+
+  - Case 1AK : Bénéfices perçus par les membres de la famille (i.e., Jean Dupont)
+
+  - Case 1GF : Capital social total de l''entreprise (3 000 000€)
+
+  - Calcul du pourcentage excédant 10 % des bénéfices : (300 000€ / 10%) - 300 000€
+  = 30 000€ (il faut s''assurer que ce montant est bien pris en compte dans l''impôt
+  sur le revenu de Jean Dupont)
+
+  - Case 1AK : Bénéfices perçus par la partenaire de Jean Dupont, Marie Dupont (si
+  applicable)
+
+  - Si pertinent, indiquer les différences entre le régime par défaut et l''option
+  choisie (par exemple, si une option anti-cumul est sélectionnée)
+
+  - Conclusion : En appliquant la règle mentionnée concernant les membres de la famille
+  pour une société soumise au régime MSGM/MSGN, il est nécessaire de vérifier que
+  le montant excédant 10 % des bénéfices perçus par les membres de la famille, soit
+  ici 30 000€, est bien pris en compte dans l''impôt sur le revenu.'

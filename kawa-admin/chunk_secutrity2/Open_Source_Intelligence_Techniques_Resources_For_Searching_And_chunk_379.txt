@@ -1,0 +1,7 @@
+but you ate always using a new install. Since these devices do not remember any
+of your activity, rebooting them is equivalent to using a brand-new operating system. If you
+purposely infected the USB drive with any virus, it would be eliminated with a simple reboot.
+
+Investigators can use virtual machines and bootable USB devices to establish credibility. I have
+testified on numerous occasions about my practices to secure evidence during computer forensic
+cases. With these methods, you can alway

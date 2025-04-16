@@ -1,0 +1,24 @@
+dicate a burner account from that domain.
+
+& Risky email address
+
+~ The email format is good.
+
+# The emai address doesn't look gfbberish.
+
+¥ itseems not to be a disposable email address.
+* This domain name is webmail.
+
+¥ MX records exist on this domain.
+
+é Mait server exist on this domain.
+
+v The email address is valid.
+
+w The mail server doesn't accept all email addresses.
+
+Figure 8.01: A result from Hunter.io.
+
+Email Addresses 207
+
+If Hunter is not functioning, or is giving you inaccurate resu

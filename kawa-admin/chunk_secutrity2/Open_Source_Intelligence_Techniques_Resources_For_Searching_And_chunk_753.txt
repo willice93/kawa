@@ -1,0 +1,11 @@
+number.
+
+https://www.facebook.com/search/people/?q=6185551212
+
+Note that this example used a traditional United States number. Even then, the results can be
+finicky. If this fails, try the same search, but include the country code within the URL. The
+following would apply the U.S. country code of 1. The “+” is absolutely required when including
+a country code. Note that the Facebook tools mentioned previously will aid in formulating these
+addresses.
+
+https:/ /www.facebook.com/search/people/?q=+1

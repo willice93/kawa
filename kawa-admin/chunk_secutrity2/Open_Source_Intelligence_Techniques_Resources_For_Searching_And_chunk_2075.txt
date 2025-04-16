@@ -1,0 +1,10 @@
+pen(https://haveibeenpwned.com/api/v2/breachedaccount/
+"+ all2 + '@yandex.com?truncateResponse=true’, '8leakwindow’);},21000);
+
+set [imeout(function() {window.open(https://haveibeenpwned.com/api/v2/breachedaccount/
+"+ all2 + '@gmx.comptruncateResponse=ttue'’, '9leakwindow’);},23000);
+
+set Fimeout(function() {window.open(https://haveibeenpwned.com/api/v2/breachedaccount/
+"+ all2 + '@mail.comrtruncateResponse=true'’, '10leakwindow');},26000);
+
+set [imeout(function() {window.open(https://haveibeenp

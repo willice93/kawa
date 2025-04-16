@@ -1,0 +1,11 @@
+a standard Google search option, but the results appear much
+differently. A standard Google search of my name reveals my website, Twitter, and Amazon
+pages in the first results. The Google Blogs option reveals several personal and professional
+(media) blogs that mention my name. These results are likely buried within the standard Google
+search.
+
+Search Engines 81
+
+Google Patents (google.com/webhp?tbm=pts)
+
+Google probably has the best patent search option on the internet. It allows you to search

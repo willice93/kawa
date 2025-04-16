@@ -1,0 +1,28 @@
+u wanted explicitly returned such a;
+
+optional Boolean which f Ormation or network information. Flatten is 40
+ormats the search results and is on by default.
+
+labk 72 Posy ¢
+Ll’ Search Rest AP] Data Parameters
+
+Data P-
+ta F atameter
+
+Required
+
+Boolean “7 can
+
+Flatten
+
+lable 73 HC Vi] Search Rest / IP] Ke spon fe é odes
+
+Response code
+
+{sae ie Bad request
+wa ae
+405 : Method not allowed
+[wo Limit Emceeded =
+500 ere Internal Serve Error
+Example:
+https: / /censys.io / certificates?q=443.https.tls.ce

@@ -1,0 +1,11 @@
+images take longer to analyze. Show Quantized
+Image shows the image after it has been compressed. This can be useful to tweak Minimal
+Similarity and Minimal Detail. Blocks that have been rejected because they do not have enough
+detail show up as black. Figure 14.10 (right) demonstrates this output.
+
+Photographs 299
+
+Figure 14.10: A normal image view (left) and Clone Detector (right) in Forensically.
+
+Error Level Analysis compares the original image to a recompressed version. This can make
+manipu

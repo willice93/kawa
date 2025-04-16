@@ -1,0 +1,23 @@
+w of the
+video at https://vimeo.com/api/oembed.json?url=https://vimeo.com/99199734. This address
+will display a text only page with the following content.
+
+type: “video”,
+
+version: “1.0”,
+
+provider_name: “Vimeo”,
+
+provider_url: “https://vimeo.com/”,
+
+title: “Billy Talent ‘Try Honesty",
+
+author_name: “S MT”,
+
+author_url: “https://vimeo.com/user10256640”,
+is_plus: “0”,
+
+Videos 309
+
+html: “<iframe stc=“https://player.vimeo.com/video/99199734” width=“480” height=“272”
+frameborder=“0” title=“Billy Ta

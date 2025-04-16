@@ -1,0 +1,53 @@
+Figure 90 Censys web cinema search
+
+Country Breakdown
+
+sede 33 97.06%
+ee 1 2.94%
+
+Figure 91 Censys cinema country breakdown
+
+| See Paeal Systems
+, me Paes frequently connected to the internet so they can be
+
+-d. The easiest way to find solar panels 1s to search
+
+Internet of shite is
+
+
+142
+
+Tag:
+
+651 scada
+651 solar panel
+622 modbus
+358 hitp
+248 ftp
+
+49 ssh
+
+29 building control
+29 fox
+
+25 https
+
+17 NPM
+
+13 NPM6
+
+10 JACE
+
+10 JACE-7
+
+9 embedded
+8 telnet
+
+4 NPM2
+
+3 dns
+
+2 database
+2 mssql
+
+1 bacnet

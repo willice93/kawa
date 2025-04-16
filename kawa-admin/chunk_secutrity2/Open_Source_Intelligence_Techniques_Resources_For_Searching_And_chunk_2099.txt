@@ -1,0 +1,9 @@
+is the absence of key applications such as Google Play
+and Gmail. Without core Google services, you cannot download apps to your device as part of
+your investigation tools. This has been the biggest hurdle with emulation. Consequently, there is
+finally an official fix, and an alternative option for advanced users. First, let’s try the easy way by
+using the Genymotion built-in Google features.
+
+Android Emulation 407
+
+e While inside our virtual Android device, click the “GAPPS” icon in the upper r

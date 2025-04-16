@@ -1,0 +1,7 @@
+rm that the email addresses
+mikeb@gmail.com, mikeb@yahoo.com, mikeb@hotmail.com, and mikeb@live.com all appear
+within compromised account databases. This indicates that these addresses were active at some
+point in time, and were associated with the specified online services which experienced data
+breaches. This is a quick way to determine if a unique user name likely exists within a possible
+target email address. If I had searched IntelTechniques4 and received a positive hit on the email
+address

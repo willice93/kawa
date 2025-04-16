@@ -1,0 +1,8 @@
+y presented as part of the return of information. Serving legal
+orders to identify and obtain IP addresses is outside the scope of this book. However, several
+techniques for collecting a target’s IP address using OSINT are explained in this chapter. The
+previous instruction assumed that you were researching a domain name. These names, associated
+with websites, simply forward you to a numerical address that actually hosts the content. This is
+referred to as an Internet Protocol (IP) address.
+
+If

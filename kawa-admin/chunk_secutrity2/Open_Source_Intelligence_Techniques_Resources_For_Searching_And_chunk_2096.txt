@@ -1,0 +1,13 @@
+hone view (768x1280). It will not
+have any branding from a specific manufacturer. You may have a more recent version
+as you replicate this.
+
+® Click Next and consider renaming this device similat to Case 18-123. Click Next again
+and allow the device to be created on your machine.
+
+e Launch the new device by clicking the “Start” icon. The machine will load in a new
+window which should appear similar to the screen of an Android telephone. Click “OK”
+
+406 Chapter 21
+
+to any feature notifications. F

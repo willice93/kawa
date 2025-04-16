@@ -1,0 +1,9 @@
+Google removed its original blog search in 2014. It was quite helpful and focused mostly on
+personal websites, especially those with a blogging platform. Today, this is nothing more than a
+subsection of Google News. You can load the Blogs option under the “All News” menu within
+the Tools option on any Google News results page. Alternatively, you can navigate to the
+following address, replacing TEST with your search terms.
+
+google.com/search?Pqg=TEST&tbm=nws&tbs=nrt:b
+
+The website above displays

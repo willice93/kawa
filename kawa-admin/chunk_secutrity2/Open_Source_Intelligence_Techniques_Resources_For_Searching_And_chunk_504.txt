@@ -1,0 +1,9 @@
+ge, but a
+bit of searching will guide you to the night place. The following search on Google identifies
+hundreds of public libraries that pay for your access to their archives.
+
+site:newspaperarchive.com “This archive is hosted by” “create free account”
+
+The first part of the search tells Google to only look at the website newspaperatchive.com. The
+second part mandates that the exact phrase “This archive is hosted by” appears in the result. The
+final piece isolates only the newspaper collections

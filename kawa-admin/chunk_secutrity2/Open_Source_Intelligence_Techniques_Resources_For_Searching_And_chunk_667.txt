@@ -1,0 +1,10 @@
+videos containing your target’s friends. This may
+include video taken at events where your tatget was ptesent.
+
+The “friends/videos-tagged” option will display the videos tagged for your target’s friends. This
+will be very similar to the previous option.
+
+The “friends /videos-liked” option will display the videos “liked” by your target’s friends. This
+can provide an indication of interests by both the target and the friends.
+
+The “friends /videos-commented” option will display the videos on Face

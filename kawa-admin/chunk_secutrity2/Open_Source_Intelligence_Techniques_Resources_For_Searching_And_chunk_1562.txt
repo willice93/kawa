@@ -1,0 +1,9 @@
+ble. The difficult part of this is finding photos only
+knowing the serial number. Two services will help with that.
+
+Stolen Camera Finder (www.stolencamerafinder.co.uk)
+
+This site was designed to help camera theft victims with locating their camera if it is being used
+by the thief online. For that use, you would find a photo taken with the stolen camera, and drop
+it into the site for analysis. This analysis identifies a serial number if possible. If one is located,
+the service then presents link

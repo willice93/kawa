@@ -1,0 +1,10 @@
+this search. The following URL will display the five Facebook
+pages liked by Mark Zuckerberg (Facebook user number 4), Chris Hughes (Facebook user
+
+Social Networks: Facebook 111
+
+number 5), and Arie Hasit (Facebook user number 7).
+https://www.facebook.com/search/4/pages-liked/5 /pages-liked/7/pages-liked/ intersect
+
+This method could be applied to all of the techniques that were explained earlier in reference to
+an individual. The following URL queries would identify common elements between Mar

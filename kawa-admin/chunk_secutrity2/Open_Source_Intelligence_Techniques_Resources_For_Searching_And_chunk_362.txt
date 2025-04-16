@@ -1,0 +1,8 @@
+t maintained between uses. This
+provides a clean operating system on each use with no contamination from previous sessions.
+This is ideal in situations where you do not want to save any data or history. It is the simplest
+option for users with extremely sensitive investigations. It contains all of the tools otherwise
+found in the Buscador virtual machine.
+
+Ubuntu Linux: This is designed for users that either have compatibility issues with the Buscador
+build or simply want a simpler option. This

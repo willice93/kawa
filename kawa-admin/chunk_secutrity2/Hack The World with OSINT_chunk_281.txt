@@ -1,0 +1,17 @@
+larm systems easier to
+= | discover if they are directly connected to the internet, Using the Censys web
+search, [Pv4 with a tag search term.
+
+tags: “alarm system”
+
+The search will result in around 13,000 results. This is too much data,
+instead display the data in a different way. Go to Tools, then Metadata.
+
+
+Country Breakdown
+
+{PvtHosts  TopMillionWebsites _Certificates rae country
+—
+Your query(tags: “alarm system") found 13,334 IPv4 hosts. Pe 12,
+France
+Country Breakdown Network Breakdown 504

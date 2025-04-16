@@ -1,0 +1,10 @@
+ressing command and f (Windows users would use ctrl-f) and entering the video
+number (445432539206610). I was immediately presented with the positive match, which
+appeared similar to the following.
+
+Social Networks: Facebook 119
+
+{"videoID":"445432539206610","lat":37.487656765901,"long":-81.963124901 126,"name":
+"Crazy Craig's Pearls and Jewelry", "startTime":1513375622,"previewImage":
+"https:\/\/scontent-lax3-1-.xx.fbcdn.net\/v\/t15.0-10\/s640x640\ /-24280617_-
+445457842537413_30459846816998359

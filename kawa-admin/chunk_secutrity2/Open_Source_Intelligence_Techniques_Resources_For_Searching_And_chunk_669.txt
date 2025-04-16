@@ -1,0 +1,11 @@
+ents from your target’s friends. This can often display valuable communication that would
+otherwise be very difficult to locate.
+
+The “friends/stories-tagged” option will display the common Facebook posts that your target’s
+friends tagged qs interesting.
+
+The “friends/stories-liked” option will display the overall Facebook posts which your target’s
+friends clicked the “like” button while viewing.
+
+The “friends/groups” option will display the Facebook groups that contain the most members
+of your

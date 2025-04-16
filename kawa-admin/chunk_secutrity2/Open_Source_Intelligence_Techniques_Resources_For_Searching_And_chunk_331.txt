@@ -1,0 +1,8 @@
+be a main landing page,
+pics.inteltechniques.com could possess hidden content not available within the main website.
+Programs within Buscador such as Knock, Sublist3r, and Aquatone request a domain name and
+then fetch subdomains associated with the target. This is a vital step for any investigation into a
+domain name.
+
+As an example, I provided cnn.com to each of these options after clicking the appropriate icons
+in the dock. Knock located dozens of subdomains such as games.cnn.com, go.cnn.com,

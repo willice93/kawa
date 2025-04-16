@@ -1,0 +1,12 @@
+ure 19.05). This can be useful in identifying changes in the target
+location such as building modifications, additional vehicles, and land changes. Drug enforcement
+agents often use this tool to monitor suspected drug growth at a target location.
+
+Figure 19.05: A Google Earth view of historic imagery from 2000.
+
+Software Applications 371
+
+Creepy (ilektrojohn.github.com/creepy)
+
+This utility has been around since the second edition of this book. In its early years, it was an
+extremely valuable to

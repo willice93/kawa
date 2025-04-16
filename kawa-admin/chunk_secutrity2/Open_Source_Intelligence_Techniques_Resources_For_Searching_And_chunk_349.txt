@@ -1,0 +1,10 @@
+rocess will need to
+run. I usually execute any lengthy scans before leaving the office, and let them run until
+completion.
+
+As a general tule, never hit the “back” button or “refresh” option in your browser while within
+SpiderFoot. It may take you out further than you desire or kill a process. Instead, embrace the
+following built-in features while on various pages.
+
+Clicking the Scans option on any page displays all active and finished scans
+Clicking the name of a scan from this page presents th

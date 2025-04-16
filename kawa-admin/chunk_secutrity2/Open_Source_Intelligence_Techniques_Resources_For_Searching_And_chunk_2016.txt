@@ -1,0 +1,6 @@
+antage of a single service’s API are great, but they are just the tip of the
+iceberg. New services collect data from multiple APIs and combine the results. These APIs allow
+access to any user’s entire social network information. If you supply a user name or email address,
+these services will fetch all online accounts associated with that subject. This can provide an
+immediate list of profiles that are associated with a target. This can save many hours of
+researching the information on traditiona

@@ -1,0 +1,15 @@
+fil. VM Ware will import the virtual
+machine. Press the Play virtual machine button. The Kali machine
+will open. When prompted, enter the username and password to log
+in as root.
+
+Username: root Password: Lamarr
+
+2.4 OSINT Kali64 OVE in VM Player/Workstation 14
+
+OVF is an exportable format with OpenBox and VMWare
+compatibility. There are some caveats: OVF can act oddly somnationss
+for no known reason after conversion. To be on the safe side, make
+copies, snapshots, and backup as required.
+
+Open

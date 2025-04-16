@@ -1,0 +1,9 @@
+as been discussed as a great site for searching a person's teal name and email address. This
+site performs equally as well at locating people by a user name. Inserting a user name in the same
+
+field that a person search would be conducted will display results of subjects using this user name
+on social networks. It will also attempt to determine vital information about the user including
+
+218 Chapter 9
+
+age, location, employer, and interests. Finally, it will display small images that are associa

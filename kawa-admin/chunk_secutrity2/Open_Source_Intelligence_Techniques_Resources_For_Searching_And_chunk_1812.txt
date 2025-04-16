@@ -1,0 +1,11 @@
+)
+
+Similar to the domain tool mentioned previously, this page automates some of the most common
+IP address searches. The first box accepts any IP address. Clicking the Populate All button will
+insert this address into all of the search options where manual queries can be conducted. The
+final option will open several tabs within your browser that present each query listed on the page.
+Figure 17.03 displays the current status of the service.
+
+Email Headers
+
+I no longer teach email header analysis

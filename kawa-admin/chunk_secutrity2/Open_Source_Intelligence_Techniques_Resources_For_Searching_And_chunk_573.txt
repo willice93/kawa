@@ -1,0 +1,13 @@
+used a service called Google Analytics. This service identifies
+the number of visitors to a website and the general area where they are located. The following is
+the actual code that was present.
+
+<script type=“text/javascript”>
+
+try {var pageTracker = _gat._getTracker(“UA-8231004-3”);
+pageTracker._trackPageview();
+
+} catch(ert) {}</script>
+
+The important data here is the “UA-8231004-3”. That was my unique number for Google
+Analytics. Any website that I used the service with would have needed t

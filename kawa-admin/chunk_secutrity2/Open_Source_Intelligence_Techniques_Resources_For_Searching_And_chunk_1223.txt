@@ -1,0 +1,9 @@
+lays the uset’s basic profile details including a
+
+220 Chapter 9
+
+photo. If the user chose not to include a photo, a silhouette graphic appears. Right-click on either
+image format and choose to “Open image in a new tab” (Chrome) or “View image” (Firefox).
+The new tab will contain the image that was already available. However, the address in the URL
+will reveal the Skype user name of the target. The following URL was created from the profile
+image of a Skype user with an email address of lorangb@

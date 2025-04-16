@@ -1,0 +1,58 @@
+t C
+
+Msf > set CENSYS_SEARC
+
+Msf > show options
+
+mirm
+
+—~
+
+Var =. =—
+NW>v Ts
+ee a a Te
+
+mm
+
+loit will use your Censys API
+
+To search, type run and Metasp
+
+Censys with
+
+Tools 22
+
+La)
+
+credentials to return the IP address and hostnames
+
+Msf > run
+
+12.4 Recon NG
+
+Four main areas
+
+e Discovery
+
+Exploitation
+
+e Import
+
+e Recon
+
+12.4.1 Configure Recon-NG
+
+bi
+
+To open, go to Applications
+,
+
+red errors
+
+l errors until all the
+
+It will pull up a terminal session, but will throw
+rs
+
+API keys are s Di
+e set

@@ -1,0 +1,20 @@
+Screens
+Thousands of passengers affected by
+
+TASGES LOCATION
+2 Choase s Lowation...
+
+DATE POSTED
+>: Any dete ¢ ‘ Niki airline’s..
+
+nas if Boone bxe A
+a sent ‘rrefutable evidence
+
+Figure 4.01: The Facebook filter options.
+
+These filters can also be applied using direct URLs. After a search of the term “OSINT”, the
+following addresses replicate each of the filters on a standard Facebook results page.
+
+All: https://www.facebook.com/seatch/top/?q=osint
+
+Posts: https://www.facebook.com/search/posts/?

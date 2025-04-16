@@ -1,0 +1,10 @@
+&node=USERID
+
+If we wanted to display only the friends of both Arie Hasit (arie.hasit - User # 7) and Chris
+Hughes (ChrisHughes - User # 5), the following address would be appropnate.
+
+https://www.facebook.com/browse/mutual_friends/?uid=7&node=5
+
+This exact search identified 13 people of interest. More interesting is the fact that Arie Hasit’s
+friends are private. We should not be able to see anything here, but we do. Therefore, modifying
+the second user name with other people that may be friend

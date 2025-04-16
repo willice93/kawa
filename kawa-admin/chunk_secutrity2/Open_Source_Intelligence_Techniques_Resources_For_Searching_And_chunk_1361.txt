@@ -1,0 +1,14 @@
+h your license key. Below this URL 1s a typical response
+received. Note that Everyone API requires a “1” before the ten-digit number.
+
+https: / /api.everyoneapi.com/v1/phone/+18475551212?data=name,catrier&account_sid=xxx
+&auth_token=yyy&pretty=true
+
+“carrier”: {“name”: “Verizon Wireless”},
+“carrier_o”: {“name”: “Cricket Wireless” },
+“name”: “Brian Williams”
+
+“number”: “+16189720000”,
+
+This result indicates that the target number was registered through Cricket Wireless before the
+current registra

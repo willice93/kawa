@@ -1,0 +1,10 @@
+ave received better
+results by using a custom address. The following URL would identify any profiles with my name.
+Note the “%20” in the URL represents a space. Most browsers will automatically convert a space
+to this format. It can be replicated by typing “People named Michael Bazzell” in the search field.
+
+https://www.facebook.com/search/str/Michael%20Bazzell/users-named
+Employment
+
+Facebook can help you find current and past employees of a business. This can be beneficial if
+you ate investiga

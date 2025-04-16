@@ -1,0 +1,8 @@
+Sandboxing restricts the content
+in that tab to that tab only, preventing it from “touching” other tabs in the browser, or the
+computer’s hardware. This is a very important feature in preventing malware from being installed
+when you visit a malicious website.
+
+While I always prefer Firefox as my browser for investigations and daily usage, Chrome is my
+browser for training events. This is due to stability when loading dozens of tabs, and your system
+should have a lot of RAM if you want to take a

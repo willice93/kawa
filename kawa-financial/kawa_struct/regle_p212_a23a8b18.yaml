@@ -112,3 +112,70 @@ cas_pratique: 'Titre : Calcul des montants spécifiques pour les régimes sociau
   du contexte personnel et professionnel de la personne physique concernée. Il est
   important de vérifier que toutes les conditions requises sont remplies pour obtenir
   un résultat correct.'
+embedding_text: "Règle : Règle d'application : Calcul des Montants spécifiques pour\
+  \ les régimes sociaux en France.\n\nCette règle s'applique à toutes les personnes\
+  \ physiques (individus) travaillant en France et à leurs familles associées dans\
+  \ certaines conditions. Les montants ou plafonds concernés sont les suivants :\n\
+  \n- Frais réels MSA associés gérants : MSJS/MSJT\n  - Condition : Travail pour une\
+  \ société sous le régime général ou un régime micro.\n  - Plafond : Aucun plafond\
+  \ spécifié.\n  - Formule de calcul : Les frais réels sont calculés sur les revenus\
+  \ du travail effectué dans la société.\n  - Vérification : Assurer que les revenus\
+  \ déclarés correspondent aux vraies sommes gagnées et à l'activité effectuée dans\
+  \ la société.\n\n- Frais réels agents généraux d'assurances : MSJW/MSJX\n  - Condition\
+  \ : Travail pour une société sous le régime général ou un régime micro en tant qu'agent\
+  \ général d'assurance.\n  - Plafond : Aucun plafond spécifié.\n  - Formule de calcul\
+  \ : Les frais réels sont calculés sur les revenus du travail effectué dans la société.\n\
+  \  - Vérification : Assurer que les revenus déclarés correspondent aux vraies sommes\
+  \ gagnées et à l'activité effectuée dans la société.\n\n- PVCT exonérées art 151\
+  \ septies A du CGI : MSFU/MSFV\n  - Condition : Travail pour une société sous le\
+  \ régime général ou un régime micro et bénéficie de l'exonération d'art 151 septies\
+  \ A du CGI.\n  - Plafond : Aucun plafond spécifié.\n  - Formule de calcul : Les\
+  \ montants exonérés sont déterminés en fonction des conditions de la loi.\n  - Vérification\
+  \ : Assurer que les conditions de l'exonération d'art 151 septies A du CGI sont\
+  \ remplies.\n\n- Sommes exonérées de cotisations sociales soumises à la CSG-CRDS\
+  \ : MSFW /MSFX\n  - Condition : Travaille pour une société sous le régime général\
+  \ ou un régime micro et bénéficie d'une somme exonérée des cotisations sociales.\n\
+  \  - Plafond : Aucun plafond spécifié.\n  - Formule de calcul : Les montants exonérés\
+  \ sont déterminés en fonction des conditions de la loi.\n  - Vérification : Assurer\
+  \ que les conditions pour l'exonération de cotisations sociales soumises à la CSG-CRDS\
+  \ sont remplies.\n\nEt ainsi de suite, pour chacune des autres sommes mentionnées,\
+  \ telles que les cotisations de retraite complémentaire facultatives (MSKP/ MSLP),\
+  \ les cotisations obligatoires aux régimes des non-salariés non agricoles (MSKQ/MSLQ)\
+  \ et les revenus divers (comme les dividendes et intérêts excédant 10 % de capital\
+  \ social, l'allocation journalière du proche aidant, etc.).\nFormule : Non spécifiée\n\
+  Cas pratique : Titre : Calcul des montants spécifiques pour les régimes sociaux\
+  \ en France - Exemple d'application pour une personne physique individuelle\n\n\
+  Nom : Jean Dupont\nProfession : Gérant de société sous le régime général\nRevenus\
+  \ annuels bruts : 80 000 €\nRevenu de référence pour calcul des cotisations sociales\
+  \ : 126 450 € (en 2023)\nFamille associée : Epouse, Marie Dupont, sans activité\
+  \ professionnelle et deux enfants mineurs\n\nCalcul des frais réels MSA associés\
+  \ gérants (MSJS/MSJT)\n- Travail pour une société sous le régime général ou un régime\
+  \ micro.\n- Les frais réels sont calculés sur les revenus du travail effectué dans\
+  \ la société.\n\nDans ce contexte, les frais réels MSA associés gérants sont de\
+  \ 80 000 €, car c'est le montant des revenus que Jean Dupont a gagné dans sa société\
+  \ en 2023. Il n'y a pas de plafond spécifié pour les frais réels MSA associés gérants,\
+  \ mais il est important de vérifier que les revenus déclarés correspondent aux vraies\
+  \ sommes gagnées et à l'activité effectuée dans la société.\n\nCalcul des frais\
+  \ réels agents généraux d'assurances (MSJW/MSJX)\n- Travail pour une société sous\
+  \ le régime général ou un régime micro en tant qu'agent général d'assurance.\n-\
+  \ Les frais réels sont calculés sur les revenus du travail effectué dans la société.\n\
+  \nJean Dupont n'exerce pas de fonction d'agent général d'assurance, donc ce calcul\
+  \ est inutile pour lui.\n\nCalcul des PVCT exonérées art 151 septies A du CGI (MSFU/MSFV)\n\
+  - Travail pour une société sous le régime général ou un régime micro et bénéficie\
+  \ de l'exonération d'art 151 septies A du CGI.\n- Les montants exonérés sont déterminés\
+  \ en fonction des conditions de la loi.\n\nIl n'est pas donné de détails sur les\
+  \ conditions spécifiques requises pour bénéficier de l'exonération d'art 151 septies\
+  \ A du CGI, mais il est important de vérifier que ces conditions sont remplies afin\
+  \ de calculer correctement les montants exonérés MSFU/MSFV.\n\nCalcul des sommes\
+  \ exonérées de cotisations sociales soumises à la CSG-CRDS (MSFW /MSFX)\n- Travaille\
+  \ pour une société sous le régime général ou un régime micro et bénéficie d'une\
+  \ somme exonérée des cotisations sociales.\n- Les montants exonérés sont déterminés\
+  \ en fonction des conditions de la loi.\n\nIl n'est pas donné de détails sur les\
+  \ conditions spécifiques requises pour bénéficier d'une somme exonérée des cotisations\
+  \ sociales soumises à la CSG-CRDS, mais il est important de vérifier que ces conditions\
+  \ sont remplies afin de calculer correctement les montants exonérés MSFW /MSFX.\n\
+  \nCes exemples montrent comment appliquer la règle d'application pour calculer les\
+  \ différents montants spécifiques pour les régimes sociaux en France, en fonction\
+  \ du contexte personnel et professionnel de la personne physique concernée. Il est\
+  \ important de vérifier que toutes les conditions requises sont remplies pour obtenir\
+  \ un résultat correct."

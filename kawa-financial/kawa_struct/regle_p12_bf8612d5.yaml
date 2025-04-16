@@ -69,3 +69,69 @@ cas_pratique: 'Titre : Dépôt d''épargne-logement avec prime inférieure à 15
   Conclusion : En choisissant la solution PADC pour financer sa nouvelle propriété,
   Mme Dupont a réussi à épargner 14 400 € d''impôts. Cette option est intéressante
   pour les personnes ayant des revenus élevés souhaitant investir dans la propriété.'
+embedding_text: 'Règle : Règle de calcul applicable : Dépôt d''épargne-logement avec
+  prime inférieure à 150 000 € soumise à un taux d''impôt de 7,5 %
+
+
+  Conditions applicables :
+
+  - Les produits concernés sont ceux d''un dépôt d''épargne-logement (Prêt à l''achat
+  ou Dotation Foncière Complémentaire).
+
+  - La prime ne doit pas excéder 150 000 €.
+
+
+  Montant/Plafond :
+
+  - Le montant soumis à l''impôt est le taux de 7,5 % de la prime d''épargne-logement
+  (2VV).
+
+
+  Formule de calcul applicable : Montant_Impot = Prime * 0.075
+
+
+  Vérification requise pour avoir droit à l''application de cette règle :
+
+  - Vérifier que le montant dépensé en prime d''épargne-logement est inférieur ou
+  égal à 150 000 €.
+
+  - Vérifier la régularité du contrat d''épargne-logement en accord avec les dispositions
+  légales et réglementaires applicables.
+
+  Cas pratique : Titre : Dépôt d''épargne-logement avec prime inférieure à 150 000
+  € soumise à un taux d''impôt de 7,5 %
+
+
+  Contexte : Mme Jeanne Dupont, vendeuse de meubles, a décidé d''investir dans une
+  propriété pour y élever sa famille. Elle a choisi la solution du prêt à l''achat
+  avec dépôt d''épargne-logement (Prêt Achat avec Dotation Foncière Complémentaire,
+  PADC).
+
+
+  Situation : Mme Dupont a versé une prime de 120 000 € pour ce dépôt. Elle est à
+  présent intéressée par savoir comment calculer le montant de l''impôt à appliquer
+  sur sa prime d''épargne-logement et compare la réglementation de base avec celle
+  choisie.
+
+
+  Montant concernés :
+
+  - La prime d''épargne-logement est de 120 000 €.
+
+  - Le montant soumis à l''impôt est le taux de 7,5 % de la prime (120 000 * 0.075
+  = 9 000 €)
+
+
+  Déclaration : Mme Dupont déclare son PADC dans les cases 1AK et 1GF dans sa déclaration
+  annuelle d''imposables.
+
+
+  Comparaison : Le régime par défaut (sans dépôt d''épargne-logement) aurait imposé
+  un taux de 19 % sur la prime (120 000 * 0.19 = 23 400 €). Cependant, en choisissant
+  le régime PADC, Mme Dupont a réduit son impôt à 9 000 € en bénéficiant du taux de
+  7,5 %.
+
+
+  Conclusion : En choisissant la solution PADC pour financer sa nouvelle propriété,
+  Mme Dupont a réussi à épargner 14 400 € d''impôts. Cette option est intéressante
+  pour les personnes ayant des revenus élevés souhaitant investir dans la propriété.'

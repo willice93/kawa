@@ -1,0 +1,15 @@
+can be made visible within these services.
+
+phote bys
+
+Figure 12.02: A crowd-sourced street view from Mapillary.
+
+Figure 12.03: A vehicle with a blurred registration plate (left) and clear (right).
+
+Figure 12.04: An illegible registration plate (left) and manipulated view (right).
+
+Online Maps 265
+
+These sites allow you to identify the uploader’s user name, mapping history, number of posted
+images, and profile image. You can also select to watch all of the captured images from a specific
+user a

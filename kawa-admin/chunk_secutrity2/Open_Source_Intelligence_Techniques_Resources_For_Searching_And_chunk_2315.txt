@@ -1,0 +1,10 @@
+captures and files.
+
+Law enforcement can apply these same practices with one caveat. I believe that every criminal
+investigation should be conducted within a virtual machine. This could be the Buscador system
+mentioned in Chapter Two or a standard Windows or Linux system. At the end of the
+investigation, the entire machine should be exported as a single digital file and included with the
+digital evidence. I would also consider including the following paragraph within your narrative
+report.
+
+Thi

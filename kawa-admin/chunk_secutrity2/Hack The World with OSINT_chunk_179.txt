@@ -1,0 +1,26 @@
+ensys KSA MOF A intelligence services search results
+
+S 4
+clect the first host and look into the port 25 SMTP protocol details
+
+Banner Grab and StartTLS Initiation
+
+Banner 220 mail2.mofa.gov.sa ESMTP
+
+EHLO 950-mail2.mofa.gov.sa
+250-8BITMIME
+950-SIZE 20971520
+
+950 STARTILS
+920 Go ahead with TLS
+TLS Handshake
+
+Version TLSv1.2
+Cipher Suite TLS_RSA_WITH|RC4 |128 SHA (0x9085)
+Trusted False: x%509: unknown error
+
+STARTTLS
+
+Certificate Chain
+
+o566af258d3e5b2e252F9025b69457 3766 f9bfc1398bdb37428796ccdc

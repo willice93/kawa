@@ -1,0 +1,8 @@
+Facebook profiles. We
+know that these numbers are assigned in chronological order, but the intelligence goes much
+farther beyond that. His research could fill several pages, and in some situations, he can identify
+the month when a specific user account was created. For the sake of space and most useful details,
+he has provided the following to me for publication.
+
+Facebook transitioned from 32-bit numbers, such as 554432, to 64-bit numbers that begin with
+100000 between April and December of 20

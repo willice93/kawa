@@ -1,0 +1,6 @@
+andex, Baidu, Exalead, DuckDuckGo, Start Page, Google Newsgroups,
+Google Blogs, FTP Servers, data folders, Google Scholar, Google Patents, Google News, Google
+Newspapers, The Wayback Machine, and Qwant. After that, the Tor options discussed previously
+are available. The last section presents the Newspaper Archive search options that were explained
+earlier. Across all options, each search that you conduct will open within a new tab within your
+browser. This tool is based on simple JavaScript and

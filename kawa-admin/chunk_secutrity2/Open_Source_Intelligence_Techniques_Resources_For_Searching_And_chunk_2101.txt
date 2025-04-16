@@ -1,0 +1,6 @@
+now have the Google Play Store in your applications menu. Launching it should
+prompt you to connect to an existing or new Google account. Consider using an anonymous
+account that is not used for anything else. I do not recommend creating a new account from
+within this virtual machine because Google will likely demand a cellular telephone number for
+verification. I prefer to create the Google accounts from a traditional computer before connecting
+to the virtual Android device. After syncing with

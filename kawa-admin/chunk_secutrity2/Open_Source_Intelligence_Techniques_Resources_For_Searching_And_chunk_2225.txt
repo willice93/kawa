@@ -1,0 +1,12 @@
+ished
+in 2000. The radios are capable of a range of ten miles when using decent antennas. The following
+table identifies the MURS frequencies.
+
+151.820 151.940 154.600
+151.880 154.570
+
+General Mobile Radio Service (GMRS)
+
+Additional public frequencies, known as General Mobile Radio Service (GMRS) frequencies
+require a license to legally transmit audio. Most people ignore this requirement and it is seldom
+enforced. The radios that transmit on these frequencies can use up to 50 watts, allowing the

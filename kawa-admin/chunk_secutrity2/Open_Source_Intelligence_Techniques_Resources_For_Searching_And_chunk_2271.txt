@@ -1,0 +1,19 @@
+Signal strength plot: nono —)
+
+Figure 23.03: A remote frequency monitor on Web SDR.
+
+Radio Frequency Monitoring 441
+
+442 Chapter 24
+
+CHAPTER TWENTY-FOUR
+
+OSINT WORKFLOW PROCESSES
+
+I have conducted numerous OSINT training programs over the past few years. Regardless of the
+audience, I receive one question at every event. )
+
+“Is there a standard process or workflow for OSINT?”
+
+My short answer was always “no”. I had always looked at each investigation as unique. The type
+of investigation dictate

@@ -1,0 +1,10 @@
+name. These results identify the router name, MAC address, dates,
+encryption method, channel, and location of the device. This can easily lead an investigator to
+the home of a target.
+
+342 Chapter 17
+
+Many internet users will use the same name for their wireless router as they use for their online
+screen name. Assume that your tatget’s user name was “Hacker21224”. A search on Wigle for
+“Hacker21224” as a router name might produce applicable results. These could identify the
+routet’s MAC address

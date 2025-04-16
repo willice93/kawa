@@ -3,43 +3,45 @@ import os
 import json
 import requests
 import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from sentence_transformers import SentenceTransformer
 
 # === CONFIG ===
 CHUNKS_DIR = "chunks"
-EMBEDDINGS_PATH = "embeddings/embeddings.json"
+EMBEDDINGS_FILE = "embeddings/embeddings.npy"
+MAPPING_FILE = "embeddings/embedding_mapping.txt"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "mistral"
 
+# === Charger modèle SentenceTransformer (pour encoder la question)
+MODEL = SentenceTransformer("all-MiniLM-L6-v2")
+
 app = Flask(__name__)
 
-# === Charger corpus texte + noms ===
-def load_corpus_and_filenames():
-    with open(EMBEDDINGS_PATH, encoding="utf-8") as f:
-        data = json.load(f)
-    filenames = [item["chunk"] for item in data]
-    texts = []
-    for file in filenames:
-        path = os.path.join(CHUNKS_DIR, file)
-        with open(path, encoding="utf-8") as h:
-            texts.append(h.read())
-    return texts, filenames
+# === Charger vecteurs + noms de fichiers + contenus
+def load_vectors_and_texts():
+    vectors = np.load(EMBEDDINGS_FILE)
+    with open(MAPPING_FILE, encoding="utf-8") as f:
+        filenames = [line.strip() for line in f]
 
-# === RAG
-def retrieve(question, texts, filenames, top_k=3):
-    vectorizer = TfidfVectorizer(stop_words="english")
-    vectors = vectorizer.fit_transform(texts + [question])
-    question_vec = vectors[-1]
-    chunk_vectors = vectors[:-1]
-    sims = cosine_similarity(question_vec, chunk_vectors).flatten()
+    texts = []
+    for fname in filenames:
+        path = os.path.join(CHUNKS_DIR, fname)
+        with open(path, encoding="utf-8") as f:
+            texts.append(f.read())
+    return vectors, filenames, texts
+
+# === RAG avec similarité cosine sur embeddings
+def retrieve(question, vectors, filenames, texts, top_k=3):
+    question_vec = MODEL.encode([question])
+    sims = cosine_similarity(question_vec, vectors).flatten()
     top_idx = sims.argsort()[-top_k:][::-1]
     return [(filenames[i], texts[i]) for i in top_idx]
 
-# === LLM
+# === Appel Ollama
 def ask_mistral(question, context):
     prompt = f"""
-Tu es un assistant administratif.
+Tu es un chercheur en cybersecurité spécialisé en OSINT.
 Voici des extraits de documents à utiliser pour répondre :
 
 {context}
@@ -53,20 +55,20 @@ Réponds précisément et uniquement à partir du contenu fourni.
     )
     return response.json()["response"]
 
-# === API Endpoint
+# === Routes Flask
 @app.route("/")
 def index():
     return render_template("index.html")
-@app.route("/ask", methods=["POST"])
 
+@app.route("/ask", methods=["POST"])
 def ask():
     data = request.get_json()
     question = data.get("question", "").strip()
     if not question:
         return jsonify({"error": "question manquante"}), 400
 
-    texts, filenames = load_corpus_and_filenames()
-    top_chunks = retrieve(question, texts, filenames)
+    vectors, filenames, texts = load_vectors_and_texts()
+    top_chunks = retrieve(question, vectors, filenames, texts)
     context = "\n---\n".join([c[1] for c in top_chunks])
     response = ask_mistral(question, context)
 

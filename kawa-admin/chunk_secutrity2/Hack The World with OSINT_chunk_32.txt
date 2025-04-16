@@ -1,0 +1,10 @@
+....eeeeseeeceees 79
+Figure 36 Censys Ukrainian Heartbleed vulnerable search result......82
+Figure 37 Censys Hacked certificate Oe acitincn icensicinsnvays nto -snneneeee 86
+Figure 38 (Hacked) AND parsed. issuer.organization.raw: "Let's
+
+Unc! TT sg Rea ae ee ee ee ose de aia vemha ys ckiasinnkendanesecesenssascanensesseces 87
+Figure 39 Censys HTTPS & known private keys......esssecsseeeeereee 87
+Figure 40 Censys weak encryption protocols ST SEE Se ee 88
+
+Figure 41 Censys weak encryption protocols

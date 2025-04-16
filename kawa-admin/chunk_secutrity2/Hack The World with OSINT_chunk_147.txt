@@ -1,0 +1,19 @@
+ane
+
+Amn POR EE ANDES CR
+es
+semetmeaettiineeitmetnnnememenneen ete
+
+He who would search for pearls must dive below.
+
+: ] ohn Dryden
+
+5 HTTP & HTTPS
+
+5.1 Introduction to Censys HTTP/S Protocols
+
+The majority of the internet systems which Censys scans using ZMAP
+utilise the HTTP and HTTPS protocols. Web pages for various
+purposes. Each week a general scan and host report are available,
+breaking down the composition of the hosts scanned. A November
+2017 host report shows just over 50" of the hosts

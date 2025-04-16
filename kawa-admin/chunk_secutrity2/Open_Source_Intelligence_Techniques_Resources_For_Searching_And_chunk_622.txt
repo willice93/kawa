@@ -1,0 +1,8 @@
+indicate whether they are interested in meeting men or women. This can
+commonly be seen on their profile, and we can also search by this indicator. The following URLs
+would identify women in interested in men (first), men interested in women (second), men
+interested in men (third), and women interested in women (fourth).
+
+https://www.facebook.com/search/ females /males/users-interested/intersect/
+https: //www.facebook.com/search/males/ females /users-interested/intersect/
+https: //www.facebook.

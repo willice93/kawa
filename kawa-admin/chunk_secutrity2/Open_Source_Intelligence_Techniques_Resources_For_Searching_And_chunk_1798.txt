@@ -1,0 +1,7 @@
+f the
+page presents a detailed query engine. A seatch of tankers_network, as identified previously in
+the map view, displays details of the wireless access point. It has a MAC address of
+00:1F:C6:FC:1B:3F, WPA encryption, was first seen in 2011, and operates on channel 11. An
+investigator could also search by the target’s name. This may identify routers that have the target’s
+name within the SSID. A search of “Bazzell” identifies seven access points that probably belong
+to relatives with my last

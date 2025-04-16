@@ -1,0 +1,6 @@
+within the Exif data of the
+cropped photo. An example of this is seen in Figure 14.05. A cropped photo found online is
+examined through Jeffrey’s Exif viewer. The cropped full size large photo is seen on the left. The
+embedded smaller original photo was not overwritten when cropped. We can now see what the
+image looked like before it was cropped. This technique has been used by police to identify child
+pornography manufactures. These pedophiles will crop themselves out of illegal images to avoid

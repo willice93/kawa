@@ -1,0 +1,23 @@
+x 1c 4 AJ a D
+Figure 64 Polish to English translated website for OT Meternet Pro
+
+6.7 Find Procon LED Modbus controllers
+
+Everything is loT these days, even small LED ¢
+controllers are capable of performing additional
+LEDs; this Dork should lead to other discoveries.
+
+ontrollers. Procon
+functions beyond
+
+80.http.get.title: “Modbus to BACnet Configunstat Oa
+80.http.get.headers.server: “Procon Electronics Moa-
+
+Dorking 105
+
+80/HTTP
+
+GET /
+Server FST
+Status Line 200 OK
+Page Title Modbus to BACnet C

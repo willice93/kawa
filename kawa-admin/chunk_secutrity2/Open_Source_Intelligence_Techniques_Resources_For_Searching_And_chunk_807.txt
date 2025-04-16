@@ -1,0 +1,11 @@
+ch. When I have a missing
+person or homicide victim, I would much rather see the incoming messages versus the outgoing.
+We can also combine these options to create an extremely targeted query. At first glance, I did
+not see many incoming messages to SultryAsian from HydeNS33k. However, the following
+Twitter search tells a different story. It isolates only these posts.
+
+to:SultryAsian from:HydeNS33k
+
+Search by Location
+
+If you are investigating an incident that occurred at a specific location and

@@ -1,0 +1,13 @@
+splay the photos which Facebook determined were
+of interest to your target’s friends.
+
+The “friends/photos-recommended-for” option will display the photos on Facebook which
+would likely be on the overall profile feed of your target’s friends.
+
+The “friends/videos” option will display the videos on your target’s friends’ pages.
+
+The “friends/videos-by” option will display the videos uploaded by your target’s friends.
+
+Social Networks: Facebook 109
+
+The “friends/videos-of” option will display the

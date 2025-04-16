@@ -1,0 +1,13 @@
+nfo-json: Download associated metadata
+
+-1: Ignores any errors
+
+https: The link of the target videos
+
+While replicating this process every time that you need to download videos is not difficult, it can
+be time consuming. Therefore, consider creating an automated “batch” file that will provide
+point-and-click access to this utility. Open Notepad within Windows and type the following exact
+
+Software Applications 367
+
+text into it, saving the result as videos.txt in your Documents folder. Through F

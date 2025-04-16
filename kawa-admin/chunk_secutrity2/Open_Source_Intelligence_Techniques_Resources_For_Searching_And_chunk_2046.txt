@@ -1,0 +1,16 @@
+ullcontact.com/v2/person.html?facebookusetname=' + fb +
+'&apiKey=XXX, 'contactwindow4');} </script>
+
+<form onsubmit=“dofullcontact(this.fb.value); return false;”>
+
+<input type=“text” name=“fb” size=“40” value=“Facebook Name” />
+
+<input type=“submit” /></form>
+
+<script type=“text/javascript”>
+
+function dofullcontact5(anon) {
+window.open(https://api.fullcontact.com/v2/email/disposable.html?email=' + anon +
+'&apiKey=XXX, 'contactwindow'5);}</script>
+
+<form onsubmit=“dofullcontact(this.anon.value);

@@ -1,0 +1,18 @@
+mand. As of this writing, the basic commands are as follows.
+Note that (Video) refers to the actual file name of the video.
+
+Play a video:
+ffplay (Video)
+
+Convert a video to MP4:
+ffmpeg -i (Video) -vcodec mpeg4 -strict -2 $timestamp.mp4”
+
+Buscador Linux Virtual Machine 41
+
+Extract video frames:
+ffmpeg -y -i (Video) -an -r 10 $timestamp-frames/img%03d.bmp
+
+Shorten a video (Low activity):
+ffmpeg -i (Video) -strict -2 -vf "select=gt(scene\,0.003),setpts=N/(25*TB)" $timestamp.mp4
+
+Shorten a video (H

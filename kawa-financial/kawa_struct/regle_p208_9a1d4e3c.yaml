@@ -54,3 +54,49 @@ cas_pratique: 'Titre : Exemple d''application pratique pour l''individu Marie Du
   de source étrangère en indiquant le montant du bénéfice de source étrangère (10
   000€) dans la rubrique DSJA et en ne prenant pas en compte ce montant dans la base
   de calcul de ses cotisations sociales.'
+embedding_text: 'Règle : La règle s''applique aux individus qui ont un bénéfice de
+  source étrangère figurant soit dans la rubrique « revenu imposable » ou « revenu
+  de source étrangère avec crédit d''impôt égal à l''impôt français ». Les montants
+  concernés sont le montant du bénéfice de source étrangère. La formule de calcul
+  applicable est celle consistant à indiquer ce montant dans la rubrique DSJA ou DSJB,
+  sans qu''il soit pris en compte dans la base de calcul de vos cotisations sociales.
+  Pour être sûr d''y avoir droit, il faut vérifier que le bénéfice de source étrangère
+  répond aux critères spécifiés pour être considéré comme tel et n''est pas déjà pris
+  en compte dans la base de calcul de votre cotisation sociale.
+
+  Formule : Non spécifiée
+
+  Cas pratique : Titre : Exemple d''application pratique pour l''individu Marie Dupont,
+  travailleuse indépendante
+
+
+  Dans le cadre de ses activités professionnelles en tant qu''illustratrice de livres
+  pour enfants, Marie Dupont a reçu une somme de 10 000€ provenant d''une commande
+  réalisée par un éditeur étranger. Cette somme est considérée comme un bénéfice de
+  source étrangère.
+
+
+  Pour appliquer la règle appropriée, Marie Dupont a suivi les étapes ci-dessous :
+
+
+  1. Elle a calculé son revenu imposable total en ajoutant ses revenus français et
+  le bénéfice de source étrangère (10 000€) dans la rubrique « revenu imposable »
+  de sa déclaration de revenu.
+
+
+  2. Ensuite, elle a déduit le montant du bénéfice de source étrangère (10 000€) et
+  l''a indiqué dans la rubrique DSJA de sa déclaration de revenu. Elle n''a pas pris
+  en compte ce montant dans la base de calcul de ses cotisations sociales.
+
+
+  3. Enfin, Marie Dupont a comparé le régime par défaut avec l''option choisie. Dans
+  son cas, puisque elle ne souhaitait pas bénéficier d''un crédit d''impôt pour le
+  bénéfice de source étrangère (c''est-à-dire ne voulait pas que ce montant soit pris
+  en compte dans la base de calcul de son impôt), elle a choisi de rester dans le
+  régime par défaut.
+
+
+  En synthèse, Marie Dupont a correctement appliqué la règle concernant les bénéfices
+  de source étrangère en indiquant le montant du bénéfice de source étrangère (10
+  000€) dans la rubrique DSJA et en ne prenant pas en compte ce montant dans la base
+  de calcul de ses cotisations sociales.'

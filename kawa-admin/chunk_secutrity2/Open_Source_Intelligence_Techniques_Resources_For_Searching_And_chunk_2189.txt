@@ -1,0 +1,15 @@
+eb) template be used; set the “Customer” as IntelTechniques; set the “Creator”
+as M.Bazzell; and execute the process.
+
+use reporting/html
+set CUSTOMER IntelTechniques
+
+424 Chapter 22
+
+set CREATOR M.Bazzell
+run
+
+Note the output after the final command. It identifies that the report is complete, and provides
+the storage location. Since I am running Recon-ng from my Buscador virtual machine, the default
+location is /home/osint/.recon-ng/workspaces/OSINT/results.html. Therefore, I can open the
+home

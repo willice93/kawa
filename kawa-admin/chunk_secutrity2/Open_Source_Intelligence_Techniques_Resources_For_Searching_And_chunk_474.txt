@@ -1,0 +1,10 @@
+any terms
+desired and connect directly to archived data. At the time of this writing, a search bar was present
+at the top of every Wayback Machine page. If that should change, you can also conduct a search
+via a direct URL. The following address searched "Michael Bazzell" throughout the entire archive
+of information.
+
+https://web.archive.org/web/*/Michael Bazzell
+
+The results identify over twenty websites that include these terms. Within those sites are dozens
+of archived copies of each. This d

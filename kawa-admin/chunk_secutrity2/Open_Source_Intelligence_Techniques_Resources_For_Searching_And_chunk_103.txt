@@ -1,0 +1,8 @@
+during the course. During a break, I observed police officers searching Facebook on patrol
+vehicle laptops; private investigators using Windows XP while browsing suspects’ blogs; and
+global security professionals looking at hacker websites without possessing any antivirus software
+or script blockers.
+
+I have also been guilty of all of this. Early in my career of researching OSINT, I did not pay any
+attention to computer security or proper browsing habits. While I was aware of malicious
+software

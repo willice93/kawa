@@ -1,0 +1,12 @@
+ight
+comer. Accept the agreement and allow Google Apps to install. Select the option to
+restart the devices.
+
+e Your browser will open to a specific page. Select “ARM”, the version of the device that
+you created (7.0.0), and “Stock”. Click the red download option in the lower right. Do
+NOT open the downloaded zip file.
+
+e ‘Drag-and-Drop the downloaded zip file into your virtual Android device. Accept any
+warnings. You may receive an error. When complete, close and restart the device.
+
+You should

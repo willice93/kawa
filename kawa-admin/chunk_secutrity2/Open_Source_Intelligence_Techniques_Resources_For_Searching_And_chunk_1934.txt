@@ -1,0 +1,6 @@
+ts the direction that the phone was facing during the
+capture as determined by the internal accelerometer. There are several ways of extracting this
+type of information. I have found MediaInfo to be the easiest solution. Navigating to this
+download website will present you with many options. Most users download the universal
+installer which will quickly install the required software. Unfortunately, it will also display
+advertisements and attempt to trick you into installing unnecessary software

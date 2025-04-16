@@ -1,0 +1,11 @@
+Protect snapshots to retain (Recommended "3")
+
+Select OK to save your changes
+
+38 Chapter 2
+
+If you ever want to presetve a specific state of Buscador, you can export an entire session. This
+may be important if preserving your work environment for court purposes. When I am
+conducting an investigation that may go to trial, or discovery of evidence will be required, I make
+an exact copy of the operating system used during the investigation. At the end of my work, I
+shut down the machine. I click o

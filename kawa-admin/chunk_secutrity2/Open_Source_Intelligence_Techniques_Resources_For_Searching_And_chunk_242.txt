@@ -1,0 +1,13 @@
+e so you can stay in your browser while you
+ate doing your investigative work. With Hunchly working in the background, you never have to
+worry about remembering to take screenshots or annotate with some tool. All of the pages are
+captured, timestamped and documented automatically.
+
+Figure 1.15: The Hunchly capture tool in use.
+
+28 Chapter 1
+
+Tor Browser (torproject.org)
+
+Tor is an acronym for The Onion Router. Basically, it allows you to mask your IP address and
+appear to be browsing the interne

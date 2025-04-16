@@ -1,0 +1,8 @@
+arch is the only way to see the
+content. In order to search these areas, you must create a free user account. As usual, you can
+use fictitious information in your profile. After logging in, you can search by keyword on this
+main page, but not by screen name. This option will identify posts matching the search terms
+within any of the topics.
+
+The “Handle” option will search by user name but can only be seen by clicking on any topic. I
+entered the “Yoga” room which displays the additional “Handle”

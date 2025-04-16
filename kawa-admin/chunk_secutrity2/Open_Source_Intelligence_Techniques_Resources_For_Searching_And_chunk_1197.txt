@@ -1,0 +1,9 @@
+rying to connect an individual to a shell company,
+this may associate the same small provider with each target. I believe every thorough OSINT
+report should include a brief mention about the domain email provider. This should be checked
+as the investigation continues. Changing providers could be a sign of paranoia or intent to conceal
+evidence. Law enforcement can use this information in order to secure a proper search warrant.
+
+214 Chapter 8
+
+IntelTechniques Email Address Search Tool (inteltech

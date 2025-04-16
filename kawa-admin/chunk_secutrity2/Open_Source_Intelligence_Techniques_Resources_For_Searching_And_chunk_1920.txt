@@ -1,0 +1,6 @@
+do not have a “txt” extension. If you double click this file and
+it opens within Notepad, the file extension is “txt” and not “bat”. Change the file extension and
+you should see a black box open. In Figure 19.01, I had a video titled 1.dav on the desktop of my
+computer. After entering this file name of the video, press enter on your keyboard and you should
+see the program begin processing the video. When complete, you should see a new folder on
+your desktop titled “frames” which will contain num

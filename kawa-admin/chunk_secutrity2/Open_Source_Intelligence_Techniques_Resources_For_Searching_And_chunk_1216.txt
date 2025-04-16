@@ -1,0 +1,8 @@
+of Twitter, it creates a
+link to twitter.com/#!/ search/JohnDoe911. This link will be presented whether there is a profile
+at this address or not. On the down side, you will often be presented with links that do not
+function. On a positive note, you may get links that do function and are so new that other engines
+have not indexed them yet.
+
+I often use this service in two scenarios. When I have a partial or questionable user name, I will
+seatch it through Lullar and see what the profiles look l

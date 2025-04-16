@@ -1,0 +1,14 @@
+to write down the ins and
+outs of how to use the free tool with examples and case studies. Censys
+was very useful in the creation of a penetration course I wrote and
+taught at BSides Las Vegas in 2017. Although I love Shodan, Censys
+pulled me in with a different type of searching and discovery of
+interesting or weak systems. Shodan, becoming more and more my
+device OSINT side chic so to speak.
+
+<” CENSYS
+
+
+Table of Contents
+
+ESTES F scscesevsccneisisvinivonssesneresesinscuntaaiasedavanionele os

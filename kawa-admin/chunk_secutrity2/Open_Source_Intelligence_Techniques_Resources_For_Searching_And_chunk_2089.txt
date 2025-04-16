@@ -1,0 +1,8 @@
+vestigator’s phone in order to
+conduct an independent forensic analysis. That would make most people nervous. Additionally,
+if I encounter malicious software or a virus from my portable device, it could affect all future
+investigations using that hardware. Emulation will remedy both of these situations.
+
+The idea of Android emulation is to recreate the mobile operating experience within an
+application on your computer. This application will execute in the same manner that your web
+browser, word

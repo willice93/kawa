@@ -1,0 +1,7 @@
+@gmail.com Seen in the LinkedIn breach that occurred on 2012-05-05.
+lorangb@gmail.com Seen in the MySpace breach that occurred on 2008-07-01.
+lorangb@gmail.com Seen in the tumblr breach that occurred on 2013-02-28.
+
+We can take this type of search to another level. In Chapter Thirteen, I explained how sites such
+as Pastebin are often used to store user credentials after they are stolen from online services
+during illegal breaches. Recon-ng possesses a Paste module which will locate any pastes wh

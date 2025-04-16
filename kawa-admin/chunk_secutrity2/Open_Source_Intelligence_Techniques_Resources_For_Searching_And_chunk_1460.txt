@@ -1,0 +1,7 @@
+a satellite or hybrid view.
+
+The menu at the top of the map will allow you to add shapes, lines, text, and images to your map.
+Practicing on this map can never be replaced with any instruction printed here. Mastering the
+basics of this application will make occasional use of it easy. Figure 12.21 displays a quick sample
+map that shows a title, a line, a marker, and graphics. The menu can be seen in the upper left
+portion. When finished, the “Menu” button will present many options to print, save

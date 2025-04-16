@@ -35,3 +35,34 @@ cas_pratique: "Nom : Jeanne Dupont, infirmière à l'Hôpital général de Paris
   \ Jeanne peut bénéficier d'une déduction et réduire son montant à verser en impôt.\
   \ Cela permettra à Jeanne de garder plus de son argent pour les dépenses quotidiennes\
   \ ou pour l'enregistrer en épargne, par exemple."
+embedding_text: "Règle : Règle applicable aux salariés qui résident plus de 40 kilomètres\
+  \ loin de leur lieu de travail et ont des frais réels de transport pour y accéder.\n\
+  \   Conditions : La distance entre le domicile et le lieu de travail doit être supérieure\
+  \ à 40 kilomètres. Le salarié doit justifier les frais réels de transport.\n   Montants\
+  \ ou plafonds : Il n'y a pas de montant fixe ou plafond défini pour cette déduction,\
+  \ car elle se base sur les frais réels vérifiés.\n   Formule de calcul applicable\
+  \ : Le montant des frais de transport est la somme des coûts réels justifiés (billets\
+  \ d'autobus, prix à la galette pour le parking, etc.) en fonction du nombre de trajets\
+  \ effectués pendant la période d'imposition.\n   Vérifier : Pour être sûr d’y avoir\
+  \ droit, il est nécessaire de préserver les justificatifs des frais réels (e.g.\
+  \ tickets, factures, etc.) et de les présenter lors de l'examen de la déclaration\
+  \ fiscale annuelle.\nFormule : Non spécifiée\nCas pratique : Nom : Jeanne Dupont,\
+  \ infirmière à l'Hôpital général de Paris\n   Situation : Jeanne travaille à l'Hôpital\
+  \ général de Paris et vit à 50 kilomètres de là, dans la ville de Versailles. Elle\
+  \ utilise régulièrement le métro et l'autocar pour se rendre au travail chaque jour.\n\
+  \   Montants concernés : Les coûts mensuels des billets d'autobus sont de 100 euros\
+  \ et les frais de parking sont de 50 euros par mois.\n   Déclaration dans les bonnes\
+  \ cases : Les frais de transport doivent être déclarés dans la case 1AK (Frais de\
+  \ transport) sur la feuille de sa déclaration fiscale annuelle.\n   Comparaison\
+  \ régime par défaut vs option choisie : S'il n'y a pas de déduction pour ces frais,\
+  \ Jeanne paierait 500 euros de plus en impôt chaque année (100 euros * 12 mois =\
+  \ 1200 euros par an / 2). Si elle peut justifier ses frais de transport et la distance\
+  \ supérieure à 40 kilomètres, elle pourra bénéficier de cette déduction et diminuer\
+  \ son impôt d'environ 500 euros.\n   Calcul clair avec des chiffres ronds : Pour\
+  \ l'année 2021, les frais mensuels de transport sont de 100 + 50 = 150 euros par\
+  \ mois et donc de 1800 euros par an. Jeanne paierait 500 euros de moins en impôt\
+  \ s'il peut justifier ses frais.\n   Conclusion : En déclarant correctement ses\
+  \ frais de transport lors de sa déclaration fiscale annuelle, Jeanne peut bénéficier\
+  \ d'une déduction et réduire son montant à verser en impôt. Cela permettra à Jeanne\
+  \ de garder plus de son argent pour les dépenses quotidiennes ou pour l'enregistrer\
+  \ en épargne, par exemple."

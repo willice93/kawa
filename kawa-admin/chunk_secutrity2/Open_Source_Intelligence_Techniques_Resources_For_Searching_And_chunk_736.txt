@@ -1,0 +1,8 @@
+entioned in this
+section. The current state of this tool is visible in Figures 4.07 and 4.08, split due to size.
+
+The first group of searches allow you to attempt to locate a profile by email address or cellular
+number. An alternative way to search by cell will be explained in a moment. The next option
+displays the profile ID number (user number) for any individual or business profile when
+providing the user name. Immediately below that is a field to enter the target user number and
+submit in or

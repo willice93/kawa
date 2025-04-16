@@ -1,0 +1,9 @@
+, encryption type, and GPS coordinates. A search on Google Maps of the
+supplied GPS coordinates will immediately identify the home address, a satellite view of the
+neighborhood, and a street view of the house of the target. All of this intelligence can be obtained
+from a simple user name. These results would not appear on any standard search engines.
+
+Shodan (shodan.io)
+
+Shodan is a search engine that lets you find specific computers (routers, servers, etc.) using a
+variety of filters. General s

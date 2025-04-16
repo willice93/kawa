@@ -1,0 +1,9 @@
+Here Maps. The areas that display
+a detailed view are limited, but worth investigating. If you are searching for imagery of a large
+city, the 3D view displays great detail of the buildings and structures. This imagery is usually
+independent of Google and Bing data, but some areas incorporate content from Microsoft.
+
+Zoom Earth (zoomearth.com)
+
+This multiple satellite imagery website presents views from NASA, Bing, and ArcGIS.
+Occasionally, the ArcGIS data is more recent than Google or Bing. The

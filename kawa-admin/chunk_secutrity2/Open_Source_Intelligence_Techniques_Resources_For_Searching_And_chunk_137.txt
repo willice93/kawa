@@ -1,0 +1,12 @@
+of entries, you will probably wish to search for all
+of these through the search bar in the about:con fig interface.
+
+pfivacy.trackingprotection.enabled: TRUE: This blocks website tracking.
+
+geo.enabled: FALSE: This disables Firefox from sharing your location.
+
+6 Chapter 1
+
+browser.safebrowsing.phishing.enabled: FALSE: This setting disables Google's "Safe
+Browsing" and phishing protection. If this setting is "true" Google will be able to scan (and store)
+the sights that you visit for the presenc

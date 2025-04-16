@@ -1,0 +1,24 @@
+kers
+
+Enable Autopan
+
+Autopan Speed...
+Automatically stop recording...
+
+Program Options
+
+Record to Flash Options
+
+Language
+
+rnssinnsssanscuissiabiandtuaasnan amunieeeetionee ee TT
+
+Figure 19.08: A CamStudio Options menu.
+
+Software Applications 375
+
+Lightshot Capture (app.prntscr.com/en)
+
+If still captures are needed of anything on your screen, you have several options to generate them.
+You could capture a screen shot with the print screen button and paste it into a program that will
+allow you to

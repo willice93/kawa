@@ -1,0 +1,15 @@
+can be Catried cy Be — web Pages,
+Senet ttt : : d ses any login permissions. Post replay with modificatic “ulnerabilry
+
++ accepts 4 URL. I could probably have it open up Bir : form element
+
+{used both ZAP and Fiddler 4 as a proxy to test and prove e $ and other
+
+Vulnerable request(1.2.3.4 fake IP)
+
+post http: / [1.2.3.4 /general/status.html HTTP/1.1
+
+Host: 1.2.3.4
+Figure 131 Accepts field submission Referer: http:/ /1.2.3.4/ general/ contact-htm!
+MFC-J6510DW
+brother Content-Type: application/ x-

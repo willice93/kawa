@@ -1,0 +1,10 @@
+a. When booting to the new USB device, it will not have the ability to decrypt the primary
+device. This keeps your primary data secure. It also prevents malicious software such as viruses
+from spreading to the old drive.
+
+Next, you need to choose the proper USB flash storage device. I highly recommend only using
+USB 3.0 devices and ports. If your computer does not have a USB 3.0 port, these methods might
+
+52 Chapter 2
+
+be slow and unusable. Most laptops created in the past five years have this f

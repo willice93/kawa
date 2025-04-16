@@ -1,0 +1,9 @@
+w search any term or terms that you want and receive results for
+only the social networks that you specified. Additionally, you can choose to view all of the results
+combined or only the results of a specific network. Figure 3.03 displays the results when I
+searched the term osint. In this example, I have selected the Twitter refinement in order to only
+display results from twitter.com.
+
+About 398,000 results (0.33 seconds) Sort by: Relevance ~
+
+Figure 3.03: A Twitter refinement in a Google Cust

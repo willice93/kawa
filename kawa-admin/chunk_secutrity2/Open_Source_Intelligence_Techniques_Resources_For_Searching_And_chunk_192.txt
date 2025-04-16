@@ -1,0 +1,15 @@
+Email Image... * X/Y-Resolution Unit = inch (2)
+
+Set As Desktop Background... e Last Modified Date/Time = 2009:07:02 10:35:16
+
+View Image Info * Y/Cb/Cr Positioning (Subsampling) = centered / center of pixel array (1)
+
+Copy Image to List-it
+
+Figure 1.08: The right-click menu and result from an Exif Viewer search.
+
+Prepate Your Computer 17
+
+MJSONViewer (addons.mozilla.org/en-US/firefox/addon/mjsonviewer/)
+
+This extension will probably go unnoticed, which is a good thing. MJSON Viewer allows JSO

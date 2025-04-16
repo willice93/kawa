@@ -1,0 +1,10 @@
+ofile will present a membership plan with
+pricing. The profile will often display full name, gender, age, and previous cities and states of
+residency. However, it no longer presents the actual current address. Well, kind of...
+
+As an example, I searched for people with my name and located an exact match. The profile page
+only identified a city in West Virginia as a home address. However, after right-clicking on the
+
+228 Chapter 10
+
+page and choosing the option to “View Page Source”, I could see

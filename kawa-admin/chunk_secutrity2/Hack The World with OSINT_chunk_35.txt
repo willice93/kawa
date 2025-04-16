@@ -1,0 +1,11 @@
+100
+Figure 56 Censys PornHub.com associated system SSH details ......101
+Figure 57 CVE Details result for € JpenSSH version 7.4 vulnerabilities
+
+Figure 58 Censys search for reverse shells
+Figure 59 Censys search results for WannaCry infected hosts using Dorking..103
+Figure 60 Example Censys HTTP Body field WannaCry infected host
+
+sis anni ig tl Sl reel cca tea dda dala 103
+Figure 61 Censys Meternet power meter loT i: eee HC a ee 104
+Figure 62 Meternet Pro systetm........ssesssessusssnnsssnneenss

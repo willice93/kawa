@@ -1,0 +1,7 @@
+e capture as a maximum quality PNG file to your Desktop. While a PDF file
+created with FireShot is the preferred file format, a PNG file has other advantages. The PNG file
+is more universal and does not requite PDF viewing software such as Acrobat Reader. However,
+PNG files are easy to edit, and establishing the integrity of the file may be difficult. I believe that
+Nimbus should be used as a supplement to FireShot.
+
+One common failure of both FireShot and Nimbus is the capture of extremely larg

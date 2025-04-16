@@ -1,0 +1,10 @@
+ng
+to ftp.phonelosers.org could reveal interesting information.
+
+ViewDNS IP History (viewdns.info/iphistory)
+
+This tool translates a domain name to IP address and identifies previous IP addresses used by
+that domain. A search of phonelosers.org reveals the following details. The first column is the IP
+address previously associated with the domain, the second column identifies the current user and
+company associated with that IP address, and the last column displays the date these details were
+co

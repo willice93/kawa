@@ -66,3 +66,45 @@ calcul:
     revenu_brut: 20
     abattement: 1
     revenu_net: 19
+embedding_text: "Règle : Règle de calcul de la CSG-CRDS pour certaines allocations\
+  \ et indemnités journalières (IJ) :\n\n- À qui s'applique la règle : Les bénéficiaires\
+  \ des IJ suivantes :\n  - Allocations et indemnités journalières de sécurité sociale\
+  \ (maladie, y compris les IJ versées aux professions libérales depuis le 01/07/2021,\
+  \ arrêt de travail ou garde d'enfant en lien avec l'épi- démie de Covid-19, maternité/paternité)\n\
+  \  - Les IJ perçues par les personnes relevant du régime micro-fiscal et IJ perçues\
+  \ dans le cadre d'une affection de longue durée\n  - Les IJ sur lesquelles la CSG\
+  \ et la CRDS ont été précomptees\n\n- Dans quelles conditions :\n  - Ces IJ bénéficient\
+  \ du taux réduit de CSG-CRDS à 6,7 % (au lieu de 9,7 %)\n  - Les informations nécessaires\
+  \ au calcul de la CSG-CRDS à taux réduit sur ces sommes sont transmises directement\
+  \ par la CPAM qui vous les a versées à votre Urssaf.\n  - Si les montants versés\
+  \ ont été précomptees de la CSG-CRDS, votre Urssaf n'ajoutera pas ces montants dans\
+  \ la base de calcul de la CSG-CRDS. Les montants déclarés dans la rubrique DSCA\
+  \ ou DSCB seront ajoutés dans la base de calcul de vos contributions sociales.\n\
+  \n- Quels sont les montants ou plafonds : Pas spécifié dans le texte.\n\n- Quelle\
+  \ est la formule de calcul applicable : Le taux réduit de CSG-CRDS à 6,7 % est appliqué\
+  \ automatiquement sur les montants des IJ qualifiantes.\n\n- Et ce qu'il faut vérifier\
+  \ pour être sûr d'y avoir droit : Il n'y a pas de démarche particulière à effectuer,\
+  \ ni de montant à déclarer, pour bénéficier de ce taux réduit. Les informations\
+  \ nécessaires au calcul de la CSG-CRDS à taux réduit sur ces sommes sont transmises\
+  \ directement par la CPAM qui vous les a versées à votre Urssaf.\nFormule : revenu_brut\
+  \ * (1 - 0.07)\nCas pratique : Titre : Application de la règle de calcul de la CSG-CRDS\
+  \ pour indemnités journalières (IJ) d'une personne auto-entrepreneure en congé maternité\n\
+  \nContexte : Madame Dupont, une auto-entrepreneure spécialisée en peinture murale\
+  \ avec un chiffre d'affaires annuel de 45 000 € et ayant perçu des indemnités journalières\
+  \ (IJ) de maternité à partir du 1er mai 2022.\n\nMontants concernés : Les IJ mensuelles\
+  \ sont de 1 200 €, soit un montant annuel total de 14 400 €. La CPAM a précompté\
+  \ la CSG et la CRDS sur ces indemnités.\n\nDéclaration : Les IJ sont versées à l'Urssaf\
+  \ dans la rubrique DSCA (6AK pour les indemnités journalières de sécurité sociale).\
+  \ Il n'est pas nécessaire de déclarer explicitement la CSG-CRDS réduite.\n\nComparaison\
+  \ : Le régime par défaut stipule que le taux de CSG-CRDS serait de 9,7 %, soit 1\
+  \ 361,20 €. En revanche, en application de la règle de calcul de la CSG-CRDS à taux\
+  \ réduit, Madame Dupont bénéficie d'un taux réduit de 6,7 %. Cela représente un\
+  \ économie de 120,58 € par mois et 1 446,96 € par an sur la CSG-CRDS.\n\nCalcul\
+  \ clair : Pour calculer le montant total des contributions sociales, on déduit les\
+  \ montants précomptés de CSG-CRDS (s'il y a lieu) de la base de calcul de vos contributions\
+  \ sociales. Les montants de CSG-CRDS déjà précomptés sur les IJ ne seront pas ajoutés\
+  \ dans la base de calcul de la CSG-CRDS.\n\nConclusion : Madame Dupont bénéficie\
+  \ donc d'une économie de 1 446,96 € sur sa CSG-CRDS pour l'année 2022 en application\
+  \ de la règle de calcul de la CSG-CRDS à taux réduit. Il n'y a pas besoin de démarche\
+  \ particulière pour bénéficier de ce régime favorable. Les informations nécessaires\
+  \ sont transmises directement par la CPAM qui vous les a versées à votre Urssaf."

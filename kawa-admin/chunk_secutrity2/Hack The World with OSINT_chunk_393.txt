@@ -1,0 +1,45 @@
+eries Details URL Parameter
+
+URL Parametet Type Required
+
+ee a
+
+The values for series are returned from Get Series
+
+Details response codes
+
+Description
+
+Table 88 Rest API Get Series
+
+Response code
+
+Not Found ____
+
+oe
+
+13.6 Report Export
+
+13.6.1 Start Export Job
+
+Required
+
+Data Parameter
+
+Format
+
+
+Compress Boolean _.
+Delimiter CSV only
+Headers CSV only
+
+yn me Description
+
+"200 Success
+
+ome oe ——_ ces Not F found
+
+Py ee gee Rate Limit Exceeded
+429 Internal Server Error
+
+13.6.2 Export Get Job Statu

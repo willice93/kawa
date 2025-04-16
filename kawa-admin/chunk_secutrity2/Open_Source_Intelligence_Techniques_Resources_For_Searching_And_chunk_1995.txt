@@ -1,0 +1,6 @@
+present on every machine that I use. In the simplest terms, it
+removes the junk left behind on your hard drive from daily usage. Internet cookies, cached files,
+registry errors, and many other issues can be resolved with this free software. The safest setting
+for both Windows and Mac users is to accept the default actions, “Analyze”, review the files to
+be deleted, and then “Clean”. Adventurous usets may enable additional cleaning tasks. On my
+investigation machines, I enable everything in the

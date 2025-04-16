@@ -1,0 +1,12 @@
+gardless of the order.
+
+allintitle:training osint video
+
+An interesting way to use this search technique is while searching for online folders. We often
+focus on finding websites or files or interest, but we tend to ignore the presence of online folders
+full of content related to our search. As an example, I conducted the following search on Google.
+
+intitle:index.of OSINT
+
+The results contain online folders that usually do not have typical website files within the folders.
+The first three resul

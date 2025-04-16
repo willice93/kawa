@@ -1,0 +1,13 @@
+Alternatively, you can hold the Shift button and the PmtScrn button to
+capture the entire screen automatically. If you select a portion of the screen with the default
+setting, you will be presented with a menu of options, as seen in Figure 19.09.
+
+In order from lower-left to upper-right, the icons each perform the following tasks.
+
+Upload screen capture to Lightshot’s servers (NOT recommended)
+
+Share screen capture on social networks (NOT recommended)
+
+Conduct a reverse-image search on Google
+
+P

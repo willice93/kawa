@@ -1,0 +1,11 @@
+ynamic data that changes often, you can
+select to avoid that portion of the page. Figure 16.01 displays the monitoring option for
+phonelosers.org. In this example, I positioned the selection box around the blog content of the
+main page. I also chose the hourly inspection and Tiny Change option. If anything changes within
+this selected area, I will receive an email announcing the difference.
+
+phonelosers.org|
+
+Figure 16.01: A portion of a web page monitored by Visual Ping for changes.
+
+Domains Na

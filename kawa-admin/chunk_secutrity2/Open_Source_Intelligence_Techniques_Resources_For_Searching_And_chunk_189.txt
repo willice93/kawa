@@ -1,0 +1,9 @@
+the icon away from the menu bar. It does not need to be visually
+present to function.
+
+Exif Viewer (addons.mozilla.org/en-us/ firefox/addon/exif-viewer)
+
+This extension provides right-click access to the Exif data embedded into images. Chapter
+Fourteen explains what Exif data is and how it can be useful. With this extension enabled, you
+can right-click on any full size image located on a web page. The menu option is “View Image
+Exif Data” and a new window will open when selected. This window wi

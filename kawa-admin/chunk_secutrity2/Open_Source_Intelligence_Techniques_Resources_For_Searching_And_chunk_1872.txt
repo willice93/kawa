@@ -1,0 +1,16 @@
+will often display
+estimated mileage based on service records.
+
+Vin Coderz (vindecoderz.com)
+
+CarFax (carfax.com/processQuickVin.cfx0)
+
+Check That VIN (checkthatvin.com)
+
+Search Quarry (searchquarry.com/vehicle_records)
+
+NICB VIN Check (nicb.org/theft_and_fraud_awareness/vincheck)
+
+While the previous two searches will identify details about vehicles and their owners, they will
+not display any information about theft or salvage records. The National Insurance Crime Bureau
+(NICB) allows search of

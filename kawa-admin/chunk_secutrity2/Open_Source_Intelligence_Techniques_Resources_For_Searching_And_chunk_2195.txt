@@ -1,0 +1,8 @@
+shpins
+
+The output of these commands included thousands of photos posted to Flickr that were geo-
+tagged within the area of the target location. If you encounter errors stating that your API keys
+ate invalid after entering and running a script, simply exit Recon-ng and relaunch. This is a known
+bug. Now that we have several pushpins created, let’s create the report. The following commands
+load the reporting module; display the stored location coordinates; set our latitude for the report;
+set our

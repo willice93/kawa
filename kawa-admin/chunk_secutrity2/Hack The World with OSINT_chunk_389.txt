@@ -1,0 +1,22 @@
+rusted: 19.084 Ys seuatechete-ereni8es Me neiicat, rorenyorell-be arenes. poney eet pa armcneth ie, -
+ar @ C=U5, ST«New Jersey. t= Morris Plains, O= Honeywell Interna tional inc. CU-ACS. CNepages 2 horwywcetl coe
+© More aoe me
+Figure 169 HTTP Honeywell certeficate organisation
+13.3 View
+
+/api/v! /view/ -index/ :id
+Table 74 View Rest 1PI GET URL. Parameters
+
+Requit ed
+
+URL Parameter [ype
+
+Rest API 237
+
+Sering Yes
+ID
+
+Example: 7
+/api/ é /view /websites /fbi-goV
+
+easy IP] Gi ; ‘a Response cu i Ay

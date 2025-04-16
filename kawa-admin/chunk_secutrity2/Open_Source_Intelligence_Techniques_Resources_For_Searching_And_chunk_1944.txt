@@ -1,0 +1,6 @@
+ol that I launched during almost every Twitter investigation. Today, its
+power has been ctippled by Twitter’s strict enforcement of their API limits. However, there is
+still value here for specific investigations. Creepy is an application created to display a Twitter
+uset’s location on a map, or Twitter usets that have posted from a specific location. This is
+determined by the GPS data stored within a Twitter post. This can identify places visited by a
+target with the date and time that they wer

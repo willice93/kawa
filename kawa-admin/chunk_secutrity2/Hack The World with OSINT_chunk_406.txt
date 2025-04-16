@@ -1,0 +1,29 @@
+rsed. extensions.authority_info_access.ocsp_urls: |
+| Parsed.exten
+
+"Pa Passed, extensions. coeiiaate desta: timestamp:
+
+si
+
+;
+
+' Parsed. extensions. .authority_info_ access. .Ocsp_ urls. raw:
+
+| cen nasaaidhatity. info_access.issuer_ urls:
+
+on ear cle an ST ear ae | bE
+| Parsed.extensions. authority_info_access.issuer _urls.raw | e
+
+|
+
+Table 112 Censys Certificate Policy fields
+
+i
+
+Parsed extensions.certificate_policies.id:
+
+a a te
+— ae le opine Wee wes
+a sities
+
+' Parsed.extensions.certificate

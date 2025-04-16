@@ -1,0 +1,10 @@
+xit in the window
+closes everything, but removes nothing. Before our next example, let’s delete our previous work
+and start fresh. Note that deleting a workspace removes all associated data and reports. Make
+sure that you have exported your evidence if needed. First, relaunch Recon-ng from the Buscador
+menu. The following commands display the current workspaces; delete the OSINT workspace;
+and create a new workspace ttled location.
+
+workspaces list
+workspaces delete OSINT
+workspaces add location

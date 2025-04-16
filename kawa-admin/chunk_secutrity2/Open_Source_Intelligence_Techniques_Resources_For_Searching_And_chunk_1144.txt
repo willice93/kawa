@@ -1,0 +1,6 @@
+“pinboard” where users can share photos, links, and content located
+anywhere on the internet. It is a way to rebroadcast items of interest to a user. People that follow
+that user on Pinterest can keep updated on things that the user is searching and reading. The
+search feature on the main website is useful for keyword searches only. It will search for any term
+and identify posts that include those words within the description. A search of my last name
+displayed several photos of people. Clickin

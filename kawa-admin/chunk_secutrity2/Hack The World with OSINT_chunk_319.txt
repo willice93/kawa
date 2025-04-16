@@ -1,0 +1,17 @@
+ensys Reporting
+Play of the previous chapters included using if
+This chapter should give you some additional, usetu
+
+the reporting function.
+report options
+
+Censys Reporting 189
+
+and use cases.
+
+11.2 Find Vulnerable IIS servers in an unconventional] Way
+
+An important part of network security defence js discover;
+vulnerabilities or other problems before someone with bad Pilar
+does. IIS as a web server has been around for many years; 4 “Ons
+there will be old, vulnerable versions with Metasploit mo

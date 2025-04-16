@@ -1,0 +1,9 @@
+ge, but it is full of promoted Tweets, reTweets, and
+whatever content that she wants us to see. Instead, the following search within any Twitter
+window will limit our results only to her outgoing Tweets from her account. Clicking the Latest
+option in the Twitter menu will place these in reverse-chronological order.
+
+from:SultryAsian
+
+This provides a better view into her thoughts. Both her Twitter profile and this results page give
+us insight to the messages that she is sending out, but what abou

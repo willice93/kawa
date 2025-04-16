@@ -1,0 +1,7 @@
+rios. However, there are
+some guidelines that may help you create the most appropriate documentation of your online
+investigation. This chapter attempts to convert your online evidence into digestible reports.
+
+First, we should separate into two categories: Government and private sector. These are two very
+different groups with unique requirements. I will start with the private sector. Since I began using
+OSINT techniques as part of my investigations, I have seen a drastic shift in its use withi

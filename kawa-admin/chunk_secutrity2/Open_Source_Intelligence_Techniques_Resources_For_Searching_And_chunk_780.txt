@@ -1,0 +1,6 @@
+o the same with Column B to fit in all of the text. Use the “Find and Replace”
+feature to find every instance of “Add Friend” and replace it with nothing. This will remove those
+unnecessary entries. In the “Home” menu, choose “Format” and then “Auto Fit Row Height”.
+This will eliminate unnecessary spacing. Select Column B and Left Justify the text. Your final
+result will be a clean spreadsheet with all of the images, names, and active links from your target’s
+Facebook page. This is not the clean

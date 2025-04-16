@@ -1,0 +1,12 @@
+e entire project
+
+Clicking Browse within a project displays hyperlinks to the data obtained
+Clicking Export Data from the Browse page generates a spreadsheet with all data
+Revisiting the Scans page refreshes all updated data
+
+Selecting and Deleting a scan removes it completely from your machine
+
+Scans cari be stopped or rescanned from the Scans page
+
+In my second example, I created a new scan titled “Suspect Email” and searched a target email
+address. Since SpiderFoot detects the type of input a

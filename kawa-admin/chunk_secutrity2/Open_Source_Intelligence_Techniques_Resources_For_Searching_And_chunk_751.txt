@@ -1,0 +1,10 @@
+typed into the Facebook search form
+
+and the results would identify any profiles created with that number. Since Facebook usually
+tequires a cellular telephone number to complete the signup process, this type of search yielded
+
+Social Networks: Facebook 127
+
+very successful results. Facebook has a great database of cellular telephone numbers and
+associated users. Unfortunately, this feature was eliminated by Facebook after a security
+researcher made the vulnerability public. This feature reappea

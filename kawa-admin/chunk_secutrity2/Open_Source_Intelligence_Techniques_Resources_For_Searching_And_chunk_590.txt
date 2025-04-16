@@ -1,0 +1,9 @@
+cation text can
+be sent and confirmed. Providing VOIP numbers such as a Google Voice account will not work
+anymore. I have found only one solution. Turn off any VPN, Tor Browser, or other IP address
+masking service and connect from a residential or business internet connection. Make sure that
+
+Social Networks: Facebook 95
+
+you have run CCleaner to clear out all of your internet cache and log you out of any accounts.
+Instead of creating a new account on facebook.com, navigate directly to m.facebo

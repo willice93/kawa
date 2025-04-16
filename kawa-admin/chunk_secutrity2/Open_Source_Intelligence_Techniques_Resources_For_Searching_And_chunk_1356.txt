@@ -1,0 +1,9 @@
+to validate that address after you receive an email with your
+license key. The custom address (URL) that we need to create only requires your license key and
+the target number. A user name is not necessary. The format of my ftee trial key is as follows.
+
+cnam.bulkcnam.com/?id=b03c6513f688f89ee3 f&did= 6187271233
+
+This queries the domain (bulkcnam.com), my free trial license (b03c6513f688f89ee3f), and my
+target telephone number (6187271233). A premium subscription to Bulk Solutions costs $0.009
+p

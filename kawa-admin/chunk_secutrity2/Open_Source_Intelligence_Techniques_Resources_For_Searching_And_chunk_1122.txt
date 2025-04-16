@@ -1,0 +1,11 @@
+f the user typing
+their email address as JohnDoe911@gmail.com, he or she may identify the account as
+“JohnDoe911 at gmail com”. This would be enough to prevent Craigslist's servers from
+identifying the text as an email address and prohibiting the post. Fortunately for the investigator,
+this information is indexed by Craigslist and other search engines to be retrieved.
+
+You can search any keyword in either the official Craigslist site or on Google and Bing using the
+
+Online Communities 199
+
+“site

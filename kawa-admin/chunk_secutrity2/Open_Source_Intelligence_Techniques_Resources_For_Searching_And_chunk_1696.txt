@@ -1,0 +1,8 @@
+mber and email address can be searched
+through the methods explained in previous chapters. This is a great start, if the provided details
+are accurate. I have found that ViewDNS will occasionally block my connection if I am connected
+to a VPN. Alternative whois research tools are whois.net and who.s.
+
+Many domain owners have started using private registration services in order to protect their
+privacy. These services provide their own data within the whois search results, and only these
+companie

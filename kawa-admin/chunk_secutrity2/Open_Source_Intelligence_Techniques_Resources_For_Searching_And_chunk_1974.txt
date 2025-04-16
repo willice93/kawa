@@ -1,0 +1,8 @@
+ons of the file; user names of people that
+modified it; printers that have printed the file; revision history; email addresses of the owner, and
+software version information. Figure 19.12 (top) displays a partial result of a file summary that
+displays the company, computer user name, and email address of the target. This information is
+probably stored inside every document created on that computer.
+
+If you do not have any individual documents to analyze, you can begin to look for them now.
+On th

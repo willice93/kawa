@@ -1,0 +1,10 @@
+le websites and ate the
+technology responsible for monitoring your interests, web history, and shopping habits.
+
+This menu is split into three columns. The first simply identifies the type of code or domain name
+of the script. The second column is global settings. Anything changed here will apply to all
+website visits. The third column contains settings for the current website. A single plus sign (+)
+
+Prepate Your Computer 13
+
+indicates that less than ten scripts were allowed from that specific

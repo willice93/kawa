@@ -1,0 +1,10 @@
+t, copy the entire job description under the “LinkedIn Member” title. In this example, it is
+“Account Executive at Uber”. Use this in a custom Google search similar to the following.
+
+Social Networks: Others 171
+
+site:linkedin.com “Account Executive at Uber”
+
+The results listed will vary from personal profiles to useless directories. Since Uber is such a large
+company, I had to view many pages of results until I identified my target. When I opened the
+24th search result, the LinkedIn page loaded

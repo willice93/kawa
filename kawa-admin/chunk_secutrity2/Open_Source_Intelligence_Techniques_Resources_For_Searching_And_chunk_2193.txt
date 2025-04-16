@@ -1,0 +1,8 @@
+enter twice to bypass the latitude and longitude prompts (we
+don’t know them yet). You will then be prompted with street_address (TEXT). In this example,
+I will enter 106@ W Addison St, Chicago, IL 60613. This stores the entered location into our
+current workspace.
+
+The following commands load the geocode module which will convert our addtess to GPS
+coordinates; execute the module; display and confirm our locations; load the Twitter “pushpin”
+module; execute the script; and display the Twitter

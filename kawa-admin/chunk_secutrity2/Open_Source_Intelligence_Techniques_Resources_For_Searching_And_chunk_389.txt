@@ -1,0 +1,9 @@
+ite (website) or ext (file extension). To the night is the rule for the operator,
+such as the target domain or file type. The following will explain each operator and the most
+appropriate uses.
+
+Site Operator
+
+Google, and other search engines, allow the use of operators within the search string. An operator
+is text that is added to the search, which performs a function. My favorite operator is the “site:”
+function. This operator provides two benefits to the search results. First, it will only pr

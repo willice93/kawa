@@ -1,0 +1,9 @@
+specify operators that will focus only on the data within the URL or addtess of the
+website. Previously, the operators discussed applied to the content within the web page. My
+favorite search using this technique is to find File Transfer Protocol (FIP) servers that allow
+anonymous connections. The following search would identify any FTP servers that possess PDF
+files that contain the term OSINT within the file.
+
+inurl:ftp -inurl:(http | https) filetype:pdf “osint”
+
+The following will dissect how

@@ -1,0 +1,12 @@
+. You will receive
+an email similar to the following.
+
+This is your DOTS GeoPhone Plus 2 API Trial License Key: WS77-OAZ3-xXxX
+
+You can now use this key within a custom URL to search the registered owners of landline and
+cellular telephone numbers. The exact format is the following. Note that you would change
+“8475551212” to the target telephone number and “WS77-OAZ3-xXxX” to your trial license
+key.
+
+http://trial.serviceobjects.com/gppl2/api.svc/GetPhonelnfo?PhoneNumber=8475551212&Te
+st 'ype=ful

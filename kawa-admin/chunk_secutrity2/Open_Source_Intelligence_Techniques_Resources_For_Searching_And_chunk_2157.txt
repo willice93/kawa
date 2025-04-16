@@ -1,0 +1,8 @@
+), you only need to launch it from
+the menu. If you would like to install it within your own Linux environment, everything you need
+is at https://bitbucket.org/LaN MaSteR53/recon-ng/wiki/Usage%20Guide.
+
+Recon-ng does not possess many online tutorials. The guides that I have found are mostly an
+index of commands with little explanation. Instead of trying to summarize how the program
+functions, I will walk you through actual usage and explain as we go. I will start with the basics
+and then conduct

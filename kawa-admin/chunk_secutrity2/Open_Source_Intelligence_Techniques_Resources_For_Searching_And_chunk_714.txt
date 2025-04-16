@@ -1,0 +1,9 @@
+ion we seek. Navigate to my Facebook Search Tools as
+explained at the end of this chapter, and look at the lower right area. You will find a senes of
+links similar to the following.
+
+Video Data: ALL / Level 0 / Level1 / Level 2
+
+These hyperlinks each open a unique set of data from the Facebook Live servers. The links
+starting with “Level” connect you directly to the metadata being used to populate the Facebook
+Live Map that was mentioned previously. The various levels will return different detai

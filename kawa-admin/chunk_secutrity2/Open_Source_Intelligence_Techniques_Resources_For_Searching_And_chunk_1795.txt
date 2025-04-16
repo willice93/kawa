@@ -1,0 +1,10 @@
+ll display whether it was used as a
+Tor connection. While a date is required, you could provide the current date if your target time
+frame is unknown. Most IP addresses are either always a part of the Tor network or not
+connected at all.
+
+Wigle (wigle.net)
+
+Wigle is a crowd sourced database of wireless access points. Users in all areas of the country
+conduct scans of wireless devices in their area; identify details of each device; and submit this
+data to Wigle in order to map the found devices o

@@ -1,0 +1,10 @@
+ds. This will
+quickly display images which may identify recent locations visited by the friends.
+
+The “friends/photos-commented” option will display the photos on Facebook where your
+target’s friends placed a comment. This often includes communication otherwise difficult to find.
+
+The “friends /photos-interacted” option will display the photos on Facebook where your target’s
+friends liked or commented on a photo. This combines two previous efforts.
+
+The “friends/photos-interested” option will di

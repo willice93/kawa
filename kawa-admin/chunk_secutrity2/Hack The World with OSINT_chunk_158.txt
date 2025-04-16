@@ -1,0 +1,35 @@
+server and
+will return the various HTTP codes numerically and a description for
+
+Table 36 HTTP Unofficial Codes use as a string.
+
+‘able 38 NGINX HTTP Error Codes
+
+| HTTP Code: Description
+
+HTTP Codes Description
+
+420 Method Failure (Spring Preerork) ee ae No response
+
+Ce  aeanemeeeenmmnniaiaial
+
+SSL certificate error
+
+> Sh certificate required =
+
+ete Sia ae ae nn
+
+veel maa a Pee ES ae
+
+“HTTP request sent to HTTPS port
+
+rs |
+
+Client closed request ioe
+
+ee — ee
+
+—
+canapnesnece ttt NENA Te ;
+
+Censy

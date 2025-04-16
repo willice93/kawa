@@ -1,0 +1,6 @@
+re version of FTP called SFTP but Telnet is not a secure Table 9 Important FTP ¢
+protocol. Contrary to the Telnet Wikipedia article statement “SSH has
+practically replaced Telnet, and the older protocol is used these days
+only in rare cases to access decades old legacy equipment that does not Part en feet ee te
+support more modern protocols.” An internet scan by ZMap, reported | .ftp.banner.banner 220-FileZilla Server 0.957
+by Censys, shows Telnet is still in widespread use, about half as much b

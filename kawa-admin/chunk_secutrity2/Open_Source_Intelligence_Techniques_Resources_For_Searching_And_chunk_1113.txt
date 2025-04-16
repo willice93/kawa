@@ -1,0 +1,8 @@
+ll have a search field that will search all of the categories in this
+section. Additionally, we can filter by price range, posts that contain images, or terms that only
+appear in the title of the post.
+
+Craigslist recently added new features that allow you to view results by list view, gallery view, or
+map view. These locations will only refer to the city of the item, and not exact GPS location. The
+gallery view can be used as a “photo lineup” to identify a stolen item. The map view can be
+benef

@@ -1,0 +1,8 @@
+to ensure
+your browser is up-to-date. You can check your version of Firefox by clicking on the Menu
+button in the upper right (three horizontal lines), then the Help button (?), and finally the option
+labeled About Firefox. This will open a new window that will display the version of Firefox you
+are running, or a warning that the version you have is out-of-date.
+
+In November 2017, Firefox released version 57 of their browser. These updates usually go
+unnoticed by most users, as the changes are

@@ -1,0 +1,7 @@
+ick
+on this photo and it will open in a pop-up window as a larger view. You can now tight-click on
+the photo and save the file. However, this will not be the largest size available through Twitter.
+Instead, nght-click the photo and select “open image in new tab”. This will launch a new tab that
+should only contain the actual image. The address of the image will likely end in a file extension
+such as jpg. At the very end of the URL for this image, add “orig” without the quotes. It should
+open a n

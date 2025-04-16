@@ -1,0 +1,18 @@
+blogold/author
+Disallow: /login
+
+Disallow: /blog/category
+Disallow: /blog/week
+Disallow: /blog/month
+Disallow: /blog/recommend
+Disallow: /blog/author
+Disallow: /contests/category
+Disallow: /contests/week
+Disallow: /contests/month
+Disallow: /contests/recommend
+Disallow: /contests/author
+
+Domains Names 331
+
+The first line indicates that this website was created by Squarespace, and is likely stored on their
+setvers. The rest of the file identifies online folders that include a live blog, previous b

@@ -1,0 +1,8 @@
+iends, it passes
+these email addresses to Twitter for cross-reference.
+
+Gmail is closely connected with Google+. If you hover over any email address within your sent
+ot received messages, Gmail searches that contact within the Google+ database. You can then
+click on the profile icon present in the pop-up window to navigate directly to the related profile.
+While email address searching is supported on Googlet+, some queries fail for unknown reasons.
+If you have communication with the target withi

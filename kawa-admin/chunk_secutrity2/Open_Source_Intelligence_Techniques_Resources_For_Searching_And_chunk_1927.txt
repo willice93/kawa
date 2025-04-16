@@ -1,0 +1,8 @@
+cuments
+
+You can now launch a command that will execute the YouTube-DL application and any desired
+parameters. This was explained in Chapter Two, but the instructions are a bit different on
+Windows. Assume that you have located the same Bob Ross video channel that was discussed
+eatlier (youtube.com/user/BobRossInc/videos). The following command would launch
+YouTube-DL and download all of the videos available in this channel in the highest quality
+possible. Below this command is the description o

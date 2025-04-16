@@ -1,0 +1,6 @@
+page may quickly become the focus of your investigation. Websites, also known
+as domains, are the main sites at specific addresses. For example, the website that hosts my blog,
+www.inteltechniques.com/ wp is on the domain of inteltechniques.com. The “www” or anything
+after the “.com” is not part of the domain. These addresses should always be searched for
+additional information. If your target has a blog at a custom domain, such as privacy-training.com,
+the content of the site should obviously

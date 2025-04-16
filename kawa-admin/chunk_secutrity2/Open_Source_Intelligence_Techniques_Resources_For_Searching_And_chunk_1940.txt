@@ -1,0 +1,9 @@
+adding layers. By default, you will only see the satellite imagery of the
+location. The menu on the left possesses options for adding new content to this view. The last
+box in this menu is titled “Layers”. Inside of this menu are several data sets that can be enabled
+and disabled by the checkbox next to each. The following details will explain the layers of interest.
+
+Photos - Digital images uploaded through social networking sites Panaramio and 360cities
+Roads - Text layer of road names
+
+3D Bui

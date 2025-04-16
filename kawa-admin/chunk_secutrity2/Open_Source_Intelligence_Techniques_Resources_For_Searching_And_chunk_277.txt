@@ -1,0 +1,12 @@
+(evidence). It can be found in the File Manager (Home), on the left column, titled "sf_"
+followed by the name of the folder to which it is connected. This shared folder will also be on
+your desktop for easy access. You can make the machine full-screen, copy and paste text to and
+from the image, and you are ready to begin using the applications.
+
+Buscador VMWare Installation
+
+In the VMWare menu, select File > Import > Select OVA
+
+Select the location where the VM will be imported. Click "OK"
+
+Cli

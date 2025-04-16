@@ -1,0 +1,9 @@
+and allow you to enter a
+
+150 Chapter 5
+
+start date and end date. This can allow you to expand your search beyond the 75 Tweet limit. If
+your target is an active user, you may want to search one week at a time and document the results.
+Similar to GeoSocial Footprint, the results are not always reliable. In my experience, you will
+receive less than 10% of the possible location tagged results. One alternative to this service is
+Tweet Mapper (keitharm.me/projects /tweet), which can be used to verif

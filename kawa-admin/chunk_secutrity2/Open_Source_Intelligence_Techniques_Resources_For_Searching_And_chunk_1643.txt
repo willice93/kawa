@@ -1,0 +1,11 @@
+following address.
+
+https:/ /igcdn-photos-g-a.akamaihd.net/hphotos-ak-xft1/t51.2885-15/e15/ 122375 57_ 1654671
+668132782_1953483052_n.jpg
+
+Liveleak: Similar to Instagram, LiveLeak displays a meta property=“og:image” line near the top
+of every video page’s source code view. As an example, consider that your target is a bus fight
+video located at http://www.liveleak.com/view?i=9d4_1447939701. The source code of that
+page reveals the still image to be located at the following address.
+
+https://cdn.

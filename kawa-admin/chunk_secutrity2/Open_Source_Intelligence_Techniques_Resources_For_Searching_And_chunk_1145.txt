@@ -1,0 +1,6 @@
+g each of these links will present the full-page view of
+the photo and any associated comments. This page will also identify the full name of the person
+that uploaded the content and the oniginal online source. Clicking on the full name of the user
+will open the user profile which should include all “pinned” content. Unfortunately, you cannot
+search a person’s full name or user name on Pinterest and receive a link to their profile page. To
+do this, you must use Google. The following direct searc

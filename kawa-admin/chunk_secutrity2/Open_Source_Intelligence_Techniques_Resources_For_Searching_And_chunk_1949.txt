@@ -1,0 +1,14 @@
+Dec 15,17:57:01
+Location: Chicago
+From: twitter
+
+Figure 19.06: A Creepy Twitter result.
+
+372 Chapter 19
+
+Exif Tool (sno.phy.queensu.ca/~phil/exiftool)
+
+The details about how Exif data is stored within images was discussed in Chapter Fourteen. This
+data can be very valuable to an investigation. The resources mentioned earlier require internet
+access and the image to be uploaded to a website. For most situations, this is not a problem.
+Some investigations may involve classified material that is p

@@ -1,0 +1,6 @@
+Earth view is similar,
+but offers the tilt option. While in the earth view, click on the small icon to the right of the map
+that appears similar to four small squares. This will shift the view 45 degrees and a second click
+will shift an additional 45 degrees. A third click returns to the standard satellite view. The rotation
+icon above this button allows you to rotate your view for the desired result. While satellite views
+of maps are now well-known, we see continuous enhancements that are not a

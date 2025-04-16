@@ -1,0 +1,31 @@
+ds & examples
+
+| Censys field
+
+Example
+
+Oe en en
+
+47808.bacnet.device id
+ber is
+
+i 77908. bacnet.device_id.object_n ame KMKannus' ASo1
+. device_id.support | eee
+" 7g08.bacnet.device_id.vendor.id 17
+
+49208 bacnet.device_id.vendor.official 1 Siement Schweu ae
+(Formerly: Landis
+
+ae
+
+hn detest at ae Te
+
+d_name Technole orgies
+
+a
+
+7.7 Find Siemens BACnet devices with web services
+There are general survey two methods for discovering Siemens
+systems with BACnet. Using the Censys [Pv4 search method:
+
+1.

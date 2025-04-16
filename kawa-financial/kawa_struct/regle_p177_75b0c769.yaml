@@ -72,3 +72,69 @@ calcul:
     revenu_brut: 900
     abattement: 450
     revenu_net: 450
+embedding_text: 'Règle : Règle applicable : Abattement forfaitaire pour les charges
+
+
+  Conditions : Cette règle s''applique à toute personne qui a des charges spécifiques
+  mentionnées dans le texte.
+
+
+  Montant ou plafond : L''abattement est de 50 % avec un minimum de 305 €.
+
+
+  Formule de calcul applicable : Il n''y a pas de formule de calcul car l''abattement
+  est forfaitaire. Cela signifie qu''il est appliqué de manière automatique, sans
+  tenir compte des montants réellement payés.
+
+
+  Vérifier pour être sûr d''y avoir droit : Il faut vérifier que les charges qui vous
+  incomberaient sont celles mentionnées dans le texte et que vous êtes titulaire de
+  ces charges.
+
+  Formule : revenu_brut * (1 - 0.5)
+
+  Cas pratique : Nom : Marie Dupont, infirmière, résidant à Paris (75000)
+
+
+  Situation : Marie est titulaire d''un appartement qu''elle loue à des étudiants
+  et a une charge de garde d''enfants pour un enfant handicapé. Elle a également des
+  frais de scolarité pour son fils qui suit un cursus supérieur.
+
+
+  Montants concernés :
+
+  - Rentabilité de l''appartement loué : 1500 €/mois (18 000 € par an)
+
+  - Garde d''enfant handicapé : 600 €/mois (7200 € par an)
+
+  - Frais de scolarité pour son fils : 1000 €/an
+
+
+  Déclaration :
+
+  - Rentabilité de l''appartement loué : Case 1AK, Montant abattable : 900 € (50 %
+  de la rentabilité)
+
+  - Garde d''enfant handicapé : Case 1GF, Montant abattable : 3600 € (50 % de la garde)
+
+  - Frais de scolarité pour son fils : Case 79B, Montant non-abattable (ce type de
+  frais n''est pas concerné par l''abattement)
+
+
+  Comparaison régime par défaut vs option choisie :
+
+  Avec abattement forfaitaire : Marie aura un montant d''impôt reduit de 4500 €/an
+  (3600 € + 900 €). Sans abattement, elle payerait 7200 €/an plus de frais de scolarité.
+
+
+  Calcul clair avec des chiffres ronds :
+
+  Avec abattement forfaitaire : Marie payera un impôt total de 2700 €/an (7200 € -
+  4500 €) et aura des revenus nettes de 31 980 €/an.
+
+  Sans abattement, elle payera un impôt total de 7200 €/an et aura des revenus nettes
+  de 26 280 €/an.
+
+
+  Conclusion : Par l''application de cet abattement forfaitaire, Marie sera en mesure
+  d''économiser 4500 €/an pour son avenir financier.'

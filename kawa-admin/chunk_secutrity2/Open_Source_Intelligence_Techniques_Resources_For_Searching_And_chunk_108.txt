@@ -1,0 +1,8 @@
+Microsoft. Using their antivirus solutions will not likely enhance the data being
+collected.
+
+Mac users do not have any built-in antivirus protection, and most do not need any. The software
+architecture of Mac computers is much more secure, and viruses are rare (but they do still occur).
+I no longer recommend the free commercial products such as Avast, Kaspersky, and others. They
+tend to be more of an annoyance than helpful, and their business practices can be questionable.
+However, I do believ

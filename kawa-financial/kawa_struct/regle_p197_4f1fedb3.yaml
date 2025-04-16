@@ -72,3 +72,72 @@ cas_pratique: 'Titre : Application de la règle de calcul des cotisations social
   Conclusion : Pour M. Dupont, le revenu imposable total à traiter pour les calculs
   des cotisations sociales est de 27 000 €. En appliquant la règle, il doit verser
   4 165 € de cotisations sociales en 2021.'
+embedding_text: 'Règle : Règle de calcul des cotisations sociales :
+
+
+  Cette règle s''applique aux employés salariés.
+
+  Elle est applicabile lorsque le revenu retenu pour le calcul de l''impôt sur le
+  revenu est considéré.
+
+  Les montants ou plafonds concernent les plus-values et moins-values professionnelles
+  à long terme, les reports déficitaires, les exonérations liées aux cotisations Madelin
+  et aux régimes facultatifs, ainsi qu''aux nouveaux plans d''épargne retraite, la
+  déduction des frais professionnels de 10 % et des sommes exposées pour l''acquisition
+  de parts sociales.
+
+  La formule de calcul applicable est celle qui considère uniquement le revenu retenu
+  pour le calcul de l''impôt sur le revenu.
+
+  Pour être sûr d''y avoir droit, il faut vérifier que les montants ou plafonds mentionnés
+  dans la règle ne sont pas tenus compte dans le calcul des cotisations sociales.
+
+  Cas pratique : Titre : Application de la règle de calcul des cotisations sociales
+  pour l''employé salarié M. Dupont
+
+
+  Contexte : M. Dupont est un employé salarié travaillant chez XYZ SAS, une entreprise
+  de services basée à Paris. Il a reçu un bonus de 3 000 € pour les années 2018 et
+  2019, qui sont considérés dans son revenu imposable.
+
+
+  Montants concernés :
+
+  - Le montant du bonus (3 000 €)
+
+  - Les plus-values et moins-values professionnelles à long terme (PLTI ou BPI, selon
+  les modalités d''exécution)
+
+  - Les reports déficitaires
+
+  - Les exonérations liées aux cotisations Madelin et aux régimes facultatifs
+
+  - Les nouveaux plans d''épargne retraite
+
+  - Les frais professionnels (à partir duquel on retira 10 % pour la déduction)
+
+  - Les sommes exposées pour l''acquisition de parts sociales
+
+
+  Calcul des cotisations sociales :
+
+  - Pour appliquer cette règle, il faut considérer uniquement le revenu retenu pour
+  le calcul de l''impôt sur le revenu. En excluant donc le bonus de 3 000 €, le montant
+  à traiter est de 27 000 € (revenu imposable total).
+
+  - Les cotisations sociales s''élèvent à 15,5 % du revenu imposable, avec un plafond
+  maximum de 84 358,92 €. Comme le montant traité est inférieur au plafond (27 000
+  € < 84 358,92 €), les cotisations sociales sont calculées à partir du montant total.
+
+  - Ainsi, M. Dupont doit verser : (27 000 € * 15,5 %) = 4 165 € de cotisations sociales.
+
+
+  Comparaison régime par défaut vs l''option choisie : Si M. Dupont avait choisi le
+  régime à taux réduit, son pourcentage de cotisations sociales serait diminué mais
+  pas ses montants totaux en faveur des caisses de sécurité sociale et d''assurance
+  maladie.
+
+
+  Conclusion : Pour M. Dupont, le revenu imposable total à traiter pour les calculs
+  des cotisations sociales est de 27 000 €. En appliquant la règle, il doit verser
+  4 165 € de cotisations sociales en 2021.'

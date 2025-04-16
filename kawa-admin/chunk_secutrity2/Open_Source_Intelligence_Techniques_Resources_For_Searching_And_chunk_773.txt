@@ -1,0 +1,9 @@
+k to the actual image is the following address. The
+following link connects directly to a photo.
+
+https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpal /t31.0-
+8/1614393_10101869091776891_1149281347468701 704_ojpg
+
+The domain “fbcdn.net” indicates that this image is stored on a Facebook server, and that it is
+connected to a Facebook profile. However, we do not know the associated profile. There are
+three groups of numbers listed in this link, and each is separated with an underscore (_). We are

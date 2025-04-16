@@ -1,0 +1,9 @@
+nline researcher may locate an IP address while
+researching a domain with the previous methods. While only one website can be on a domain,
+multiple domains can be hosted on one IP address. The following resources represent only a
+fraction of available utilities. Note that many of the domain name resources mentioned in the
+previous chapters also allow for query by an IP addkess.
+
+IPLocation (iplocation.net)
+
+[PLocation offers unlimited free IP address searches, and queries five unique services wi

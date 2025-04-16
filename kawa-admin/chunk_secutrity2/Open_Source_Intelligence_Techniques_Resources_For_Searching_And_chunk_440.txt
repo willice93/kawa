@@ -1,0 +1,10 @@
+t searched for audio and video
+files with extensions such as mp3, mp4, mpeg, avi, mkv, etc. You could make an engine that
+isolated images with extensions such as jpg, jpeg, png, bmp, gif, etc. You could also replicate all
+of this into a custom engine that only searched a specific website. If you were monitoring threats
+against your company, you could isolate only these files that appear on one or more of your
+company’s domains.
+
+About 45 results (0.13 seconds)
+
+Figure 3.04: A PowerPoint file ref

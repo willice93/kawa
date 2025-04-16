@@ -1,0 +1,7 @@
+he Add/ Remove Line Breaks service from Text Mechanic at the following website.
+http:// textmechanic.com/ text-tools /basic-text-tools /addremove-line-breaks /
+
+Copy the entire data provided from the viewer location URL conducted previously. In this
+website, replace the text in the “Input Box” with this copied data from Facebook. In the next
+section is a line with a button titled “Make New Line Breaks”. Select the “Before” option and
+place a bracket ( { ) in the text box following this option. T

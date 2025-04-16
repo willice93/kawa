@@ -1,0 +1,10 @@
+wait for an incoming message in order to see this image. While the Gravatar
+home page does not offer an email address search option, we can conduct a query directly from
+the following URL, replacing the email address with your target information. This image can later
+be searched with a reverse image query as explained in Chapter Fourteen.
+
+https://en.gravatar.com/site/check/test@gmail.com
+
+That’s Them (thatsthem.com)
+
+The majority of the email addresses and user names I have searched through thi

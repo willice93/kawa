@@ -1,0 +1,9 @@
+er. While only a small piece of information, it works in conjunction
+with other search techniques. When I have vehicle registration to search, I use the following
+resources, in the order from most available information to least. After exhausting all of these
+searches, you should be able to obtain the VIN, make, model, year, engine, and style of the
+vehicle. These options will not provide the name of the owner.
+
+Reverse Genie (reversegenie.com/plate.php)
+
+Auto Check (autocheck.com/vehiclehistory/

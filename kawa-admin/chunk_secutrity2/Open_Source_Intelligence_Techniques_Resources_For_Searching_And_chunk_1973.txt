@@ -1,0 +1,8 @@
+you had chosen to
+save the documents. You are now ready to begin analysis.
+
+If you have any locally saved documents to analyze, you can now “drag and drop” them into the
+program. When the file is visible in the program, nght-click on it and choose “extract all
+metadata”. The left column will now have the analyzed content ready. Clicking on the file name
+under the “Documents” section will display the full metadata of the document. This will often
+include dates and times associated with modificati

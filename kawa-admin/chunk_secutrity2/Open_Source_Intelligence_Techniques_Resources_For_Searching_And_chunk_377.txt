@@ -1,0 +1,9 @@
+found the hardware of all modern Apple devices to be supported
+with most Linux builds. I personally use either an Apple MacBook Pro or dedicated Linux laptop
+for all of my investigations, testing, and training. While more expensive than most Windows
+systems, I believe the premium will pay off in the end. Users tend to get longer life out of the
+
+54 Chapter 2
+
+hardware and less “software creep” that tends to make older Windows machines feel aged. If you
+plan on conducting numerous OSINT investiga

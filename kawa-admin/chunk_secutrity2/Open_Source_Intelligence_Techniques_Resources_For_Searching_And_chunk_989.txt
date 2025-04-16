@@ -1,0 +1,6 @@
+t believed that the contacts were “friends”; therefore, it identified the names and
+accounts associated with each number. I refer to this technique as contact exploitation, and the
+Facebook/Yahoo connection is not the only option for this type of activity. The following details
+identify the ways to use one service to get information from another. Basically, by adding details
+to one service, we can convince another to provide information that we would not otherwise
+have the authority to view. A f

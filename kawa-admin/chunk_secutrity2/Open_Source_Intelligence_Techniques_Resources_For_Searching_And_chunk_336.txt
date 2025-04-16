@@ -1,0 +1,11 @@
+previous option.
+
+In Chapter Five, you will learn more advanced ways to extract additional information from your
+target Twitter account, but this automated process allows for quick download of data with very
+little input. I use this for every Twitter target I have because the text files are in standard CSV
+(comma separated value) format and can be easily imported into other software.
+
+Tinfoleak
+
+The previous script was made custom for this training. Tinfoleak is a publicly available Python
+scrip

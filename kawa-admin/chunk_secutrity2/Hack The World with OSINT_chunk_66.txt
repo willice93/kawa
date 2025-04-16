@@ -1,0 +1,18 @@
+se.. 262
+
+Pet ei ctdena sicsakea 262
+Table 119 Censys CCADB Audit fields... 262
+Co eS 269
+
+Introduction
+
+Why Censys rocks!
+
+0.1 Introduction
+
+Open source intelligence gathering (OSINT) and web-based
+reconnaissance is an integral part of penetration testing and proactive
+defence. The more connected we are, the more information is held
+about everything. Yummy, juicy information for both a penetration
+tester or a malicious actor. Learning what sources of are available to
+start your search is an ess

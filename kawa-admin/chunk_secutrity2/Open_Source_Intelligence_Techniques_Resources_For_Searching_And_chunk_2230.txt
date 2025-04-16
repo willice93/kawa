@@ -1,0 +1,12 @@
+nel 34 - 27.345
+Channel 07 - 27.035 Channel 21 - 27.215 Channel 35 - 27.355
+Channel 08 - 27.055 Channel 22 - 27.225 Channel 36 - 27.365
+Channel 09 - 27.655 Channel 23 - 27.255 Channel 37 - 27.375
+Channel 10 - 27.755 Channel 24 - 27.235 Channel 38 - 27.385
+Channel 11 - 27.085 Channel 25 - 27.245 Channel 39 - 27.395
+Channel 12 - 27.105 Channel 26 - 27.265 Channel 40 - 27.405
+Channel 13 - 27.115 Channel 27 - 27.275
+
+Channel 14 - 27.125 Channel 28 - 27.285
+
+Real World Application: Two truck drivers

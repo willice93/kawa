@@ -1,0 +1,6 @@
+se this site to identify vulnerabilities on their
+systems. Criminals use it to illegally access networks and alter devices. We will use it to locate
+specific systems near a target location. In order to take advantage of Shodan’s full search
+capabilities, you must create a free account. Only a name and email address is required. The
+following example will identify how to locate live public surveillance cameras based on location.
+The target for this search is Mount Pleasant, Utah. The following se

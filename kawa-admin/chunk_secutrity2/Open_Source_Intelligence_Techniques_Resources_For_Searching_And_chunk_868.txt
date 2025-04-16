@@ -1,0 +1,6 @@
+to only recent posts. You may have
+a need for historical details from previous posts from a specific location. I have had better success
+with historic data than current content in regards to geolocation. I believe this is because most
+people unknowingly shared their location while Tweeting for many years. When Twitter changed
+the default location option to “Disabled”, most users never intentionally re-enabled the feature.
+Fortunately, there are third-party websites that collected this historic d

@@ -1,0 +1,8 @@
+isitors” option displays people who have claimed to visit the specified business. This is
+not as reliable as the next option.
+
+The “users-checked-in” option displays users who have actually taken action to document that
+they were present at a location. This could include posting with geo-location features enabled.
+
+The “likers” option lists the Facebook users that “liked” a business page. This can identify
+additional people of interest when you have a small organization such as a private club.

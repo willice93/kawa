@@ -1,0 +1,7 @@
+is
+valid. It is possible that the address was copied incorrectly or is missing a character. There are
+several websites online that claim to be able to verify the validity of an email address. Most of
+these do not work with many of the free web-based email providers. One service that stands out
+from this crowd is Hunter. The sole purpose of the service is to identify if an email address is
+active and currently being used. After entering an email address, you will be presented with
+immediate resul

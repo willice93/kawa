@@ -1,0 +1,6 @@
+o be expanded manually in order to observe and
+collect the evidence. The solution to this is the YouTube Comment Scraper. This website allows
+easy use of open-source code available to extract YouTube comments from your own server.
+Simply provide the URL of your target video and allow the tool to process all data. The result
+will be a CSV spreadsheet with every comment text, including comment ID, timestamp, user
+name, replies, and likes. This can all be viewed within the results screen or downloa

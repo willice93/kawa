@@ -1,0 +1,9 @@
+a Target’s IP Address
+
+You may want to know the IP address of the person you are researching as provided by their
+internet service provider. This address could be used to verify an approximate location of the
+person; to provide law enforcement details that would be needed for a court order; or to
+determine if multiple email addresses belong to the same subject. All of those scenarios will be
+explained here while I explain the various services that can be used.
+
+What’s Their IP (whatstheirip.com)

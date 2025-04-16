@@ -1,0 +1,14 @@
+Pad instead
+of an Android device.
+
+The “friends” option should display a list of all of the target’s friends on Facebook. This will be
+the same list visible on the main profile page. If you receive no results, the target likely has the
+
+friend’s list set to “private”.
+
+The “stories-by” option will display any public posts by the target. This can often identify posts
+that are not currently visible on the target’s profile.
+
+106 Chapter 4
+
+The “stories-commented” option will display any public post

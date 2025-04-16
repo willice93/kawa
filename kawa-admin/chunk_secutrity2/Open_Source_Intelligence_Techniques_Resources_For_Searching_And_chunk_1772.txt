@@ -1,0 +1,8 @@
+2017-01-12 11:27:12
+195.235.92.111 Spain (Madrid, Madrid) 2016-11-18 03:33:22
+
+This type of service can be used in many ways. If you are investigating a viral Twitter post with a
+shortened URL, you may be able to learn more about the popularity and viewers. You could also
+use this offensively. During covert investigations, you could forward a shortened URL from
+Bit.do and possibly obtain the IP address being used by the suspect. I will explain more options
+for this type of use in the next chapt

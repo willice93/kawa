@@ -1,0 +1,6 @@
+ts several reverse image search
+services including Google, Bing, TinEye, Yandex, Baidu, and others. You will later learn how my
+online search tool will execute an image search across all of those services at once. However, this
+tool can be beneficial due to the convenience and obscure services such as Karma Decay, which
+looks for copies of images on Reddit. This add-on removes any excuse to not always check
+reverse images on target websites. With this add-on enabled, you will be ready to enhance

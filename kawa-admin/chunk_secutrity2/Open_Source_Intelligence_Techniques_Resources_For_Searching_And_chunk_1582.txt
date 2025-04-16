@@ -1,0 +1,9 @@
+o locate the URL of the images, it could still pose a security risk
+for sensitive photographs.
+
+Izitru (izitru.com)
+
+The previous service will identify the areas of a photo that have been manipulated. If the edited
+content is not obvious, you may want a service that will provide additional analysis. Izitru may
+provide the details that you need in an investigation. I conducted a test with an onginal photo
+from a cellular telephone camera. Figure 14.09 (above) displays the result from the unmodifi

@@ -1,0 +1,23 @@
+Hack the World with OSINT
+
+Published by Chris Kubecka & HypaSec
+
+HypaSec is a registered entity in the Netherlands Commercial Registration:
+
+63945517
+
+Printed in the Netherlands
+ISBN: 978-0-9956875-9-2
+
+“as-is”. Although every effort
+ISPs and other variables can
+
+Forward
+
+Why a IT/IOT/ICS hacking book?
+
+Nice people don’t connect exploitable systems to the internet.
+- Random Twitter User
+
+Censys has been an invaluable tool in my OSINT toolbox. As such, I
+chose to share the knowledge, prompting me

@@ -43,3 +43,33 @@ cas_pratique: 'Nom: Paul Dupont, 45 ans, propriétaire d''un restaurant en régi
   Conclusion: La déclaration doit être effectuée dans les cases 1AK (plus-value soumise
   à l''impôt sur le revenu après abattement) et 1GF (abattement appliqué) lors de
   la déclaration des impôts de l''année suivante.'
+embedding_text: "Règle : La règle en question s'applique aux personnes qui bénéficient\
+  \ d'un abattement fixe de 500 000 € ou d'un abattement pour durée de détention renforcée\
+  \ sur les plus-values.\n\n   Les conditions sont les suivantes :\n    - L'abattement\
+  \ est appliqué aux plus-values bénéficiant du régime fiscal commun à la CSG et à\
+  \ l'impôt sur le revenu (IR).\n    - Il y a un montant de la plus-value soumise\
+  \ à l'impôt sur le revenu, après abattement, qui est utilisé pour calculer le montant\
+  \ de la CSG déductible.\n    - Le montant de la plus-value soumise à la CSG, avant\
+  \ abattement, est également nécessaire pour le calcul.\n   La formule de calcul\
+  \ applicable est : CSG déductible = (Montant de la plus-value soumise à l'impôt\
+  \ sur le revenu après abattement) / (Montant de la plus-value soumise à la CSG avant\
+  \ abattement).\n\n   Pour être sûr d'y avoir droit, il faut vérifier que les plus-values\
+  \ concernées bénéficient bien du régime fiscal commun à la CSG et au IR, et que\
+  \ l'abattement est appliqué comme prévu. Il convient également de faire attention\
+  \ aux délais de dénonciation pour le choix de l'abattement.\nFormule : Non spécifiée\n\
+  Cas pratique : Nom: Paul Dupont, 45 ans, propriétaire d'un restaurant en région\
+  \ parisienne.\n\nSituation: En 2021, il a vendu son appartement de vacances acquis\
+  \ en 2016 pour un montant net de 800 000 € (après les frais de notaires et d'agence).\
+  \ Il estime la valeur du bien à avoir augmenté de 300 000 € depuis son acquisition.\n\
+  \nCalcul: Il a bénéficié d'un abattement fixe de 500 000 € sur les plus-values.\
+  \ Le montant soumis à l'impôt sur le revenu, après abattement (800 000 - 500 000\
+  \ =) 300 000 €. Le montant soumis à la CSG avant abattement était de 800 000 €.\
+  \ La CSG déductible est donc calculée comme suit : (Montant de la plus-value soumise\
+  \ à l'impôt sur le revenu après abattement) / (Montant de la plus-value soumise\
+  \ à la CSG avant abattement) = 300 000 € / 800 000 € = 0,375.\n\nComparaison: En\
+  \ régime par défaut, la CSG déductible serait de 14 % sur le montant net des plus-values\
+  \ (60 000 €). Avec l'abattement appliqué, cela représente une économie importante\
+  \ pour Paul Dupont qui n'aura finalement à verser que 45 750 € de CSG.\n\nConclusion:\
+  \ La déclaration doit être effectuée dans les cases 1AK (plus-value soumise à l'impôt\
+  \ sur le revenu après abattement) et 1GF (abattement appliqué) lors de la déclaration\
+  \ des impôts de l'année suivante."

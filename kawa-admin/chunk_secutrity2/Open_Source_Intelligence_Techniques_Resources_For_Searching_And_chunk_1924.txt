@@ -1,0 +1,16 @@
+techniques.com/data/ffmpeg.zip. Unzip this file onto your computer to
+immediately execute any of these actions.
+
+Be CO. Windows'system32\cmd.exe
+Video file name (with extension> on Desktop:i.dav
+
+-_imgB44.bmp Date modified: 2/10/2016 211 PM Size 495 KB
+Bitmap image — Dirnensions: 704 x 240 Date createck 2/10/2016 2:11 PM
+
+Figure 19.02: Stull frame captures from FFmpeg.
+
+366 Chapter 19
+
+Video Download (rg3.github.io/ youtube-dl/download.html)
+
+I mentioned YouTube-DL previously as my absolute favo

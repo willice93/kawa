@@ -64,3 +64,63 @@ cas_pratique: 'Nom: Jean Dupont
   - Synthèse : M. Dupont bénéficie d''un abattement de gain de 75% des gains sur les
   actions gratuites qu''il a reçues en 2015, puisque sa durée de détention est supérieure
   à 6 ans. Le montant total non abattu (à imposer) est de 125 000 €.'
+embedding_text: 'Règle : Règle d''abattement des gains d''acquisition d''actions gratuites
+  :
+
+
+  - À qui s’applique la règle : Les actions gratuites attribuées à partir du 8.08.2015
+  pour une fraction n’excédant pas 300 000 €, ainsi que les actions gratuites à partir
+  du 31.12.2016 pour toute fraction supérieure à 300 000 €
+
+  - Dans quelles conditions : Les gains sont imposables après abattement et les abattements
+  peuvent être effectués en fonction de la durée de détention, du montant total des
+  actions gratuites ou encore du départ à la retraite d''un dirigeant de PME
+
+  - Quels sont les montants ou plafonds : 300 000 € pour les actions gratuites attribuées
+  à partir du 8.08.2015, aucun montant spécifié pour les autres cas d''abattement
+
+  - Quelle est la formule de calcul applicable : La formule de calcul varie en fonction
+  de chaque abattement : durée de détention, montant total des actions gratuites ou
+  départ à la retraite d''un dirigeant de PME
+
+  - Et ce qu’il faut vérifier pour être sûr d’y avoir droit : Il est nécessaire de
+  vérifier les conditions spécifiques de chaque abattement : durée de détention, montant
+  total des actions gratuites ou départ à la retraite d''un dirigeant de PME
+
+  Cas pratique : Nom: Jean Dupont
+
+
+  Profession: PDG d''une PME nommée "Société Technologique Jean Dupont" (STJD)
+
+
+  Situation: Le 1er août 2015, M. Dupont a reçu des actions gratuites de sa société
+  pour un montant total de 500 000 €. Depuis cette date, il a détenu ces actions et
+  ne les a pas vendues ou échangées jusqu''à aujourd''hui.
+
+
+  Scénario: M. Dupont souhaite appliquer la règle d''abattement des gains d''acquisition
+  d''actions gratuites pour l''année 2021. Il a choisi de s''appuyer sur la durée
+  de détention, car c''est une option disponible pour lui.
+
+
+  Calcul: Étant donné que M. Dupont a détenu ses actions gratuites depuis le 1er août
+  2015 jusqu''au 31 décembre 2021 (plus de 6 ans), il peut bénéficier d''un abattement
+  de gain pour 75% des gains. Les montants sont les suivants :
+
+
+  - Le montant total des actions gratuites est de 500 000 €.
+
+  - Le plafond du régime par défaut (pour une durée de détention inférieure à 6 ans)
+  serait de 100% des gains. Mais M. Dupont a choisi l''option de la durée de détention,
+  ce qui signifie qu''il bénéficie d''un abattement de gain.
+
+  - Calcul du montant abattu : 500 000 € (montant total des actions gratuites) x 75%
+  = 375 000 €. Le montant non abattu est donc de 125 000 €.
+
+  - Déclaration : M. Dupont doit déclarer le montant total des actions gratuites (500
+  000 €) dans la case 1GF de son formulaire d''imposition, et le montant abattu de
+  gains (375 000 €) dans la case 1AK.
+
+  - Synthèse : M. Dupont bénéficie d''un abattement de gain de 75% des gains sur les
+  actions gratuites qu''il a reçues en 2015, puisque sa durée de détention est supérieure
+  à 6 ans. Le montant total non abattu (à imposer) est de 125 000 €.'

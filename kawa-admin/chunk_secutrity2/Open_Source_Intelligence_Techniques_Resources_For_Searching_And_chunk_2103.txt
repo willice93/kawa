@@ -1,0 +1,9 @@
+tore the Play Store, emulate a more appropriate ARM driver (which
+will make some apps work better), and execute a patch that will eliminate those annoying Google
+crashes that have plagued this method for years.
+
+e Click the “Add” button in the Genymotion menu and select “Custom Phone 6.0.0 — API
+23”. Allow the device to be created and launch it.
+
+e Download the 6.0.0 ARM Driver at inteltechniques.com/android. Drag and drop the
+zip file directly into your running virtual Android device. Agree to

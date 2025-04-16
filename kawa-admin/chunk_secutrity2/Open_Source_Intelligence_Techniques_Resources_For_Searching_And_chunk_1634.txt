@@ -1,0 +1,7 @@
+earch as explained in Chapter Fourteen.
+
+Vimeo: Vimeo does not natively offer URLs with a video ID that display screen captures of
+multiple frames. However, they do provide a single high definition still capture for every video.
+This is stored in the Application Programming Interface (API) side of Vimeo, but it is easy to
+obtain. As an example, consider your target is at https://vimeo.com/99199734. The unique ID
+of 99199734 is assigned to that video. You can use that number to access the API vie

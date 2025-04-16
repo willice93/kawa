@@ -1,0 +1,18 @@
+xcel XLS, XLSX, CSV
+Microsoft PowerPoint PPT, PPTX
+
+Adobe Acrobat PDF
+
+Text File TXT, RTF
+
+Open Office ODT, ODS, ODG, ODP
+Word Perfect WPD
+
+If you wanted to search all of these file types at once, the following string in Google or Bing
+would find most documents on the topic of OSINT. You could change that term to anything
+else of interest.
+
+OSINT filetype:pdf OR filetype:doc OR filetype:xls OR filetype:xlsx OR filetype:docx OR
+filetype:ppt OR filetype:pptx OR filetype-wpd OR filetype:txt
+
+This q

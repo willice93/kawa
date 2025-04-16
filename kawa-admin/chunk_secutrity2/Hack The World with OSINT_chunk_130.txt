@@ -1,0 +1,23 @@
+ttls.starttls)
+AND 25.smtp.starttls.starttls: "4.3.5"
+
+If you are logged in, the direct URL, mn Censvs is:
+
+https://censys.io/ ipv4?q=° 02825.smtp.starttls.starttls/29+ AN
+D+25.smtp.starttls.starttls%3A+"4,3.5"
+
+* es ee ow '
+
+@ 25/smtp
+Q 25.smtp.starttis.starttls: 454 4.3.5 unable to start
+
+une e
+vit
+
+There are several ways to find these types of misconfigured hosts.
+
+Keyword searches, dorking SMTP banners can also be utilized.
+
+4.6 TLS not available email systems
+
+There are two SMTP properties

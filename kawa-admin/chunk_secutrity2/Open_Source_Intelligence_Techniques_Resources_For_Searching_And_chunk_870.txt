@@ -1,0 +1,6 @@
+cations from historic Tweets. Each interface provides new ways of searching information.
+This website can search by topic, user name, or location. It can also combine all three options to
+conduct a detailed search. The first search field, titled “What”, can accept any keywords and
+identify location-enabled Tweets that meet the criteria. The second field, “Who”, can only accept
+a Twitter user name and will not function with a real name. The third search field, titled “Where”,
+can accept GPS coord

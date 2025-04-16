@@ -1,0 +1,15 @@
+pshots button in the upper right
+Select the desired snapshot to apply
+
+Click on the blue camera icon with arrow to "restore snapshot"
+
+Click Restore
+
+Optionally, if you ever want to remove a snapshot, simply use the icon with a red X. This will
+remove data files to eliminate wasted space, but you cannot restore to that image once removed.
+It will not impact the current machine state. Many users remove old, redundant snapshots after
+creating newer clean machines.
+
+VMWare Use of Snapshots
+
+Complet

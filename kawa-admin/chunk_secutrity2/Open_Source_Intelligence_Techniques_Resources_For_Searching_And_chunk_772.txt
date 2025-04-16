@@ -1,0 +1,8 @@
+use this service to identify the
+Facebook profile connected with the image. This could also be used to search links to Facebook
+photos that were sent via text message or chat room. This service, as well as others like it, stopped
+functioning in 2013. However, we can still perform this type of search manually. The following
+scenario should explain the process.
+
+Imagine that you have located a photo that was posted to an online forum or blog. It could have
+also been sent as a text message. The lin

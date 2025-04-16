@@ -1,0 +1,8 @@
+. It will work best
+with user names instead of Facebook user numbers. The final group will replicate the most
+popular commonality searches that were discussed previously, and user numbers are required.
+Every field in this tool specifies the type of data needed.
+
+The entire right half of this search page is focused toward Facebook searches outside of an
+individual profile. It allows you to search by name, location, employer, and other filters
+mentioned previously. It identifies the type of search

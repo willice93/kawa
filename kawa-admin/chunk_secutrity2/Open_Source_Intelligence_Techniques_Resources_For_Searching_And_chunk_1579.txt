@@ -1,0 +1,8 @@
+lated
+by visually analyzing them. A handful of websites use a technique to determine not only if the
+photo has been manipulated, but which portions of the photo have changed. One site offers the
+following explanation of how the technology works.
+
+“Error level analysis (ELA) works by intentionally resaving the image at a known error rate, such
+as 95%, and then computing the difference between the images. If there is virtually no change,
+then the cell has reached its local minima for error at that

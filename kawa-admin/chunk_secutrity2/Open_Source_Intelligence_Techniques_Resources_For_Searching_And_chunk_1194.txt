@@ -1,0 +1,10 @@
+n an initial account creation
+screen, and never submitted.
+
+Email Provider
+
+If your target’s email address ends in gmail.com or yahoo.com, the identity of the email provider
+is quite obvious. However, business addresses and those with custom domain names do not
+notify you of the service that hosts the email. A domain's email provider is the company listed in
+the domain's MX record. The email provider may be the same as the domain's hosting company,
+but could also be a separate company. You may n

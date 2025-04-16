@@ -1,0 +1,6 @@
+ch field. Inside this
+field on the far right is a light grey camera icon that appears slightly transparent. Figure 14.01
+(first) displays this search field. Clicking on this icon will open a new search window that will
+allow for either an address of an online image, or an upload of an image file on your computer.
+In order to take advantage of the online search, you must have the exact link to the actual photo
+online. Locating an image within a website is not enough. You will want to see the imag

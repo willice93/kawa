@@ -1,0 +1,19 @@
+ini Gurusubramanian (ngurusub)
+Create Date: 2011:06:16 20:08:56Z
+
+Modify Date: 2017:11:07 16:37:24Z
+Application: Microsoft Excel
+
+Doc Security: None
+
+Heading Pairs: Worksheets, 11
+
+Company: Cisco
+
+Shared Doc: No
+
+Authors.csv: This file extracts only the author names of the people that created the downloaded
+documents. This gets you right to a set of names for immediate analysis.
+
+Companies.csv: This file extracts only the company details stored within all of the documents.
+This will immediately

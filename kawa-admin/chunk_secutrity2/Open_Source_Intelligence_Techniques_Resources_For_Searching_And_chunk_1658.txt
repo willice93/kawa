@@ -1,0 +1,11 @@
+earch. Using the site operator as discussed in Chapter Three, you can
+specify a search to include only videos found on Facebook profiles. All Facebook profiles are
+hosted on the main Facebook domain under a subcategory of video. For example, the address of
+a video on Facebook would look like this:
+
+http:/ /www.facebook.com/video/video.php?v=1537495389593
+
+The numbers at the end are associated with one unique video. A custom search on Google for a
+specific video may look like this:
+
+site:facebook

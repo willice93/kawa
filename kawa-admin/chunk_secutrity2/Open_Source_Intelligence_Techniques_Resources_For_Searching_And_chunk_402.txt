@@ -1,0 +1,18 @@
+y following from any results. It is
+important to never include a space between the hyphen and filtered text. The following searches
+were conducted on my own name with the inclusion of excluded text. Following each search is
+the number of results returned by Google.
+
+60 Chapter 3
+
+“Michael Bazzell” 8,770
+
+“Michael Bazzell” -police 7,670
+
+“Michael Bazzell” -police -FBI 7,000
+
+“Michael Bazzell” -police -FBI -osint 6,010
+
+“Michael Bazzell” -police -FBI -osint -books 4,320
+
+“Michael Bazzell” -police

@@ -1,0 +1,6 @@
+provides two analysis methods for digesting large
+amounts of data. Holding CTRL and F on the keyboard will present a search box. Any search
+terms can be entered to navigate directly to associated messages. The page can also be printed
+for archiving or distribution to assisting analysts. This is my preferred way of reading through the
+Tweets of an active user. This also prevents you from constantly loading more Tweets at the end
+of every page throughout a profile. While I prefer TweetBeaver for t

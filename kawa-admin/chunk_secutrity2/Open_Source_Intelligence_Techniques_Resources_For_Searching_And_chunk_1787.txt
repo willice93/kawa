@@ -1,0 +1,13 @@
+ndividual domain.
+Entering an IP address will attempt to identify details about any domain registrations associated
+
+340 Chapter 17
+
+with the address. A seatch of 54.208.51.71 revealed it to belong to Amazon and provided the
+public registration details.
+
+ViewDNS IP TraceRoute (viewdns.info/traceroute)
+
+This tool identifies the path that ViewDNS took from their servers to the target IP address. This
+can identify IP addresses of servers that were contacted while you tried to establish
+communicatio

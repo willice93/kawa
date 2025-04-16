@@ -1,0 +1,11 @@
+d: FALSE: This disables the proprietary Pocket service.
+
+WebRTC (Web Real-Time Communications): The next few settings in about:config deal with
+the WebRTC vulnerability that can allow your IP address to be leaked, even if using a VPN.
+
+media.peerconnection.enabled: FALSE
+media.peerconnection.turn.disable: TRUE
+media.peerconnection.use_document_iceservers: FALSE
+media.peerconnection.video.enabled: FALSE
+
+It is not vital that all of these security settings be applied to your systems. Firefox nativ

@@ -59,3 +59,53 @@ calcul:
     revenu_brut: 34
     abattement: 6
     revenu_net: 28
+embedding_text: "Règle : Règle d'indemnité de fonction des élus locaux :\n\n- À qui\
+  \ s’applique la règle : Élus locaux, quelle que soit le nombre de leurs mandats.\n\
+  - Dans quelles conditions : Tout au long de leur mandat et pourvu qu'ils n'aient\
+  \ pas bénéficié du remboursement des frais de transport et de séjour prévu à l'article\
+  \ L. 2123-18-1 du code général des collectivités territoriales, sauf cas de communes\
+  \ de moins de 3 500 habitants où la règle est applicable sans cette condition depuis\
+  \ 2019.\n- Quels sont les montants ou plafonds :\n   - Pour les élus des communes\
+  \ ayant plus de 3 500 habitants :\n      - Montant mensuel du traitement : 684,34\
+  \ € (du 1er juillet au 30 juin 2023) et 694,60 € (du 1er juillet au 31 décembre\
+  \ 2023).\n      - Montant mensuel de la fraction représentative de frais d’emploi\
+  \ : 17 % du montant mensuel du traitement (cumul de mandats) ou une fois et demie\
+  \ ce montant (mandat unique).\n   - Pour les élus des communes ayant moins de 3\
+  \ 500 habitants :\n      - Montant mensuel du traitement : 1 559,90 € (du 1er juillet\
+  \ au 30 juin 2023) et 1 583,29 € (du 1er juillet au 31 décembre 2023).\n      -\
+  \ Montant mensuel de la fraction représentative de frais d’emploi : 38,75 % du montant\
+  \ mensuel du traitement.\n- Quelle est la formule de calcul applicable : Le montant\
+  \ de l'indemnité sous déduction de la fraction représentative de frais d’emploi\
+  \ = Montant de l'indemnité total - Fraction représentative de frais d’emploi.\n\
+  - Et ce qu’il faut vérifier pour être sûr d’y avoir droit : Vérifiez et corrigez\
+  \ si nécessaire le montant de la fraction représentative de frais que vous pouvez\
+  \ déduire en préremplissant les lignes 1AJ à 1DJ.\nFormule : revenu_brut * (1 -\
+  \ 0.17)\nCas pratique : Nom : Jean Doe\n   Profession : Maire de la ville de Lumière\
+  \ (population: plus de 3 500 habitants)\n\nContextue : Le Maire de Lumière, Jean\
+  \ Doe, a été élu pour un mandat de cinq ans et ne bénéficie pas du remboursement\
+  \ des frais de transport et de séjour prévu à l'article L. 2123-18-1 du code général\
+  \ des collectivités territoriales.\n\nMontants concernés :\n   - Montant mensuel\
+  \ du traitement : 684,34 € (du 1er juillet au 30 juin 2023) et 694,60 € (du 1er\
+  \ juillet au 31 décembre 2023).\n   - Fraction représentative de frais d’emploi\
+  \ : 17 % du montant mensuel du traitement (cumul de mandats) ou une fois et demie\
+  \ ce montant (mandat unique).\n\nDeclarations :\n   - Ligne 1AK pour le montant\
+  \ mensuel du traitement.\n   - Ligne 1AI pour la fraction représentative de frais\
+  \ d’emploi cumulée.\n\nComparaison : Les élus des communes ayant plus de 3 500 habitants\
+  \ bénéficient d'une indemnité de fonction mensuelle de 684,34 € (du 1er juillet\
+  \ au 30 juin 2023) et 694,60 € (du 1er juillet au 31 décembre 2023). Ils peuvent\
+  \ déduire une fraction représentative de frais d’emploi de 17 % du montant mensuel\
+  \ du traitement. En revanche, les élus des communes ayant moins de 3 500 habitants\
+  \ bénéficient d'une indemnité de fonction mensuelle plus élevée de 1 559,90 € (du\
+  \ 1er juillet au 30 juin 2023) et 1 583,29 € (du 1er juillet au 31 décembre 2023).\
+  \ Ils peuvent déduire une fraction représentative de frais d’emploi de 38,75 % du\
+  \ montant mensuel du traitement.\n\nCalcul clair avec des chiffres ronds :\n   -\
+  \ Montant de l'indemnité sous déduction de la fraction représentative de frais d’emploi\
+  \ pour le mandat unique:\n      - Montant de l'indemnité total : 684,34 € (694,60\
+  \ € après le 1er juillet)\n      - Fraction représentative de frais d’emploi : 1\
+  \ fois et demie le montant mensuel du traitement (cumul de mandats non applicable\
+  \ car unique mandat) = 587,21 € (636,40 € après le 1er juillet)\n      - Montant\
+  \ de l'indemnité sous déduction de la fraction représentative de frais d’emploi\
+  \ : 684,34 € (694,60 € après le 1er juillet) - 587,21 € (636,40 € après le 1er juillet)\
+  \ = 97,13 € (58,20 € après le 1er juillet)\n\nConclusion : Le Maire de Lumière,\
+  \ Jean Doe, bénéficie d'un montant mensuel de l'indemnité sous déduction de la fraction\
+  \ représentative de frais d’emploi de 97,13 € (58,20 € après le 1er juillet)."

@@ -1,0 +1,11 @@
+e, if you have on t appeats the Wi-R; Figure 96 Censys Miele gateway HTTP Body details
+
+modules on the Miele appliances have rather weak security. There’, :
+tool on GitHub which allows you to interact with the Wi-Fi mo hile,
+for testing and troubleshooting. To interact, the Group ID and na
+must be used in the tool configuration. Luckily, per the iNstructions
+this information can be sniffed and captured with Wireshark or ia
+similac tool ~ higmy?7 github.com/eikowagenknecht/ miele.
+xkm3100w
+
+e scr

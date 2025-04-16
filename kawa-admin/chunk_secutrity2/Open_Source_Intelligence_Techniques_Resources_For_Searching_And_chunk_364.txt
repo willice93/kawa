@@ -1,0 +1,7 @@
+hine (which I
+recommend). Before using bootable USB devices, I encourage you to consider applying full disk
+encryption on the primary hard drive of the computer that you will be using. If using Windows,
+it is called BitLocker. If using Mac, it is called FileVault. The overall topic of encryption exceeds
+the scope of this book; however, I will sum up the main benefits for our needs. Encrypting the
+data on your primary hard drive prevents the new USB operating system from having access to
+that dat

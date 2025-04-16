@@ -1,0 +1,8 @@
+investigation. They can be deleted later or preserved for
+additional work. You can type workspaces list at any time to see the currently used workspaces.
+For now, we will create a new workspace titled OSINT by executing a command of workspaces
+add OSINT.
+
+After creation, you will automatically begin using the new workspace. If you have created more
+than one workspace, such as one titled OSINT2, you can switch to it by typing workspaces
+select OSINT2. You might have a workspace for every target

@@ -1,0 +1,9 @@
+casional sermon. Many state patrol vehicles include a CB
+radio for receiving and transmitting. The following table identifies the frequencies and channel.
+
+Channel 01 - 26.965 Channel 15 - 27.135 Channel 29 - 27.295
+Channel 02 - 26.975 Channel 16 - 27.155 Channel 30 - 27.305
+Channel 03 - 26.985 Channel 17 - 27.165 Channel 31 - 27.315
+Channel 04 - 27.005 Channel 18 - 27.175 Channel 32 - 27.325
+Channel 05 - 27.015 Channel 19 - 27.185 Channel 33 - 27.335
+Channel 06 - 27.025 Channel 20 - 27.205 Chan

@@ -1,0 +1,6 @@
+and obtain filtered content. Prior to 2015, a search of
+people who work at Microsoft and live in Seattle and like Starbucks would retum the appropriate
+results. Today, that search produces an error. However, we can recreate these types of searches
+and receive more detailed information than ever before. Facebook now requires a specific address
+(URL) in order to search this type of information. It is not as user friendly as their previous
+option, but we can recreate each specific query. The follow

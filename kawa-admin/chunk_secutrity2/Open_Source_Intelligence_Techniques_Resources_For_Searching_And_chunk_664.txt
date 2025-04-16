@@ -1,0 +1,9 @@
+/photos-by” option will display the photos uploaded by your target’s friends. This
+can quickly identify interests and recent locations visited by the subjects. Occasionally, you may
+
+locate untagged photos of your target in this collection.
+
+The “friends/photos-liked” option will display the photos “liked” by your target’s friends. This
+can provide an indication of interests by both the target and the friends.
+
+The “friends/photos-of”’ option will display the tagged photos of your target’s frien

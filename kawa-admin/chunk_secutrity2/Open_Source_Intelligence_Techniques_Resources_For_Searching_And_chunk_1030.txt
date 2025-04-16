@@ -1,0 +1,10 @@
+generic search can be quite overwhelming. With the following URL, we
+can force Reddit to only deliver results if our search term is within the title of a post, and not
+simply present anywhere within the comments.
+
+https://www.treddit.com/search?q=titleOSINT
+If you know the name of the Sub-Reddit, you can navigate directly with the following structure.
+https://www.reddit.com/r/OSINT/
+
+If you locate a user name of interest while searching Reddit, you can load all of that user’s posts
+and comments

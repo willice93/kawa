@@ -1,0 +1,6 @@
+l question why I chose to explain Android emulation instead of iPhone. The
+most obvious reason is the number of options. I will explain software solution for recreating the
+Android environment on your computer. The iPhone simulator will only function on Apple
+computers and has very limited features. The Android techniques will work on any major
+operating system. Additionally, we can create Android virtual machines that possess all original
+functionality. The iPhone simulator will not connect to

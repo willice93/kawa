@@ -83,3 +83,76 @@ calcul:
     revenu_brut: 400
     abattement: 20
     revenu_net: 380
+embedding_text: 'Règle : Cette règle s''applique aux résidents fiscaux français qui
+  ne disposent pas d''une option pour l''imposition au barème. Les produits imposés
+  au taux de 7,5 % et 12,8 % sont concernés par cette règle. L''abattement ou le reliquat
+  d''abattement de 4 600 € s''applique tout d''abord sur les produits imposés au taux
+  de 7,5 %, puis sur ceux imposés au taux de 12,8 %. La formule de calcul est la suivante
+  :
+
+
+  - Abattement ou reliquat d''abattement de 4 600 € sur les produits imposés au taux
+  de 7,5 % : Montant des produits imposés x 7,5 % - 4 600 € (si le résultat est négatif,
+  il ne sera pas applicable)
+
+  - Abattement ou reliquat d''abattement de 4 600 € sur les produits imposés au taux
+  de 12,8 % : Si après l''application de la première règle, il subsiste encore des
+  produits imposés à 7,5 %, on applique ensuite l''abattement ou reliquat d''abattement
+  de 4 600 € sur les produits restants à ce taux. Si aucun produit n''est resté à
+  7,5 %, on passe directement au taux de 12,8 %. La formule de calcul est la même
+  que précédemment mais en multipliant le montant des produits imposés par 12,8 %
+  (si le résultat est négatif, il ne sera pas applicable).
+
+
+  Pour être sûr d''y avoir droit, il faut vérifier que :
+
+  - On n''a pas d''option pour l''imposition au barème.
+
+  - Les montants imposés sont conformes aux conditions de calcul de la taxe sur les
+  revenus.
+
+  - Le montant total des produits imposés à 7,5 % et 12,8 % est supérieur à 4 600
+  € avant abattement.
+
+  Formule : revenu_brut * (1 - 0.05)
+
+  Cas pratique : Contexte : Julien Leroy, employé de banque avec un revenu annuel
+  net de 75 000 € en 2021, résidant à Paris.
+
+
+  Taux d''imposition pour l''année 2021 :
+
+  - Produits imposés au taux de 7,5 % : 36 400 € (montant total des revenus d''intérêts
+  et dividendes)
+
+  - Produits imposés au taux de 12,8 % : 29 320 € (montant total des gains sur la
+  cession de biens mobiliers)
+
+
+  Déclaration à remplir : Formule A - Case 1AK
+
+
+  Comparaison : Régime par défaut vs Option choisie
+
+  - Régime par défaut : Le montant total des produits imposés (36 400 € + 29 320 €)
+  est de 65 720 €, il y a droit à l''abattement ou reliquat d''abattement de 4 600
+  € sur les produits imposés au taux de 7,5 % (4 600 € > 36 400 €), et il n''y a pas
+  d''éligibilité pour l''abattement ou reliquat d''abattement sur les produits imposés
+  au taux de 12,8 %.
+
+  - Option choisie : Aucune option pour l''imposition au barème n''étant disponible,
+  le montant total des produits imposés est considéré dans le régime par défaut.
+
+
+  Calcul :
+
+  - Abattement ou reliquat d''abattement de 4 600 € sur les produits imposés au taux
+  de 7,5 % : (36 400 € x 7,5 %) - 4 600 € = 2 590 €
+
+  - Abattement ou reliquat d''abattement de 4 600 € sur les produits imposés au taux
+  de 12,8 % : (29 320 € x 12,8 %) - 4 600 € = 3 537 €
+
+
+  Conclusion : En utilisant le régime par défaut pour l''imposition des produits imposés
+  à 7,5 % et 12,8 %, Julien Leroy bénéficiera d''un abattement ou reliquat d''abattement
+  de 6 127 € (2 590 € + 3 537 €) sur son impôt des revenus de l''année 2021.'

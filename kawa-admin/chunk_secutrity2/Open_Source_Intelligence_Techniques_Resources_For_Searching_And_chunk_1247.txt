@@ -1,0 +1,10 @@
+eb pages based on a member name.
+Several internet service providers allow each subscriber a personal space online as part of the
+provider’s main website. Comcast provides 25MB of storage in a folder with the title of the
+subscriber’s user name. For example, if the email address of the customer was
+crazycheetah70@comcast.net, the user name for the service would be crazycheetah70. The URL
+to view the personal web page would be:
+
+home.comcast.net/ctazycheetah70
+
+The following is a sample list of pe

@@ -1,0 +1,9 @@
+s, this will not work. Also, Facebook's photo displays
+often hide this information from plain site. I prefer to rely on the source code view or my
+Facebook tools for this identification. This number will allow us to obtain many more details
+about the account. If we want to see any photos on Facebook that this subject has “liked”, we
+can type the following address into a web browser.
+
+https://www.facebook.com/seatch/651620441 /photos-liked
+
+This basic structure contains the website (facebook.com)

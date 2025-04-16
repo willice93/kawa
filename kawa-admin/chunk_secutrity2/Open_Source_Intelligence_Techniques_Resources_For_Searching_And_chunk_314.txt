@@ -1,0 +1,9 @@
+s created. Metagoofil is a command-line utility that
+
+Buscador Linux Virtual Machine 43
+
+automates the collection of documents from a specific domain, and analyzes the metadata after
+rettieval. Clicking this option in the dock of Buscador will prompt you for a domain name such
+as IntelTechniques.com. You are then prompted for the maximum number of documents to
+retrieve. This will prevent hours of unintended data download from large websites. This entered
+data will generate a command to identify

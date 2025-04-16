@@ -1,0 +1,8 @@
+vestigation.
+
+Distance Measurement: Google Maps reintroduced the distance measurement tool after
+completely disabling the classic maps interface in 2015. While in map or satellite view, right-click
+on your starting point and choose “Measure distance”. Click anywhere on the map to create a
+path you want to measure. Further clicks add additional measuring points. You can also drag a
+point to move it, or click a point to temove it. The total distance in both miles (mi) or kilometers
+(km) will appea

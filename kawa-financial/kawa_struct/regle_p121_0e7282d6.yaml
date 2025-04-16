@@ -51,3 +51,36 @@ cas_pratique: "Nom: Jean Dupont\n   Profession: Retraité\n   Situation: Jean Du
   \   Conclusion: Dans ce scénario, le retraité Jean Dupont peut bénéficier des avantages\
   \ en nature reçus de son fils et sa fille-in-law sans déclaration ou imposition\
   \ fiscale, car le montant total ne dépasse pas 3 968 € par an."
+embedding_text: "Règle : La règle s'applique à personnes qui ont reçu un avantage\
+  \ en nature (logement ou nourriture) de manière non obligatoire, et dont le montant\
+  \ total ne dépasse pas 3 968 €.\n\nLes conditions d'application sont les suivantes\
+  \ :\n- Vous habitez sous le toit d'un contribuable.\n- Vous avez plus de 75 ans.\n\
+  - Votre revenu imposable ne dépasse pas le plafond de ressources prévu pour l'attribution\
+  \ de l'allocation de solidarité aux personnes âgées et de l'allocation supplémentaire\
+  \ d'invalidité : 11 533,02 € pour une personne seule en 2023 et 17 905,06 € pour\
+  \ un couple marié.\n\nLa formule de calcul est très simple : si les conditions ci-dessus\
+  \ sont remplies, vous pouvez recevoir jusqu'à 3 968 € d'avantage en nature sans\
+  \ être tenu de le déclarer.\n\nIl faut vérifier soigneusement s'il existe une obligation\
+  \ alimentaire concernant l'avantage reçu (pour cela, consulter éventuellement votre\
+  \ avocat ou un service juridique).\nFormule : Non spécifiée\nCas pratique : Nom:\
+  \ Jean Dupont\n   Profession: Retraité\n   Situation: Jean Dupont, âgé de 80 ans,\
+  \ vit sous le toit d'un de ses enfants depuis trois ans après avoir quitté son appartement\
+  \ individuel à cause de problèmes de santé. Son fils et sa fille-in-law lui offrent\
+  \ gratuitement l'utilisation de leur appartement situé dans la ville de Montréal,\
+  \ y compris la nourriture. Le montant total des avantages en nature reçus par Jean\
+  \ Dupont ne dépasse pas 3 968 € par an.\n   Revenu imposable: Jeune Dupont a un\
+  \ revenu annuel imposable inférieur à 11 533,02 € en tant que personne seule. En\
+  \ tant qu'époux (ou épouse) d'un couple marié ou en civil, son revenu imposable\
+  \ ne dépasse pas 17 905,06 €.\n   Déclaration: Dans ce contexte, aucune déclaration\
+  \ spécifique n'est nécessaire car le montant des avantages reçus par Jean Dupont\
+  \ ne dépasse pas le plafond de ressources prévu pour l'attribution de l'allocation\
+  \ de solidarité aux personnes âgées et de l'allocation supplémentaire d'invalidité.\n\
+  \   Comparaison: En régime par défaut, le montant des avantages en nature reçus\
+  \ par Jean Dupont serait soumis à l'impôt sur la rente. Cependant, en choisissant\
+  \ cette option, il n'y a pas de déclaration nécessaire et il peut bénéficier de\
+  \ ces avantages sans payer d'impôt sur eux.\n   Calcul clair avec des chiffres ronds:\
+  \ Le montant total des avantages reçus par Jean Dupont ne dépasse pas 3 968 €, donc\
+  \ il n'y a pas besoin de déclaration ni d'imposition fiscale.\n   Conclusion: Dans\
+  \ ce scénario, le retraité Jean Dupont peut bénéficier des avantages en nature reçus\
+  \ de son fils et sa fille-in-law sans déclaration ou imposition fiscale, car le\
+  \ montant total ne dépasse pas 3 968 € par an."

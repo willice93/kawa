@@ -1,0 +1,6 @@
+solution. Assume that you
+find the Facebook profile of your target, and there 1s a large list of “Friends”. You want to
+document this list, and a screenshot is not good enough. You want to capture the hyperlinks to
+each account and have a data set that can be manipulated or imported elsewhere. There are several
+outdated online tools that claim to “scrape” this data, but none of them work. In 2016, Facebook
+changed their Terms of Service (TOS) which now blocks any type of scraping of Friend data

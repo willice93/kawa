@@ -1,0 +1,6 @@
+t” button will bring you to the project screen. Give
+your project a title, preferably the website name, and choose a location to save all of the data.
+Click next and then “add URL”. Enter the exact website that you want to archive. Do not enter
+any login or password. Click “next”, then “finished”, and you are done. The application will begin
+extracting all public information from the site. This can take a while, depending on the size of
+the site. When complete, you will have an exact copy in whi

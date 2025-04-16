@@ -1,0 +1,7 @@
+to click directly above the left side of the first friend and hold until the lower
+right area of the last friend. The friends list should highlight. Now, open Microsoft Excel. Click
+on the “B” in column B to highlight the entire column. Paste the content with either ctrl-v or
+right-click>paste. This will appear disorganized, but the data is there. The images will be on top
+of the user data, which will not work for a final report.
+
+Use F5 to launch the “Go To” menu and select “Special” in the lo

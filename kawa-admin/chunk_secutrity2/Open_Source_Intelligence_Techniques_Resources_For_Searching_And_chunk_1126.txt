@@ -1,0 +1,8 @@
+lerts to send an email to you when specific search
+terms are located.
+
+Real World Application: Many thieves will turn to the internet to unload stolen items. While
+eBay requires banking information or a credit card to use their services, most thieves prefer
+Craigslist's offer of anonymity. My local police department successfully located a valuable stolen
+brass instrument this way and set up a sting to arrest the thief. Often, the thief will be willing to
+bring the item to you in order to get som

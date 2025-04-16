@@ -1,0 +1,6 @@
+default view of mapping services such as Google and Bing may be enough for your situation.
+Occasionally, you may want to modify or customize a map for your needs. Law enforcement may
+want to create a map to be used in a coutt case; a private investigator may want to customize a
+map to present to a client, or a security director may want to use this service to document the
+inapproptiate Tweets that were found during the previous instructions. Scribble Maps offers one
+of the easiest ways to create

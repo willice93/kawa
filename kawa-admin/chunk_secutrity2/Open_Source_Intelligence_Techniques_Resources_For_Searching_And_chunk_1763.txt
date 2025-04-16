@@ -1,0 +1,9 @@
+also accept a domain name as a search term, and provides any email addresses that have been
+scraped from public web pages. The free version of this tool will redact a few letters from each
+address, but the structure should be identifiable.
+
+Visual Site Mapper (visualsitemapper.com)
+
+When researching a domain, I am always looking for a visual representation to give me an idea
+of how massive the website is. Conducting a “Site” search on Google helps, but you are at the
+mercy of Google’s indexing,

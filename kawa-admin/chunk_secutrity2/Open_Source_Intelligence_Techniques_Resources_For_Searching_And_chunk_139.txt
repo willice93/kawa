@@ -1,0 +1,11 @@
+ithin websites.
+
+media.navigator.enabled: FALSE: Website operators will identify your computer as unique to
+enable tracking around the web. One such tactic 1s to track the status of your webcam and
+
+microphone (ON/OFF). This disables the ability to website operators to see this information.
+
+dom.battery.enabled: FALSE: Another technique used by website operators to track you 1s to
+view your exact battery levels. ‘This setting prevents this information from being shared.
+
+extensions.pocket.enable

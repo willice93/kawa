@@ -1,0 +1,6 @@
+cate any information that you could not
+find manually. Instead, it attempts to save you time by automating the process. Figure 10.01
+displays the current state of this website. You can either enter the first and last name of your
+target within the search fields of each service; populate all fields by entering data at the first
+option; or enter this information only once at the final set of search fields. This latter option will
+launch several new tabs and conduct your search across each service.

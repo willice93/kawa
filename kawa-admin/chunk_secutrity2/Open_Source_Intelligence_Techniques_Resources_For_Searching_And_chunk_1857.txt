@@ -1,0 +1,6 @@
+e will present profiles with full name, date of birth, physical identifiers,
+case history, fines, pending appearances, and more. Navigating the website will expose charged
+ctimes even if they were dismissed. This can be extremely useful in civil litigation. There are
+several websites that help connect you to publicly available county government records, such as
+Black Book Online. It allows you to drill-down to your local records. The main page will prompt
+for the state desired. The result will b

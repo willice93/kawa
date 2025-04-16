@@ -1,0 +1,13 @@
+t through this service, and the report includes the
+following information relevant to the target.
+
+Twitter ID # Location Hashtags
+
+Account Creation Date Time Zone User Mentions
+
+# of Followers Number of Tweets Metadata from Images
+# Following Twitter Clients Used Geo-Location Data
+
+Note that using the Linux program inside Buscador does not provide your target data to the
+Tinfoleak website, while this web-based service does store target data on their web server. If you
+have a sensitive investigat

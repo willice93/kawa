@@ -79,3 +79,71 @@ cas_pratique: 'Contexte : M. Jean Dupont est l''exploitant d''une ferme biologiq
   du fait que ces revenus dépassent le seuil de 10 % du capital social de sa ferme.
   Il est donc important de s''assurer de remplir tous les critères nécessaires pour
   être éligible à cette règle.'
+embedding_text: 'Règle : Cette règle s''applique à ceux qui sont chefs d''exploitation
+  ou d''entreprise agricole (MSJU/MSJV). La règle s''applique lorsque les revenus
+  de capitaux mobiliers perçus par vous-même pour leur part excédant 10 % du capital
+  social, des primes d''émission et des sommes versées en compte courant détenues
+  en pleine propriété par vous-même et les membres de votre famille dépassent un montant
+  non spécifié dans le texte. La formule de calcul applicable pour ceux qui sont éligibles
+  est simplement la différence entre les revenus mobiliers perçus et 10 % du capital
+  social, des primes d''émission et des sommes versées en compte courant détenues
+  en pleine propriété par vous-même et les membres de votre famille. Pour être sûr
+  d''y avoir droit, il faut vérifier que tous les critères sont remplis :
+
+  1. Vous devez être chef d''exploitation ou d''entreprise agricole.
+
+  2. Les revenus de capitaux mobiliers excèdent 10 % du capital social, des primes
+  d''émission et des sommes versées en compte courant détenues en pleine propriété
+  par vous-même et les membres de votre famille.
+
+  3. Vous devez être en possession de ces revenus et montants dans une proportion
+  suffisante pour que la différence soit éligible à cette règle.
+
+  Cas pratique : Contexte : M. Jean Dupont est l''exploitant d''une ferme biologique
+  en Normandie depuis cinq ans. Il a investi une somme de 100 000 € dans son entreprise
+  agricole (MSJU). L''année dernière, il a également investi 25 000 € dans des actions
+  boursières et gagné 30 000 € sur ces investissements.
+
+
+  Montants concernés :
+
+  - Capital social de la ferme : 100 000 €
+
+  - Investissement dans les actions : 25 000 €
+
+  - Revenus perçus des actions : 30 000 €
+
+  - Pourcentage des revenus mobiliers sur le capital social (30 000 / 100 000 = 0,3
+  ou 30 %)
+
+
+  Déclaration :
+
+  - Dans la case 1AK pour les revenus perçus (revenus de capitaux mobiliers), il déclare
+  30 000 €.
+
+  - Dans la case 1GF pour le capital social, il déclare 100 000 €.
+
+
+  Comparaison entre le régime par défaut et l''option choisie :
+
+  - En tant qu''exploitant agricole, M. Dupont bénéficie d''un régime fiscal spécial
+  qui lui permet de ne pas payer d''impôt sur les revenus de ses investissements si
+  ces derniers excèdent 10 % du capital social de sa ferme. Il a donc choisi de profiter
+  de cette option (régime de l''MSJU/MSJV).
+
+
+  Calcul clair avec des chiffres ronds :
+
+  - Dans ce cas, M. Dupont est éligible pour cette règle car son investissement dans
+  les actions dépasse le seuil de 10 % du capital social de sa ferme. En appliquant
+  la formule de calcul (revenus mobiliers perçus - 10 % du capital social), il obtient
+  un résultat négatif (30 000 € - (10 % × 100 000 €) = 27 000 € < 0). Donc, il n''a
+  pas à payer d''impôt sur ces revenus.
+
+
+  Conclusion : M. Dupont bénéficie d''un régime fiscal spécial qui lui permet de ne
+  pas payer d''impôt sur les revenus perçus dans son investissement boursier, en raison
+  du fait que ces revenus dépassent le seuil de 10 % du capital social de sa ferme.
+  Il est donc important de s''assurer de remplir tous les critères nécessaires pour
+  être éligible à cette règle.'

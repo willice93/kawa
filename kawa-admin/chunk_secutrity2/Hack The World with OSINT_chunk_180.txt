@@ -1,0 +1,15 @@
+bh2b9fa
+CN=(Cisco Appliance Demo Certificated, O=Cisco Systems, Inc, L=San Jose, ST=California, C=US
+
+Figure 49 Weak. Saudi intelligence services ematl server
+
+Both of the Kingdom of Saudi Arabia Ministry of Foreign Affairs email
+
+servers were weakly configured in the same manner.
+
+Incorrectly configured with Start TLS email encryption
+
+e Known, insecure RC4 encryption algorithm in use
+
+e The encryption certificate is use is a Cisco demonstration
+certificate, which is supposed to be used only fo

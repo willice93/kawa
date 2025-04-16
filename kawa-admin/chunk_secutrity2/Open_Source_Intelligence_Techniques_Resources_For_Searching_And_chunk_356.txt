@@ -1,0 +1,15 @@
+owing are pre-configured and
+ready for use within Buscador.
+
+Creepy: Social network geolocation to identify embedded location details
+MediaInfo: Video metadata utility for displaying hidden video data
+ExifTool: Photo metadata utility for displaying hidden photo data
+HTTrack Website cloning utility
+
+Google Earth: Extended functionality over Google Maps
+
+VeraCrypt: File and container encryption software
+
+KeePassXC: Cross-platform password manager
+
+BleachBit: Purges and deletes unnecessary files cr

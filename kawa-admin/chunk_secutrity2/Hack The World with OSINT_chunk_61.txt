@@ -1,0 +1,11 @@
+est API Get Job Results URL Parameter ...-.---++-+ 240
+Table 85 Rest API Get Job Results response rr emer 240
+Table 86 Rest API Get Series response COE sseciessnesascannensicnnnenne 241
+Table 87 Rest API Get Series Details URL Parametet......--+- 241
+Table 88 Rest API Get Series Details response COES -rncassnseee= 241
+
+Table 89 Rest API Export Get Job Status URL Parameter....242
+
+Table 90 Rest API Export Get Job Status response codes.....242
+
+ble 91 Rest API Data Get Series response COGS fcc sie

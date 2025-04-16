@@ -41,3 +41,34 @@ cas_pratique: "Nom : Jean Dupont, employé en chef chez ABC SAS\n   Situation : 
   \ investissement avant le 27 septembre 2017 dans des produits de fonds en euros\
   \ issus de bons ou de contrats de capitalisation et d'assurance-vie, Jean Dupont\
   \ peut réduire de 340 € son impôt sur le revenu imposable de l'année 2023."
+embedding_text: "Règle : Cette règle s'applique à ceux qui ont des produits de fonds\
+  \ en euros issus de bons ou de contrats de capitalisation et d'assurance-vie attachés\
+  \ à des versements effectués avant le 27 septembre 2017. Les montants concernés\
+  \ sont ceux déclarés sur la ligne 2DF de leur impôt sur le revenu.\n\nLa formule\
+  \ de calcul applicable est de calculer 6,8% du montant déclaré sur la ligne 2DF\
+  \ pour obtenir le montant de CSG déductible. Ce montant sera ensuite déduit automatiquement\
+  \ de leur revenu global de l'année 2023 soumis à l'impôt sur le revenu.\n\nIl est\
+  \ important de vérifier que les produits considérés correspondent à des bons ou\
+  \ contrats de capitalisation et d'assurance-vie, qu'ils ont été attachés à des versements\
+  \ effectués avant le 27 septembre 2017, et que ceux-ci sont mentionnés sur la ligne\
+  \ 2DF de leur déclaration des revenus pour être sûr d'y avoir droit.\nFormule :\
+  \ Non spécifiée\nCas pratique : Nom : Jean Dupont, employé en chef chez ABC SAS\n\
+  \   Situation : À la retraite depuis 3 ans, émet des déclarations annuelles pour\
+  \ l'impôt sur le revenu. Son dernier revenu imposable s'élève à 25 000 € en 2023.\
+  \ Il a investi en produits de fonds en euros issus de bons ou de contrats de capitalisation\
+  \ et d'assurance-vie attachés à des versements effectués avant le 27 septembre 2017.\
+  \ Le montant total déclaré sur la ligne 2DF de sa dernière déclaration est de 5\
+  \ 000 €.\n   Calcul : La formule de calcul applicable est de calculer 6,8% du montant\
+  \ déclaré sur la ligne 2DF pour obtenir le montant de CSG déductible. Le montant\
+  \ déductible en CSG est donc de 5 000 € x 0,068 = 340 €. Ce montant sera déduit\
+  \ automatiquement de son revenu global de l'année 2023 soumis à l'impôt sur le revenu,\
+  \ ce qui réduira son impôt imposable de cette année de 340 €.\n   Comparaison :\
+  \ Il est utile de noter que le régime par défaut appliqué aux produits de fonds\
+  \ en euros issus de bons ou de contrats de capitalisation et d'assurance-vie n'est\
+  \ pas celui applicable pour les versements effectués à partir du 28 septembre 2017.\
+  \ Ainsi, si Jean Dupont avait investi après cette date, il ne serait pas éligible\
+  \ au régime qui permet de bénéficier d'une CSG déductible.\n   Conclusion : En bref,\
+  \ en raison de son investissement avant le 27 septembre 2017 dans des produits de\
+  \ fonds en euros issus de bons ou de contrats de capitalisation et d'assurance-vie,\
+  \ Jean Dupont peut réduire de 340 € son impôt sur le revenu imposable de l'année\
+  \ 2023."

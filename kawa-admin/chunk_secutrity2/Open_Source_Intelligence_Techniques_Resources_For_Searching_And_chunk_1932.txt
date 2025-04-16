@@ -1,0 +1,12 @@
+ube_url -f best[ext!=webm]
+-o ~/Downloads/"%(title)s.Yo(ext)s" -i
+
+Open the Terminal application and execute the following commands
+
+cd Documents
+chmod +x videos.command
+
+You should now have an executable file called videos.command in your Documents folder.
+Double-click on this and you will be prompted to enter the URL of your target video page. Any
+videos downloaded with this script will automatically be placed in your Documents folder. In
+order prevent typographical errors, I have created the

@@ -1,0 +1,6 @@
+o osint. These can be changed later.
+This is a large file, usually over 3GB. I recommend storing the file that you download for future
+use in case you want to rebuild your system. On the download page, there are three options:
+VMWare, VirtualBox, and ISO. If you will be using VirtualBox (free), choose that file. If you
+have VMWare Workstation (Windows) or Fusion (Mac), then you will want the appropriate file.
+Overall, David and I use VMWare as it tends to offer a smoother experience. However, mo

@@ -1,0 +1,13 @@
+x OR ext:csv
+PPT (PowerPoint Files) — ext:ppt OR ext:pptx
+
+TXT (Text Docs) — ext:txt OR ext:rtf
+
+WPD (Word Perfect Docs) — ext:wpd
+
+ODT (Open Office Docs) — ext:odt OR ext:ods OR extiodp
+ZIP (Compressed Files) — ext:zip OR ext:rar OR ext:7z
+
+Figure 3.04 displays the results of a search for the term osint within this new engine. The PPT
+tab is selected which reveals 45 PowerPoint presentations that contain the term. There are endless
+possibilities with this technique. You could make an engine tha

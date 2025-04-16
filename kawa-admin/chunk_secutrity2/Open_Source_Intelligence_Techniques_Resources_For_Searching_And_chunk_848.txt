@@ -1,0 +1,11 @@
+chnique. If you had previously
+identified jms_dot_py as your target Twitter account only to find later that he had changed his
+user name, you could easily locate his profile by providing the assigned user number (817668451).
+
+Check if two accounts follow each other: As the title implies, this option quickly sorts out
+whether two users follow each other. An actual output appears below.
+
+@inteltechniques does not follow @jms_dot_py
+@jms_dot_py follows @inteltechniques
+
+Download a user’s favorites:

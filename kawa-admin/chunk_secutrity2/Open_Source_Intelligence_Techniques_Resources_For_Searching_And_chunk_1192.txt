@@ -1,0 +1,9 @@
+specific address controls the account. You
+could then navigate to signup.live.com and attempt to create an account with the target address.
+If denied, then you know that your target is already a Windows user, and the supplied address
+
+controls the account.
+
+This method can be replicated across practically all websites and services. I have used this
+technique to confirm that target email addresses are associated with services from Yahoo, Gmail,
+Facebook, Twitter, and many others. I have also iden

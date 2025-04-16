@@ -1,0 +1,10 @@
+Twitter URL would
+appear as follows, if “bartlorang” was the Twitter handle.
+
+https://api.fullcontact.com/v2/person.html?twitter=bartlorang&apiKey=XXX
+
+The telephone search API of Full Contact is still in a beta stage, but I believe that this piece could
+prove to be very valuable in the future. If the target telephone number is associated with social
+networks, success is more likely. The search URL should appear like the following.
+
+https: / /api.fullcontact.com/v2/person.html?phone=+16182590000

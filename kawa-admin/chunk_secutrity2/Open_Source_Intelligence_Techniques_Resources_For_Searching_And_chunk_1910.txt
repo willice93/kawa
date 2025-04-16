@@ -1,0 +1,10 @@
+epresentative before blindly downloading and installing any of these applications. To
+begin this chapter, I start with the software mentioned within Chapter Two, but will explain the
+usage for Windows and Mac instead of the Linux configurations.
+
+Software Applications 363
+
+Video Manipulation Utilities (ffmpeg.org)
+
+When I was in law enforcement, one of my assignments was to obtain any video evidence from
+various crime scenes. This might be video footage of an armed robbery from a convenience sto

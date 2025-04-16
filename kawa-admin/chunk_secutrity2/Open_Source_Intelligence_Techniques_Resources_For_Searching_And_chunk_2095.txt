@@ -1,0 +1,8 @@
+estigations. I recommend deleting this machine by
+clicking the trash icon to the right of the title. Perform the following instructions in order to
+cteate your custom Android devices.
+
+e Create a new device by clicking the “Add” Icon in the menu. Select either the “Custom
+Phone — 7.0.0 — API 24 — 768x1280” or “Custom Phone — 6.0.0 — API 23 — 768x1280”
+options. This will create a new emulator of the previous public Android release (6.0.0)
+or the current release (7.0.0) in a default vertical telep

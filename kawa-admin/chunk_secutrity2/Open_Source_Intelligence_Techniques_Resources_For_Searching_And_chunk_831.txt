@@ -1,0 +1,8 @@
+target removed his content from his profile, he did not remove his history. In order to
+see the Twitter posts that he had previously liked before wiping out his page, we can navigate to
+the following URL. In this example, we see the hundreds of messages that identify his interests.
+
+https://twitter.com/WestCornfield/likes /
+
+While every investigation is unique, I wanted to demonstrate the importance of checking every
+source. These seatches took less than three minutes using my custom Twitter se

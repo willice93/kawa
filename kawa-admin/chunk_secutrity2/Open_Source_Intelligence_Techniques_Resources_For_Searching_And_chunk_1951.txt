@@ -1,0 +1,6 @@
+Exif Tool does not provide enough data, or displays a view of the data that you do not like,
+take a look at JPEG Snoop. This portable application provides a very detailed report of all of the
+Exif information that is stored. The report can be saved to a log file or printed. The best feature
+of this software is the batch process ability. You can select an entire folder of images and conduct
+an analysis of all of them at once. A report can be generated of the results, which can be archived
+to dis

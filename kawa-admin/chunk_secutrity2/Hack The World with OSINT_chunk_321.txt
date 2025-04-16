@@ -1,0 +1,40 @@
+s
+a Sion t by ATM skimmer. Unbeknownst to some administrators,
+
+e fesponse headers can be customized JIS using the
+
+<customHeaders> in the con a .
+pri detetennenien ota ee — on. ZMap and Censys can banner
+
+80.http.get.headers.server
+
+Gain Information 2
+
+nS
+
+saiceoantt 1S
+
+aus oo 110 ffs
+
+gonves 2
+
+ws 40|*
+
+Js}
+
+& us 10|*
+Liechange*™
+
+yas 600 001000 | 4
+
+sacroson us 80]
+
+at 160 50 a?
+
+&
+a’
+
+Vowtometecy
+Figure 136 Censys Report Top Ten 80.http.get. beaders.server grap ;
+
+Table 63 Censys Report Top

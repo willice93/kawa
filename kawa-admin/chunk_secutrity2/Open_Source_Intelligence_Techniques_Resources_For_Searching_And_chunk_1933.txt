@@ -1,0 +1,13 @@
+two text files referenced previously and
+placed them on my website for easy access at the following links.
+
+https:/ /inteltechniques.com/data/windows.txt
+https: //inteltechniques.com/data/mac.txt
+
+368 Chapter 19
+
+Video Metadata (mediaarea.net/en/MediaInfo/Download/Windows)
+
+Most smartphone devices store data within every video captured. This includes the software
+version and model of the phone, the date and time of the video, and the GPS location of the
+device during the capture. It also documen

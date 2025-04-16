@@ -1,0 +1,8 @@
+This service also displays generic location data, such as the country of the user.
+
+Google gives us the same detail as above. It also uses the “+” at the end, and our direct demo
+URL would be goo.gl/Ew9rlh+. This demo notified me that 18 people have clicked my link from
+7 different countries. They are mostly Windows users with the Chrome browser.
+
+Bit.do provides the most extensive data. They use a “-” after the URL, and our direct demo
+address would be http://bit.do/cbvNx-. The results identify

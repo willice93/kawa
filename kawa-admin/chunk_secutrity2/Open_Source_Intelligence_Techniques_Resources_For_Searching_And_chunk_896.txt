@@ -1,0 +1,8 @@
+a new column to
+your view. There ate several options presented, but the most common will be “Search” and
+“User”. The “Search” option will create a column that will allow you to search for any keywords
+on Twitter. The following is a list of search examples and how they may benefit the investigator.
+
+“Victim Name”: A homicide investigator can monitor people mentioning a homicide victim
+“School Name”: A school can monitor anyone mentioning the school for suspicious activity
+“Subject Name”: An inve

@@ -1,0 +1,6 @@
+ing one investigation,
+I had encountered a web forum of a hacking group that always appeared blank on visit. Google
+had indexed it, but I could not see any content. By changing my default agent to Firefox on a
+Linux machine, I was allowed to see the content. The group had enabled a script that would only
+allow the page to be viewed on Linux computers. While still employed by the government, various
+mandated online training needed to be completed in order to maintain specific certifications. This

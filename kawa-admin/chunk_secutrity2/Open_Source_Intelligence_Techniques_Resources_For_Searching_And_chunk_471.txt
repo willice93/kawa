@@ -1,0 +1,9 @@
+when a small website receives an abundance of visits
+due to instant popularity on a service such as Reddit. If I cannot load the desired page, I will
+attempt to view it through Coral. To do this, I append the website address with “.nyud.net”. If I
+were attempting to view inteltechniques.com, I would instead navigate to the exact address of
+inteltechniques.com.nyud.net. This will generate a current snapshot of the target page. It is
+
+Search Engines 73
+
+obtained by a series of servers that have t

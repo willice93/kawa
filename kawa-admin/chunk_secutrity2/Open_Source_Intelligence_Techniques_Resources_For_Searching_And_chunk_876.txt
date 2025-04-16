@@ -1,0 +1,10 @@
+ata about a location.
+However, monitoring a large event can provide live intelligence in an easily viewed format. I
+recommend using a mouse scroll wheel to zoom into your location of interest. Once you are at a
+level that you can see single Tweets, you can click any of them to see the content. The page will
+automatically refresh as new information ts posted.
+
+Search by Email Address
+
+Technically, Twitter does not allow the search of a Twitter user by providing an email address. If
+you attempt th

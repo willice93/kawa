@@ -1,0 +1,18 @@
+it” /></form>
+
+<script type=“text/javascript”>
+
+function dopipl3(ppuser) {
+window.open(https://api.pipl.com/search/v5/?user name=' + ppuser +
+'&no_sponsored=true&key= XXX, 'pip]3window’);}</script>
+
+<form onsubmit=“dopip13(this.pp3.value); return false;”>
+
+<input type—“text” name=“pp3” size=“40” value=“Screen Name” />
+<input type=“submit” /></form>
+
+<script type=“text/javascript”>
+
+function dopipl4(ppphone) {
+window.open(https://api.pipl.com/search/v5/?phone=' + ppphone +
+'&no_sponsored=true&key

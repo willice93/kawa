@@ -1,0 +1,10 @@
+for most investigations.
+
+Footprint: This option identifies the target's network perimeter, associated identities, and other
+information that is obtained through a lot of web crawling and search engine use. This is a lengthy
+search, and the most useful for standard OSINT investigations.
+
+Investigate: This conducts basic scanning and querying of sources that may have information
+about your target's maliciousness. This should be used on sites that deliver malware.
+
+Passive: This option collects as

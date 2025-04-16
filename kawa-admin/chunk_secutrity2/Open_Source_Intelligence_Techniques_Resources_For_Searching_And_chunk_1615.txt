@@ -1,0 +1,10 @@
+//polsy.org.uk/stuff/ytrestrict.cgi?ytid=MGhMdT_C-vQ
+
+The result is a page with a world map. Countries in grey are allowed to view the target video while
+countties in red are not. While I cannot natively play this video due to my location, I can easily
+view the four still frames with the technique described in the previous section. The following
+exact URLs display content otherwise not viewable.
+
+http:/ /i-ytimg.com/vi/MGhMdT_C-vQ/ 0.jpg
+http://i.ytimg.com/vi/MGhMdT_C-vQ/1 jpg
+http://i.ytimg.com

@@ -1,0 +1,17 @@
+ential first step in learning about
+reconnaissance and how the information could be utilised or resold.
+Both issues you or your client need to know. All of the tools and
+techniques in this book can be ninjafied with Python, SQL, SDK or
+PowerShell.
+
+0.2 Target Audience
+
+Penetration testers, security and network analysis or anyone curious
+about open source intelligence gathering. Defenders and exploiters
+
+alike.
+
+0.3 Conventions
+Sensitive information may be removed from the examples, or
+
+modified.

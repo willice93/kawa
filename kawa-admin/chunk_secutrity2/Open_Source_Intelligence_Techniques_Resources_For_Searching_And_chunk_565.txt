@@ -1,0 +1,10 @@
+and browse the directory titled “cisco”. The
+first of the following addresses displays the contents of that folder, while the second displays the
+content of the “pub” folder. Copy these directly into a web browser to see the results.
+
+ftp://ftp.swcp.com/pub/cisco/
+ftp://ftp.swcp.com/pub/
+
+This type of manual navigation will often reveal numerous publicly available documents that
+traditional searches withhold. I have located extremely sensitive files hosted by companies,
+government agencies, and

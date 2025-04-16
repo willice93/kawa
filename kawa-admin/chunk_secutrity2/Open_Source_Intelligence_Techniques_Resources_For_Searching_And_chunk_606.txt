@@ -1,0 +1,9 @@
+ing section will identify the basic types
+of information you can search and the necessary detailed structure of each address. After, I will
+explain a more sophisticated process that will help hone in on specific targets. At the end, I will
+present my custom online Facebook search tool that will simplify the entire process. If any of
+this seems overwhelming, know that my online tool will automate all of the searches.
+
+Name
+
+Facebook still offers native name searching within any page. However, I h

@@ -1,0 +1,6 @@
+photo sharing service owned by Yahoo. There are three specific uses of
+the Flickr API that I have found helpful during many online investigations. The first queries an
+email address and identifies any Flickr accounts associated with it. The second queries a user
+name, and identifies the Flickr user number of the connected account. The final option queries a
+Flickr user number and identifies the attached user name. The following html code could be
+copied into a text file, which would create your

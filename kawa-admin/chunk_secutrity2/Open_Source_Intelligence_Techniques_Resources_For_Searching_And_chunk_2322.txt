@@ -1,0 +1,7 @@
+ftware pack of every application ready to use.
+
+I am often asked my opinion about the future of OSINT. Occasionally, I am asked to advise
+intelligence collection companies during the creation of a new “all-in-one” OSINT solution. I
+decline these requests because the “easy” solutions are usually short-lived. Constant changes in
+technology, and automated data collection restrictions, make these commercial products less
+powerful over time. I do not believe these can ever replace the analytical brai

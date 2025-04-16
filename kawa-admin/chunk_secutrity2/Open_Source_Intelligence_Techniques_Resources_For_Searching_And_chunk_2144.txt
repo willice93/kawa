@@ -1,0 +1,9 @@
+wever, that may be too time consuming if you use a new device for every investigation. The
+following instructions will clone the exact state of any virtual Android device within Genymoton.
+
+e Create and customize an Android virtual device as desired. Configure Google Play and
+any other apps that you want present in all cloned copies. Optionally, execute the app
+“Secure Eraser” to eliminate unnecessary hard drive space. Exit the machine and close
+Genymotion completely.
+
+e Open VirtualBox from you

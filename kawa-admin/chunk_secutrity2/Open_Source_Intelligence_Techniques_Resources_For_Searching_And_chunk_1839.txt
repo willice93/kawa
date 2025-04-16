@@ -1,0 +1,10 @@
+through an
+online service.
+
+Emkei (emket.cz)
+
+The service will allow you to immediately send an anonymous email message from within the
+website. You can completely control the sender’s name, email address, subject, and message. The
+recipient will receive an email as normal. However, the “From” section will contain any spoofed
+information that you desire. Combining this utility with the tracking services mentioned
+previously can increase the success of the methods. Always test this technique by s

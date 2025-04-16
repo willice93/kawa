@@ -1,0 +1,22 @@
+we are looking at, TLS not available
+and a general information variable why this feature cannot be used by
+the email server. Using the tables for SMTP codes and SMTP
+Extended codes ESMTP. Both conditions and fields need to paupense
+The TLS Start field is 25.smtp.starttls.starttls. The X in the ESMTP
+can be variable but 4 is temporary, which describes most
+
+misconfigurations.
+
+SMTP Description
+
+Code/Extended
+
+Email Technologies 357
+
+EAC SE re
+
+“Other address status (Variable)
+
+nn emmaiael
+
+into o

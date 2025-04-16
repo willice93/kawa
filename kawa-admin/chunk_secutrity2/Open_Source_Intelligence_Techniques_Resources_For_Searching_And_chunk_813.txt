@@ -1,0 +1,9 @@
+ame within quotes forces Twitter to only give you results on those exact terms. That is your
+mandatory portion. The words kill, stab, fight, beat, punch, death, and die are all optional because
+the term “OR” is between each. This term must be uppercase, and will only require one of the
+optional words be present within the search results.
+
+Date Range Search
+
+If you are searching vague terms, you may want to filter by date. This option is now available on
+the advanced search page, but I believe it

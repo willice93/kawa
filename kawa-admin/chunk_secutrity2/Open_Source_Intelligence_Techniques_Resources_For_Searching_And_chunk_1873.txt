@@ -1,0 +1,11 @@
+any VIN and will display two unique pieces of information. The
+VINCheck Theft Record will identify vehicles that have been reported stolen while the
+VINCheck Total Loss Records identifies VINs that belong to salvaged vehicles.
+
+356 Chapter 18
+
+Cycle VIN (cyclevin.com)
+
+VINs from motorcycles may not be searchable on standard VIN engines due to the amount of
+characters in them. Cycle VIN will display a year and make, as well as any indication that the VIN
+exists in its proprietary database. If it

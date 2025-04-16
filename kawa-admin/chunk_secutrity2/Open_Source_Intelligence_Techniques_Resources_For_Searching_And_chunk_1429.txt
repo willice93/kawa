@@ -1,0 +1,6 @@
+ers a map view, satellite view, and street view. Bing does offer
+something that is not always available in Google. Bing possesses a “Bird's Eye View” which
+displays four distinct angled views of a location. This may display signs, advertisements,
+pedestrians, and other objects with clear visibility. While Google is rolling out their own 45-
+degree satellite view, the areas covered ate minimal at the time of this writing. In my experience,
+the imagery provided by Bing is often superior in quality

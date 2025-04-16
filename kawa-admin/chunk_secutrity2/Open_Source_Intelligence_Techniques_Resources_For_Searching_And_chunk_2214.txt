@@ -1,0 +1,15 @@
+rsion of Recon-ng. This
+can be done using the instructions at the Recon-ng website, or waiting for the next Buscador
+
+update.
+
+430 Chapter 22
+
+CHAPTER TWENTY- THREE
+
+RADIO FREQUENCY MONITORING
+
+Monitoring radio frequencies is considered an open source technique. It does not require the
+internet and the information obtained can be quite valuable. In the past, this method of collecting
+information was conducted using expensive hardware such as emergency receivers and console
+radios. Today, a few b

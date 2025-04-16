@@ -1,0 +1,9 @@
+owEm, but it links directly to the target’s profile when
+one is identified. Because this service relies on KnowEm, and not its own internal structure, it
+often experiences outages.
+
+Name Checkr (namecheckr.com)
+
+This service appeared in late 2014 and conducts the same type of search as the previous
+competitors. The only slight advantage here is that the search is conducted faster than other sites.
+Additionally, you have a live hyperlink that will navigate to any identified accounts of the target

@@ -1,0 +1,9 @@
+geographic location;
+
+154 Chapter 5
+
+of monitor a specific user. After you install the Twitter Archiver from this site, it will create a
+new Google Spreadsheet within your Google Drive account. Go to the Add-on menu, choose
+Twitter Archiver, and select the Authorize menu. Allow the Google Sheet to access Twitter on
+your behalf as the app needs this permission to fetch Tweets. It will never post anything to your
+Twitter account. Once yout Twitter account is authorized, go to the Twitter Archiver

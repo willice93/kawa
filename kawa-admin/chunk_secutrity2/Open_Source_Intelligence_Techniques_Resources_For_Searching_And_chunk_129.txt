@@ -1,0 +1,6 @@
+minimal. However, this was not the case with 57.
+This completely new version of Firefox included major speed improvements, a cosmetic face-
+lift, and most importantly the elimination of legacy extensions (also called add-ons). In the
+previous edition of this book, I spoke of various Firefox add-ons that would enhance your
+collection of online information. The majority of these extensions were disabled with this new
+telease. Some developers updated their software to make these options work with t

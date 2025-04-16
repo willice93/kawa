@@ -1,0 +1,36 @@
+up. Disregard the errors, it will load
+
+Applications » Places * Files
+Favorites
+OL - Information Gathering
+O2 - Vulnerability Analysis
+03 - Web Application Analysis
+
+05 - Password Attacks
+
+O6 - Wireless Attacks
+
+08 - Exploitation Tools
+09 - Sniffing & Spoofing
+10 - Post Exploitation
+
+11 - Forensics
+
+12 - Reporting Tools
+
+13 - Social Engineering Tools
+
+14
+
+Fzoure 166 How iO open Recon -L V4 ;
+6 eo 9
+
+Terminal
+
+File Edit View Search Terminal Help
+
+/\
+aN NeLN
+ry awe AWE WA
+WN REL VAAN AA \/\
+a AR A

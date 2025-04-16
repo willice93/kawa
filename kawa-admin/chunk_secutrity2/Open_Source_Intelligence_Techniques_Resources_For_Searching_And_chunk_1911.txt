@@ -1,0 +1,7 @@
+re
+camera system or personal video captured through a cellular telephone camera by a witness.
+Either way, I often encountered many problems. Some surveillance systems required rare video
+codecs in order to view the media. Some personal videos were very short and difficult to see
+because of quick movement. I developed scripts to take advantage of open source tools that
+helped with the various struggles that I had involving digital video. The following techniques will
+requite the executable files

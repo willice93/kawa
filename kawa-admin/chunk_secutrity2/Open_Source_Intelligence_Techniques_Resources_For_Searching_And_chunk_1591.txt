@@ -1,0 +1,7 @@
+ause color shifts. Histogram Equalization is the most
+robust option. You can also set this to none. Opacity displays the opacity of the differences layer.
+If you lower it you will see more of the original image. Figure 14.11 (left) displays manipulation.
+
+Noise Analysis is basically a reverse de-noising algorithm. Rather than removing the noise it
+removes the rest of the image. It is using a super simple separable median filter to isolate the
+noise. It can be useful for identifying manipulations

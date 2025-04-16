@@ -1,0 +1,6 @@
+e are a little sneaky. Everything that the program
+can do is legal, but I will only focus on the areas that should pass any ethics debate. FOCA’s
+biggest strength is the ability to extract metadata from documents. You can drag and drop a
+document into the program, and it will analyze the file’s hidden data and present a summary.
+Though there are many programs that can do this, FOCA stands out by automating the search
+process by searching, downloading, and analyzing all documents on a web server

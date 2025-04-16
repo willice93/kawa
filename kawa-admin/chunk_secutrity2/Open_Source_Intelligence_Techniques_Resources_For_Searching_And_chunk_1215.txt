@@ -1,0 +1,6 @@
+ng the search, the results page
+appears almost immediately. This is because Lullar is not actually conducting any real analysis of
+user profiles. The results displayed are only the links that would open the page of the target’s
+profile based on the address, or URL, of that profile. For example, if I search for the user name
+JohnDoe911, Lullar does not check any sites to see if this user has a profile. Instead, it generates
+the appropriate links that would function for that user name. In the case

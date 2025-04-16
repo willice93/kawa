@@ -1,0 +1,9 @@
+date and the end date of the current date.
+
+Paste Sites
+
+Paste Sites ate not technically documents. They are websites that allow users to upload text for
+public viewing. These were originally designed for software programmers that needed a place to
+store large amounts of text. A link would be created to the text and the user could share the link
+with other programmers to review the code. This is still a common practice, but other users have
+found ways to abuse this technology. Many hacking group

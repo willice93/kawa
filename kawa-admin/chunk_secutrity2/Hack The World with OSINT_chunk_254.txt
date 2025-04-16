@@ -1,0 +1,23 @@
+88 Results: 2,529,677 Time: 3296ms
+
+a 497.50.229.98 (host-197.50.229.98.tedata.net)
+@ AS TE-AS (8452) ¥ Egypt
+
+© 90/http
+@ DVR Components Download
+
+C ao.http.get.body: Components Download
+
+CO 65.24.61.88 (cpe-65-24-61-88.columbus.res.1r.com)
+
+@» Time Warner Cable internet LLC (10796) 9 Lancaster, Ohio, United States
+% 22/ssh, 7547/cwmp, 80/http, BOBO/http, 8BBE/http
+
+# DVR Components Download
+
+Q, 7547.cwmp.get. body: Components Download
+
+cv
+
+2 196.221.164.102
+@ AS (24835) ¥ Cairo, Muhatazat al Q

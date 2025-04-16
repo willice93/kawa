@@ -1,0 +1,9 @@
+Again, there are numerous free options from which to choose. I recommend
+Malware Bytes for both Windows and Apple users. It is completely free and thorough. I suggest
+executing, updating, and scanning at least once a week on every device that you use.
+
+Navigate to http://www.malwarebytes.org/ and select the “Free Download” option.
+Conduct a default installation.
+
+On a weekly basis, launch the program, update the database, and conduct a full scan.
+Malware Bytes will remove any issues it finds.

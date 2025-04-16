@@ -43,3 +43,33 @@ cas_pratique: "Nom : Alice Dupont, architecte indépendante\n   Situation profes
   \ pour le calcul du prélèvement à la source\n   Conclusion : Par cette règle, Alice\
   \ peut bénéficier d'un crédit d'impôt égale à l'impôt français sur ses revenus perçus\
   \ en dehors de la France et réduire son impôt total payé."
+embedding_text: "Règle : Règle appliquée aux bénéfices de sources étrangères des non-résidents,\
+  \ subjectifs aux conditions suivantes :\n\n1. Les bénéfices en question sont ceux\
+  \ qui ouvrent droit à un crédit d'impôt égale à l'impôt français.\n2. Ces bénéfices\
+  \ doivent provenir des revenus perçus par les non-résidents soumis à la rete-nue\
+  \ à la source comme prévu par les articles 182 A bis et 182 B du CGI (Code général\
+  \ des impôts).\n3. Il n'y a pas de montant spécifique indiqué, mais il s'agit simplement\
+  \ de ceux qui ont droit au crédit d'impôt égale à l'impôt français.\n4. La formule\
+  \ de calcul applicable est la suivante : les bénéfices en question sont déclarés\
+  \ lignes 5XJ à 5ZJ et ne seront pas retenus pour le calcul du prélèvement à la source.\n\
+  5. Il faut vérifier que les bénéfices en question sont ceux qui ont droit au crédit\
+  \ d'impôt égale à l'impôt français, c'est-à-dire qu'ils correspondent aux conditions\
+  \ de l'article 182 A bis et 182 B du CGI. Les bénéfices ne doivent pas être déclarés\
+  \ lignes 5QC à 5SC.\nFormule : Non spécifiée\nCas pratique : Nom : Alice Dupont,\
+  \ architecte indépendante\n   Situation professionnelle : Travaille pour des clients\
+  \ étrangers depuis deux ans sur projets d'architecture\n   Revenus 2021 : 250 000\
+  \ euros (soit les revenus perçus en dehors de la France)\n   Taux d'imposition applicable\
+  \ : 30% (régime par défaut pour les non-résidents sur les revenus subjectifs aux\
+  \ conditions de l'article 182 A bis et 182 B du CGI)\n   Montants concernés : Les\
+  \ bénéfices en question sont ceux qui ouvrent droit à un crédit d'impôt égale à\
+  \ l'impôt français, soit les montants déclarés sur les lignes 5XJ à 5ZJ de la déclaration\
+  \ annuelle\n   Déclaration : Si Alice décide de saisir des déclarations annuelles\
+  \ en France pour les revenus perçus dans les pays étrangers, elle devra déclarer\
+  \ ses bénéfices sur les lignes 5XJ à 5ZJ. Elle ne devra pas déclarer ces mêmes bénéfices\
+  \ sur les lignes 5QC à 5SC\n   Comparaison : Sans la règle, Alice serait imposée\
+  \ au taux de 30% sur tous ses revenus (250 000 euros), ce qui représente 75 000\
+  \ euros. En appliquant la règle, seuls les bénéfices déclarés sur les lignes 5XJ\
+  \ à 5ZJ (si éligibles) ne seront pas retenus pour le calcul du prélèvement à la\
+  \ source\n   Conclusion : Par cette règle, Alice peut bénéficier d'un crédit d'impôt\
+  \ égale à l'impôt français sur ses revenus perçus en dehors de la France et réduire\
+  \ son impôt total payé."

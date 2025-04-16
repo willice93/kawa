@@ -1,0 +1,31 @@
+n ,
+
+for Weak Encryption OTG-CRypgy
+
+tion cipher protocols used by HTyp /8 &
+
+guide lists this search Testing | |
+004. OWASP lists the following encryption algorithms as weak,
+
+e MD4
+e MD5
+e RC4
+e RC2
+e DES
+e Blowfish
+e SHA-1
+e ECB
+
+Search with IPv4 using the keyword search inside protocols, the
+query the Metadata.
+
+protocols: md5, sha0, shal, des, rc4
+
+protocols: md5, sha, sha, des, rc4|
+
+A OE ETE A RE A NL pe
+
+; Le Ae AEE Meee pe
+
+ IPv4 Hosts
+wns | Page: 1/706,607 Results: 17,665,174 Time: 179

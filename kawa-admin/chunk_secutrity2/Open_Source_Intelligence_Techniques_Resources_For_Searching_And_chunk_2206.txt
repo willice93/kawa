@@ -1,0 +1,16 @@
+ule which attempts to identify additional profile names
+from the recently discovered data; and execute the module.
+
+show contacts
+
+use recon/contacts-profiles/fullcontact
+run
+
+show profiles
+
+use recon/profiles-profiles/profiler
+run
+
+Upon completion, we now have a refined list of potential social networks of our target. As a
+reminder, the real power of this tool is the ability to replicate these actions across muluple targets
+at once. The following is a portion of the Full Contact output followed

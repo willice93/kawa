@@ -1,0 +1,9 @@
+ext to the item.
+Figure 3.02 (bottom) displays the results of this same search with the specific data added at the
+end. The exact URL of this search was the following address.
+
+google.com/?#q=osint+ tools&tbs=cdr:1,cd_min:1 /1/0
+
+Notice that the result now has the date when the content was indexed by Google. You can also
+now sort these results by date in order to,Jocate the most recent information. The search tools
+menu also offers an “All results” menu that will allow you to choose to see “all

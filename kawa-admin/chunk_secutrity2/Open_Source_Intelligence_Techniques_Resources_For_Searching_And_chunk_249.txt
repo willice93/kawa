@@ -1,0 +1,6 @@
+e network (VPN) at all times. A VPN extends a private network
+across a public network, such as the internet. It enables users to send and receive data across
+shated or public networks as if their computing devices were directly connected to the private
+network, thus benefiting from the functionality, security and management policies of the private
+network. Similar to the Tor browser, which was mentioned earlier, a VPN masks your identity
+online. Two specific examples should help demonstrate the

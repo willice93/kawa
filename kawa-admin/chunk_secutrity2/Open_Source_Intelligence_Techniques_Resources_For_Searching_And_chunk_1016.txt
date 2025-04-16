@@ -1,0 +1,9 @@
+ok.ru/search, but you will need to
+create an account to take full advantage of the options. I have found a targeted site search on
+Google to be most effective. Searching for Michael Smith would be conducted as follows.
+
+site:ok.ru “michael smith”
+
+The links connect directly to profiles, which can be browsed as normal. These will appear very
+similar to Facebook profiles. The upper-right portion of a profile will announce the date of the
+uset’s last login. Most of the profile details are public,

@@ -1,0 +1,12 @@
+ss name during my research, or identify a target that would likely be associated with an
+
+organization.
+Birthday Database (birthdatabase.com)
+
+This site should identify the full name, date of birth, and city and state of birth of your U.S. target.
+The only available search fields are first name, last name, and approximate age. The age field is
+not required, but may help eliminate multiple results.
+
+SSN Validator (ssnvalidator.com)
+
+A simple way to verify if a number is valid is at SSN Validator.

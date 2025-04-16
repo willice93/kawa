@@ -49,3 +49,49 @@ cas_pratique: "Nom : Jean Dupont, Ingénieur en chef chez Enertech Industries In
   \ pour l'année civile 2023 s'élève à 10 805 $ selon l'option choisie de cotisation\
   \ unique annuelle. Si il n'avait pas opté pour cette option, son montant serait\
   \ de 7 336 $ en suivant le régime par défaut."
+embedding_text: "Règle : Règle de calcul des cotisations sociales s'applique aux personnes\
+  \ :\n   - Travaillant dans un emploi salarié ou dirigeant d'une entreprise (sauf\
+  \ sociétés exonérées)\n   - qui ont des revenus retenus pour le calcul de l'impôt\
+  \ sur le revenu\n\n Les conditions sont que :\n   - Il ne soit pas tenu compte des\
+  \ plus-values et moins-values professionnelles à long terme, des reports déficitaires,\
+  \ des exonérations (y compris celles attachées aux cotisations Madelin et aux régimes\
+  \ facultatifs, ainsi qu'aux nouveaux plans d'épargne retraite), de la déduction\
+  \ des frais professionnels de 10 %, des sommes exposées pour l'acquisition de parts\
+  \ sociales.\n   - Une partie des dividendes perçus par les gérants associés d'une\
+  \ entreprise soumise à l'impôt sur les sociétés est prise en compte dans la base\
+  \ de calcul.\n\n Les montants ou plafonds sont :\n   - Le revenu retenu pour le\
+  \ calcul de l'impôt sur le revenu\n\n La formule de calcul applicable est la suivante\
+  \ :\n   - La base de calcul des cotisations sociales correspond à la somme calculée\
+  \ en tenant compte des éléments mentionnés dans les conditions.\n\n Il faut vérifier\
+  \ pour être sûr d'y avoir droit que :\n   - Les revenus perçus sont retenus pour\
+  \ le calcul de l'impôt sur le revenu.\n   - Les exonérations, plus-values et moins-values\
+  \ professionnelles à long terme, reports déficitaires, frais professionnels supérieurs\
+  \ à 10 % n'ont pas été pris en compte.\n   - Les droits d'acquisition de parts sociales\
+  \ n'ont pas été pris en compte.\n   - Les gérants associés d'une entreprise soumise\
+  \ à l'impôt sur les sociétés ont inclus leur part des dividendes dans la base de\
+  \ calcul des cotisations sociales.\nFormule : Non spécifiée\nCas pratique : Nom\
+  \ : Jean Dupont, Ingénieur en chef chez Enertech Industries Inc.\n   Année civile\
+  \ : 2023\n\n   Les revenus de Mr. Jean Dupont sont retenus pour le calcul de l'impôt\
+  \ sur le revenu et sont égaux à 75 000 $ (1AK). Comme il travaille dans un emploi\
+  \ salarié chez Enertech Industries Inc., qui n'est pas une société exonérée, la\
+  \ règle de calcul des cotisations sociales s'applique à son cas.\n\n   La base de\
+  \ calcul des cotisations sociales correspond à la somme calculée en tenant compte\
+  \ des éléments suivants :\n\n   - Le revenu retenu pour le calcul de l'impôt sur\
+  \ le revenu (75 000 $) (1AK)\n\n   Il n'a pas été pris en compte :\n\n   - Les plus-values\
+  \ et moins-values professionnelles à long terme, des reports déficitaires, des exonérations\
+  \ (y compris celles attachées aux cotisations Madelin et aux régimes facultatifs),\
+  \ de la déduction des frais professionnels supérieurs à 10 %, des sommes exposées\
+  \ pour l'acquisition de parts sociales.\n   - La partie des dividendes perçus par\
+  \ les gérants associés d'Enertech Industries Inc., une entreprise soumise à l'impôt\
+  \ sur les sociétés, n'a pas été prise en compte dans la base de calcul des cotisations\
+  \ sociales.\n\n   Comparaison :\n\n   - Regime par défaut : Sous ce régime, le taux\
+  \ de cotisation est de 10,8% (en tenant compte de l'exemption pour les revenus inférieurs\
+  \ à 56 249 $) pour un montant total de 7 336 $ (75 000 x 10.8% - 56 249 x 9.8%)\n\
+  \   - Option choisie : Mr. Jean Dupont a opté pour l'option annuelle à cotisation\
+  \ unique, qui permet de réduire les frais de gestion de l'entreprise en réduisant\
+  \ le nombre de prélèvements de cotisation effectués pendant l'année civile. La somme\
+  \ annuelle due est de 10 805 $ (75 000 x 14,32%).\n\n   Conclusion : Le calcul des\
+  \ cotisations sociales de Mr. Jean Dupont pour l'année civile 2023 s'élève à 10\
+  \ 805 $ selon l'option choisie de cotisation unique annuelle. Si il n'avait pas\
+  \ opté pour cette option, son montant serait de 7 336 $ en suivant le régime par\
+  \ défaut."

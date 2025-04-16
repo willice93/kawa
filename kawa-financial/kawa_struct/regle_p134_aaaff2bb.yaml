@@ -61,3 +61,55 @@ calcul:
     revenu_brut: 300
     abattement: 24
     revenu_net: 276
+embedding_text: 'Règle : La règle s''applique aux produits afférents aux versements
+  effectués à compter du 27 septembre 2017 pour les contrats de moins de 8 ans. Les
+  conditions sont que le produit soit un contractuel de moins de 8 ans et que les
+  versements aient été faits à compter du 27 septembre 2017.
+
+
+  Les montants ou plafonds sont imposables au taux forfaitaire de 12,8%. Cependant,
+  il peut également être imposé au barème sur option globale du contribuable pour
+  l''imposition de l''ensemble de ses revenus et gains mobiliers.
+
+
+  La formule de calcul applicable est : Montant des produits x taux forfaitaire (12,8%)
+  ou Montant des produits imposés au barème sur option globale du contribuable.
+
+
+  Pour être sûr d''y avoir droit, il faut vérifier que le produit est un contractuel
+  de moins de 8 ans et que les versements aient été faits à compter du 27 septembre
+  2017.
+
+  Formule : revenu_brut * (1 - 0.08)
+
+  Cas pratique : Contexte : Jean Dupont, ingénieur en informatique, possède une assurance
+  vie de 6 ans qu''il a ouverte le 1er octobre 2015. En décembre 2017, il verse pour
+  la première fois dans cette assurance.
+
+
+  Montants : Les versements mensuels sont de 300€ depuis décembre 2017 et le produit
+  total est de 60 000€. Jean Dupont a également un revenu net annuel de 50 000€.
+
+
+  Déclaration : Les versements dans la vie d''assurance sont déclarés sous le numéro
+  1AK (versements assurantiels). Le produit total est déclaré sous le numéro 1GF (produits
+  financiers mobiliers).
+
+
+  Comparaison : En régime de taux forfaitaire, l''imposition serait de 300€ x 12,8%
+  = 36,96€ par mois. En optant pour l''imposition sur barème global du revenu, Jean
+  Dupont peut avoir un avantage fiscal en considérant tout son revenu et les versements
+  dans la vie d''assurance au sein de la même catégorie imposable.
+
+
+  Calcul clair avec des chiffres ronds : En régime forfaitaire, l''imposition mensuelle
+  est de 36,96€. En optant pour l''option globale du revenu, il peut y avoir un avantage
+  fiscal supplémentaire en considérant tout son revenu et les versements dans la vie
+  d''assurance au sein de la même catégorie imposable.
+
+
+  Conclusion : Pour bénéficier de l''option globale du revenu, Jean Dupont devra demander
+  à son établissement financier de lui fournir un modèle de déclaration spécifique.
+  Il devra ensuite informer l''administration fiscale de ce choix en déclarant correctement
+  les versements dans la vie d''assurance et le produit total sous le numéro 1GF (produits
+  financiers mobiliers) à compter du début de l''année suivante.'

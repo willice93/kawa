@@ -1,0 +1,8 @@
+ificate Basic Constraints fields 254
+Table 107 Censys Parsed Key Usage fields .............-sssesereeees £05
+Table 108 Censys Parsed Certificate Extended Key Usage field
+Far ap porns stdrn i hedairsravdnassarsisarnsreascsenee 255
+Table 109 Censvs Passed Cettificate SKID field......:............+ 255
+apie 110 Cenave Parsea Certiticate AKID field..................... 256
+Tole 113 Geusvs Parsed Certificate AVA field......cscscesccssscese- 256
+Table 112 Censys Certificate Policy fields ....ccscssscs

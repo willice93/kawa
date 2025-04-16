@@ -1,0 +1,13 @@
+e view. It allows you to split the view horizontally and
+vertically, with Street View on one side and Satellite View on the other. While this does not
+ptesent any new content, it does provide additional view options. If this page were to ever
+disappear, I maintain a copy at the following address. Download this file to your computer and
+execute the file within your chosen browser.
+
+272 Chapter 12
+
+https:/ /inteltechniques.com /OSINT/iframe/classic.maps.html
+
+Scribble Maps (scribblemaps.com)
+
+The

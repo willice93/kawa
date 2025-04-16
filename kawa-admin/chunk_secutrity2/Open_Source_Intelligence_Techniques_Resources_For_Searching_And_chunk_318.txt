@@ -1,0 +1,10 @@
+identify associations with other otganizations. The domains of these
+companies could then be used for an additional search through Metagoofil.
+
+Modified.csv: This file extracts only the metadata that identifies individuals that modified the
+downloaded documents. Similar to the authors option, it can disclose people associated with the
+
+tatget organization.
+
+At the conclusion of my demonstration, I possessed 100 documents from my target’s website
+that would have taken hours to locate and extract.

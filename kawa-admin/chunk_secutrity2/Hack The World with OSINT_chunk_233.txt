@@ -1,0 +1,26 @@
+(C) Sie
+_ Issuing CA Multipurpose 2013
+
+ay Siemens Internet CA V1.0
+© 2013-12-02 - 2019-12-02
+
+ audit.ccadb.certificate name: Siemens Issuing CA Multipurpose 2013
+
+Figure 80 Censys certificate Siemens s7 with OR
+xpand the Tags to display the certificate detail tags.
+
+Tag:
+
+22.5K & Unexpired
+12.55K Self-Signed
+11.53K & CT
+11.51K G Google CT
+1.1K @ Leaf
+7,741 {f@ Ov
+7,307 fA Expired
+6,550 & Previously Trusted
+6,142 A Never Trusted
+5,201 1 CT PreCert
+4567 &@ Currently Trusted
+58 WeEV
+19 a Intermed

@@ -1,0 +1,16 @@
+al electrotonic devices and programma
+Its significant
+
+(Pid). Considered a de facto standard and open source.
+dard written in 1979 when memory
+
+d addressing for devices. This
+des which make no sense.
+
+limitations are the protocol stan
+was costly. There are limited registers an
+can cause a lack of memory with return co
+Modbus tried to update the protocol, with the introduction of ASCII
+MODBUS. This is considered among some engineers are bad For
+
+penetration testing purposes, the main issues with

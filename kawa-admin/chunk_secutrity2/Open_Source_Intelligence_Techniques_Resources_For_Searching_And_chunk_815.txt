@@ -1,0 +1,6 @@
+avotite use of this search technique is to combine it with the “to” operator or a name search
+(or both). This allows you to go further back in time than standard profile and Twitter feed
+searches typically allow. Consider an example where Twitter user humanhacker is your target.
+You can visit his live Twitter page and navigate back through several thousand Tweets. However,
+you will reach an end before obtaining all Tweets. This could be due to Twitter restrictions or
+browser and computer limitat

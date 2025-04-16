@@ -1,0 +1,8 @@
+“Hedgehog && Flamingo”, without quotation marks,
+would identify pages that have both of those words within the same page, but not necessarily the
+same sentence. You can also control the search to only include results that have those two words
+within a set number of sentences from each other. A search of “Hedgehog && /3 Flamingo”,
+without the quotation marks, would identify websites that have those two words within three
+sentences of each other.
+
+Include a specific word: In Google and Bing, you w

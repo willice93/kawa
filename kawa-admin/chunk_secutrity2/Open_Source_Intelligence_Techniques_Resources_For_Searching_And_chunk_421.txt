@@ -1,0 +1,6 @@
+a specific date reference, the dates next
+to each result are missing. To remedy this, you can conduct a specific search that includes any
+results indexed between January 1, 1 BC and “today”. The appropriate way to do this is to add
+“8&tbs=cdt:1,cd_min:1/1/0” at the end of any standard Google search. Figure 3.02 (top) displays
+the results of a standard search for the terms OSINT Tools. The exact URL of the search was
+“soogle.com/?#q=osintt tools”. Notice that the result does not include a date n

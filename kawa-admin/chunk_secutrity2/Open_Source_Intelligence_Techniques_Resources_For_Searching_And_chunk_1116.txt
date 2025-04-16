@@ -1,0 +1,6 @@
+thout quotes) will search
+through archived posts on Craigslist that are both active and removed. Similar to the previous
+example, you can search “site:craigslist.org laptop Edwardsville” without the quotes. This search
+produced 572 results that match these criteria on Google. These include the current posts that
+were available with the live search on craigslist.org as well as posts that have been recently deleted
+from Craigslist. If you wanted to focus only on a specific regional area of Craigsl

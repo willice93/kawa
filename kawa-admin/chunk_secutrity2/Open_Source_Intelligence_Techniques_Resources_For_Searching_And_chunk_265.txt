@@ -1,0 +1,8 @@
+hat same experience for the OSINT community. Buscador was
+designed from the ground up with considerations for OSINT investigations. The web browsers
+ate pte-configured with custom settings and extensions, and numerous OSINT software
+applications are already set-up to accept your search queries.
+
+An important part of Buscador is the applications. On many Linux builds, launching software is
+not similar to traditional operating systems. While the software is installed, you must still launch
+a Termi

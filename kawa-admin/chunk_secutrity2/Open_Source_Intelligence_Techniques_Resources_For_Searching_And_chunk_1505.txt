@@ -1,0 +1,6 @@
+olice officers near Ferguson, Missouri. This is one of the
+sites that will allow for a search from within the site. This function performs a search through
+Google in the same way we could with the “site” operator. Typing in a target name, email addtess,
+or business name may reveal private information not intended for the public. For law
+enforcement, typing in the last four digits of a stolen credit card number may identify a link to
+the thief. If successful, the target is most likely outside of

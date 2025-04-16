@@ -1,0 +1,9 @@
+five” “one two one two”
+site:craigslist.org “314” “five five five” “1212
+
+This list can get quite long if you try to search every possible search format. One search that
+will cover most of these searches in a single search attempt would look like the following.
+site:craigslist.org “314” |” three one four” “555” | ’five five five” “1212” |” one two one two”
+
+The “|” symbol in this search is the same as telling Google “or”. In essence, we are telling Google
+to search “314” or “three one four’, th

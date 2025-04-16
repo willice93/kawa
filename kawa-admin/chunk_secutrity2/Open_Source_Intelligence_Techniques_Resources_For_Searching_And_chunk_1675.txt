@@ -1,0 +1,10 @@
+The following search
+would locate any videos on Vine that have both of the words “fight” and “Nashville”.
+
+site:vine.co “fight” “nashville”
+Live Video Streams
+
+If you are investigating any live event that is currently occurring, live streaming video sites can be
+a treasure of useful intelligence. These services offer the ability for a person to turn a cell phone
+camera into an immediate video streaming device capable of broadcasting to millions. The
+common setup 1s for a user to download a host

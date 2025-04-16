@@ -1,0 +1,8 @@
+OSINT analysis. Appropnate
+collection methods will be detailed and referenced. Whether the data you obtain is for an
+investigation, a background check, or identifying problem employees, you must document all of
+your findings. You cannot rely on the information being available online forever. A website may
+shut down or the data may be removed. You must preserve anything of interest when you find
+it. The free software solutions presented here will help you with that.
+
+OSINT search techniques do no

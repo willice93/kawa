@@ -1,0 +1,7 @@
+s blurry, distorted,
+or otherwise flawed. This happens to me often in the form of surveillance photos and video
+screenshots. There are commercial applications available that will assist with this situation, but
+they can be expensive. Another solution, Photoshop, is not only expensive, but difficult to use.
+My current free solution for this is SmartDeblur. Figure 19.10 (left) displays a blurry photo loaded
+within the SmartDeblur application. Adjusting the defect type, radius, smoothness, and
+corr

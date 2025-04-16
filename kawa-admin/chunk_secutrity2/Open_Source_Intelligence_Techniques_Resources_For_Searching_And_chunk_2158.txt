@@ -1,0 +1,9 @@
+numerous actual searches. In lieu of screen captures, I will include all text input
+and output in 9 pt Terminal bold font. Upon executing Recon-ng from the dock, a large
+portion of red text will appear followed by a default Terminal prompt. The red text indicates that
+you have not applied any API keys, and I will explain later how to do that. At this prompt, let’s
+begin with the help command. Typing help reveals the following commands and explanations.
+
+Add Adds records to the database
+
+Back Ex

@@ -1,0 +1,8 @@
+Note that browsers tend to
+block this type of activity unless you allow pop-ups for the domain.
+
+The tool currently searches Pipl, That’s Them, Spokeo, Advanced Background Check, Yasni,
+Intelius, Radaris, Zaba Search, Melissa Data, Fast People Search, Family Tree Now, True People
+Search, People Search Now, John Doe, WPNumbers, People Finder, People Finders, Truth
+Finder, Check People, White Pages, Quanki, PeekYou, WebMii, LinkedIn, and Twitter. The last
+two options replicate search queries disc

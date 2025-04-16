@@ -1,0 +1,7 @@
+cameras with audio.
+Houses that have consumer grade wireless surveillance cameras operate within this band. Often
+these devices transmit audio and video to a base station that is connected to a television in the
+house. I have seen many of these during search warrant executions. I believe any good tactical
+operations plan should include a sweep of this frequency range before execution of a search
+watrant. This can identify the presence of wireless systems used to provide early notice of law
+enfo

@@ -1,0 +1,11 @@
+you lower it you will see more of the
+original image.
+
+300 Chapter 14
+
+Figure 14.11: Error Level Analysis (left) and Noise Analysis (right) in Forensically.
+
+Luminance Gradient analyzes the changes in brightness along the x and y axis of the image. Its
+obvious use is to look at how different parts of the image are illuminated in order to find
+anomalies. Parts of the image which are at a similar angle (to the light source) and under similar
+illumination should have a similar color. Another use i

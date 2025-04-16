@@ -1,0 +1,10 @@
+enter the name of an unplayable
+video file. Note that you must supply the entire file name, including the file extension, and the
+video file must be placed directly on the desktop. You should now be able to play the previously
+unplayable file. Note that some video files will still not play. However, this method should
+eliminate many of the problems.
+
+Video Converter
+If you are able to now play the previously unplayable video file, you should consider converting
+
+it to a more universal format. Du

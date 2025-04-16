@@ -1,0 +1,7 @@
+ion in the statement “If
+this then that”. Click on the “RSS Feed” option and then “New Feed Item”. Provide a URL from
+a popular online blog that posts updates frequently. For this example, we will use the RSS feed
+for the blog at krebsonsecurity.com/feed. I chose this account because it openly shares an RSS
+feed option. After providing this URL, click the “Create Trigger” option. Next, click the large
+“That” option and select Facebook. Click the “Create a Link Post” option and then “Create
+Actio

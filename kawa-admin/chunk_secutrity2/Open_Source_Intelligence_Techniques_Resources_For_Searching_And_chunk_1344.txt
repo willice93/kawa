@@ -1,0 +1,6 @@
+ability to identify incoming calls through caller
+ID. Fortunately for us, they provide a page on their site that allows queries against their database,
+and use appears to be unlimited. On this page, replace the placeholder number (415-701-2311)
+with the number of your target. Allow the page to generate a result, which will appear directly
+below. The result will include the type of provider and any name associated with the billing. I
+have found this works best on landline and cellular telephone

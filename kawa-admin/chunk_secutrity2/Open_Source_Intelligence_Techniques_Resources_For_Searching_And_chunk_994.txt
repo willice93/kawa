@@ -1,0 +1,8 @@
+reate an alias profile, but too lazy to
+connect it to a covert email address or Google Voice number. Chapter Twenty-One will explain
+ways to use this technique within an Android emulator for further exploitation.
+
+We now know that locating someone's social network profile can reveal quite a lot about them.
+Just knowing a target name can make use of the people search engines that will identify places to
+seek more information. Unfortunately, sometimes the investigator does not know the target’s
+na

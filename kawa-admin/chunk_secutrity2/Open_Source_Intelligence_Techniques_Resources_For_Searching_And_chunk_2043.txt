@@ -1,0 +1,20 @@
+n is likely associated with disposable email
+addresses.
+
+</message>
+
+Creating a web form for all of these searches is done the same way as all of the rest. The following
+is the exact text that would create the page. Remember to change the XXX to your exact API
+key provided by Full Contact.
+
+<html>
+
+<head></head>
+
+<body>
+
+<script type=“text/javascript”>
+
+function dofullcontact(femail) {
+window.open(https://api.fullcontact.com/v2/person.html?email=' + femail +
+'&apikey=XXX’, 'contactwindow’);}</sc

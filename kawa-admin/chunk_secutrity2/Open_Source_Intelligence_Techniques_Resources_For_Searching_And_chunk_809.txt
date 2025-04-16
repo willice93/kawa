@@ -1,0 +1,11 @@
+y with the most recent at top. The “1km” indicates a search radius of one kilometer.
+
+138 Chapter 5
+
+This can be changed to 5, 10, or 25 reliably. Any other numbers tend to provide inaccurate results.
+You can also change “km” to “mi” to switch to miles instead of kilometers. If you want to view
+this search from the address bar of the browser, the following page would load the same results.
+
+https://twitter.com/search?q=geocode:43.430242,-89.736459,1km
+
+You can add search parameters to either of

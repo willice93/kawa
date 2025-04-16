@@ -1,0 +1,14 @@
+various pages that contained Michael Smith.
+
+180 Chapter 6
+
+site:renren.com “michael smith”
+If the results are too overwhelming, you can use the following structure to filter the content.
+
+site:blog.renren.com “michael smith” (Filter for blog results only)
+site:page.renren.com “michael smith” (Filter for profile results only)
+site:zhan.renren.com “michael smith” (Filter for news results only)
+
+Latin America: Taringa (taringa.net)
+
+Taringa has a presence in every country in the Spanish-speaking w

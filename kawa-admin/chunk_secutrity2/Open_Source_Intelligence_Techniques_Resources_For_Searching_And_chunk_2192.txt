@@ -1,0 +1,6 @@
+This demonstration explains automated options during an investigation of a location. Assume
+that you are researching a terrorism-related incident or crime scene. In these scenarios, you know
+the location, but do not know any people associated with the geographical area. I presented web-
+based services that individually allow location-based lookups on networks such as Twitter and
+Flickr. We can automate this with Recon-ng. Typing add locations will prompt you with
+latitude (TEXT). Simply strike

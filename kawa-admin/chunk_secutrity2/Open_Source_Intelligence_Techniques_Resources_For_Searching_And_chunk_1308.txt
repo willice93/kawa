@@ -1,0 +1,9 @@
+a people finder. However, we can rely on a
+Google search to get us the content we want. The following identifies the resume of our target.
+
+site:cvmkr.com “john pratt”
+The search result opens the resume page, which includes the following exact text.
+E-mail: pr*****"**@hotmail.com Phone: OPP Address: * Staines Or* PORE, HR KIEE Hm
+
+In the upper right corner, there is a button labeled “Download PDF”. Within that file is the un-
+redacted content, which identifies his full email address, telephone

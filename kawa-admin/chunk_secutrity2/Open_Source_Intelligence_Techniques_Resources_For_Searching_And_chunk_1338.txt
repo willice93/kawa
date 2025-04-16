@@ -1,0 +1,22 @@
+his is far from complete, but I wanted to
+demonstrate the ability to convert internet-based numbers into identifiable companies.
+
+Telephone Numbers 243
+
+Verizon Mobile Verizon Wireless
+
+AT&T Mobile AT&T Wireless
+
+Google Voice VOIP Google/Level 3
+
+Sudo (US) VOIP Twilio/Level 3 (SMS-Sybase) (MMS-SVR)
+Sudo (Canada) VOIP Iristel Inc.
+
+Sudo (UK) VOIP aql Wholesale
+
+Sudo (FR) VOIP TRANSATEL
+
+Blur Landline Twilio/Level 3 Communications
+TextNow VOIP Enflick/Bandwidth.com (SVR)
+
+On/Off VOIP Peerless Netw

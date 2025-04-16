@@ -1,0 +1,7 @@
+he app in the taskbar
+menu. Right-clicking the icon in the taskbar presents the menu with options to expand a profile
+and “dump” a person’s photo albums, friends list, and chat messages. When the collection is
+complete, you are prompted to choose a location to save a PDF document or XLSX spreadsheet.
+The combination of this software and the Firefox add-on creates an automated Facebook content
+collection method. Your computer will scroll, load, archive, and generate files while you watch
+hands-fr

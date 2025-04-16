@@ -58,3 +58,57 @@ cas_pratique: 'Contexte : Jean Doe, 35 ans, ingénieur de formation et actuellem
   Doe peut réduire de manière significative le montant de ses impôts en France. Il
   doit cependant prendre soin dans la remplissement de ses déclarations fiscales pour
   s''assurer d''y avoir droit et ne pas manquer cette déduction.'
+embedding_text: 'Règle : Cette règle s''applique aux salariés domiciliés en France
+  qui sont détachés à l''étranger, et qui bénéficient de l''exonération prévue par
+  les articles 81 A du Code Général des Impôts (CGI).
+
+
+  La condition est que le salarié exerce son activité hors des eaux territoriales
+  françaises.
+
+
+  Le montant concerné est la rémunération exonérée ou une fraction de cette rémunération,
+  que vous indiquez sur les lignes 1AC à 1DC de la 2042 C. Cette somme sera utilisée
+  pour le calcul du taux effectif et pour déterminer le revenu fiscal de référence.
+
+
+  La formule de calcul applicable est de retenir le montant mentionné sur les lignes
+  1AC à 1DC après application de la déduction forfaitaire de 10 % ou des frais réels.
+
+
+  Pour être sûr d''y avoir droit, il faut vérifier si les conditions et critères de
+  l''exonération prévue par l''article 81 A du CGI sont respectés. Il convient également
+  de prendre soin dans la remplissement des déclarations fiscales pour ne pas manquer
+  cette déduction.
+
+  Cas pratique : Contexte : Jean Doe, 35 ans, ingénieur de formation et actuellement
+  en poste au sein d''une entreprise multinationale basée aux États-Unis. Il gagne
+  un salaire annuel de 90 000 euros brut.
+
+
+  Montants concernés : Jean Doe reçoit un salaire annuel de 90 000 euros, dont la
+  rémunération exonérée est de 54 000 euros (soit 60 % de son salaire). La déduction
+  forfaitaire de 10 % ou des frais réels n''est pas applicable dans ce cas. Ce montant
+  sera indiqué sur les lignes 1AC à 1DC de la 2042 C.
+
+
+  Déclaration : Jean Doe déclarera une rémunération annuelle de 90 000 euros dans
+  la case 1AK et 54 000 euros dans les cases 1AC à 1DC sur son formulaire de déclaration
+  des impôts personnels.
+
+
+  Comparaison : En application du régime par défaut, le taux effectif de Jean Doe
+  serait de 30 %, ce qui lui aurait coûté 27 000 euros d''impôt. Cependant, en optant
+  pour l''exonération prévue par l''article 81 A du Code Général des Impôts (CGI),
+  il ne versera que 6 000 euros d''impôt, ce qui lui permet de garder plus de 21 000
+  euros dans sa poche.
+
+
+  Calcul clair : En optant pour l''exonération prévue par l''article 81 A du CGI,
+  Jean Doe ne versera que 6 000 euros d''impôt (27 000 - 21 000).
+
+
+  Conclusion : En optant pour l''exonération prévue par l''article 81 A du CGI, Jean
+  Doe peut réduire de manière significative le montant de ses impôts en France. Il
+  doit cependant prendre soin dans la remplissement de ses déclarations fiscales pour
+  s''assurer d''y avoir droit et ne pas manquer cette déduction.'

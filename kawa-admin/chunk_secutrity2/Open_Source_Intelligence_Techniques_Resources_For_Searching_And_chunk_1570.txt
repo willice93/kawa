@@ -1,0 +1,9 @@
+small version of the photo
+captured and store it within the Exif data. This icon size image adds very little size to the overall
+file. When a user crops the image, this original smaller version may or may not get overwritten.
+
+Photographs 295
+
+Programs such as Photoshop or Microsoft Photo Editor will overwrite the data and keep both
+images identical. Other programs, as well as some online cropping tools, do not overwrite this
+data. The result is the presence of the original and uncropped image

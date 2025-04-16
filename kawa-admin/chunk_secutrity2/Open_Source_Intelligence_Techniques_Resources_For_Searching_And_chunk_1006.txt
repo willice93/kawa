@@ -1,0 +1,10 @@
+ill package every possible piece of data from the
+uset’s account and present it in very large compressed zip files. These can be opened or stored
+for later view.
+
+Facebook (facebook.com/help/131112897028467)
+
+Facebook does not offer a specific page for archiving data, but the feature is embedded into the
+user settings for every account. While logged in as the target, click the top nght menu of any
+Facebook page and select “Settings”. Click “Download a copy of your Facebook data” below the
+Genera

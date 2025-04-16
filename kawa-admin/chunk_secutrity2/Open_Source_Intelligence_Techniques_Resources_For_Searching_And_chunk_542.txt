@@ -1,0 +1,9 @@
+the home page of the search site, and allows for a keyword search. However,
+searching through this portal while being connected through the Tor2Web proxy can present
+difficulties. Instead, consider conducting a search within a URL submission. In the following web
+address, I am connecting to Tor2Web's proxy of the search engine and requesting a search results
+page for the term OSINT.
+
+hss3uro2hsxfogfq.onion.to/index.php?>q=OSINT
+
+This type of submission will be much more reliable than counting o

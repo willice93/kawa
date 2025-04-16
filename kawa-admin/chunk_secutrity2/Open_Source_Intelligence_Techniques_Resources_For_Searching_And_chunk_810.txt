@@ -1,0 +1,10 @@
+these searches if the results are overwhelming. The
+following search would only display Tweets posted at the listed GPS coordinates that also
+mention the term “fight”. Notice that the only space in the above search is between “km” and
+
+“fight”.
+geocode:43.430242,-89.736459,1km “fight”
+
+It would be inappropriate to finish this section without a discussion about the lack of geo-enabled
+Tweets. Several years prior, this search would have been highly productive, as an alarming number
+of Twitter user

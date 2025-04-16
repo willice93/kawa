@@ -1,0 +1,7 @@
+ted with
+the user's social network accounts. An important part of searching by user name is the attempted
+searches of unknown user names. In all of the examples above, the user name “inteltechniques”
+was used. If you know that your target is using this name, you may want to take a quick look at
+the user names of “inteltechniques2”, “inteltechniques3”, “inteltechniques4”, etc. While these
+profiles may not belong to your target, you could discover new profiles that would otherwise
+have been missed

@@ -1,0 +1,8 @@
+tions can be too slow for constant use. Also,
+some websites will not let you access their services through a Tor proxy. Connecting to your bank
+through Tor will likely set off alarms, and may prevent you from access. I believe that Tor is great
+when you truly need to hide your entire connection. I believe that every day browsing is better
+suited for a VPN.
+
+If you work for a large corporation, you may already have access to a corporate VPN. Ask around
+and identify your options. Those that do not

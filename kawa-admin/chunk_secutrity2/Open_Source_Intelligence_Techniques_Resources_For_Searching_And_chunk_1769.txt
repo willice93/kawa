@@ -1,0 +1,11 @@
+h more detail. After logging in,
+
+336 Chapter 16
+
+I can see any websites that referred the user to the link and extremely generic location data, such
+as the country of the user. This is a good start.
+
+Tiny.cc adds a “~” to the end of a link to display metadata. In our example, the direct URL
+would be tiny.cc/p20scy~. The results on this page identify the number of times the URL was
+clicked, the number of unique visits, the operating systems of those that clicked the link, and the
+browsers used.

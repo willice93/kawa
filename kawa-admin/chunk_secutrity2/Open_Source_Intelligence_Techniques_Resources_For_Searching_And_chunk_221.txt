@@ -1,0 +1,11 @@
+f Firefox and click the menu button (three horizontal lines), click
+the help question mark, and then select Troubleshooting Information. The
+Troubleshooting Information tab will open.
+
+e Under the Application Basics section, click on Open (or Show) Folder. A window with
+your profile files will open. Close Firefox.
+
+e Paste the content of the downloaded Profile folder into this folder. Overwrite any files
+when prompted. Restart Firefox.
+
+The result should be a copy of Firefox that contains every

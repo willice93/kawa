@@ -1,0 +1,21 @@
+return false;”>
+
+<input type=“text” name=“anon” size=“40” value=“Email Address” />
+
+<input type=“submit” />
+
+</form>
+
+</body>
+
+</html>
+
+Save this file as fullcontact.html. When you open the file, it should appear in a web browser and
+look similar to the Full Contact portion of Figure 20.01. A digital version of this file is at
+https://inteltechniques.com/data/2018api.txt, which can be copied and pasted from the site.
+
+Application Programming Interfaces (API) 395
+
+Flickr
+
+Flickr is a very popular

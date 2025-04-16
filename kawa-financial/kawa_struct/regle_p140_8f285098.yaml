@@ -68,3 +68,64 @@ calcul:
     revenu_brut: 200
     abattement: 38
     revenu_net: 162
+embedding_text: 'Règle : Règle appliquée à ceux qui souhaitent bénéficier d''une 2074,
+  dans les cas suivants :
+
+
+  - Lorsque l''établissement financier n''a pas calculé toutes les plus ou moins-values
+
+  - Lorsque vous avez réalisé plusieurs des opérations précitées mentionnées
+
+  - Lorsque vous souhaitez l''application de l''abattement pour durée de détention
+  renforcé prévu au 1 quater de l''article 150-0 D du CGI
+
+  - Lorsque vous avez bénéficié de la réduction d''impôt prévue par l''article 199
+  terdecies 0-A du même code (réduction d''impôt "Madelin" pour souscription au capital
+  des PME) lors de l''acquisition ou de la souscription des titres cédés
+
+
+  Formule de calcul applicable : Non spécifiée, il faut se reporter à la législation
+  financière française.
+
+
+  Pour être sûr d''y avoir droit, il faut vérifier que tous les points susmentionnés
+  sont remplis et que l''on est en possession des documents requis pour prouver le
+  bénéfice de ces avantages.
+
+  Formule : revenu_brut * (1 - 0.19)
+
+  Cas pratique : Titre : Application de la règle 2074 par Monsieur Jean Dupont, entrepreneur
+  en région Lyon
+
+
+  Description : M. Jean Dupont, 45 ans, a créé sa propre entreprise, Jeandupont SARL,
+  une entreprise spécialisée dans les services de maintenance électrique en 2016.
+  Depuis cette année, il a réalisé plusieurs opérations d''investissement dans son
+  entreprise (acquisition de matériels et de titres) pour laquelle il bénéficie du
+  régime Madelin pour ses investissements en capital.
+
+
+  En 2021, il décide de vendre une partie de ces actions à un établissement financier
+  pour acheter des actions dans une PME de son choix. En raison de l''impossibilité
+  de cet établissement financier à calculer toutes les plus ou moins-values liées
+  à cette vente, M. Jean Dupont décide d''appliquer la règle 2074 pour bénéficier
+  de l''abattement prévu au 1 quater de l''article 150-0 D du CGI sur les gains réalisés
+  sur cette transaction.
+
+
+  Montant des gains : 80 000€
+
+  Plafond d''abattement : 50% du montant total de la transaction (40 000€)
+
+  Régime par défaut : Impôt à 19% sur les gains (15 200€)
+
+  Régime choisi : Abattement de 50% (abattement de 40 000€, impôt final : 39 800€)
+
+  Declaration : Case 1GF pour la déduction des pertes et gains financiers
+
+  Calcul clair : Gains réalisés : 80 000€ - Abattement : 40 000€ - Impôt final : 39
+  800€
+
+  Conclusion : Par l''application de la règle 2074, M. Jean Dupont réduit son impôt
+  sur les gains de cette transaction de 15 200€, allant ainsi d''un impôt à 19% à
+  un impôt à 9,8%.'

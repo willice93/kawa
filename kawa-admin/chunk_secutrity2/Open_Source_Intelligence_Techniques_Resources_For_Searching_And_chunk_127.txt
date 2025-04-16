@@ -1,0 +1,7 @@
+patible with Firefox. The following instructions apply to any
+versions of Firefox, including Windows, Mac, and Linux.
+
+Downloading and installing Firefox is no, different than any other application. Detailed directions
+ate readily available on their website. The browser will not look much different from the browser
+you were previously using. When installing and executing, choose not to import any settings from
+other browsers. This will keep your browser clean from unwanted data. The next step is

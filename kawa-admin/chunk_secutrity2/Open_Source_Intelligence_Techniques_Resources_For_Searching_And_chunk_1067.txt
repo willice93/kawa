@@ -1,0 +1,15 @@
+ave been most helpful in my experience.
+
+Name Search (John Morrison): site:meetup.com inurl:member john morrison
+
+Event Search (Protest): site:meetup.com inurl:events Protest
+
+Post Search: site:meetup.com inurl:discussions Protest
+
+Location Search (Zip-62025): meetup.com/find/events/?radius=5&userFreeform=62025
+Google Keyword Search (OSINT): site:meetup.com OSINT
+
+Dating Websites
+
+When investigating cheating spouses, background information, personal character, or applicant
+details, dating sites

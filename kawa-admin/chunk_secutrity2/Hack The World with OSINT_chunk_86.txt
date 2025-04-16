@@ -1,0 +1,16 @@
+= 2GB RAM, 2 Processors 2 Cores
+= 40 GB hard drive
+
+" Network is Bridged
+
+2.3 OSINT Kali64 in WM Player/Workstation/Fusion 14
+
+Using the book OSINT Kali distribution is the easiest way to begin.
+
+This version is for version 12 of VM Ware. It uses the proprietary
+format of VM Ware.
+
+Open VMWare Player, Fusion or Workstation 12. It will bring up a
+welcome page. On the welcome page, chose Open a Virtual
+Machine. Browse to the folder where you the extracted image. Open
+the Clone of OSINT Kali64.vmx

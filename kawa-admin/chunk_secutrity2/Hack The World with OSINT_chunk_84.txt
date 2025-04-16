@@ -1,0 +1,15 @@
+her
+way to keep safe, using virtualisation and sandboxes. If you are
+introducing your testing machine into a client environment, don’t
+infect the customer.
+
+Penetration testing machines ate only that, for penetration testing. Be
+
+aware, out of the box; Kali isn’t configured securely. They are setup
+
+here are modules in Kali
+ines, not to be tested. T odule
+ONS eco es. Keep that in mind when
+
+tools that can attack other Kali machin ser
+setting up and securing yout lab. Don’t check your online bank

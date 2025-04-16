@@ -1,0 +1,6 @@
+encies of interest. Clicking the
+“Databases” link at the top of every page will present an interactive United States map. You can
+click any state and will be presented all of the counties in that state. Selecting a county will present
+the options of government and business frequencies for that area. Figure 23.02 displays the results
+for Guaranteed Rate field. It identifies thirteen frequencies assigned to Security, Parking,
+Maintenance, Operations, and others. This could be used to quickly begin

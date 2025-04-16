@@ -1,0 +1,12 @@
+d to conduct a filetype search, but both
+should be attempted.
+
+70 Chapter 3
+
+Google Images (images.google.com)
+
+Google Images scours the web for graphical images based on a search term. Google obtains these
+images based on keywords for the image. These keywords are taken from the filename of the
+image, the link text pointing to the image, and text adjacent to the image. This is never a complete
+listing of all images associated with a subject, and will almost always find images completely
+unrelat

@@ -1,0 +1,11 @@
+quality level. However, if there is a large
+amount of change, then the pixels are not at their local minima and are effectively original.”
+
+Photographs 297
+
+Foto Forensics (fotoforensics.com)
+
+This site allows you to upload a digital image. After successful upload, it will display the image in
+normal view. Below this image will be a darkened duplicate image. Any highlighted areas of the
+image indicate a possible manipulation. While this site should never be used to definitively state
+that an im

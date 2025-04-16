@@ -1,0 +1,9 @@
+ant pages. Figure 16.02 displays a portion of the
+map for our previous target. I hovered over a single page, which identifies the URL and highlights
+any internal pages with links pointing back to it. This visual representation helps me digest the
+magnitude of a target website.
+
+Virus Total (virustotal.com)
+
+This chapter would not be complete without mentioning Virus Total. While the service is focused
+on the analysis of malicious software, files, and websites, a search here will also identify hi

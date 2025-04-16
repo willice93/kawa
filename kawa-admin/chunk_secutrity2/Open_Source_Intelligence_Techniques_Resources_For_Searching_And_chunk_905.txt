@@ -1,0 +1,7 @@
+bject do not have
+any people in common that they follow on Twitter. This can indicate that they may not know
+each other in real life, or that they simply have different tastes in the people that they find
+interesting. However, the first and third subjects have 79 people in common that they follow on
+Twitter. This is a strong indication that they know each other in real life and have friends in
+common. Clicking on the link next to this result will display the identities of these people as seen
+in

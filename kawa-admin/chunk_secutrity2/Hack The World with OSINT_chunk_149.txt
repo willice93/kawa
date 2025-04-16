@@ -1,0 +1,15 @@
+TP/S Protocols
+
+The majority of the internet systems which Censys scans using ZMAP
+utilise the HTTP and HTTPS protocols. Web pages for various
+purposes. Each week a general scan and host report are available,
+breaking down the composition of the hosts scanned. A November
+
+2017 host report shows just over 50% of the hosts scanned are running
+
+HTTP or HTTPS services.
+
+Web Technologies 69
+
+
+i? bie 29 Censys 15 j {1/ ] } Host Keport fiiP and | / l"] ] >t lable i() Important HTTP Cengys hields ¢ , am

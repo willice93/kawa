@@ -1,0 +1,6 @@
+le for Internet Explorer or Edge, which is included with Windows. I do not recommend using
+those browsers for OSINT analysis. The Firefox browser has enhanced security and a feature
+called “add-ons” ot “extensions”. These are small applications that work within the browser that
+perform a specific function. They will make searching and documentation much easter. J also use,
+and encourage others to use, the Chrome web browser when necessary. However, many of the
+extensions that I need are only com

@@ -1,0 +1,9 @@
+.com/people/lorangb#/profile/basic-info | travel
+bartlorang | Medium | https://medium.com/@bartlorang/latest | news
+
+bartlorang | ProductHunt | https://www.producthunt.com/@bartlorang | tech
+
+We can now create our report in the same way as the first example. The following commands
+load the reporting module and set the customer and creator. The report will be located in the
+“recon-ng” folder within the Home folder on your Buscador desktop. It will appear very similar
+to the report displayed in Fi

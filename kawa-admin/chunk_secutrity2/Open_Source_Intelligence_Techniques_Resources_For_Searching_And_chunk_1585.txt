@@ -1,0 +1,6 @@
+age manipulation
+is suspected. Previous tools have offered one or two of the services that Forensically offers, but
+this new option is an all-in-one solution for image analysis. Loading the page will present a demo
+image, which is used for this explanation. Clicking the “Open File” link on the upper left will
+allow upload of an image into your browser for analysis. Images are NOT uploaded to the server
+of this tool, they are only brought into your browser locally. Figure 14.10 (left) is the stan

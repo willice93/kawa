@@ -1,0 +1,13 @@
+ation. For a demonstration, I created the
+following shortened links, all of which forward to my home page. After, I will explain how to
+access the hidden data behind each service.
+
+bitly.com/29A4U1U
+tiny.cc/p20scy
+goo.gl/Ew9rlh
+bit.do/cbvNx
+
+Bitly allows access to metadata by including a “+” after the URL. In our scenanio, the direct URL
+
+would be bitly.com/29A4U1U-+. In this example, the results only identified that 21 people have
+clicked on my link. However, creating a free account reveals muc

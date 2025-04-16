@@ -1,0 +1,6 @@
+YouTube and other providers attempt to provide captioning subtitles for as many videos as
+possible. This automated process transcribes any spoken dialogue within the audio of the video
+file and documents the words to text. To see this text while watching a video, click on the closed
+captioning icon (cc) in the lower left area of the video box. When the icon changes to a red color,
+the subtitles will display. These subtitles are contained within a small text file associated with the
+video. It als

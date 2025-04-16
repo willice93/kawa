@@ -1,0 +1,9 @@
+ual video page. For this example, assume that you are
+viewing a video embedded into a Facebook profile. You can right-click the video while playing
+and choose the option “Show Video URL”. This will present a small box with the address of the
+Facebook video that is playing. In this example, we will use the following.
+
+https: //www.facebook.com/billytalent/videos/10153157582551992/
+
+Right-click on this new page and choose to view the source code. Conduct a search of .jpg and
+copy the entire URL of

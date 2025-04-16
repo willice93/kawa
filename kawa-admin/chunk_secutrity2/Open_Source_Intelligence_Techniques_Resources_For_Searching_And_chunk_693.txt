@@ -1,0 +1,10 @@
+re each
+
+114 Chapter 4
+
+assigned a unique profile ID number. This number can be used for advanced searches as we did
+with individuals. I will start with employee searching. As explained earlier, you can simply type
+“people who work at Microsoft” into the search bar and obtain decent results. This works for
+many businesses that have a unique name, but not those that do not. As an example, consider
+the business Target. A search of “people who work at Target” provides many results. Within
+them incl

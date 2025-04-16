@@ -1,0 +1,17 @@
+ese during the instruction.
+
+companies-contacts/bing_linkedin_cache
+companies-contacts/jigsaw/point_usage
+companies-contacts/jigsaw/purchase_contact
+companies-contacts/jigsaw/search_contacts
+companies -contacts/linkedin_auth
+companies-multi/github_miner
+companies-multi/whois miner
+contacts-contacts/mailtester
+contacts-contacts/mangle
+contacts-contacts/unmangle
+contacts-credentials/hibp_breach
+contacts-credentials/hibp_paste
+contacts-domains/migrate_contacts
+contacts-profiles/fullcontact
+credenti

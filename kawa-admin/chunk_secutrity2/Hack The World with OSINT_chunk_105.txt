@@ -1,0 +1,24 @@
+ik 3.31
+Gye in , a j
+Migure 8 Details of a system nith FTP Code 452
+
+7
+
+Table 15 FTP : Table 16 FIP 500 Series Codes
+
+Description
+
+| 500 Syntax error, command unrecognized and the
+requested action did not take place
+
+501 icine nad ns Bs sep reaee a
+
+- Syntax e1 error in n parameters 0 or arguments
+
+a2 Command not implemented _ eae
+
+/503  ~—sBBad sequence of commands _
+
+504. = Command not implemented for that parameter
+
+Sea Lsie So clases NADA SIO NAAT a a AN EAN ARR OAD SCD ERP EL ALAR PLEAD ADD

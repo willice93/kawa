@@ -1,0 +1,13 @@
+der General > Advanced, change Shared Clipboard to Bi-Directional
+Under System > Motherboard, increase RAM to half of total system resources
+Under Display > Screen, increase the Video Memory to 128MB if available
+Under Storage, click the small "plus" in the lower left corner
+
+Buscador Linux Virtual Machine 35
+
+Click "Add Optical Drive" and "Leave Empty"
+
+Under Shared Folders, click the "plus" on the right
+
+Choose a local folder to store evidence and select "Auto-Mount"
+Under Audio, enable audio

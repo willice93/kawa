@@ -1,0 +1,10 @@
+cript has been used 0 times.
+
+Figure 17.04: A response from “whatstheirip.com” identifying a target’s IP address.
+
+IP Logger (iplogger.org)
+
+An alternative to whatstheirip.com is IP Logger. This service applies the same concept as
+whatstheirip.com but works differently. Instead of sending you an email when a target clicks a
+link, you must view a log file within the IP Logger website. Additionally, this service supports
+custom images that will track your target for extra covert privacy. A detaile

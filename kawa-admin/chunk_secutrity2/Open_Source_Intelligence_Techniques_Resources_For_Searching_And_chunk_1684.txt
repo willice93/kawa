@@ -1,0 +1,14 @@
+how the phone is rotated)
+
+broadcast_source: periscope_ios_1.13.6 (Identifies the make of his device and app version)
+
+318 Chapter 15
+
+available_for_replay: true (Displays whether user allows archiving of video)
+tweet_id: 946470936403775488 (Twitter post announcing video stream)
+‘n_watching: 112 (People currently viewing video)
+
+n_watched: 1140 (Total people that viewed any portion of video)
+
+Note that the GPS coordinates are never meant to be an exact location. These are generic
+numbers determi

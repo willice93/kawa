@@ -1,0 +1,15 @@
+ahirah, Egypt
+
+& 80/http
+@ DVR Components Download
+Q B0.http.get body: Components Download
+
+Figure 94 Censys Web Sea rch for DVR Components Download
+
+8.8 Find Miele washing machines & home appliances
+
+Miele is a European home and commercial appliance manufacturer.
+From the lack of general security or essential OWASP Top Ten testing
+of their web applications. Its clear Miele focuses on appliance
+manufacturing. However, the organisation jumped on the lof
+bandwagon, connecting their products to the

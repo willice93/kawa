@@ -1,0 +1,11 @@
+get company. You can also combine search options into one URL.
+You need to place each search structure into a single address and add “intersect” at the end. If
+you wanted to search for all previous Microsoft employees named “Mike Smith”, the following
+address would produce results.
+
+https:/ /www.facebook.com/search/str/Mike%20Smith/users-named/str/Microsoft/pages-
+named/employees/past/intersect
+
+Location
+
+Searching profiles by location can be extremely beneficial when you do not know the name of

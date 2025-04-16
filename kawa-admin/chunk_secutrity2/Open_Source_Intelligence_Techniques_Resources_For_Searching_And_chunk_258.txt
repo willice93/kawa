@@ -1,0 +1,7 @@
+ations and trainings for many
+yeats. They ate lightweight, run on practically any hardware, cost nothing, and provide a level of
+security that cannot be obtained through traditional operating systems such as Microsoft
+Windows. During my training, I often demonstrate how I use Linux as a virtual machine or
+bootable USB device. In both scenarios, I can navigate to any malicious website, download every
+virus possible, and eliminate all traces of my activity by simply rebooting the system. Upon
+rebo

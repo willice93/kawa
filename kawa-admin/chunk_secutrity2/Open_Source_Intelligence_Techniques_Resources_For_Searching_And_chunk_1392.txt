@@ -1,0 +1,7 @@
+f this page, displayed later in Figure 11.01, allows you to enter a numerical
+and written target telephone number. Clicking the submit button launches a series of JavaScnipt
+commands that launch eight new tabs within your browser. The first four are custom Google
+searches with the target data and the last four repeat the process on Bing. The following four
+searches are conducted on both services, using the example data entered previously.
+
+“2025551212”OR”202-555-1212”OR” 202.555.1212” OR”202 555

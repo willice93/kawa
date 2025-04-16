@@ -1,0 +1,46 @@
+trol_ acti
+—actions
+
+Table 44 Censys 15/11 /17 Host Report | CS and SCADA protocols
+
+Number
+
+Protocol
+
+eo 16,519 0.01%
+—
+
+Table 45 ICS and SCADA Censys Tags
+
+Protocol
+Percentage
+
+Number
+
+ete
+
+‘ a
+
+CONTROLLER 22,771
+
+fSCAP . ami
+-powER DISTRIBUTION 6,397 on
+
+eee APA
+a ‘
+“gCADA SERVER 1785 ee
+
+| a
+
+|
+
+“INDUSTRIAL CONTROL per me nae
+SYSTEM whi
+hose 435 0.0%
+“SCADA PROCESSOR 56 en
+
+7.3 Exploring Modbus
+Modbus is a protocol meant to be interoperable with a multitude of
+ble logic controllers
+
+‘ndustri

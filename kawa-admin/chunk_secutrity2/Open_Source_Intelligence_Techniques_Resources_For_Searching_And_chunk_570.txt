@@ -1,0 +1,10 @@
+earch,
+I checked this option and my search field was cleared. I entered “router” and clicked search again.
+I was prompted with the 436 results within my original hits that also included the word router.
+While this could have been replicated manually, I appreciate the option.
+
+“Cisco” “PDP”: 4,673
+For comparison, Google found 23,600 results for inurl:ftp -inurl:(http | https) “Cisco” “PDP”.
+Nerdy Data (nerdydata.com/search)
+
+Google, Bing, and other search engines search the content of websites. T

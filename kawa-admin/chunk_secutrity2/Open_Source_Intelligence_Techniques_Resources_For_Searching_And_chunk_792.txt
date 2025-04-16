@@ -1,0 +1,11 @@
+efined by a
+Twitter hashtag. This is a single word preceded by a pound sign (#) that identifies a topic of
+
+Social Networks: Twitter 135
+
+interest. This allows users to follow certain topics without knowing user names of the user
+submitting the messages.
+
+From these accounts: This section allows you to search for Tweets from a specific user. This
+can also be accomplished by typing the user name into the address bar after the Twitter domain,
+such as twitter.com/JohnDoe92. This will display the us

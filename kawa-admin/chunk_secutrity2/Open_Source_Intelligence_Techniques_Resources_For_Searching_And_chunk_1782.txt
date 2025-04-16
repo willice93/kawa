@@ -1,0 +1,11 @@
+important intelligence about the target. This can also quickly confirm if a target
+IP address is associated with a VPN service. Alternative websites include IP Fingerprints
+(ipfingerprints.com) and IP2Location (ip2location.com).
+
+IP Addresses 339
+
+Bing IP (bing.com)
+
+Once you have identified an IP address of your target, you can search for websites hosted on that
+IP address. A specific search on Bing will present any other websites on that server. If your target
+is stored with a large host such

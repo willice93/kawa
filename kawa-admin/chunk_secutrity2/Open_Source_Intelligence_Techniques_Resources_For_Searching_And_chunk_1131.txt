@@ -1,0 +1,13 @@
+_nkw=TERMS
+
+Sold: ebay.com/sch/i.html?_from=R40&_nkw=TERMS&LH_Sold=1&LH_Complete=1
+Completed: https: //www.ebay.com/sch/i.html?_from=R40&_nkw=TERMS&LH_Complete=1
+User name: https://www.ebay.com/usr/USER
+
+User Feedback: https://feedback.ebay.com/ws/eBayISAPI.dllPViewFeedback2&userid=USER
+User Items: https: //www.ebay.com/sch/USER/m.html
+
+User Search: http://www.ebay.com/sch/ebayadvsearch/?_ec=104&_sofindtype=25&_userid=USER
+User Followers: https://www.ebay.com/usr/USER/followers# followers
+
+User

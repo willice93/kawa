@@ -1,0 +1,6 @@
+ursquare, which they can use to “check-in” to places and let their
+friends know their location. While privacy-aware individuals have disabled the location feature of
+their accounts, many usets enjoy broadcasting their location at all times. Identifying a user’s
+location during a Twitter post is sometimes possible through various methods. Prior to 2014,
+identifying the GPS details of every post of many users was simple. Today, most of these
+identification techniques are no longer working. Please

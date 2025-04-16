@@ -1,0 +1,8 @@
+ke to identify the user number of an account.
+Similar to Facebook and Twitter, people can change their user name on Instagram, but not their
+user number. Right-click on your target profile page and select the option to view the source
+code. This will open a new tab with a lot of pure text. With either ctrl-f or command-f, conduct
+a seatch for exactly the following. The numbers directly after this data will be the user number
+of your target. In our previous example, his user number is 307949.
+
+"o

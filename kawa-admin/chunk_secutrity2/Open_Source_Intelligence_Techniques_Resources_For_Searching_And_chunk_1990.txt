@@ -1,0 +1,9 @@
+he data within a web browser. It will connect to the selected content
+within the target’s live website. A complete user guide can be found at the above website.
+
+Domain Hosting View (nirsoft.net)
+
+This application will take any website domain and retrieve all public information about the
+registration and host. This will commonly include the names and contact information of people
+associated with the account. It will identify the physical host, which will be needed in the case of
+setving legal pr

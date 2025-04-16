@@ -1,0 +1,8 @@
+lick on any of the files located and click “Download All’. This will
+save a copy of all documents found to the location on your computer that you had chosen earlier.
+This can take some time depending on the amount and size of the documents. Even though we
+have not analyzed any of the documents yet, simply having a copy of all of them could prove
+beneficial for further intelligence.
+
+After the files have finished downloading, right-click on any of them and select “Extract All
+Metadata”. This will

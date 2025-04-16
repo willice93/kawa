@@ -1,0 +1,13 @@
+30 second commercial at the
+beginning. This is very frustrating when analyzing a large number of videos. A quick URL trick
+will bypass this annoyance. Navigate to the following address and notice the long commercial at
+the beginning.
+
+http://www.youtube.com/watch?>v=IEIWdEDFIQY
+
+Alter this address slightly in order to force the video to play in full screen in your browser. This
+will also bypass any commercials. The URL should appear like the following.
+
+304 Chapter 15
+
+https: / /youtube.googlea

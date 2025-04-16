@@ -1,0 +1,11 @@
+ould be conducted on
+google.com. The exact seatch is listed with the expected result. These should be used as a starting
+point for the many possibilities of document searching.
+
+site:docs.google.com “resume” - 22,700 online resumes
+
+site:docs.google.com “resume” “Williams” - 2,491 resumes with the name Williams
+site:docs.google.com “Corey Trager” - 1 document (resume) belonging to the target
+site:docs.google.com 865-274-2074 - 1 document containing the target number
+
+Google categorizes the docum

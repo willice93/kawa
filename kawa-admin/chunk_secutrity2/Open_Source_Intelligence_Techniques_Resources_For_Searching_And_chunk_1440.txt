@@ -1,0 +1,9 @@
+s legible, and then blurring it. When the plate is farther away
+and more difficult to read, it is ignored. This can work in our favor. In Figure 12.04 we can use
+selective cropping and photo manipulation to obtain the registration. The left image appears
+unaltered as it is difficult to read. The right image was cropped; inverted with Photoshop;
+
+264 Chapter 12
+
+brightness turned down to 0%; and contrast heightened to 100%. The result is a legible license
+plate. I believe most registration plates

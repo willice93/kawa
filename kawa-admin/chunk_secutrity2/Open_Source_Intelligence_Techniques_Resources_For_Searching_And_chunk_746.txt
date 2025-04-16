@@ -1,0 +1,6 @@
+n.
+Clicking the “Friends” link in the profile will load a list of the friends in the center column. This
+can be beneficial to identify associates of the subject. While some people will only list others with
+whom they have had some type of relationship, many people will list hundreds of friends that
+they may or may not actually know. Fortunately, Facebook gives us a search bar that we can use
+to filter this list. Typing a name or partial name will immediately filter the list. This works on first

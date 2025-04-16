@@ -1,0 +1,7 @@
+get account was
+notified when executing this strategy. This could be devastating to an investigation. I have been
+able to reproduce this anomaly on a recent investigation. Only proceed with the following option
+if you are comfortable with the target being notified that someone tried to reset his account.
+Overall, I am surprised that the following still works. There is a Facebook website that allows
+you to reset your password if you have forgotten it. You must be completely logged out of
+Facebook

@@ -1,0 +1,9 @@
+ify the largest
+version of an image when searching online. A software application to identify this data will be
+discussed later. The easiest way to see the information is through an online viewer.
+
+Jeffrey’s Exif Viewer (exif regex.info/exif.cgi)
+
+I consider Jeffrey's Exif Viewer the online standard for displaying Exif data. The site will allow
+analysis of any image found online or stored on a drive connected to your computer. The home
+page provides two search options. The first allows you to co

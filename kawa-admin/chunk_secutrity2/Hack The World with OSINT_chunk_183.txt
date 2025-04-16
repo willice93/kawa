@@ -1,0 +1,9 @@
+covered two vulnerable NS
+servers. Diffie-Hellman key exchange, a frequently used cryptography algo
+found in HTTPS, SSH, IPSec, SMTPS and other protocols which use TLS. Th
+researchers discovered weaknesses in the in the TLS protocol and how DHE ix
+deployed, allowing encryption to be downgraded using a technique called Looiam
+Attack. The NSA servers were found using the domain NSA.gov and the tag DHE.
+Export, Any server supports DHE-Export potentially vulnerable. Exploitation wa
+
+tested using a L

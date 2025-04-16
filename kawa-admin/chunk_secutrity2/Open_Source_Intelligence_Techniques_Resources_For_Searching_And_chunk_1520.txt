@@ -1,0 +1,6 @@
+rch page.
+The images in the results will present additional options when clicked. A larger version of the
+image will load inside a black box. The three options to the right of the image will allow you to
+visit the page where the image is stored, view the image in full size, or “Search by image”. Clicking
+the “Search by image” link will present a new search results page with other images similar to the
+target image. These connect to different websites which may contain more intelligence about the

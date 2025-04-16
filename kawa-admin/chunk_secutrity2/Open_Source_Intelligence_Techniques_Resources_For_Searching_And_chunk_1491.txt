@@ -1,0 +1,6 @@
+information to the public is Cryptome.
+Most of the information is related to freedom of speech, cryptography, spying, and surveillance.
+Much of the content could be considered conspiracy theories, but several official documents get
+released daily. Cryptome does not provide a search for their site and there are no third-party
+providers that cater to this service. Therefore, we must rely on Google or Bing to find the
+documents. A structured query such as the following should function well. This te

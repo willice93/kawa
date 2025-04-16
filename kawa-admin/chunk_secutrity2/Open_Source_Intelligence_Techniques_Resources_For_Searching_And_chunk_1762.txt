@@ -1,0 +1,12 @@
+e a listing of the incidents.
+This is done through a specific address typed directly into your browser. If your target website
+was phonelosets.otg, you would navigate to the following website.
+
+reddit.com/domain/phonelosers.org/
+
+This example produced 16 Reddit posts mentioning this domain. These could be analyzed to
+document the discussions and user names related to these posts.
+
+Hunter (hunter.io)
+
+In Chapter Eight, I explained how Hunter could be used to verify email addresses. This tool can

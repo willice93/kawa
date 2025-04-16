@@ -1,0 +1,9 @@
+the URL of the custom search engine. As an example, I will use the
+social network engine that was created earlier. The public URL of this engine is the following
+address.
+
+https://www.google.com/cse/publicurl?cx=001580308195336108602:oyrkxatrfyq
+
+Assume you had searched “OSINT Tools” within the Twitter option of this engine. Google
+would announce that 927 results are available. However, you can only view the first 100 within
+this custom engine. If you copy the search engine ID you can create a

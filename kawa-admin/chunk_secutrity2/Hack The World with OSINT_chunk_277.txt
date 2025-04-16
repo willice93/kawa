@@ -1,0 +1,28 @@
+acavity/2017/03/16/Microsoft-SMBv1-Vulnera bility
+
+10.1 ZMap Project Tags mbines
+
+Part of the ZMap Project uses 4 com
+
+7Tag, which co
+
+ponent called
+
+Consys Tags 157
+
+
+ata, and metadata to enrich device information
+
+: can d : ee
+ZGrab output, raw s f looking for specific devices like alarm system
+
+earching by Tag is useful 1 hal
+om a uae on more than one protocol or port. Additional tags are
+added as the project progresses.
+Table 62 Censys.to Tags
+
+lag Descri ption
+
+|
+
+“an system. Burglar alarm

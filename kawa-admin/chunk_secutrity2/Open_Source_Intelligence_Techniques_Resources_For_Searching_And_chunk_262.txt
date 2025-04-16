@@ -1,0 +1,8 @@
+be present. When the machine was turned off, all history of that
+session was eliminated. ‘This was a quick and easy way to conduct high-risk investigations while
+protecting the integrity of a personal computer. Unfortunately, this was slow, mostly due to the
+speed bottleneck of the USB device. It was a valid practice with good intentions, but not
+extremely applicable to most OSINT investigators. The previous edition of this book had an
+entire chapter devoted to creating these devices.
+
+In late 2

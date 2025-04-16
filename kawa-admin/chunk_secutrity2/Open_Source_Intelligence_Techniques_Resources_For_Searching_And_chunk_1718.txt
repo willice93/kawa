@@ -1,0 +1,10 @@
+the
+current site, any historical versions archived online, and then future monitoring for any changes.
+Chapters One and Two presented numerous methods for capturing live web pages, and Chapter
+Three discussed several techniques for locating archives online such as the Wayback Machine
+and Google Cache. You should now consider checking the next resource.
+
+Screenshots (screenshots.com)
+
+While search engines provide the most recent cached version of a web page, and the Wayback
+Machine creates backup

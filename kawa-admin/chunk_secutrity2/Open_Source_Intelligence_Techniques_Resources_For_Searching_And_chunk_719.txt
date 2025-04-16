@@ -1,0 +1,7 @@
+le device being used. This happens often, but not always. If this data
+is not available, Facebook might use the IP address associated with the internet connection, or
+simply the city and state provided by the user during creation of the profile.
+
+The accuracy of this information can vary from one extreme to another. However, this is a good
+lead. If that GPS location was associated with a home owned by a person with the same name, I
+would feel confident in the accuracy. If the location returns to

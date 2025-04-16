@@ -1,0 +1,7 @@
+.org/23fq.jpg <img src=“http://www.iplogger.org/23fq.jpg”>
+
+The first link forwards to the image that I provided. During this process, the IP address, operating
+system, and browser details are collected and stored on the page that stored the links. The second
+link could be inserted directly into a web page or email address. Upon loading either, the image
+is ptesent and collects the same data. I was once communicating with an unknown subject about
+illegal matters on a web forum about hacking and

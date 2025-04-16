@@ -1,0 +1,6 @@
+cus on the “Name and Address” search option in the top menu
+of the website. Entering a full name with city and state is preferred, but not required. Results
+often display the person’s age range, cell phone number, landline number, full address, religion,
+financial details, home IP address and any associated email addresses. I searched my own name
+to test the accuracy of the results. My profile correctly identified similar information as well as
+the exact VIN number of a previous vehicle. This ty

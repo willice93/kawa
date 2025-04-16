@@ -1,0 +1,7 @@
+thin an interactive tree. Many of the websites mentioned here are
+replicated on osintframework.com, which was created by Justin Nordine.
+
+I believe that all of these will always be a work in progress. As everything else in OSINT changes,
+these will too. I will try to keep them updated on the website. If you have suggestions, I am
+honored to receive and apply them. If you would like to create better formulas, I encourage you
+to get creative. I used the website LucidChart.com to create each of the

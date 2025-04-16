@@ -1,0 +1,6 @@
+(Gmail) users take advantage of Google’s free service for document storage
+called Google Docs or Google Drive. When a document is created, it is private by default and
+not visible to the public. However, when people want to share documents with friends or
+coworkers, the sharing properties must be changed. While it is possible to privately share files
+with individual Google users, many people find it easier to make the documents public. Most of
+these users probably assume that the files will not

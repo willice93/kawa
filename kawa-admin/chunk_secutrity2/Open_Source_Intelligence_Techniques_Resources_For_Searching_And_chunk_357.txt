@@ -1,0 +1,9 @@
+eated after online usage
+
+Bootable USB Devices
+
+I believe that every online investigation computer should have a selection of safe operating
+systems aside from the traditional host Windows or Mac options. By now, you may have your
+Buscador virtual machine configured and you are ready to attack. There is one last option that
+should be discussed. As stated earlier, the previous edition of this book dedicated an entire
+chapter to bootable USB devices. Once Buscador was available, I transitioned all

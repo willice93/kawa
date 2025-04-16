@@ -1,0 +1,13 @@
+tion() {window.open(https://hacked-emails.com/api?q=' + all3 +
+'@protonmail.com'’, '4leakwindow’);},9000);
+
+set limeout(function() {window.open(https://hacked-emails.com/api?q=' + all3 + '@live.com’,
+'5leakwindow’);},12000);
+
+set [imeout(function() {window.open(https://hacked-emails.com/api?q="' + all3 +
+‘'@outlook.com', '6leakwindow’);},15000);
+
+set limeout(function() {window.open(https://hacked-emails.com/api?q=' + all3 +
+'@icloud.com', '7leakwindow');},18000);
+
+set imeout(function() {window.o

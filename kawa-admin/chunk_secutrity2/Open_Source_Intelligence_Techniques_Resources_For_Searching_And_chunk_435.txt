@@ -1,0 +1,9 @@
+om Search.
+
+You can now bookmark this new search engine that you created and visit it whenever you have
+a target to search. You can take your custom search engines to another level by adding
+refinements that are not website specific. In the next example, we will make a search engine that
+will search the entire internet and allow us to filter by file type.
+
+Create a new custom seatch engine and title it “Documents”. Add only “google.com” as the
+website to be searched. We do not actually want to s

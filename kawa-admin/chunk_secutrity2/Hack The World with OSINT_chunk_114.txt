@@ -1,0 +1,15 @@
+cial management called Filezilla
+0.9.39 beta. The same version I taught students in my GPEN course to exploit.
+
+Smiling, | messaged my friend back with the find. To be nice, also tried to message
+the hotel and Trump to no avail. Many months later, I double checked if the same
+FileZilla FTP server and version was still exposed on the internet. Using Telnet with
+a CMD prompt or Terminal banner grabs the FTP version. So sad!
+
+ftp 24.114.221.116
+
+f+
+
+rtp 24.114.221.116
+ed to 24.114.271.116.
+server v

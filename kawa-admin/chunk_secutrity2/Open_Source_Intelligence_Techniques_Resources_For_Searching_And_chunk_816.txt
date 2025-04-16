@@ -1,0 +1,9 @@
+ions. He currently has 11.4 thousand Tweets. Even if you could
+make it through all of his Tweets, you are not seeing posts where he is mentioned or messages
+sent publicly to him. I recommend splitting this search by year and including mentions and
+messages directed toward him. The following search within Twitter displays all Tweets from the
+Twitter name humanhacker between January 1, 2012 and December 31, 2012.
+
+from:humanhacker since:2012-01-01 until:2012-12-31
+
+This may create a more digestibl

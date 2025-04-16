@@ -72,3 +72,65 @@ cas_pratique: 'Titre : Calcul de l''exonération à la retraite pour Madame Dupo
 
   Appliquer la formule correcte pour l''exonération à la retraite a permis à Madame
   Dupont d''obtenir une plus-value de 31 000 €.'
+embedding_text: 'Règle : La règle d''exonération à la retraite s''applique à toute
+  personne qui est mise à la retraite par son employeur. Les conditions de cette exonération
+  sont que le montant de l''indemnité totale doit être soit le montant légal ou conventionnel
+  (2) sans limitation, soit 50 % de l''indemnité totale ou bien le double de la rémunération
+  annuelle brute de l''année civile précédente, mais pas plus de 219 960 €. La formule
+  de calcul applicable est donc la somme du montant légal ou conventionnel (2) et,
+  si cela est possible, le calcul de 50 % de l''indemnité totale ou bien le double
+  de la rémunération annuelle brute de l''année civile précédente mais pas plus de
+  219 960 €. Pour être sûr d''y avoir droit, il faut vérifier que vous avez été mis
+  à la retraite par votre employeur et que les montants calculés sont en respect des
+  conditions énoncées.
+
+  Formule : Non spécifiée
+
+  Cas pratique : Titre : Calcul de l''exonération à la retraite pour Madame Dupont,
+  professeure d''école primaire
+
+
+  Madame Dupont est une enseignante à la retraite, qui a travaillé pendant 35 ans
+  dans le système éducatif public. En 2021, son employeur (Établissement scolaire
+  XYZ) a décidé de la mettre à la retraite.
+
+
+  Montants concernés :
+
+  - Montant légal ou conventionnel : 45 000 €
+
+  - Revenue annuelle brute (2020) : 38 000 €
+
+  - Plafond d''exonération à la retraite : 219 960 €
+
+
+  Déclaration des montants calculés dans les bonnes cases si applicable (ex : 1AK,
+  1GF...) :
+
+  - Montant légal ou conventionnel (2) : 45 000 €
+
+  - Calcul de 50 % de l''indemnité totale : 23 600 €
+
+  - Double de la rémunération annuelle brute (2020) : 76 000 €
+
+
+  Comparaison régime par défaut vs option choisie :
+
+  Si Madame Dupont ne faisait pas le calcul correct, elle n''aurait reçu qu''une exonération
+  de 45 000 € (régime par défaut). Cependant, en appliquant la formule correcte, elle
+  pourrait obtenir une exonération de 76 000 € (option choisie), bien que le montant
+  final ne dépasserait pas 219 960 €.
+
+
+  Calcul clair avec des chiffres ronds :
+
+  La formule calculée est la somme du montant légal ou conventionnel de 45 000 € et
+  le double de sa rémunération annuelle brute (38 000 €) de l''année civile précédente,
+  qui est donc de 76 000 €. En respectant la limite maximale de 219 960 €, Madame
+  Dupont recevra une exonération à la retraite de 76 000 €.
+
+
+  Conclusion :
+
+  Appliquer la formule correcte pour l''exonération à la retraite a permis à Madame
+  Dupont d''obtenir une plus-value de 31 000 €.'

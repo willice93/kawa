@@ -1,0 +1,6 @@
+t from a false location. Normally, when you connect to the
+internet and browse to a website, that website can identify the IP address that was assigned to
+you from your internet service provider. This can often identify the city and state that you are in
+and possibly the business organization where you are currently located. In some instances, it can
+identify the building you are in if you are using public wireless internet access. The owner of the
+website can then analyze this information which

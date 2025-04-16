@@ -1,0 +1,44 @@
+ing Yes
+field _ | ee , ene
+, puckets Integet : _ No
+
+[able 79 Rest API Report Kesponse codes
+
+Description
+
+—————O Ne Re on
+
+404 eee — ee
+13.5 Report Query
+SOL Quety
+POST
+/api/v1 /quety
+
+Table 80 Rest API Report Query Data Parameter
+
+Required
+Data Parametet Type
+
+Table 81 Rest API Report Ouer) response codes
+
+Response code : a
+
+13.5.1 Get Job Status
+GET
+
+/api/v1/query /:job_id
+
+Rest APL 239
+
+Required
+
+Job_id
+
+j
+response COGCS
+
+Response code Description
+
+200 ___ Success
+
+eae Rate Limit Exceeded 9

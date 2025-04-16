@@ -1,0 +1,9 @@
+t
+you press it. The second icon represents the “Home” option and will always return you to the
+home screen. The third button is the “Recent Apps” option and it will load a view of recently
+opened applications.
+
+The icons on the right of the emulator are features of Genymotion and allow you to control
+aspects of the Android machine from outside of the emulator. The following page displays this
+column of options, which should help explain each of these features. Note that many features
+ate not ava

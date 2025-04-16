@@ -1,0 +1,9 @@
+he most recent
+version of Tinder will not load on an emulated device. However, version 3.0.1 was working at
+the time of this writing. I keep a copy of the APK file at the following location.
+
+https:/ /inteltechniques.com/data/apk/tinder-3-0-1.apk.zip
+
+Real World Application: During one investigation, I discovered that my target was a Tinder
+user. I set my GPS in my Android emulator to his residence. I could then search for men his age
+within one mile and identify if he was at home. If I did not

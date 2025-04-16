@@ -1,0 +1,6 @@
+a difficult OSINT resource. It is only available officially as a mobile
+application, and there is not any sort of native web search. The majority of the content is set to
+auto-destruct after a specific amount of time, and is privately delivered from one user to another.
+While there are some extended search options within the app itself, I will only focus here on web
+resources. The most powerful engine I have located is Snapdex (snapdex.com). Enter a user
+name within the search option or navigate

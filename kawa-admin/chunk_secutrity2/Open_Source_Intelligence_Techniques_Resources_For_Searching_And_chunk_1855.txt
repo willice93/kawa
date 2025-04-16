@@ -1,0 +1,14 @@
+s page. It allows you
+to drill-down from state to county. The resulting page isolates all available records for viewing.
+As an example, I chose Illinois and then Madison County as my target. I was presented with the
+following databases, each linking directly to the source.
+
+Coroner Reports Voter Registration Verification
+Delinquent Tax Sale Voter Registration Address Search
+Government Expenditures Unclaimed Property
+
+Property Tax Search Crime Map
+
+Public Employee Salaries Building Contractors
+
+R

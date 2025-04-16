@@ -1,0 +1,6 @@
+option. Two plus signs indicates
+that between ten and one hundred scripts were allowed. The single minus sign (-) indicates that
+between one and nine scripts were blocked from that domain, while the dual minus signs tell us
+that ten to one hundred scripts were blocked. In Figure 1.05, we know that over ten scripts were
+allowed to run from cdn.cnn.com, and at least one script was blocked by smetrics.cnn.com. This
+is all default behavior and provides a balance of functionality and security. uBlock

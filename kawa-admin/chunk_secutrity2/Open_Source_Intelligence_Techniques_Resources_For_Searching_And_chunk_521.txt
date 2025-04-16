@@ -1,0 +1,6 @@
+noticed that Google quickly offers suggestions as you type in your search. This
+is called autocomplete. If I were to type “macb” into Google, it would prompt me to choose
+from the most popular searches when people typed those letters. ‘This information may lead you
+to new terms to search in reference to your investigation. The advantage of Keyword Tool over
+Google is that Google only provides the ten most popular entries. Keyword Tool provides the
+ten most popular entries. Additionally, you can

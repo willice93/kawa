@@ -1,0 +1,14 @@
+ese results
+should be replaced with your API key. The same API key will work for all four of the techniques
+detailed here. While Pipl does not limit the number of free trial API keys you can obtain, each is
+limited to ten queries.
+
+Real name search:
+
+https://api.pipl.com/search/ Pfirst_name=michael&last_name=bazzell&city=wood”20river&s
+tate=il&exact_name=false&no_sponsored=true&key=XXX
+
+Email address search:
+
+https://api.pipl.com/search /Pemail=michael@gmail.com&no_sponsored=true&key= XXX
+User n

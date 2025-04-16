@@ -1,0 +1,10 @@
+ching for it on Pentest-Tools provides additional intelligence. It identifies the following
+subdomains present on the web server:
+
+webmail.phonelosers.org www.phonelosers.org
+ssh.phonelosers.org mail.phonelosers.org
+ftp.phonelosers.org
+
+We now know that this domain possesses a webmail server, SSH connection, FTP server, and
+mail server. This method has helped me locate “hidden” pages which contain several forum
+messages from users of the site. Previous editions of this book have discussed additi

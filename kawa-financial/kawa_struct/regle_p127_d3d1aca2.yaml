@@ -43,3 +43,41 @@ cas_pratique: "Titre: Application de l'option d'imposition au barème progressif
   \ Si Mme Dupont n’était pas d’accord avec cette option, elle pouvait décocher la\
   \ case 2OP dans son formulaire de déclaration de revenus pour opter pour l'imposition\
   \ normale."
+embedding_text: "Règle : Règle applicable : Optant pour l'imposition au barème progressif\n\
+  \n   À qui s’applique : Les contribuables qui ont coché la case 2OP (Option de Paie/Optant)\
+  \ sur leur déclaration de revenus de l'année 2022.\n\n   Conditions : Aucune modification\
+  \ dans la case 2OP de la déclaration de revenus 2023, cela confirme cette option\
+  \ pour l'année suivante.\n\n   Montant ou plafonds : Aucun montant spécifique.\n\
+  \n   Formule de calcul applicable : Si vous avez coché la case 2OP dans votre déclaration\
+  \ de revenus 2022, cela confirme votre optant pour l'imposition au barème progressif\
+  \ pour l'année suivante.\n\n   Vérifier pour être sûr d’y avoir droit : Vous devez\
+  \ vérifier que vous avez coché la case 2OP dans votre déclaration de revenus 2022\
+  \ et ne pas avoir effectué de modifications dans cette case lors de votre déclaration\
+  \ de revenus 2023 pour confirmer l'option d'imposition au barème progressif. Si\
+  \ vous n’êtes pas d’accord avec cette option, vous pouvez décocher la case 2OP dans\
+  \ votre déclaration en ligne ou cocher la case qui se trouve sous la case 2OP sur\
+  \ votre déclaration sur papier pour opter pour l'imposition normale.\nCas pratique\
+  \ : Titre: Application de l'option d'imposition au barème progressif par un contribuable\
+  \ auto-entrepreneur\n\n   Contexte: Mme Jeanne Dupont, auto-entrepreneuse en ébénisterie\
+  \ depuis 5 ans avec une activation du régime de micro-entreprise depuis 2019. Sa\
+  \ situation financière a connu une amélioration significative cette année (2022)\
+  \ avec des revenus de plus de 48 765 €.\n\n   Montants concernés: Les revenus de\
+  \ Mme Dupont sont de 60 000 € en 2022 et seraient de 62 000 € en 2023 sans changement\
+  \ dans sa situation.\n\n   Déclaration dans les bonnes cases: Dans son formulaire\
+  \ de déclaration de revenus, Mme Dupont a coché la case 2OP (Option de Paie/Optant).\n\
+  \n   Comparaison régime par défaut vs l'option choisie: En optant pour l'imposition\
+  \ au barème progressif, Mme Dupon verra un taux d'imposition supérieur à celui de\
+  \ l'option normale. Par exemple, en 2022, avec des revenus de 60 000 €, elle devrait\
+  \ payer environ 10 597 € d'impôt au barème progressif (environ 37,4 % de son revenu)\
+  \ contre 8 566 € (soit 14,2 %) en régime normal. Toutefois, cela permettra à Mme\
+  \ Dupon de bénéficier d'un certain nombre de déductions fiscales et de garantir\
+  \ un solde impôt positif pour la sécurité sociale (CSG/CRDS).\n\n   Calcul clair\
+  \ avec des chiffres ronds: En 2023, si Mme Dupont ne modifie pas sa situation financière,\
+  \ elle devrait payer environ 11 467 € d'impôt au barème progressif (soit près de\
+  \ 18,7 % de son revenu).\n\n   Conclusion: En optant pour l'imposition au barème\
+  \ progressif en 2022, Mme Dupont peut bénéficier de déductions fiscales et garantir\
+  \ un solde impôt positif pour la sécurité sociale. Pour confirmer cette option pour\
+  \ l'année 2023, elle doit vérifier que son déclaration en ligne ou sa déclaration\
+  \ sur papier ne comporte pas de modification dans la case 2OP. Si Mme Dupont n’était\
+  \ pas d’accord avec cette option, elle pouvait décocher la case 2OP dans son formulaire\
+  \ de déclaration de revenus pour opter pour l'imposition normale."

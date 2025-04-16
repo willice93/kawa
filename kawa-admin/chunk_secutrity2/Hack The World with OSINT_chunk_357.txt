@@ -1,0 +1,15 @@
+tes 480,296 9.21% CHINAL6?- BACKBONE CHIMA UNICOM Chine 169 Backbone. ©
+: 295,158 4.51% HINET Data Commmuncetan Business Group, TW
+nie 227,079 435% KIMS-AS-KR Kores Telecom, KR
+ore af Korea 208,506 40% CMIX-AP China Metworks inter Ex change. CM
+in | 194.665 373% CHINANET-SH-AP China Telecom (Groupl. OM
+
+a 484,068 3.57% BSNL-MIB Nations! internet Backbone, IN
+a 400,544 193% ROSTELECOM-AS Ras
+
+italy 100,078 1.92% TELEFMICA BRASIL SA, BR
+
+Canada 93,451 189% pSM-ABSNAZ, IT
+Common Tags
+
+Tag Hasts Fre

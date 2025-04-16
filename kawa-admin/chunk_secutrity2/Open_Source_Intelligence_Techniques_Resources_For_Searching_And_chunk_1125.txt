@@ -1,0 +1,12 @@
+rch of red (toyota | honda) -2000 -2001 finds listings that have 'red' and either
+‘honda’ or 'toyota' (or both) but do not have 2000 or 2001. Wildcards are accepted as follows.
+
+hond* civ* (match “honda civic”, “honda civil”, etc)
+wood floo* (matches “wood floors”, “wood flooring”, etc)
+
+20 cy 32> ¢¢
+
+iphone* (matches “iphone”, “iphones”, “iphone5”, etc)
+
+Craigslist’s email alert feature has made third party tools for this purpose unnecessary. After
+logging into your account, you can customize a

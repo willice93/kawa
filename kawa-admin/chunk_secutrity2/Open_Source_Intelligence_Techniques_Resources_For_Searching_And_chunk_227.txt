@@ -1,0 +1,17 @@
+HAEL BAZZELL
+
+OSINT TRAINER &
+
+SEARCH TOOL PRIVACY CONSULTANT
+
+Online Training tive Training : forum Podcast ~ : Contact
+
+Figure 1.12: A row of JavaScript Bookmarklets available for download.
+
+24 Chapter 1
+
+Chrome (google.com/chrome/browser/desktop)
+
+Chrome is an excellent browser that is known for being very fast and responsive. Chrome is also
+very secute by nature, but compromises privacy since Google receives a lot of data about your
+internet usage. Both Firefox and Chrome “sandbox” each tab.

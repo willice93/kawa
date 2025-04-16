@@ -1,0 +1,7 @@
+the middle of the ocean, which I
+have seen once, then the data is obviously wrong. If your target is cautious about location sharing
+and uses a VPN, then these details can be quite misleading. As with everything else related to
+OSINT, these techniques only identify potential evidence. It is our job to validate our findings.
+
+Next, I want to focus on the viewers of this video. Many people watch these video streams from
+their own mobile device, and unknowingly share their location with Facebook.

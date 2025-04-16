@@ -1,0 +1,6 @@
+tten with a new source. Before progressing, you should note that Recon-ng has
+automatically added any new contacts to our database from the previous queries. When we were
+searching email addresses for credentials, we had positive hits. These confirmed email addresses
+were added to our contacts, and are ready for additional queries. The following commands display
+these new contacts; load the module to identify profiles from contacts; execute the process;
+display the results; load the profiler mod

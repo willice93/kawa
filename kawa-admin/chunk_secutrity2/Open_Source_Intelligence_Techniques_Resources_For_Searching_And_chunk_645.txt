@@ -1,0 +1,11 @@
+where the target left a
+comment on the photo. This can be important because the target may not have “liked” the photo
+not been tagged in it. The option may produce redundant results, but it should always be checked.
+
+The “photos-interacted” option will display any photos on profiles where the target either liked
+or commented on the image. This may be important in the future if Facebook eliminates the
+other search options.
+
+Social Networks: Facebook 105
+
+The “photos-interested” option will displa

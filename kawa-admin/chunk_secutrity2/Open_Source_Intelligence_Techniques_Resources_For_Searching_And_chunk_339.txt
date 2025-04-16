@@ -1,0 +1,6 @@
+stagram profile. While screen captures of
+an account may suffice for initial investigations, you should consider downloading any images
+directly from the source when possible. Launching Instalooter from the dock prompts you to
+choose either a hashtag or a user handle. A hashtag would be a topic such as #osint, while a user
+handle would be the actual account name such as tomhanks. Supplying these details will begin
+the extraction of all images associated with the search. After providing tomhanks

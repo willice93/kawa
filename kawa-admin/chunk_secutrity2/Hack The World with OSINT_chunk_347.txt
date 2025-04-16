@@ -1,0 +1,21 @@
+.44:53: i/o
+timeout’}, {u'status': u'ERROR', u'server': u'156.154.143.3',
+u'error': u'dns: bad xfr reode: 5'}, {u'status': u'/ERROR',
+u'server': u'156.154.141.3', u'error': u'dns: bad xfr rcode: 5'},
+fu'status': u'ERROR’, u'server': u'208.78.70.44', u'error’: u'dns:
+bad xfr rcode: 5'}, {u'status': u' ERROR’, u'server':
+u'156.154.142
+
+0.lookup.axfr.support
+
+False
+
+0.lookup.axfr.truncated
+
+False
+
+110.pop3.starttls.banner
+
++OK bhpstrefa.home.pl IdeaPop3Server 0.82
+110.pop3.starttls.starttls : =
++OK

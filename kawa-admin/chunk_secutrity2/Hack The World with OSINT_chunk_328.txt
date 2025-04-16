@@ -1,0 +1,12 @@
+vss: cve Number Descending CVE Number Ascending CVSS Score Oascendi
+gort Results OY ' l nme hs Once
+
+ane eyr eee
+
+ae NE Do ; ay : Publish Date | Update Date 3 Sone
+: 49-9531 200 2012-11-43 2017-05-48 tee
+i IIS) 7.5 Ss
+| 1 nt emet Information Services ( ) uses weak permissions for the Operational log, whic allows local
+es an 113 1 DoS Exec Code Overflow 4Info 2010-12-23 2017-00-18
+buffer overflow in the TELNET_STREAM_CONTEXT::OnSendData function in ftpeve.d in
+5, gpa code or cause a denial of s

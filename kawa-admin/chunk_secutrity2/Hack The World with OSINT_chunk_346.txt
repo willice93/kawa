@@ -1,0 +1,23 @@
+E [(CLIENT_IP], pleased to meet you
+250-SIZE 100000000
+
+250-PIPELINING
+
+250-8BITMIME
+
+250 HELP
+
+0.lookup.spf.raw
+v=spfl mx:mail.pornhub.com ptr:closedrelay.com
+
+ip4:94.199.255.10/32 ip4:208.91.206.64/26
+ip4:66.254.113.78/32 ptr:reflected.net ip4:66.254.119.174
+
+ip4:66.254.113.78 ip4:66.254.1 12.72/30 -all
+
+0.lookup.axfr.servers
+
+{u'status': u'ERROR’, u'server': u'204.13.250.44', u'error': u'dns:
+
+bad xfr rcode: 5'}, {u'status': u'ERROR’, u'server':
+u'208.78.71.44", u'error': u'dial tcp 208.78.71

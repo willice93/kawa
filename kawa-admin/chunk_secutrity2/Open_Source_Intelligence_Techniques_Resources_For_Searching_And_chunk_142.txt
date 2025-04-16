@@ -1,0 +1,6 @@
+his chapter will discuss thirteen of them. The Firefox add-ons, sometimes
+called extensions, detailed here will include a website for each option. You can either visit the
+website and download the add-on or search for it from within Firefox. The former is usually the
+best way. While Firefox is open, click on the menu in the upper right and then “Add-ons”. This
+will present a page with a search field in the upper nght comer. Enter the name of the extension
+and install from there. The following ar

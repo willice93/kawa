@@ -1,0 +1,10 @@
+e an entire book could be written about the possibilities with Recon-ng, let’s
+conduct one last example to illustrate another way to use the program. If you have not already
+done so, type exit to close the window, then relaunch Recon-ng. The following commands will
+display your current workspaces; delete the previous example; and create a new space titled email.
+
+workspaces list
+workspaces delete location
+workspaces add email
+
+In this example, we want to manually add a contact, and you may want

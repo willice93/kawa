@@ -1,0 +1,10 @@
+he process for archiving an embedded photo in
+Instagram will vary based on your browser. The easiest is with Firefox. Right-click on the image
+
+Social Networks: Others 167
+
+of interest and select “View background image” or “View Image Info”. This will present the
+actual jpeg image, which can be saved by right-clicking again and choosing “Save image as”.
+
+You should also consider digging into the source code of your evidence in order to identify
+further details that could be valuable. First, I li

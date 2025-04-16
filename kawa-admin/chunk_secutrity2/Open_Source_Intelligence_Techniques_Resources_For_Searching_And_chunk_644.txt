@@ -1,0 +1,9 @@
+omeone else’s profile that is not
+private, you will be able to see all of them.
+
+The “photos-of” option will display any photos in which the target has been tagged. This search
+has already been proven very effective in many investigations. This will immediately locate
+additional photos of your target that may not be visible on the target’s profile. This is helpful
+when the photos are private on one person’s page, but not others.
+
+The “photos-commented” option will display any photos on profiles

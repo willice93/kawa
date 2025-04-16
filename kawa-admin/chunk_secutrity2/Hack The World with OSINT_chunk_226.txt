@@ -1,0 +1,29 @@
+Single Coil 5
+“write Single Holding Register 6
+“Read fixception Status .
+| Diagnostic 8
+; Get Com Event Counter 11
+; Get “Com Event Log 3 i oe;
+Write Multiple Coils 3 15
+| Write Multiple Holding Registers 16
+“Report Slave ID it
+| facad File Record ae oe:
+) Write File Record : 21
+—c.. —
+“Read Device Wuiviewon «=< os 43
+
+Internet of
+
+r shite 121
+
+
+O1
+
+Mlegal function —
+
+“Iilegal data ‘address 02
+“Slave device failure 04
+Slave device a hy 06
+oe Sanler en es Sa _ : ae
+
+"Gateway path anavailable pe 3

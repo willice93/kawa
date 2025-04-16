@@ -1,0 +1,10 @@
+start it with @inteltechniques.
+
+Near this place: This field allows for the input of a zip code or city name. The default 15 miles
+setting would produce Tweets posted from within 15 miles of the perimeter of the zip code
+supplied. In a moment, I will explain a more effective search technique for location.
+
+From this date: The final option allows you to limit a search to a specific date range. We will do
+this manually in just a moment.
+
+Overall, I do not ever use the Twitter Advanced Search page.

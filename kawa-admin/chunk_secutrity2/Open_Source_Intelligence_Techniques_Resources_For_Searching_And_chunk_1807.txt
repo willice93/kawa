@@ -1,0 +1,18 @@
+ps. These two options are premium services and require a
+modest fee. All Shodan features allow input of the following types of information for filtering.
+
+City: Name of the city (ex. city:“San Diego”)
+Country: 2-letter country code (ex. country:US)
+GPS: Latitude and longitude (ex. geo:50.23,20.06)
+OS: Operating system (ex. os:Linux)
+
+IP Address: Range (ex. net:18.7.7.0/24 )
+Keyword: (ex. webcam)
+
+_. Total Results: 355
+
+.. Top Services
+
+HTTP {8089) ee City Fulton
+
+; HTTP 484) : j Country United S

@@ -1,0 +1,6 @@
+ge of the Twitter “Firehose”. This huge
+stream of data contains every public post available on Twitter. Many Twitter services do not have
+access to this stream, and the results are limited. Tweet Deck requires you to create and log into
+an account to use the service. This user account is not the same as a Twitter account. The “Create
+Account” button on the website will walk you through the process. Alias information is
+acceptable and preferred. The plus symbol (+) in the upper left area will add

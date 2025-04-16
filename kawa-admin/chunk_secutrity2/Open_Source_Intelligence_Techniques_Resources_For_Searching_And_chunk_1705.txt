@@ -1,0 +1,7 @@
+ch more than a
+Whois lookup tool. Technically, it is a reverse Whois lookup. However, that description is not
+powerful enough to convey the search options available within this website. The home page of
+Whoisology presents a single search field requesting a domain or email address. Entering either
+of these will display associated websites and the publicly available Whois data. This is where the
+features begin. The first basic feature that you see is the display of standard Whois data that will
+i

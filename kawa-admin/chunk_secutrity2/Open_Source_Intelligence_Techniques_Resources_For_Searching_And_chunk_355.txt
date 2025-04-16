@@ -1,0 +1,9 @@
+with opening files created by the previous utilities. While not direclty associated
+with LibreO ffice, we also included a PDF viewer and VLC, which plays the majority of the online
+media content that you will likely encounter.
+
+Standard Applications
+
+Aside from the custom execution of command-line scripts, Buscador also possesses several
+standard applications available on many platforms. These will all be properly explained in Chapter
+Nineteen while discussing various Windows programs. The foll

@@ -1,0 +1,6 @@
+Custom Search Engine (CSE) and appends “link” to each search result. This allows you
+to open these links through Onion Link’s own Tor connection which appears to pull the data
+from their own cached sources. This makes the viewing of these pages much quicker with faster
+page loads, and eliminates the need to be on the Tor Browser. While relying on Google to index
+these pages is a bit amateur, the minimal results here are often different than other Tor engines.
+An alternative option which appears

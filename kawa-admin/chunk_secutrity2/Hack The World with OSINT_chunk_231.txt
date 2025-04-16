@@ -1,0 +1,20 @@
+ata results
+
+More detailed $7 102 dorking using the protocol fields itself can
+pin point systems directly. Using the IPv4 search function, look
+directly in the S7 protocol fot Siemens.
+
+102.s7.szl.copyright: Siemens
+
+
+IPv4 Hosts
+Page: 160 Results: 1,488 Time: 1375ms
+
+lg 178.15.96.137 (business-1 78-015-096-1 37.static.arcor-ip.net)
+@ VODANET international (P-Backbone of Vodafone (3209)
+®@ 102/s?7
+Q 102.s7.szl.copyright: Qriginal Siemens Equipment
+
+Figure 79 Censys 87 dorking for Siemens
+
+¥ Germa

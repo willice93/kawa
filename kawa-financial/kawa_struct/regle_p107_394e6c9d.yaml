@@ -64,3 +64,42 @@ calcul:
     revenu_brut: 1500
     abattement: 1125
     revenu_net: 375
+embedding_text: "Règle : La règle s'applique aux employés qui installent une borne\
+  \ de recharge électrique pour leur véhicule à l'extérieur de leur lieu de travail.\n\
+  \nLes conditions sont :\n- La borne doit être restituée à la fin du contrat de travail\
+  \ pour que le montant soit nul.\n- Si la borne n'est pas restituée, les avantages\
+  \ seront évalués jusqu'à un plafond de 1000 € en cas d'installation à domicile,\
+  \ ou 1500 € si la borne a plus de 5 ans. Dans ce dernier cas, le taux est augmenté\
+  \ à 75 % des frais réels.\n- Les autres frais liés à l'utilisation de la borne installée\
+  \ hors du lieu de travail ou du coût d'un contrat de location de la borne (hors\
+  \ frais d'électricité) sont exonérés dans la limite de 50 % du montant des dépenses\
+  \ réels que le salarié aurait dû engager.\n\nLa formule de calcul est variable en\
+  \ fonction des conditions ci-dessus, mais il s'agit généralement de l'application\
+  \ d'un taux de remboursement (50 % ou 75 %) aux frais réels engagés par le salarié\
+  \ jusqu'à un plafond de 1000 € ou 1500 €.\n\nPour être sûr d'y avoir droit, il faut\
+  \ vérifier que :\n- La borne est installée hors du lieu de travail.\n- Le contrat\
+  \ de travail prévoit effectivement un tel avantage en nature.\nFormule : revenu_brut\
+  \ * (1 - 0.75)\nCas pratique : Titre : Exemple d'application de la règle fiscale\
+  \ pour les employés ayant installé une borne de recharge électrique hors du lieu\
+  \ de travail\n\nContextue : Marie, professeur d'histoire à l'école secondaire Jean-Jaurès\
+  \ et résidant à Nanterre. Marie a installé une borne de recharge électrique pour\
+  \ son véhicule hybride à domicile en septembre 2018. Elle travaille dans le quartier\
+  \ Saint-Ouen, à Paris, depuis cinq ans.\n\nDétails :\n- Coût d'installation initial\
+  \ de la borne (septembre 2018) : 1250 €\n- Frais mensuels pour l'électricité consommée\
+  \ par la borne : 15 €/mois\n- Valeur estimée du retour de la borne en fin de contrat\
+  \ : 0 €\n\nCalculs :\n- Plafond avantage en nature (à domicile) : 1000 €\n- La borne\
+  \ a plus de cinq ans, donc le plafond est augmenté à 1500 € et le taux est augmenté\
+  \ à 75 % des frais réels.\n- Pour calculer les avantages en nature que Marie peut\
+  \ déclarer sans impôts, nous devons d'abord déterminer le montant des dépenses réels\
+  \ engagés par Marie :\n    - Coût initial de la borne (1250 €) x taux exonération\
+  \ (75 %) = 937.5 €\n    - Frais mensuels pour l'électricité consommée par la borne\
+  \ (15 €/mois x 12 mois) = 180 €\n    - Montant des dépenses réels engagés par Marie\
+  \ : 937.5 € + 180 € = 1117.5 €\n- Avec un plafond de 1500 €, nous calculons les\
+  \ avantages en nature que Marie peut déclarer sans impôts :\n    - Montant des dépenses\
+  \ réels engagés par Marie (1117.5 €) x taux exonération (75 %) = 836.125 €\n   \
+  \ - Avantages en nature déclarables sans impôt : Montant max du plafond (1500 €)\
+  \ - montant des dépenses réels engagés par Marie (836.125 €) = 663.875 €\n\nDeclaration\
+  \ :\n- Ligne 1AK : Frais de location hors lieu de travail - Exonéré dans la limite\
+  \ de 50 % du montant des dépenses réels : 1117.5 € x 50 % = 558.75 € (dans les cases\
+  \ de la déclaration)\n- Ligne 1GF : Avantages en nature - Exonéré dans la limite\
+  \ de 663.875 € : 663.875 € (dans les cases de la déclaration)"

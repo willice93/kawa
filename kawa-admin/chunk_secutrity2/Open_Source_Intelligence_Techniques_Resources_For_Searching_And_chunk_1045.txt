@@ -1,0 +1,12 @@
+ages.
+
+https://imgur.com/r/netsec
+
+If you find an image of interest, you should consider a reverse image search. This will be explained
+in detail later, but you should know now that you have a Reddit-specific reverse image search
+option call Karma Decay. Assume that you located an image on Imgur at the following URL.
+
+https://imgur.com/r/funny/ODnE1aB
+
+You can navigate to karmadecay.com, supply this address, and immediately see if that image has
+been posted to any other locations within Reddit.

@@ -1,0 +1,28 @@
+domains -hosts/bing_domain_web
+
+domains -hosts/brute_hosts
+
+domains -hosts/builtwith
+
+domains -hosts/certificate_transparency
+domains-hosts/google site_api
+
+domains -hosts/google site_web
+
+domains -hosts/hackertarget
+
+domains -hosts/mx_spf_ip
+
+domains -hosts/netcraft
+
+domains -hosts/shodan_hostname
+domains-hosts/ssl_san
+
+domains -hosts/threatcrowd
+
+domains -vulnerabilities/ghdb
+
+domains -vulnerabilities/punkspider
+domains -vulnerabilities/xssed
+domains-vulnerabilities/xssposed
+hosts-domains/mi

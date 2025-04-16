@@ -1,0 +1,8 @@
+on
+a mobile device. Services such as SnapChat, Tinder, and Kik do not allow a user to access content
+from a traditional web browser. As this shift occurs, investigators must transition with it.
+
+This chapter will focus on the huge amount of information available through mobile platforms
+that is not accessible through a web browser. I will explain a method of emulating a portable
+device within a traditional computer. Before we dive into the nuts and bolts of making things
+work, we should discuss

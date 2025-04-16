@@ -1,0 +1,6 @@
+have two domains stored in our workspace, but we may want to scan for additional
+options that we have not considered. There are many top-level domains (TLDs) aside from .com
+and .org. Executing use recon/domains-domains/brute_suffix and then run will scour the
+various TLDs such as .net, .tv, and others. After completion, typing show domains again will
+display our updated set of target addresses ready for further searching. In this example, I was
+notified that over 200 additional domains were loc

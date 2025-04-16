@@ -1,0 +1,8 @@
+ines
+
+Chapter Eleven explained the various reverse API methods that can identify landline and cellular
+telephone numbers. The API process was documented for searching each individual company
+for caller ID information. This section will explain how to create a web page search tool that will
+execute a search across all companies for a single telephone number. The following is the exact
+text that would create the page. Remember to change “XXX” on each line to your exact token
+key provided by each c

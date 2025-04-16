@@ -1,0 +1,10 @@
+and attended the target high school. This produced a list of four subjects that
+
+Social Networks: Facebook 99
+
+attended the school and were fans of the band. All four subjects were questioned and one of
+them confessed to being present at the scene and identified the culprit. If I were searching for
+Harvard students that like the band Thrice, the following address would produce the results.
+
+https://www.facebook.com/search/str/Harvard/pages-named/students/str/Thrice/pages-
+named/likers/intersect

@@ -1,0 +1,9 @@
+(NAIP). The unique part is the ability to search based on image. In other words,
+you can select a monument, park, building, or any other view and request any images that match.
+As an example, I selected the baseball grounds at Wrigley Field and I was immediately presented
+hundreds of baseball fields all over the world. I have yet to determine how I would execute this
+strategy within an investigation, but this feature has potential.
+
+Crowd-Sourced Street Views
+
+Satellite and Street View maps from

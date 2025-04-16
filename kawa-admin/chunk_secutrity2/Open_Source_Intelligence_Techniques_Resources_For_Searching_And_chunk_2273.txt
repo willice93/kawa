@@ -1,0 +1,7 @@
+when you are researching the chosen topic. The
+categories are Email, User Name, Real Name, Telephone Number, Domain Name, and Location.
+
+Each example will try to show the standard path that I would take when provided the chosen
+type of data, such as an email address. The goal with my investigations is to get to the next topic.
+For example, if I am given an email address, my goal is to find any user names and real names.
+When I have a user name, my goal 1s to find any social networks and verify a

@@ -1,0 +1,6 @@
+our screen, right-click on the menu in the taskbar and choose
+“Stop”. This will prompt you to title your video and choose a storage location. This video is now
+ready for archiving. This screen recording technique could also be used to capture an entire
+OSINT search and analysis. You could start the video before any searching is conducted and let
+it record while you navigate through websites. This could then be used for reference later to
+review the steps taken to locate any vital data. Some inve

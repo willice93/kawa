@@ -1,0 +1,8 @@
+n
+“down arrow” next to the URL and selecting “Cached”. This view identified twenty deleted
+Tweets from this account. Two of these posts can be seen in Figure 5.03. Google identified this
+capture as taken on December 12, 2017.
+
+This may be enough for your investigation. Occasionally, I need to identify content that was
+deleted weeks or months before my investigation. The previous technique will likely not provide
+much assistance because the Google Cache is probably a recent copy of their live pag

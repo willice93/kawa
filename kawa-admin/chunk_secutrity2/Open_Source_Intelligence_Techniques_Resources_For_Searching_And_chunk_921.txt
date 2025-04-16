@@ -1,0 +1,17 @@
+200 Tweets and analyzes the
+communications within them.
+
+Twitonomy (twitonomy.com)
+
+One Twitter analytics website that stands out from the rest is Twitonomy. This is the most
+complete analytics service that I have found for a single Twitter handle. A typical user search
+would fill four pages of screenshots. A search of the user “humanhacker” immediately revealed
+the following details.
+
+He has posted 8,689 Tweets
+
+He is following 170 people
+
+He has 17,079 followers
+
+He joined Twitter on June 14,

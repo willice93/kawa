@@ -1,0 +1,45 @@
+eries
+Read-CensysViewSeties
+
+13.7.3 Data View Results
+GET
+/api/v1 /data/:series /:tesult
+
+JBL Parameters
+
+Table 92 Rest API Data View Results t
+
+Required
+
+URL Parameters Type
+
+Results response codes
+
+Description
+
+Table 93 Rest API Data View .
+
+Response code
+
+naneennn ee
+
+50 et ee
+
+Rest API 243
+
+Resources
+
+read Further
+
+INFORMATION IN THIS CHAPTER:
+
+How do we change the world? One random act of hacking at a time.
+
+- Morgan Freeman
+
+Resources
+
+Further Resources 245
+
+m/download /fiddler
+| Tae based

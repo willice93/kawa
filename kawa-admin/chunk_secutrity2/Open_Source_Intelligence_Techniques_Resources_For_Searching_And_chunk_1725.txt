@@ -1,0 +1,6 @@
+nitor other websites,
+the analytic number will probably be the same. These services will now conduct a reverse search
+of this analytic number to find other websites with the same number. In other words, it will
+search a website and find other websites that the same owner may maintain. Additionally, it will
+try to identify user specific advertisements stored on one site that are visible on others. It will
+reverse search this to identify even more websites that are associated with each other. None

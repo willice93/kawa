@@ -1,0 +1,11 @@
+profile. Figure 6.03 (right) displays this result.
+
+Finally, the last option is to conduct a reverse image search on the photo associated with the
+target’s profile. Full details of this type of search will be presented later. For this demonstration,
+I will right-click on her photo and choose Search Google for Image from my Chrome browser.
+While the first result is not the target, clicking the page does present a link to the target’s
+unmasked page.
+
+Searching by Country
+
+While LinkedIn is an Amer

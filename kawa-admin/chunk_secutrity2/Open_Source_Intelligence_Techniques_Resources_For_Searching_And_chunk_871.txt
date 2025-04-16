@@ -1,0 +1,8 @@
+inates, a zip code, or a street address. This data will zoom the map to a
+more detailed level. The column on the left displays the Twitter message content that is
+represented in the map view. Finally, the graph at the bottom night identifies message volume in
+the chosen area. Clicking the right arrow button at the bottom will “play” the map and highlight
+the Tweets in the chronological order of post.
+
+When you first load this website, a dark map 1s displayed without satellite view. This can be
+c

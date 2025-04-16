@@ -1,0 +1,29 @@
+rmation
+Network 6TC — AS BULGARIA (BG)
+Routing 95.4232.0/21 via AS70165, AS1299, AS&86¢
+Protocols 53/DNS5 ee
+
+53/DNS
+
+Open Resolver Query
+OpenResolver True
+
+Correct Answer True
+
+Answers
+
+c.afekv.com{A) 192.150.166.1
+cafekv.com{A) 212.39.77.34
+
+| Z Hs ¢ / g ~ ‘ - « iw
+
+One of the
+rea
+le aa 28 nt sO ae attacks seem to come from
+as weake
+ie . | rt configuration
+ae s, one
+i - soar aaa backdoors. If we al ee ‘i
+] i:
+ONE Open a ools. Over 38% of all the Censys s = d
+i vers arte located in China. Almos

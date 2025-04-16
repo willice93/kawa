@@ -1,0 +1,10 @@
+and Klout profiles. It also connects directly to her personal blog and Flickr
+page. The “Find Email Address” option reveals two verified email addresses that belong to the
+
+target.
+
+I have successfully used this extension on numerous investigations. While the methods that
+Prophet uses to obtain the data can be replicated with manual searching, it is a laborious process.
+This extension saves time. In one investigation, I needed to quickly locate the Facebook
+
+connected to several Twitter profiles

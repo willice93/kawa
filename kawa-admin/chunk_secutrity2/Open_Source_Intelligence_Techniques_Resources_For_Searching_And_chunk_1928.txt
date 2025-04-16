@@ -1,0 +1,14 @@
+f the actions taken.
+
+youtube-dl.exe -f "best[ext!=webm]" --all-subs -o "Youserprofile%\Desktop \ Videos \
+%o/o(title)s.%%o(ext)s" --write-info-json -i https://youtube.com/user/BobRossInc/videos
+
+youtube-dl.exe: The command to execute the script
+
+-f: Forces download of best available quality and ignores webm versions
+--all-subs: Downloads text file of subtitles
+
+-o: Specifies location of downloaded media
+
+%o7o(title)s.%e%o(ext)s : Titles the video file with the video name and extension
+--write-i

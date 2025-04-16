@@ -1,0 +1,9 @@
+se services create a new URL, and simply point anyone to the
+otiginal source when clicked. As an example, I converted a URL to a blog post from this:
+
+inteltechniques.com/wp/2017/12/29/the-complete-privacy-security-podcast-episode-060/
+to this: bitly/2CluQOK
+
+You have likely seen these during your own investigations, and many people pay them little
+attention. There is actually a lot of information behind the scenes of these links that can reveal
+valuable information associated with your investig

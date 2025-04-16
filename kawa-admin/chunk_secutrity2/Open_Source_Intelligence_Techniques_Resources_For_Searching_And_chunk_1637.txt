@@ -1,0 +1,8 @@
+URL. Following that description is an exact
+address of the large image used at the beginning of each Vimeo video. Also note that this view
+identifies the exact date and time of upload. The video page view only identified the date as “1
+Year Ago”. A reverse image search of the thumbnail URL will produce additional websites that
+host the same (or similar) video.
+
+Facebook Identifying Facebook screen captures does not require access to their API. Instead,
+we will view the source code of an individ

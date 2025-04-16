@@ -1,0 +1,8 @@
+rials.
+Satellite Imagery Update Notification (followyourworld.appspot.com)
+
+It is safe to assume that Google will continue to generate new satellite views of earth as time
+passes. If you have a specific location of interest, you may want to be notified the moment that
+a new image is available for view. This Google service does exactly that. After you log into your
+Google account, you are allowed to select a specific location by address, GPS, or landmark.
+Google will now email you each time the s

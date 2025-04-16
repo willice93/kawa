@@ -1,0 +1,9 @@
+uch more robust than the individual captured images. It
+combines all of the captures into a report, and includes metadata about each site. This can be
+saved or printed, and can always be found in the Buscador Home folder under EyeWitness. Next
+to the image of my website, the report revealed the following.
+
+http://Inteltechniques.com Resolved to:107.180.46.189
+
+Page Title:IntelTechniques.com | OSINT Training by Michael Bazzell
+x-powered-by:ASP.NET server:Microsoft-IIS/8.5 x-powered-by-plesk:Plesk

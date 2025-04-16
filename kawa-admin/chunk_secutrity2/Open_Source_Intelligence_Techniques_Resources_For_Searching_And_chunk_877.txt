@@ -1,0 +1,7 @@
+is type of search on Twitter, you will receive no results, even if a profile exists for
+a user with that email address. To bypass this limitation, you can use a feature offered by online
+email providers that will communicate with Twitter.
+
+This technique will require a Twitter account and Yahoo email account. Through a web browser,
+connect to an alias Twitter account in one tab and connect to an alias email account on Yahoo
+Mail in another tab. If you do not have a Yahoo email account, the creat

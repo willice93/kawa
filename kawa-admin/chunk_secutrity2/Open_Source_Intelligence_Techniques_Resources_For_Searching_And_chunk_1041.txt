@@ -1,0 +1,7 @@
+s only identify results that are comments, and not user submissions.
+A submission is a new topic, and a comment is a post within a specific submission. In order to
+replicate all of these queries for user submissions, simply replace “comment” in each example to
+“submission”. In order to demonstrate the value of this, consider the following real example.
+
+On December 29, 2017, Reddit user iPhoNewsRO Tweeted “great so my reddit account was
+hacked and used for scams and now it got deleted. lost 5 ye

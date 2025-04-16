@@ -1,0 +1,11 @@
+atsoever.
+
+Online Communities 195
+
+In order to only receive results that actually have comments, alter your search to the following.
+“osint” “disqus” “1..999 comments”
+
+This instructs Google to only display results that contain the keywords “OSINT” and “Disqus”
+and also contain the exact phrase of any number between 1 and 999 followed immediately by the
+term “comments”. This would provide results that contain any number of comments with the
+exception of “0” or over “1000”. The “1..999” portion i

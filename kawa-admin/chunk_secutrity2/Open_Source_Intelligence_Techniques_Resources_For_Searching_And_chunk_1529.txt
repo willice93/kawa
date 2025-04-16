@@ -1,0 +1,14 @@
+. The following direct addresses
+would conduct a reverse image search at each service listed.
+
+Google: https://www.google.com/searchbyimagersite=search&sa=X&image_url= https://
+inteltechniques.com/img/osint.cover.med.jpg
+
+Bing: http://www.bing.com/images/searchbyimage?PFORM=IRSBIQ&cbir=sbi&imgurl=
+https: //inteltechniques.com/img/osint.cover.med.jpg
+
+TinEye: http://www.tineye.com/search/?url=https://inteltechniques.com/img/
+
+osint.cover.med.jpg
+
+Yandex: https://www.yandex.com/images/search?img_u

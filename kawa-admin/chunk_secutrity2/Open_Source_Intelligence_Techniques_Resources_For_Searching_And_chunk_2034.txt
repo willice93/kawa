@@ -1,0 +1,10 @@
+/ /api.fullcontact.com/v2/person.json?email=lorangb@gmail.com&apikKey=XXX
+This URL 1s detailed as follows.
+
+https://api.fullcontact.com/v2/person: This refers to the site and version.
+json: This is the format output. Another option is HTML.
+email=lorangb@gmail.com: This specifies the email address to search.
+apikKey=XXX: This represents the API key which you will provide.
+
+The result of this search includes dozens of associated social networks, photographs, profiles,
+and organizations with direc

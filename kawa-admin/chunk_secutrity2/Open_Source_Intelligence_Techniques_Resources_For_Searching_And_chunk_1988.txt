@@ -1,0 +1,15 @@
+urctions << Shew queue...
+
+Don't show this window on startup Settings.
+
+Help...
+About...
+
+Quit
+
+Figure 19.13: The ExtractFace menu (right) and “about” notice (left).
+SEO Spider (screaming frog.co.uk)
+
+This program was designed to assist in Search Engine Optimization (SEO). This is the process
+of tweaking a website so that it will appear higher in search engine results. We can use it to identify
+all public pages, images, links, CSS files, and other data within our target’s website. After installi

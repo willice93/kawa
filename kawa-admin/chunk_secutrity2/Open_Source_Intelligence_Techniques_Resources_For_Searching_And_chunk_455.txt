@@ -1,0 +1,6 @@
+ed to a target. In the case of common names, one should enclose the name in quotes and
+follow it with the city where the subject resides, place of employment, home town, or personal
+interests. This will help filter the results to those more likely to be related to the subject. When
+results are displayed, clicking the “Search tools” button will present six new filter menus. This
+menu will allow you to filter results to only include images of a specific size, color, time range, or
+license type. Th

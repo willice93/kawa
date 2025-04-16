@@ -1,0 +1,7 @@
+vanced view of uBlock Ongin.
+
+Using this same page, let’s modify the options. In Figure 1.06 (left), I have clicked on the far-
+right portion of the first cell in the third column. This turned the entire third column red in color.
+This action activated an option to refresh the page (middle arrows) and an option to save the
+change (upper left “padlock”). Clicking the padlock and then refreshing the page presented me
+with the example in Figure 1.06 (right). Since I blocked every script, the page w

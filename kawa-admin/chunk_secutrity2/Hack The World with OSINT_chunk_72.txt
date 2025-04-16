@@ -1,0 +1,27 @@
+lding
+
+control systems and thy L rate met
+
+i} Sh*t Vulnerable Jstet
+Chapter 9: Other P
+DNS, UPnP, SMB
+
+rotocols
+
+Chapter 10: Tags
+
+low tO leverage labelling pertormy d by Censvs calle d ‘Tage
+
+Chapter 11: Reports
+
+Detailed reports, Pinpointing vulnerable or hacked systems and more
+
+Chapter 12: Censys with Tools
+Combine the Censys API with some of your favourite hacking tools
+like Metasploit and Recon NG, ,
+
+Chapter 13: Rest API
+
+Using Censys to its fullest extent is the Rest API.
+
+Companion Webs

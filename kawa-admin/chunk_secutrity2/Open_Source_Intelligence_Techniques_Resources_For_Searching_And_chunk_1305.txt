@@ -1,0 +1,15 @@
+type:doc
+
+“Michael Bazzell” “Curriculum Vitae” filetype:doc
+“Michael Bazzell” “CV” filetype:doc
+
+“Michael Bazzell” “Resume” filetype:pdf
+“Michael Bazzell” “Curriculum Vitae” filetype:pdf
+“Michael Bazzell” “CV” filetype:pdf
+
+“Michael Bazzell” “Resume” ‘site:docs.google.com
+“Michael Bazzell” “Curriculum Vitae” site:docs.google.com
+“Michael Bazzell” “CV” site:docs.google.com
+
+While these queries will likely locate any resumes with text, they will fail on many resume images.
+Numerous resume hosting

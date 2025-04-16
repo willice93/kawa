@@ -1,0 +1,11 @@
+abbreviated list of people involved in “circles” with the user. These
+circles are Google’s way of identifying relationships between users. The right column will identify
+additional profiles on other networks of the user as well as links uploaded by the user. I know of
+no techniques that will obtain further information than what is readily available through simple
+searching.
+
+170 Chapter 6
+
+LinkedIn (linkedin.com)
+
+When it comes to business-related social networking sites, LinkedIn is the most p

@@ -82,3 +82,84 @@ cas_pratique: 'Titre : Exemple de déclaration des cotisations sociales pour un 
   les obligations relatives à la déclaration et au paiement des cotisations sociales
   en fonction de son activité professionnelle et du revenu qu''il génère. Il est important
   de se conformer aux lois et règles applicables pour éviter toute sanction administrative.'
+embedding_text: 'Règle : Règle de calcul des cotisations sociales pour les travailleurs
+  indépendants :
+
+
+  - Les travailleurs indépendants éligibles sont ceux qui ne relèvent pas du régime
+  micro-fiscal.
+
+  - La base de calcul est constituée du revenu d''activité imposable, plus le montant
+  des cotisations facultatives déductibles versées dans les contrats Madelin et certains
+  régimes facultatifs de sécurité sociale, ainsi que des montants versés dans les
+  nouveaux plans d''épargne retraite.
+
+  - Il n’y a pas de plafond mentionné dans le texte pour la base de calcul des cotisations.
+  Cependant, il y a un plafond imposable sur le revenu d''activité pour le calcul
+  de l''impôt (plafonds de l''impôt peuvent varier en fonction des circonstances).
+
+  - La formule de calcul est la somme de tous les montants énumérés ci-dessus.
+
+  - Il faut vérifier que l''on relève du régime des travailleurs indépendants et qu''il
+  n’y a pas d''exceptions locales ou spécifiques en fonction des circonstances, pour
+  être sûr d''être éligible à cette règle.
+
+  Formule : Non spécifiée
+
+  Cas pratique : Titre : Exemple de déclaration des cotisations sociales pour un travailleur
+  indépendant
+
+
+  Nom : Jean Doe
+
+
+  Profession : Entrepreneur en informatique
+
+
+  Situation : M. Doe, après plusieurs années d''expérience dans la grande entreprise,
+  a décidé de devenir entrepreneur indépendant. Il travaille sur des projets d''informatisation
+  pour divers clients et gère ses propres cotisations sociales.
+
+
+  Montants concernés :
+
+  - Revenu imposable : 50 000€ (1AK)
+
+  - Montant versé dans les contrats Madelin : 3 000€
+
+  - Montant versé dans le régime facultatif de sécurité sociale : 2 000€
+
+  - Montant versé dans le nouveau plan d''épargne retraite : 4 500€
+
+
+  Formulaire de déclaration : Utiliser la feuille d''étalonnage des cotisations sociales
+  pour les travailleurs indépendants (feuille 2042-SI)
+
+
+  Calcul des cotisations sociales : 50 000€ + 3 000€ + 2 000€ + 4 500€ = 60 000€ (base
+  de calcul)
+
+
+  Taux d''imposition pour les cotisations sociales : 17,2% (taux applicable en 20XX)
+
+
+  Montant des cotisations sociales : 60 000€ * 0.172 = 10 320€
+
+
+  Declaration de l''imposable et des cotisations sociales : M. Doe déclare un revenu
+  imposable de 50 000€, ainsi que les montants suivants : cotisations sociales de
+  10 320€ (casier 1GF).
+
+
+  Comparaison du régime par défaut vs l''option choisie : En optant pour le régime
+  des travailleurs indépendants, M. Doe peut bénéficier d''un certain niveau de flexibilité
+  en matière de cotisations sociales, ce qui lui permet de s''adapter à ses besoins
+  personnels et professionnels. Cependant, il est important de respecter les obligations
+  légales en matière de déclaration et de paiement des cotisations sociales pour éviter
+  toute sanction administrative.
+
+
+  Conclusion : Pour appliquer cette règle dans la vraie vie, M. Doe devra respecter
+  les obligations relatives à la déclaration et au paiement des cotisations sociales
+  en fonction de son activité professionnelle et du revenu qu''il génère. Il est important
+  de se conformer aux lois et règles applicables pour éviter toute sanction administrative.'

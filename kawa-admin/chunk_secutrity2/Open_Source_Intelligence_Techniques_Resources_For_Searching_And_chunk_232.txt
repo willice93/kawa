@@ -1,0 +1,11 @@
+pper left side of the Chrome interface. You will be presented with all the
+add-ons that are currently installed in Chrome. I recommend uninstalling any add-ons that you
+did not personally install or research for trustworthiness. Furthermore, most extensions
+previously explained for Firefox can be installed in the same manner in Chrome. The following
+Chrome-only extensions may provide additional benefit to your online research.
+
+Prepare Your Computer 25
+
+Prophet (tecruitingtools.com/prophet)
+
+Pro

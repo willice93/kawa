@@ -1,0 +1,6 @@
+n no useable content. By clicking on the uBlock
+Origin icon and clicking the middle sections of specific cells within the third column, I enabled
+those scripts without allowing everything on the page. While you cannot see the colors in Figure
+1.07 (right), you can see the difference in shading. In this example, the entire second column is
+ted. This indicates that all scripts are blocked globally. The third column is mostly red, but the
+options for twitter.com, twimg.com, and others are grey. Tho

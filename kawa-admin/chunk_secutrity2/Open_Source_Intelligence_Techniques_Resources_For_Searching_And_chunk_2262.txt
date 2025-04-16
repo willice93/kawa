@@ -1,0 +1,6 @@
+y encrypt the signal, and any generic video receiver can view the live stream. The
+FCC has assigned specific blocks of frequencies for the wireless channels used by these devices.
+Because of this, new handheld receivers have been created that can scan all of these frequencies
+and display any wireless video on a small screen. These range in price from $400 to $500. A
+Google search for “wireless video scanner” will present many options. A decent unit with a
+quality antenna will display any wireles

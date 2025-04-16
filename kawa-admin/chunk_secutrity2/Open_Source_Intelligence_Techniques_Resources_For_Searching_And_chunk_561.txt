@@ -1,0 +1,12 @@
+.
+
+FTP Search
+
+I believe that the searching of File Transfer Protocol (FTP) servers is one of the biggest areas of
+the internet that is missed by most online researchers. FIP servers are computers with a public
+IP address used to store files. While these can be secured with mandated access credentials, this
+
+Seatch Engines 89
+
+is rarely the case. Most are public and can be accessed from within a web browser. The Overall
+use of FTP to transfer files is minimal compared to a decade ago, but the se

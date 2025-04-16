@@ -1,0 +1,9 @@
+police scanner.
+
+Police Scanners
+
+These affordable devices referred to as police scanners are actually capable of monitoring much
+more than emergency radio traffic. Practically any modern unit is capable of receiving the
+frequencies discussed in this chapter. More expensive units that allow for “trunked” frequencies
+are beneficial for monitoring government communications, but not necessary for the bulk of the
+radio spectrum. My personal scanner that was used for all of the methods discussed in t

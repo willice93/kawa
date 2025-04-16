@@ -1,0 +1,8 @@
+wants to acknowledge something said by another user, but does not necessarily want to
+respond or reT'weet, clicking the small heart icon indicates that the post was “liked”. The
+following direct URL displays all of the posts that our target liked.
+https:/ /twitter.com/humanhacker/likes/
+Deleted, Suspended, and Missing Tweets
+
+Twitter users may delete their own accounts if there is suspicion that an investigation is under
+way. If this happens, searching on Twitter will not display any of the post

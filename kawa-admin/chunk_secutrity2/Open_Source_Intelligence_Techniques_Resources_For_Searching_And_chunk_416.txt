@@ -1,0 +1,11 @@
+ocus only on the desired
+
+Search Engines 63
+
+results. The filters will vary for each type of Google search. Figure 3.01 displays the standard
+seatch tools with the time menu expanded.
+
+The “Any time” drop-down menu will allow you to choose the time range of visible search results.
+The default is set to “Any time” which will not filter any results. Selecting “Past hour” will only
+display results that have been indexed within the hour. The other options for day, week, month,
+and year work the same

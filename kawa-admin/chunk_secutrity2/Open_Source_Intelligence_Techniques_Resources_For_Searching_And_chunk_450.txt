@@ -1,0 +1,9 @@
+s both work with Bing
+exactly as they do with Google. Bing also introduced time filtered searching that will allow you
+to only show results from the last 24 hours, week, or month. There are a couple of additional
+operators that are important that only apply to Bing. Bing offers an option that will list every
+website to which a target website links, and is the only search engine that offers this service.
+
+Bing LinkFromDomain
+
+I conducted a search on Bing of “LinkFromDomain:inteltechniques.com”. N

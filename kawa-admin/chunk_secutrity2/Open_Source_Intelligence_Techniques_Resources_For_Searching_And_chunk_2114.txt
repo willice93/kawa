@@ -1,0 +1,18 @@
+9.856322
+
+Longitude  -104.673684
+
+Altitude § 0
+
+Accuracy
+
+Bearing
+
+Figure 21.03: A disabled Genymotion GPS menu (left) and spoofed GPS (right).
+
+Android Emulation 411
+
+Now that you have selected a location to broadcast through your device, you should test this
+configuration. My preferred way of doing this is to open Google Maps within the Android
+emulator and click the small blue target inside the white circle in the lower left. This will zoom
+Google Maps into the location where it believes you

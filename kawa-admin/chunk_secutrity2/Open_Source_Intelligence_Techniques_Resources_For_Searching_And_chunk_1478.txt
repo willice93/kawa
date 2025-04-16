@@ -1,0 +1,7 @@
+rvers. CloudFront ts a content delivery network
+(CDN) offered by Amazon Web Services. Content delivery networks provide a globally-
+distributed network of proxy servers which cache content, such as web videos or other bulky
+media. These are provided more locally to consumers, thus improving access speed for
+downloading the content. We can apply the same previous search techniques on this domain.
+The following search on Google yielded 57 results of pages on various Cloudfront servers
+containing t

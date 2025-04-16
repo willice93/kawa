@@ -1,0 +1,13 @@
+lus.asmx/GetPhonelInfo_V2?P
+honeNumber=' + cidall + '&TestType=full&LicenseKey= XXX’, 'frame5');
+window.open(https://dip.cidname.com/" + cidall + '/XXXé&output=rawéreply=none’,
+frame6');}
+
+window.open(https://XXX:XXX@api.nextcaller.com/v2/records/?phone=' + cidall +
+'&format=json’, frame7);</script>
+
+<form onsubmit=“docidall(this.cidall.value); return false;’><input type=“text” name=“cidall”
+size=“40” value=“Phone Number” /><input type=“submit” />(BASIC Caller ID Database)
+<br /><br /></form>
+
+<

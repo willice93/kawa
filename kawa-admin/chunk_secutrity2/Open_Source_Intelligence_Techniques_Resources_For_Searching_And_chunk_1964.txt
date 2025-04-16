@@ -1,0 +1,8 @@
+save it. However, this is a hassle and time consuming. You could print the page you
+are viewing, but this gets difficult on some sites, such as Facebook. You could save the entire
+web page to your hard drive and recreate it as needed, but this is overkill. I recommend an
+automated screen capture. Lightshot Capture will do this for free. Some configuration is
+necessary, but since the application is portable, you can take your changes with you. Lightshot is
+available for Mac and Windows.
+
+Launchi

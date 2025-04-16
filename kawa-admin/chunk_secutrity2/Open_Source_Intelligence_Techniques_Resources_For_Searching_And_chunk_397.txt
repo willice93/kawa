@@ -1,0 +1,10 @@
+,300 Microsoft PowerPoint presentations that contain Cisco within the content.
+This search only located the older PowerPoint format of PPT, but not newer files that may have
+the PPTX extension. Therefore, the following two searches would be more thorough.
+
+“Cisco” filetype:ppt
+“Cisco” filetype:pptx
+
+The second search provided an additional 12,000 files. This brings our total to over 40,000
+PowerPoint files which is overwhelming. I will begin to further filter my results in order to focus
+on the

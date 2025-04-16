@@ -1,0 +1,7 @@
+.org/en-us/firefox/addon/copy-all-links /)
+
+This simple add-on will identify any hyperlinks within the source code of an individual web page.
+It will store the links within your operating system’s clipboard, which will allow you to paste them
+into any application of your choice. While only a small utility, it can quickly turn a large project
+into an easily completed task. After installing, I recommend navigating to the “options” menu
+within the add-on and selecting “Copy only clickable links”. T

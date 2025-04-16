@@ -64,3 +64,57 @@ calcul:
     revenu_brut: 70
     abattement: 5
     revenu_net: 65
+embedding_text: "Règle : Règle : Déclaration des Cotisations Sociales Négatives (DSDA\
+  \ ou DSDB)\n\nCette règle s’applique aux travailleurs indépendants, gérants associés\
+  \ de société à l'IS et aux personnes ayant une comptabilité d'engagement.\n\nLes\
+  \ conditions dans lesquelles cette règle peut être appliquée sont les suivantes\
+  \ :\n1. Pour les travailleurs indépendants :\n   - Si, après le calcul des cotisations\
+  \ sociales définitives, un remboursement de cotisations sociales a lieu (régularisation\
+  \ créditrice)\n   - Si une erreur est commise dans l'estimation du montant des cotisations\
+  \ sociales à déduire et que le montant de la provision est plus élevé que le montant\
+  \ des cotisations réellement dues\n\n2. Pour les gérants associés de société :\n\
+  \   - Si le remboursement de cotisations a été au préalable réintégré dans la rémunération\
+  \ imposable\n\nQuels sont les montants ou plafonds :\n- Montant des cotisations\
+  \ sociales dues (montant de la provision, montant des cotisations payées ou remboursées)\n\
+  - Montant des cotisations remboursées ou réintégrées dans la rémunération imposable\n\
+  \nLa formule de calcul applicable est :\n- Si le montant des cotisations remboursé\
+  \ est supérieur à celui des cotisations payées, il convient de déclarer la différence\
+  \ en cotisations sociales “négatives” (DSDA ou DSDB)\n- Si le montant de la reprise\
+  \ de la provision (nette des charges réelles) est supérieur à celui des cotisations\
+  \ dues (provision), il convient de déclarer la différence en cotisations sociales\
+  \ “négatives” (DSDA ou DSDB)\n\nIl faut vérifier pour être sûr d'y avoir droit :\n\
+  - Pour les travailleurs indépendants, si le remboursement de cotisations a été correctement\
+  \ pris en compte dans le calcul des cotisations sociales\n- Pour les gérants associés\
+  \ de société, si le remboursement de cotisations a été au préalable réintégré dans\
+  \ la rémunération imposable\n- Si l'erreur d'estimation du montant des cotisations\
+  \ sociales à déduire a bien entraîné une provision trop élevée pour les travailleurs\
+  \ indépendants ayant une comptabilité d'engagement\nFormule : revenu_brut * (1 -\
+  \ 0.07)\nCas pratique : Titre : Application de la règle des Cotisations Sociales\
+  \ Négatives (DSDA ou DSDB) pour un travailleur indépendant\n\nContexte : Jean Dupont\
+  \ est un architecte indépendant basé à Paris. Il travaille sous le régime général\
+  \ d'imposition et a sous-traité des travaux à une entreprise en 2021.\n\nMontants\
+  \ concernés :\n- Montant de la provision pour cotisations sociales (en 2021) : 9\
+  \ 850 €\n- Montant des cotisations payées ou remboursées (en 2021) : 6 780 €\n-\
+  \ Taux d'imposition de la contribution sociale généralisée (CSG) et du régime additionnel\
+  \ à la CSG (CRDS) en 2021 : 9,7 % et 17,2 %, respectivement\n\nDéclaration dans\
+  \ les bonnes cases :\n- Cotisations sociales dues (montant de la provision) : 1AK\n\
+  - Cotisations sociales payées ou remboursées : 1GF\n\nCalcul clair avec des chiffres\
+  \ ronds :\n- Découvrir les cotisations sociales négatives (DSDA ou DSDB), il faut\
+  \ calculer la différence entre le montant de la provision et le montant des cotisations\
+  \ payées ou remboursées : 9 850 € - 6 780 € = 3 070 €\n- Les taux d'imposition de\
+  \ la CSG et du CRDS sur les cotisations sociales négatives sont respectivement de\
+  \ 9,7 % et 17,2 %. Il est donc nécessaire de calculer le montant impôt dû sur les\
+  \ cotisations sociales négatives :\n   - Montant de la CSG : 3 070 € * 9,7 % = 300,39\
+  \ € (arrondi à 300 €)\n   - Montant du CRDS : 3 070 € * 17,2 % = 528,44 € (arrondi\
+  \ à 528 €)\n- Il faut enfin calculer le montant total dû en cotisations sociales\
+  \ négatives après impôt : 300 € + 528 € = 828 €\n\nComparaison du régime par défaut\
+  \ vs l'option choisie : Sans le réglement sur les cotisations sociales négatives,\
+  \ Jean Dupont devrait payer en 2021 les montants bruts de 9 850 € pour les cotisations\
+  \ sociales dues (provision) et 6 780 € pour les cotisations sociales réellement\
+  \ versées. Ainsi, il se verrait facturer un écart de 3 070 €. En appliquant la règle\
+  \ sur les cotisations sociales négatives, cependant, Jean Dupont ne devra payer\
+  \ qu'un montant total de 828 € pour ces cotisations sociales négatives après impôt.\n\
+  \nConclusion : L'application de la règle des Cotisations Sociales Négatives peut\
+  \ permettre à un travailleur indépendant de diminuer considérablement le montant\
+  \ qu'il devra payer en cotisations sociales. Dans l'exemple présenté, Jean Dupont\
+  \ verra sa facture réduite de 3 070 € en appliquant cette règle (avant impôt)."

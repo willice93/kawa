@@ -1,0 +1,31 @@
+imgli328.bmp
+
+imgl1324.bmp
+
+imgi1329.bmp
+
+igs Video_Utilities
+
+ig Video Download
+
+imgGl1331.bmp
+
+imgi1336.bmp
+
+imgl1332.bmp
+
+imgi1337.bmp
+
+imgl1333.bmp
+
+img11338.bmp
+
+imgl11334.bmp
+
+imgi1339.bmp
+
+Figure 2.02: Still images created from a tatget video with the Video Utilities application.
+
+Some advanced readers may wonder what is happening behind the scenes during these
+executions. When Buscador prompts you for the target video, it enters the supplied data path
+into a pre-configured terminal com

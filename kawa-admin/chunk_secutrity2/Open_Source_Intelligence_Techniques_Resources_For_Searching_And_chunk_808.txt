@@ -1,0 +1,10 @@
+you have no known
+people involved, Twitter will allow you to search by GPS location alone. The Twitter Advanced
+Search allowed us to search by zip code, but that can be too broad. The following specific search
+on any Twitter page will display Tweets known to have been posted from within one kilometer
+of the GPS coordinates of 43.430242,-89.736459.
+
+geocode:43.430242,-89.736459,1km
+
+Thete ate no spaces in this search. This will be a list without any map view. They will be in order
+chronologicall

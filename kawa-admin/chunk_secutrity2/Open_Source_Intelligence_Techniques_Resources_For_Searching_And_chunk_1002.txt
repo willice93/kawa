@@ -1,0 +1,6 @@
+tion include a sentiment reading, a passion reading,
+an average time frame per comment, and the top keywords present for the search conducted.
+This data will notify the researcher if the overall results for the search are negative, positive, of
+neutral. Furthermore, the identification of the most used keywords may provide further
+intelligence about additional terms that should be searched. Overall, I have found Social Mention
+to extend the sources of data to include personal blogs, photo sharing

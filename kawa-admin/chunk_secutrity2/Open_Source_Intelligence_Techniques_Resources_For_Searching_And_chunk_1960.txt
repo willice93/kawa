@@ -1,0 +1,8 @@
+e. Now, you must
+choose what “Region” you want to record. Your options are “Full Screen” or “Fixed Region”. If
+you ate working on a single monitor, “Full Screen” should work fine. If you have multiple
+monitors and do not want everything on them captured, you should select a region. This should
+be the only mandatory configuration changes. You are now ready to record.
+
+Clicking the red record button will start the recording and place the menu icon in the taskbar.
+When you arte finished recording y

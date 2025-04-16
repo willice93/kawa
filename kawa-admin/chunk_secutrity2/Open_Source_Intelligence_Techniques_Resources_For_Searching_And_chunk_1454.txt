@@ -1,0 +1,21 @@
+ye
+(west), Google Street View, and Bing Street View.
+
+270 Chapter 12
+
+&
+BS
+&
+:
+RS
+
+Figures 12.15 through 12.18: Satellite views from Terra Server, Here, WikiMapia and ArcGIS.
+
+Online Maps 271
+
+
+Figures 12.19 through 12.20: Unique satellite views from Yandex and Descartes.
+
+I use this tool during practically every investigation. Whether I have a residential address of a
+target or a business address of the scene of an incident, these satellite views have relevance.
+Having fourteen unique views of

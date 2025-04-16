@@ -1,0 +1,8 @@
+pic, location,
+user name, real name, or keyword. This search term should be as specific as possible to avoid
+numerous results. An online user name will often take you to that user’s Flickr photo album.
+
+After you have found either an individual photo, user’s photo album, or group of photos by
+interest, you can begin to analyze the profile data of your target. This may include a user name,
+camera information, and interests. Clicking through the vanious photos may produce user
+comments, responses

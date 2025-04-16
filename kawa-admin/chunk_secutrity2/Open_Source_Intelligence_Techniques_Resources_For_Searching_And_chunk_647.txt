@@ -1,0 +1,8 @@
+ectly connected to the target. They could also be videos linked to the original source with no
+personal ties to the subject.
+
+The “videos-by” option will display videos that were actually uploaded by the target. These will
+be much more personal to the subject and will usually include more relevant content.
+
+The “videos-of’? option is similar to the “photos-of” filter. This will display videos that
+supposedly contain images of the target within the video itself. It could be compared to “tagging”

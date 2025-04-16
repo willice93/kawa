@@ -1,0 +1,7 @@
+within each search box. As an example,
+typing “Microsoft” in the third search option would immediately display any profiles that
+previously announced employment at Microsoft. The lower options allow you to combine
+searches. Entering “OSINT” and “Mictosoft” in the “People who like... and worked at...”
+option would display profiles of former Microsoft employees that clicked “Like” on the OSINT
+Facebook page. Overall, this tool is not doing anything that you could not do on your own using
+the meth

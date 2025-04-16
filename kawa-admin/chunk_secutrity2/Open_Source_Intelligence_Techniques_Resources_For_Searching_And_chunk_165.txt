@@ -1,0 +1,12 @@
+e Facebook
+and Twitter pages. While this is rare on computers that have ample resources such as processing
+power and RAM, it can be quite common on older machines with low specifications. Surprisingly,
+I have found FireShot to work better on large Twitter profiles and Nimbus to be best for large
+Facebook pages. I have no logic to offer for this discovery. Again, having both at our disposal
+will make us better prepared for online evidence collection.
+
+12 Chapter 1
+
+uBlock Origin
+
+In the previous

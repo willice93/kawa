@@ -1,0 +1,12 @@
+3,"longitude":4.46667}, {"latitude":42.9783,"longitude":-78.8},
+{"latitude":36.1028,"longitude":-80.2605} {"latitude":33.7407,"longitude":-117.881},
+
+These are the locations of some of the viewers watching the stream. As with the previous
+explanation about how Facebook gathers location data about its users, the same applies here.
+
+120 Chapter 4
+
+This alone is very valuable, and we can extract these coordinates and research them on Google
+Maps. However, I propose a better solution.
+
+Navigate to t

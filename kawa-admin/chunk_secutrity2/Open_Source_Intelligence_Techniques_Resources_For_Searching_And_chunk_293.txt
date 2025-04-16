@@ -1,0 +1,12 @@
+from Buscador version 1.2, which was released at the
+same time as this book. Each version may vary slightly, but the concepts should remain constant.
+
+Figure 2.01: The Buscador virtual machine.
+
+Buscador Linux Virtual Machine 39
+
+Web Browsers
+
+In Chapter One, I explained how to harden the security of Firefox and introduced several add-
+ons that aid in OSINT investigations. Every piece of that instruction has been applied within
+Buscador. When you launch Firefox, you will see the configuration ch

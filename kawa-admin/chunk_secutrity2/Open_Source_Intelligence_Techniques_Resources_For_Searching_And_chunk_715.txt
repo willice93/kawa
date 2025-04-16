@@ -1,0 +1,7 @@
+ls, and I
+provide all of them for complete coverage. The “All” option is a piece of code on my website
+that attempts to combine all three levels of data, remove duplicates, and return the unique results
+to you in a new tab. While this works most times, it may fail on occasion and I give you the
+“Level” alternatives if needed. For this example, I clicked the “All” option and was presented
+with a page full of what appears to be random text. On this page, I conducted a search within my
+browser by p

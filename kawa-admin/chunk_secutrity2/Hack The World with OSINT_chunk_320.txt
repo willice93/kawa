@@ -1,0 +1,25 @@
+dul
+other methods of exploitation.
+
+S Such,
+Cs and
+
+Vulnerabilities By Year _____—s:« Nullnerabilities By Type
+2084 :
+ee | 6 6
+¥ 2009 6 a Deniay of Service 4
+M0106 EXECULE Code g
+Pe Overt)
+
+20121 dist
+WB 20131 Gain Priviege 1
+W011 na Memory Corruption 2
+© 20151 = OYPASS Something ¢
+20171 2 —
+
+Figure 135 CVE Details.com Microsoft IIS Vulnerabilities
+
+_ ae OR Sie Re
+
+There have been security tools like IIS Lockdown, security advisories
+ee bes a equating disclosing the server in the response header

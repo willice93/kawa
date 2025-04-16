@@ -1,0 +1,13 @@
+on the
+website.
+
+Windows
+
+Save the downloaded executable (exe) file directly to your Documents folder. Double-clicking
+this file will not produce any desirable result. Instead, open the Command Prompt utility. This
+will be available in different locations within various versions of windows, but typing “cmd” in
+the run prompt should load the black terminal window. Once you have the Command Prompt
+application open, you need to navigate to the Documents folder. Execute the following
+command.
+
+cd Do

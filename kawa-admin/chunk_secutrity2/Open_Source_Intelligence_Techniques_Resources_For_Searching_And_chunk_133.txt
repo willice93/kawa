@@ -1,0 +1,6 @@
+Security: History: Under the “Firefox will:” option, select “Use custom settings for
+history” from the pull-down menu. This will allow you to choose everything that is stored or
+forgotten when you close your browser. Next, uncheck “Remember my browsing and download
+history” and “Remember search and form history”. This will prevent Firefox from remembering
+any history after your browsing session has closed. Next, check the box that says “Accept cookies
+from sites”. This will allow cookies from t

@@ -1,0 +1,11 @@
+ts from the Hangouts app.
+
+Google Play purchases and reviews from the Google Play Store.
+Associated Twitter accounts from the “Find Friends” feature.
+WhatsApp user names and numbers registered to the cell number.
+
+Android Emulation 415
+
+Basically, entering a target’s phone numbers and email addresses into your address book on an
+Android emulator forces many apps to believe that you are friends with the person. It overrides
+many authority protocols that would otherwise block you from seeing the c

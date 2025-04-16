@@ -1,0 +1,6 @@
+edition of this book, I recommended NoScript as my choice of script blocker. I
+no longer use NoScript at all. During the transition to Firefox 57, NoScript changed drastically.
+It became much more convenient to use, at a cost of functionality. We were no longer given
+granular control of the data that is passed through our browser, and lost several features required
+for private and secure browsing. I also previously recommended Adblock Plus and Disconnect
+as privacy add-ons that would help stop u

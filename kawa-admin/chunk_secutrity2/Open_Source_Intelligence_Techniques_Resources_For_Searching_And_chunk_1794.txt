@@ -1,0 +1,6 @@
+hapter Two. It is a network that provides anonymity
+by issuing IP addresses to users that connect to servers in other countries. If you possess an IP
+address of your target, but cannot locate any valuable information using the previous techniques,
+it is possible that the address was part of the Tor network and there is no relevant data to be
+located. Exonerator is a tool that will verify the usage of an IP address on the Tor network.
+Provide the IP address and a date of usage, and the service wi

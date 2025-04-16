@@ -1,0 +1,43 @@
+Make SONY
+
+Model iLCE-6000
+
+Orientation 1
+
+XResolution 300
+
+YResolution 300
+
+ResolutionUnit 2
+
+Software darktable 1.6.6
+
+ModifyDate 2075:08:14 13:32:39
+
+YCbCrPositioning 2
+
+Rating 1
+
+RatingPercent 20
+
+DateTimeOriginal Thu jul 34 2074 09:05:43 GME-0706 {PDT}
+GPSVersionID 2,2,0,0
+
+GPSLatitudeRef N
+
+GPSLatitude 47 3500
+
+GPSLongitudeRef E
+
+GPSLongitude 8.4980
+
+GPSVersioniD 22,00
+
+GPSLatitudeRef N ie ee
+GPSLatitude 4735 ¥
+GPSLongitudeRef &
+
+GPSLongitude 8.458
+
+e View on OpenStreepMap
+« View on Goog

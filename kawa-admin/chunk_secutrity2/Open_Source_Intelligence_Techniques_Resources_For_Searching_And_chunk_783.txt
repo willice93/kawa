@@ -1,0 +1,8 @@
+e since heard
+from many readers that have had the same issue. The following technique should help drastically
+with this problem. If you have a covert account created and working, you might consider
+protecting it with the following actions.
+
+While logged into your covert Facebook account, navigate to If This Then That (ifttt.com) and
+cteate a new free account. Alias name and information should be acceptable. Navigate to the
+applet creation page at ifttt.com/create, and click on the big “this” opt

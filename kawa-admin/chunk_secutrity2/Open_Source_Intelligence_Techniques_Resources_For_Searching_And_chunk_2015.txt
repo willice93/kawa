@@ -1,0 +1,8 @@
+ts
+content. This allows developers to create new uses for the data, making it attractive to more users.
+Think of an API as a link to the large servers that hold all of the content of a website like Twitter.
+Going to twitter.com is one way to access the information stored by Twitter. Another option is
+to bypass the website and communicate with the API that has a direct link to all of the data on
+the servers. This API access will be mote efficient for certain types of data.
+
+Websites that take adv

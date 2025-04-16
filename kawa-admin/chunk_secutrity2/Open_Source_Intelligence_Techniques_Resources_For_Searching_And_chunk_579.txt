@@ -1,0 +1,9 @@
+r own preferences. A default search of my own name
+provided the expected results similar to Google and Bing. Clicking on the “People” tab at the
+top introduced new results not found on the other engines. The results included recent posts
+from Twitter, Facebook, LinkedIn, and MySpace from and about people with my name.
+
+IntelTechniques Search Tool (inteltechniques.com/OSINT/user.html)
+
+At this point, you may be overwhelmed with the abundance of search options. I can relate to
+that, and I do not t

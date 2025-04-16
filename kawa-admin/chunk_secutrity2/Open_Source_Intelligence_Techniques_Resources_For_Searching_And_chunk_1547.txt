@@ -1,0 +1,6 @@
+a photo-sharing site. These sites allow a
+user to upload photographs to an account or profile. These images can then be searched by
+anyone with an internet connection. Almost all of these hosts are free for the user and the files
+will remain on the site until a user removes them. There are dozens of these services, many
+allowing several gigabytes worth of storage. While I mentioned earlier that a Google Images or
+Bing Images search was most appropniate for all photo sharing hosts, Flickr deserve

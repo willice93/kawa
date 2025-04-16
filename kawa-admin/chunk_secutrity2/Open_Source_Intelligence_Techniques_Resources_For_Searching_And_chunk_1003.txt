@@ -1,0 +1,11 @@
+sites, and news.
+
+Social Networks: Others 177
+
+Account Export Options
+
+The following utilities can be very useful during investigations. Consider a scenario where you
+have cooperation from a target and consent to view social network accounts. Many suspects will
+allow you to peek into their online activity with hopes that it will stop your suspicion about them
+as a suspect. If you have explicit consent, consider collecting all available content from within the
+target’s profiles. Up to this point

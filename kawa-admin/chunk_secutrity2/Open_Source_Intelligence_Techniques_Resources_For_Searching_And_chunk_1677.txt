@@ -1,0 +1,11 @@
+h site has a search
+option to enter the keywords that describe the live event you want to watch. You may also see
+Twitter links to these services while monitoring targets.
+
+UStream (ustream.tv) Bambuser (bambuser.com)
+LiveStream (livestream.com) YouNow (younow.com)
+Veetle (veetle.com) VaughnLive (vaughnlive.tv)
+LiveU (lveu.tv)
+
+Real World Application: During several large events, I have used UStream to capture the
+majority of my intelligence. In one investigation, I was assigned the task of moni

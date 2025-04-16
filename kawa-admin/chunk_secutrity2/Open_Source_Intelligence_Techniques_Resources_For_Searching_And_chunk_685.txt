@@ -1,0 +1,9 @@
+talking to a couple of people that are
+friends with both of the subjects may lead to better details about the real problems.
+
+Finally, an investigator is looking for evidence of a cheating spouse. Looking at the photos on
+the Facebook pages of friends of both the cheating spouse and the new boyfriend or girlfriend
+may provide the final piece of the investigation.
+
+The structure of the address that will conduct this search is as follows.
+https://www.facebook.com/browse/mutual_friends /?uid=USERID

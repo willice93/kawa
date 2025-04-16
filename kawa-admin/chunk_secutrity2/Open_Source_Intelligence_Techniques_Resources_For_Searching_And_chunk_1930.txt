@@ -1,0 +1,16 @@
+ile Manager,
+
+change the name of this file to videos.bat. You may need to disable “Hide extensions for known
+file types” in the Folder Options Window.
+
+set /p VIDEO=Entite URL (Address) of video or channel page:
+
+youtube-dl.exe -f "best[ext!=webm]" --all-subs -o .
+
+"Youserprofile’\ Desktop \ Videos \%7o(title)s.%%o(ext)s" --rm-cache-dir --write-info-json -i
+%VIDEO%
+
+pause
+
+You can now double-click the videos.bat file and be presented with a Command Prompt ready
+to simply accept a URL of your tar

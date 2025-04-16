@@ -1,0 +1,7 @@
+Adding mote specific search criteria will filter the results
+further. A search of “geo:39.55,-111.45 netcam” identified only one device.
+
+The result identifies this device as a “Netcam”. It also identifies the internet service provider as
+“Central Utah Telephone” indicating the user has a DSL connection. To connect to the device,
+you would click on the IP address identified as 63.78.117.229. Clicking through each of these
+results may be time consuming. You can add a search term to filter your r

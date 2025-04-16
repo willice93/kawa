@@ -1,0 +1,6 @@
+l your
+connection information to traditional search engines. The difference here is that Start Page only
+includes Google results versus Duck Duck Go’s collaboration of multiple sources. The benefit
+to this is the ability to use Google’s advanced search options while still protecting your identity.
+This includes filtering by date, images, and videos. Another benefit is the ability to open any result
+through a “proxy” link. This option, labeled “Proxy” next to each search result, opens the linked

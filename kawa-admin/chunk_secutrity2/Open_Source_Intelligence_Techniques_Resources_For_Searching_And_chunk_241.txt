@@ -1,0 +1,16 @@
+ollowing:
+
+Creates a cryptographic signature for each page captured for verification purposes
+Automatically extracts EXIF metadata from every photo encountered
+
+Enables you to tag pages for easy organization of small or large cases
+
+Powerful full text search of all captured pages and EXIF data
+
+Flexible export and reporting options
+
+Automatic attachment of downloads including documents and video files
+
+API integration with tools such as Maltego
+
+Hunchly is completely integrated with Google Chrom

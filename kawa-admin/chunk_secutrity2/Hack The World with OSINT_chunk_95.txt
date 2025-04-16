@@ -1,0 +1,21 @@
+igure 3 Maltego Transform seed settings
+Now you are all setup. Sit back, relax, have a glass of something
+you like to drink and feel good. Your OSINT environment setup
+
+.
+is finished! Happy hacker face©
+
+References
+
+‘| able 6 Leal CRE om lerence
+
+URL Location
+
+OSINT-Kali _https:// tools.hypasec.com/
+Distribution Bae ee a
+Official Kali https: fi www.offensive-security.com/ kali-linux-
+omware-virtualbox-image-download/
+“Gensys __https:/ /github.com/censys/censys-python
+Python
+ee
+Maltego https://ww

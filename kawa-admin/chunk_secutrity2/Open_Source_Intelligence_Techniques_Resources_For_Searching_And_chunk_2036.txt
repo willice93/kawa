@@ -1,0 +1,26 @@
+ame”: “Myspace”,
+
+“type”: “Myspace”,
+
+392 Chapter 20
+
+“typeld”: “Myspace”,
+“url”: “http://a2.ec-
+images. Myspacecdn.com/profile01/114/97c130815ed44e47a19080f97070
+6dbe/s.jpe”
+],
+“demographics”: {
+“age”: “32”, .
+“locationGeneral”: “Denver, Colorado, United States”,
+“gender”: “Male”,
+“ageRange”: “25-34”
+},
+“socialProfiles”: [
+{
+“4d”: 5998422,
+“typeName”: “Twitter”,
+“following”: 489,
+“followers”: 662,
+“user name”: “lorangb”,
+“bio”: “CEO & Co-Founder of @FullContactApp and @FullContactAPI
+- Tech Ent

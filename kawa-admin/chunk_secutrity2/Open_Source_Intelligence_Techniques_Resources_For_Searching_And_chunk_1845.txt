@@ -1,0 +1,6 @@
+your account and install the plugin as directed
+on the website, you will have a new feature within your Gmail account. Next to the standard
+“Send” button visible when you compose a new email, you will see a button titled “Track &
+Send”. Clicking this button will inject a small piece of code into your message. When the message
+is read, you will receive an email announcing the event. You will need to login to your BananaTag
+account to see the details. Figure 17.05 displays details of the followin

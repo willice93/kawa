@@ -1,0 +1,8 @@
+thout the quotation marks, would
+identify any websites that contained both of those words within one sentence. If you want the
+results to only include sentences that have the two words near each other, you can search
+“Hedgehog /2 Flamingo”. This will identify websites that have a sentence that includes the words
+Hedgehog and Flamingo within two words of each other.
+
+Words within the same website: Similar to the previous method, this search identifies the
+searched terms within an entire website.

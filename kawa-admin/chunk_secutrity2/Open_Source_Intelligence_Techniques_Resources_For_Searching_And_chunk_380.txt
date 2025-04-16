@@ -1,0 +1,6 @@
+s state that your environment was free of any malicious
+software. The session did not contain any evidence or history from any other cases. Furthermore,
+you can honestly state that the entire session did not rely on any licensing or software
+requirements. Any person questioning the validity of your setup could easily replicate the
+operation for independent testing. By using open source solutions as this, you are presenting
+transparency into your investigation. By not using proprietary software,

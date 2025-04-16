@@ -1,0 +1,10 @@
+arch on Shodan produced
+9,684 results.
+
+country:US city:“Mount Pleasant”
+
+There are two flaws with this search. First, you may receive results from other cities named Mount
+Pleasant. Second, you will likely receive too many results to analyze effectively. A search of
+“geo:39.55,-111.45” will focus only on the specific GPS location of interest (Lat=39.55, Long=-
+111.45). There were 238 results for this search. This is much more manageable and all of the
+results will be devices in the target area.

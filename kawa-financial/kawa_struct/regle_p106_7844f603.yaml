@@ -33,3 +33,31 @@ cas_pratique: "Nom : Jean Dupont, employé chez XYZ SAS\n   Profession : Employ�
   \ permet à un salarié tels que Jean Dupont d'économiser sur leurs frais de location\
   \ grâce au régime applicable à leur situation de logement fourni gratuitement par\
   \ leur employeur."
+embedding_text: "Règle : La règle s'applique aux salariés qui ont un logement de trois\
+  \ pièces fourni gratuitement par leur employeur en plus de leurs 3 400 € mensuels\
+  \ de rémunération brute (c'est-à-dire entre 0,9 et 1,1 fois le plafond mensuel de\
+  \ la sécurité sociale).\n\n   Les montants ou plafonds dans cette règle sont :\n\
+  \   - La rémunération brutale des salariés, qui doit être compris entre 3 400 €\
+  \ et 5 296 € par mois (ce qui correspond à 0,9 à 1,1 fois le plafond mensuel de\
+  \ la sécurité sociale).\n   - Le coût du logement gratuit fourni, qui est évalué\
+  \ à 119,30 € x 3 = 357,90 € par mois.\n\n   La formule de calcul applicable est\
+  \ : le coût du logement gratuit fourni est évalué à 119,30 € x nombre de pièces\
+  \ (qui doit être au moins 3).\n\n   Pour être sûr d'y avoir droit, il faut vérifier\
+  \ que les conditions suivantes sont respectées :\n   - Le salarié dispose d'un logement\
+  \ de trois pièces fourni gratuitement par son employeur.\n   - Sa rémunération brutale\
+  \ mensuelle est comprise entre 3 400 € et 5 296 €, soit entre 0,9 et 1,1 fois le\
+  \ plafond mensuel de la sécurité sociale (7 528 € en 2023).\nFormule : Non spécifiée\n\
+  Cas pratique : Nom : Jean Dupont, employé chez XYZ SAS\n   Profession : Employé\
+  \ commercial\n   Situation : Vivant dans un appartement de trois pièces fourni par\
+  \ son employeur depuis 2 ans\n   Montants concernés :\n      - Rémunération brutale\
+  \ mensuelle : 3 600 €\n      - Coût du logement gratuit fourni : 357,90 € (calculé\
+  \ à 119,30 € x 3)\n   Déclaration dans les bonnes cases : 1AK pour le coût du logement\
+  \ gratuit fourni\n   Comparaison : Le régime par défaut pourrait être le régime\
+  \ des loyers modulés avec une charge de 5,7 % sur la valeur locative mensuelle du\
+  \ logement (360 €), tandis que l'option choisie avec le logement fourni gratuit\
+  \ est plus avantageuse.\n   Calcul clair : En appliquant la règle, Jean Dupont ne\
+  \ paiera aucun loyer pour son appartement de trois pièces en raison du régime applicable\
+  \ à ses conditions. Il en économise donc 360 € par mois.\n   Synthèse : La règle\
+  \ permet à un salarié tels que Jean Dupont d'économiser sur leurs frais de location\
+  \ grâce au régime applicable à leur situation de logement fourni gratuitement par\
+  \ leur employeur."

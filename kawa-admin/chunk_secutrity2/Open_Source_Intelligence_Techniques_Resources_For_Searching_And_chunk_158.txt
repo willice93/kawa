@@ -1,0 +1,11 @@
+lt to edit. This can be beneficial during testimony.
+
+By accessing the “Options” atea of the menu, you can assign customized naming features. Click
+“Show filename template settings” in the options page and change the default value to the
+following.
+
+%Yon-You-Yot-Yoy-Yom-Yod-%0H-Y%oM-%oS
+
+Be sure to “Apply” and then “Save”. This setting will change the default name of each page
+capture. Each file will be named a numerical value, followed by the website URL, followed by
+title, and followed by the

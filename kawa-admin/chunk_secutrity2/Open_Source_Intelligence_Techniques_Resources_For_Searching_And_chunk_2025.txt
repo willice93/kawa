@@ -1,0 +1,8 @@
+mail address with any social networks or online communities will be
+displayed. Any accounts created with the email address supplied might be included as a hyperlink.
+
+Application Programming Interfaces (API) 389
+
+These links could identify the personal websites of the subject. Clicking a link will forward you
+to the subject’s site. You could now bookmark the URL that you created to get the information.
+Each time you wanted to check another email address, you could visit the bookmark and edit the

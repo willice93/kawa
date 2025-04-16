@@ -1,0 +1,10 @@
+iles of the target’s friends. In this example,
+a reverse search of this image reveals 43 additional pages of interest. Each contain the target video
+and comments about the content.
+
+310 Chapter 15
+
+Vine: Identifying Vine screen captures also does not require access to their API. Instead, we will
+view the source code of an individual video page. Assume that your target Vine video is located
+at the URL of https://vine.co/v/eUHhwnul2K6. Right-click on the page and view the source
+code text. Conduct

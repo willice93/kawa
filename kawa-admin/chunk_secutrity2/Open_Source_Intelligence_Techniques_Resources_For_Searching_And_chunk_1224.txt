@@ -1,0 +1,12 @@
+gmail.com. It identifies the target’s
+Skype user name as bart.lorang. The user name will always be between two forward slashes (/)
+after the word “users” within the URL.
+
+https://api.skype.com/users/bart.lorang/profile /avatarecacheHeaders=1
+
+If your target is a Skype user, this technique might translate an email address into a user name
+that could be present across multiple networks. :
+
+IntelTechniques User Name Search Tool (inteltechniques.com/OSINT/username.html)
+
+Similar to the custom email

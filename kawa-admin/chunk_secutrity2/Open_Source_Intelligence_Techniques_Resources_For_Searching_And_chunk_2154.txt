@@ -1,0 +1,6 @@
+Genymotion. I choose Genymotion over these because of the
+ability to import and export evidence as a virtual machine. While the others have their own
+backup and export options, I find the options presented here to be more transparent and
+acceptable in court. I encourage you to experiment with all of the options, and choose any that
+work best for you. Overall, I believe the future of OSINT collection will become more focused
+on mobile apps that have no website search option. In order to conduct

@@ -1,0 +1,10 @@
+h the URL. You
+can successfully perform the previously fatled search by entering the following address directly
+into your browser. Notice that the search field is identical in each example, but only the direct
+URL retrieved meaningful results.
+
+https://www.facebook.com/search/str/OSINT/stories-keyword
+
+Real World Application: A large company with thousands of employees wanted to see if any
+employees were online discussing sensitive information about a stealth product. Several searches
+on specifi

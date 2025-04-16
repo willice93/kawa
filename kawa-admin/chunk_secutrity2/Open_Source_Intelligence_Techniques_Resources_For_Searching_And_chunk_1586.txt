@@ -1,0 +1,9 @@
+dard
+view of a digital photo. The various options within Forensically are each explained and example
+images ate included. Due to the black & white environment of this book, I have replicated all of
+this instruction in color on my blog at the following address.
+
+https://inteltechniques.com/wp/2016/12/21 /internet-search-resoutce-foresically /
+
+The Magnifier allows you to see small hidden details in an image. It does this by magnifying the
+size of the pixels and the contrast within the window. The

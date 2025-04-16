@@ -76,3 +76,77 @@ cas_pratique: 'Titre : Impôt sur les bénéfices de la société de personne (B
   un impôt de 89 600 € sur ses gains financiers issus de Technoscience Inc. En cas
   d''exercice de l''activité pour cette société pendant moins de trois ans à la date
   de cession des titres, il devrait verser un impôt de 210 000 €.'
+embedding_text: 'Règle : Règle applicable : Impôt sur les bénéfices de la société
+  de personne (BSPCE) attribués à compter du 1er janvier 2018.
+
+
+  Conditions d''application :
+
+  - Le gain est obtenu sur des titres, et peut être soumis à un impôt fixe de 500
+  000 € imposé au taux de 12,8 %, ou à un barème progressif (à votre option).
+
+  - Vous exercez une activité dans la société émettrice ou une de ses filiales depuis
+  moins de trois ans, ou n''y avez plus exercé d''activité pendant cette durée.
+
+  - Si vous êtes un employé de la société à la date de cession des titres et que vous
+  y avez exercé votre activité pendant moins de trois ans, l''impôt sera de 30 %.
+
+
+  Montants ou plafonds :
+
+  - L''abattement fixe de 500 000 €.
+
+  - Le taux d''imposition de 12,8 % (ou 30 % si les conditions ci-dessus sont remplies).
+
+
+  Formule de calcul applicable :
+
+  - Gain imposé au taux de 12,8 %, ou à 30 % si les conditions ci-dessus sont remplies.
+  Dans les conditions de droit commun, le gain peut bénéficier d''un abattement fixe
+  de 500 000 € à déclarer sur la ligne 3TK.
+
+
+  Vérification pour être sûr d''y avoir droit :
+
+  - Vérifier si vous exercez une activité dans la société émettrice ou une de ses
+  filiales depuis moins de trois ans, ou n''y avez plus exercé d''activité pendant
+  cette durée. Si cela est le cas, vous pourrez bénéficier du taux d''imposition de
+  30 %.
+
+  Formule : Non spécifiée
+
+  Cas pratique : Titre : Impôt sur les bénéfices de la société de personne (BSPCE)
+  pour Jean Doe
+
+
+  Description : Jean Doe est un ingénieur travaillant chez Technoscience Inc., société
+  à capitaux propres dans laquelle il a exercé son activité pendant deux ans. L''année
+  dernière, il décide de céder des titres de cette société, rapportant ainsi un gain
+  financier important.
+
+
+  Montants :
+
+  - Gain financier : 1 200 000 € (gain brut avant abattement)
+
+  - Abattement fixe disponible : 500 000 € (déclaré sur la ligne 3TK de son impôt)
+
+  - Montant imposable après abattement (1 200 000 - 500 000 = ) 700 000 €
+
+  - Taux d''imposition applicable : 12,8 % (car Jean exerce actuellement des activités
+  dans Technoscience Inc. ou une de ses filiales depuis plus de trois ans)
+
+  - Impôt à verser : 700 000 * 0,128 = 89 600 € (déclaré sur la ligne 1AK de son impôt)
+
+
+  Comparaison : Si Jean exerçait actuellement aucune activité pour Technoscience Inc.,
+  le taux d''imposition applicable serait de 30 % (car il a exercé une activité dans
+  cette société pendant moins de trois ans à la date de cession des titres). Dans
+  ce cas, l''impôt à verser serait de 700 000 * 0,30 = 210 000 € (déclaré sur la ligne
+  1GF de son impôt).
+
+
+  Conclusion : Jean Doe pourra bénéficier d''un abattement fixe de 500 000 € et payera
+  un impôt de 89 600 € sur ses gains financiers issus de Technoscience Inc. En cas
+  d''exercice de l''activité pour cette société pendant moins de trois ans à la date
+  de cession des titres, il devrait verser un impôt de 210 000 €.'

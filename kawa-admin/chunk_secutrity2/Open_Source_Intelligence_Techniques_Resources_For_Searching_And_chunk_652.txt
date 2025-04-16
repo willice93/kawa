@@ -1,0 +1,11 @@
+onal interests of the target.
+
+The “groups” option will display any groups of which the target is a member. This is beneficial
+in identifying stronger interests of the target. In my experience, a target must only have faint
+interest to “like” something. However, the interest is usually strong if a group related to the topic
+is joined by the target. . |
+
+The “employers” option will display a list of current and previous employers of the target, as
+defined by the target.
+
+The “employees” option wi

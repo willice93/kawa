@@ -1,0 +1,24 @@
+ngdom
+
+QB 194.72.139.208
+
+@ UK-AS BTnet UK Regional network..(2856) 9 Ea Edom
+= a stbourne, England, Uni
+
+% 25/smtp iene
+
+Q location.country: United Kingdom
+
+ strip-starttis |
+
+& 194.75.55.139
+@ UK-AS BTnet UK Regional network... (2856) 9% United Kingdom
+% 25/smtp
+Q location.country: United Kingdom
+strip-starttis
+
+Figure 29 Censys.io Strip Start TLS UK BT onned systems 15 November 2017
+
+a8 122.154.230.172
+@ AP The Communication Authoity of Thailand, CAT... (9931) 9 Thailand
+#2 Windows *% 25/smtp

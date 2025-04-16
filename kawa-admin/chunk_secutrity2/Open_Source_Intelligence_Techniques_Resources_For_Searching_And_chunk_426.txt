@@ -1,0 +1,10 @@
+engine that only searches two
+specific websites.
+
+Seatch Engines 65
+
+After you log into a Google account, navigate to the website listed above. If you have never
+created an engine, you will be prompted to create your first. Enter the first website that you want
+to search. In my example, I will search inteltechniques.com. As you enter any website to search,
+Google will automatically create another field to enter an additional website. The second website
+that I will search is computercrimeinfo.com

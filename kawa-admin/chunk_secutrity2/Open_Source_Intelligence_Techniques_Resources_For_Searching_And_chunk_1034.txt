@@ -1,0 +1,11 @@
+apter Three. The following three direct URLs would attempt to display
+historic versions of a Reddit user’s profile. You could replace the Reddit user URL within each
+of these with a Sub-Reddit address or Reddit post URL.
+
+184 Chapter 7
+
+webcache.googleusercontent.com /search?q=cachezhttps://www.teddit.com/user/CHRISB
+web.archive.org/web/*/https://www.reddit.com/user/CHRISB
+archive. fo/https://www.reddit.com/user/CHRISB
+
+You may get lucky with these queries, but the results are often only the tip

@@ -1,0 +1,8 @@
+pub-3941709854725695. It further identifies five domains that are using the same Google
+AdSense account for online advertising. This identifies an association between the target website
+and these new websites. We now know that whoever maintains phonelosers.org places ads on
+the page. We also know that those same ads and affiliate number is present on five domains. This
+means that our target likely maintains all of the following domains.
+
+www.notla.com www.phonelosers.org
+www.oldpeoplearefunny.co

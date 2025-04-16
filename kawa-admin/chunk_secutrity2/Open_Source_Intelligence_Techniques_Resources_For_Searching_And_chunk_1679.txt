@@ -1,0 +1,7 @@
+Periscope (pscp.tv)
+
+Periscope is a live video streaming app for iOS and Android acquired in January 2015 by Twitter
+before the product had been publicly launched. Its use requires a mobile device and there is no
+web-based official search or player for Periscope streams. Your best option is to search within
+Twitter. After conducting a keyword search, click the “Broadcasts” option in the top menu. This
+will present several Periscope video streams. Many will be archived from previous streams, bu

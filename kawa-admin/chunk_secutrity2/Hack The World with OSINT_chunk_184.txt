@@ -1,0 +1,25 @@
+ogjam web-based testing tool which verified using the cettificag
+properties.
+
+A.goy
+rithm,
+
+@ TLS Logjam Check eve-2015-4000
+
+Logjam test - Is your webserver atlackable? TLS vulnerability check against the Logjam attack.
+
+Hostname Be om:
+
+You can specify a custom port like this exaepic.com:aana . 443 by detauit
+
+@ show weak ciphers
+
+4 Check
+
+Result for 23.49. mm--449
+
+Vulnerable! The domain WE 5 5 6 lroradie fo the 1.5 Logiam attacks.
+
+Figure 50 Crypto I 4 Jam Check positive vulnerability
+
+2015,

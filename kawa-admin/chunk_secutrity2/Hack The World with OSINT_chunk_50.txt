@@ -1,0 +1,14 @@
+gure 166 How to open Recon -NG.....csssicecussensncesneerssnrenssasieemssalll
+Figure 167 Recon-NG loaded after red errors ssueecssssenueeecrserssnnerenresen DD
+Figure 168 Additional Censys Recon NG modules ...ccscss:esseesreeeesnn 234
+Figure 169 HTTP Honeywell certificate organisation .....ccccsersee 237
+
+
+List of Tables
+
+Where was that table?
+
+Table 2 Common Social Engineering competition points/ flags 6
+
+Table 3 Censys.io and ZMap Protocols .......srssercsenencnensnnnenanenne 9
+Table 4 Censys.

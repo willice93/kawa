@@ -1,0 +1,12 @@
+suspects always gave me an edge in the interview. The suspects
+would have a hard time explaining the coincidence. In one case, two suspects that swore they did
+
+112 Chapter 4
+
+not know each other had both referenced going to a party together within the comment area of
+a long-forgotten photo on Facebook.
+
+Common Friends
+
+Facebook will often display all of the friends of a target. However, it does not natively display a
+set of ftiends that two users have in common. We can accomplish this with a U

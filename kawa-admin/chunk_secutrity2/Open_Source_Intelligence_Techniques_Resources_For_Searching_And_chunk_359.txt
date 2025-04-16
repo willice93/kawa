@@ -1,0 +1,9 @@
+ual Machine 51
+
+The general premise of this method is to create a USB drive that can be used to boot an entire
+Operating system from itself. It requires no access to the primary hard drive, and does not read
+or write data to it. It would work without a hard drive being present in the computer. It is
+completely isolated from your important data and it will not leak any usage details to your regular
+system. There are many scenarios that support the use of a bootable USB.
+
+You may want an operating

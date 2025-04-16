@@ -1,0 +1,9 @@
+erty="og:title"”’. The following is the entire line, and we now know the exact
+time, in universal time format.
+
+<meta property="og:title" content="Instagram post by Alex Albrecht Dec 11, 2017 at 1:04am UTC
+Followers & Following
+
+Instagram now requires users to be logged into an account in order to view the followers of a
+target or the profiles that a target follows (friends). Fortunately, Instagram is fairly forgiving with
+new profile creation, and the instructions at the beginning of Chapter Fo

@@ -1,0 +1,7 @@
+ed
+the same file. Again, this will work best with IP addresses that rarely change, such as a business,
+organization, or public Wi-Fi network. I have used this to determine the files being downloaded
+from the network with which I was curtently connected. On one occasion, this revealed an
+employee that was downloading enormous amounts of pornography on his employee’s network.
+He should have used a VPN, which would have masked his online activity from me. In order to
+see the power of this type of s

@@ -29,3 +29,28 @@ cas_pratique: "Nom: Jean Dupont\n   Profession: Agent immobilier\n   Situation: 
   \ suivant ce processus, vous pouvez optimiser votre situation fiscale en bénéficiant\
   \ du Crédit d'Impôt sur les Revenus Fonciers pour vos revenus fonciers étrangers\
   \ de source London."
+embedding_text: "Règle : Règle applicable : Crédit d'Impôt sur les Revenus Fonciers\
+  \ (CRIF) en cas de revenus fonciers de source étrangère\n\n Conditions : Le montant\
+  \ brut des revenus fonciers déclarés dans la ligne 4BE de votre déclaration inclut\
+  \ des revenus fonciers de source étrangère qui bénéficient d'un crédit d'impôt égal\
+  \ à l'impôt français.\n\n Montants ou plafonds : Les montants concernés sont les\
+  \ revenus fonciers de source étrangère (retenus dans la ligne 4BK).\n\n Formule\
+  \ de calcul applicable : Reportez le montant de ces revenus fonciers de source étrangère\
+  \ ligne 4BK dans la ligne 620 (CRIF) de votre déclaration. Les revenus ainsi reportés\
+  \ ne sont pas retenus pour le calcul du PAS.\n\n Verification requise : Pour être\
+  \ sûr d'y avoir droit, il est nécessaire de vérifier que les revenus fonciers en\
+  \ question bénéficient d'un crédit d'impôt égal à l'impôt français.\nFormule : Non\
+  \ spécifiée\nCas pratique : Nom: Jean Dupont\n   Profession: Agent immobilier\n\
+  \   Situation: Habitant en France, déclarant ses revenus fonciers étrangers de location\
+  \ (retenus dans la ligne 4BK) provenant d'un bien immobilier situé à Londres.\n\n\
+  \   Montants concernés: Revenus fonciers de source étrangère = 15 000 € déclarés\
+  \ dans la ligne 4BK.\n\n   Déclaration: Reportez le montant des revenus fonciers\
+  \ étrangers de location, soit 15 000 €, dans la ligne 620 (Crédit d'Impôt sur les\
+  \ Revenus Fonciers) de votre déclaration. Ces revenus ne seront pas retenus pour\
+  \ le calcul du PAS.\n\n   Comparaison: Sous le régime par défaut, vous n'auriez\
+  \ pas eu droit à ce crédit d'impôt sur les revenus fonciers étrangers. En choisissant\
+  \ de déclarer ces revenus et de vérifier que les impôts français y sont redevables,\
+  \ vous bénéficiez d'un crédit d'impôt égal à 15 000 € pour cette année fiscale.\n\
+  \n   Conclusion: En suivant ce processus, vous pouvez optimiser votre situation\
+  \ fiscale en bénéficiant du Crédit d'Impôt sur les Revenus Fonciers pour vos revenus\
+  \ fonciers étrangers de source London."

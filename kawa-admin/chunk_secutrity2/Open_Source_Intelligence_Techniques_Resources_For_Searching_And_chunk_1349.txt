@@ -1,0 +1,12 @@
+0.12
+
+Telephone Numbers 245
+
+You are now ready to submit requests for caller ID information. To do this, you must formulate
+an API request that includes your user name, authentication key, and target telephone number to
+seatch. This is easier than it sounds. All we need is a number to search.
+
+cnam.calleridservice.com/quety?u=jwilson555&k=c2332b496e5bf958&n=6187271 233
+
+This queries the domain (calleridservice.com), our user name (jwilson555), our authentication key
+(c2332b496e5bf95), and our t

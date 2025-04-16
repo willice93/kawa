@@ -1,0 +1,10 @@
+1 (fourth) displays the reverse image search icon in the
+far-right portion.
+
+Baidu Images (image.baidu.com)
+
+Similar to Yandex, the Chinese search engine Baidu offers a reverse image search. Baidu currently
+offers no English version of theit website and only presents Chinese text. Navigating to the above
+website offers a search box that contains a small camera icon to the nght. Clicking this presents
+options for uploading an image (button to left) or providing the URL of an online image within
+t

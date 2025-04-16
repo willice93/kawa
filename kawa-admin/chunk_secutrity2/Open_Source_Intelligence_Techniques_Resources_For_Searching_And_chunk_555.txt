@@ -1,0 +1,8 @@
+way.
+Yandex maintains a list of operators at https://yandex.com/support/search/how-to-
+seatch/search-operators.html. All Yandex operators work together and multiple operators can
+be used to form very specific searches. Figure 3.10 displays the results for a search of any websites
+from 2013 with the phrase Michael Bazzell and the word OSINT while excluding the word Mike.
+
+Search Engine Colossus (searchenginecolossus.com)
+This website is an index of practically every search engine in every countr

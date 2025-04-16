@@ -1,0 +1,11 @@
+80.http.get.body: " 2013 Siemens " AND tags: bacnet
+9. 47808.bacnet.device_id.model_name: Siemens BACnet
+Field Panel
+
+7.8 Find OpenADR Management Interfaces |
+The Open Automated Demand Response (Open ADR) is a
+communications specification which can offer a certain degree of
+interoperability between different automation control protocols. Its
+backed by both NIST and NERC. The standard is accepted ane in sai
+in various phases in the USA, UK and China. Per the canes
+documentation, OpenADR systems

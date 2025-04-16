@@ -1,0 +1,31 @@
+rd-party frames
+cnn.com
+odn.cnn.com
+dynarnage.cdn.cen.com
+Wiww.j.ciin.cr.corm
+data.cnn.com
+PMNS.con.com
+smetics.can.com
+
+Sotial-agin.can.com
+
+jogx.optimizely.com
+outbrain.com
+amolify.outbrain.com
+widgets outbrain.com
+rubiconproject.com
+ads.rubiconproject.com
+Scorecardresearch.com
+$b.scorecardresearch.com
+sharethrough.com
+
+native sharethrough.com
+summerhamster.com
+www. summermnamster.com
+turner.com
+
+Ssl.odn. turne:.com
+
+usabiila.com
+
+Figure 1.07: Fully and partially enabled scripts with uBlock O

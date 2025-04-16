@@ -1,0 +1,10 @@
+ee. The following instructions will explain the most used features available in Figure
+19.13.
+
+e Navigate to your tatget’s Facebook profile, nght-click the ExtractFace icon in the
+taskbar, and select “Scroll and Expand”. This will expand all posts and comments.
+
+e Navigate to your target’s Facebook Friends list, right-click the ExtractFace icon in the
+taskbar, and select “Dump Friends”. This will save all friends into a spreadsheet.
+
+e Navigate to your target’s Facebook Photos list, right-click

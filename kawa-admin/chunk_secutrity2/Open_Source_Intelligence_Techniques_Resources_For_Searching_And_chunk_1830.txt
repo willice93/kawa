@@ -1,0 +1,7 @@
+esented by whatstheirip.com. Instead, you want him to actually navigate to a safe website in
+order to eliminate any concern that he was compromised.
+
+The Blasze website will ask you to enter a real website that you want your target to see. In this
+example, I will use the Reddit Netsec page located at reddit.com/r/netsec. When I supplied this
+link to Blasze, it generated a unique internet address (URL) of blasze.tk/DQ7ORY. This is the
+page that you want your target to open. It will forward him to

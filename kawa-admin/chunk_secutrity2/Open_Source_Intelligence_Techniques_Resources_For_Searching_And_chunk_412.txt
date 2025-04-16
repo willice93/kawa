@@ -1,0 +1,11 @@
+erisk Operator (*)
+
+The asterisk (*) represents one or more words to Google and is considered a wild card. Google
+treats the * as a placeholder for a word or words within a search string. For example, “osint *
+training” tells Google to find pages containing a phrase that starts with “osint” followed by one
+or mote wotds, followed by “training”. Phrases that fit this search include: “osint video training”
+and “osint live classroom training”.
+
+Range Operator (..)
+
+The “Range Operator” tells Google

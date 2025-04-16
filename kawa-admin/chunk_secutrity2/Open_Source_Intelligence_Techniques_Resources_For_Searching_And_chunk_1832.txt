@@ -1,0 +1,9 @@
+commend using a URL shortening service that will make the link appear more
+trustworthy. I prefer to use Google for this. Navigate to the website goo.gl and enter the Blasze
+link provided to you (blasze.tk/DQ7ORY in this example). Google will generate a new link that
+will appear similar to http://goo.gl/dIviMz. Now, you can send a link that is less suspicious
+
+looking.
+
+In this example, you would send your target the link of goo.gl/dIviMz. When clicking this link,
+it automatically forwards to the

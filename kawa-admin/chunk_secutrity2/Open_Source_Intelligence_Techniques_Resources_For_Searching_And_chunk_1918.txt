@@ -1,0 +1,9 @@
+at will have the same title as the previous file but with the extension MP4. This file
+should play on any modern computer system.
+
+Video Frame Extraction
+
+You may also want to extract the still frames from the video for deeper analysis. Law enforcement
+may want to extract the stills of online videos for distribution to the media with the hope of
+identifying a suspect. There are many expensive programs designed to offer a solution for this,
+but this free program works just as well. The ffmpeg.exe

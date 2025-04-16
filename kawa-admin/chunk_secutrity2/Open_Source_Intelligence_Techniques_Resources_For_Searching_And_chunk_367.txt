@@ -1,0 +1,9 @@
+xtremely expensive drives that operate at nearly the same speeds as internal hard drives. Your
+situation and budget will determine the most appropriate drive. All of my testing for this section
+was completed using Sandisk Ultra Fit USB 3.0 drives. - )
+
+Creating the Drives
+
+Now that you have your USB 3.0 drive and port ready to go, you need to create a bootable device.
+Duting these instructions, you will be asked to download files that contain the entire operating
+system within them. You will usu

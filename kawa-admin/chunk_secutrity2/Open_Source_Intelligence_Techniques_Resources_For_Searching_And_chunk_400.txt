@@ -1,0 +1,14 @@
+com filetype:pptx
+
+Previously, Google and Bing indexed media files by type, such as MP3, MP4, AVI, and others.
+Due to abuse of pirated content, this no longer works. I have found the following extensions to
+be indexed and provide valuable results.
+
+7Z: Compressed File ODS: OpenOffice Spreadsheet
+BMP: Bitmap Image ODT: OpenOffice Text
+DOC: Microsoft Word PDF: Adobe Acrobat
+DOCX: Microsoft Word PNG: Image
+
+DWF: Autodesk , PPT: Microsoft PowerPoint
+GIF: Animated Image PPTX: Microsoft PowerPoint
+HTM

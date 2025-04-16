@@ -1,0 +1,11 @@
+the need for Windows.
+
+Navigate to https://etcher.io and download and install the Etcher software
+
+Launch and click the Select Image option. Select the ISO file that you downloaded
+Choose the destination USB drive that you would like to overwrite (choose carefully!)
+Click the Flash option
+
+The result will be a USB boot device that will load either Buscador or Ubuntu natively on any
+modem Apple computer. The operating system should appear exactly as the version created
+previously with Rufus on W

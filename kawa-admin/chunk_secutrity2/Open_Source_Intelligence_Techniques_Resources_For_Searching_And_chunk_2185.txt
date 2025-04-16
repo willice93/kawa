@@ -1,0 +1,6 @@
+al user names of targets in our workspace, we should consider searching
+within Twitter for any content of interest. We could navigate to Twitter, assume our suspect is
+chrishadnagy, and look for people mentioning him with to:chrishadnagy. Alternatively, we can
+ask Recon-ng to conduct this task for every user name we have collected. Typing use
+recon/profiles-profiles/twitter_mentions loads the module and typing run executes the
+process. You should immediately receive an error since you do not hav

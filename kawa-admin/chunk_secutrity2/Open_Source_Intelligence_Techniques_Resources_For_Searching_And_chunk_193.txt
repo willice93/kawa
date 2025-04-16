@@ -1,0 +1,7 @@
+N
+and XML files to be opened and viewed within a web page instead of saving them and viewing
+the files in a text editor. These files are returned when querying specific types of data such as
+server content. This mostly applies to the Application Programming Interfaces (APIs) discussions
+in Chapter Twenty. Many of these APIs deliver the results in a view that is not intended for web
+browsers, even Firefox. Your browser may try to download a file instead of displaying the
+content. With this extens

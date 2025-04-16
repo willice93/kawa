@@ -1,0 +1,11 @@
+trast mostly keeps the colors intact; the others
+can cause color shifts. Histogram Equalization is the most robust option. You can also set this
+to none. Opacity is the opacity of the sweep layer. If you lower it you will see more of the original
+image. Figure 14.12 (right) displays this view.
+
+Figure 14.12: The Luminance analysis (left) and PCA analysis (right) within Forensically.
+
+Photographs 301
+
+MetaData displays any Exif metadata in the image. Geo Tags shows the GPS location where the
+imag

@@ -45,3 +45,40 @@ cas_pratique: 'Contexte : Jean Dupont est un employé de banque qui travaille à
 
   Conclusion : En suivant cette règle, Jean Dupont réduit les impôts qu''il doit payer
   en décrétant un abattement de 50% sur son chiffre d''affaires de location de meublés.'
+embedding_text: 'Règle : Cette règle s''applique aux personnes qui exercent une activité
+  de location de meublés (cas général) et qui ont des recettes annuelles inférieures
+  à 77 700 euros. Dans ce cas, il est possible d''inscrire le montant du chiffre d''affaires
+  dans les cases 5NW/5OW de la déclaration fiscale. L''abattement de 50% est directement
+  appliqué par la MSA (Ministère des Solidarités et de l''Agriculture) sur le montant
+  du chiffre d''affaires mentionné. Pour être sûr d''y avoir droit, il faut vérifier
+  que les recettes annuelles ne dépassent pas la limite de 77 700 euros.
+
+  Cas pratique : Contexte : Jean Dupont est un employé de banque qui travaille à Paris
+  et loue deux appartements qu''il meuble afin d''en collecter des revenus supplémentaires.
+
+
+  Montants concernés : Les recettes annuelles de location de Jean Dupont sont inférieures
+  à 77 700 euros (64 583 euros en réalité). Le chiffre d''affaires pour ces appartements
+  est de 32 000 euros par an.
+
+
+  Déclaration : Pour la déclaration fiscale de l''année, Jean Dupont devra inscrire
+  son activité de location dans les cases 5NW/5OW (Activités non commerciales) avec
+  un montant de 32 000 euros.
+
+
+  Comparaison : Dans le régime par défaut (cas général), il n''y a pas d''abattement
+  sur les revenus de location. Cependant, en suivant la règle décrite ci-dessus, Jean
+  Dupont bénéficiera d''un abattement de 50% directement appliqué par la MSA sur le
+  montant du chiffre d''affaires mentionné (16 000 euros).
+
+
+  Calcul clair avec des chiffres ronds : Si Jean Dupont ne fait pas appel à cette
+  règle, il devra payer des impôts de 32 000 euros × taux imposable (par exemple 14%)
+  = 4 480 euros. Cependant, en application de la règle mentionnée, le montant total
+  à payer sera réduit de l''abattement de 50% soit 32 000 euros × 50% = 16 000 euros
+  ce qui donne un montant final à payer de 4 480 euros - 16 000 euros = 11 520 euros.
+
+
+  Conclusion : En suivant cette règle, Jean Dupont réduit les impôts qu''il doit payer
+  en décrétant un abattement de 50% sur son chiffre d''affaires de location de meublés.'

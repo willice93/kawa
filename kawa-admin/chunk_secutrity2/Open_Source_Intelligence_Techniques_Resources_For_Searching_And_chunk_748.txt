@@ -1,0 +1,6 @@
+ll list a photo identifying each album. The total number of photos in the album
+will be listed below the album name. Clicking on either the photo or the album name will open
+that album in icon view. If the user's page has been marked as private, the information will be
+limited. This will usually still include a photo and general wall information such as friends that
+have recently been added. It is possible to hide all information, but that is very rare. The search
+methods explained previously wi

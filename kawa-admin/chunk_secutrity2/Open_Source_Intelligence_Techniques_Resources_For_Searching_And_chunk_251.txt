@@ -1,0 +1,8 @@
+he
+internet connection. This encrypted traffic cannot be deciphered by the ISP. When your traffic
+gets to the VPN server, it sends and receives your data, returning incoming packets to you. The
+websites that you visit believe that you have the IP address of the VPN server. They do not know
+what type of internet connection you possess nor your location.
+
+Some teadets may wonder why they cannot simply use the free Tor service for this scenario.
+While you could, it is not always advised. Tor connec

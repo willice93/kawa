@@ -1,0 +1,8 @@
+both the Genymotion application
+and a virtual machine application called VirtualBox. Accepting all default installation options will
+install all of the required files. When the setup process has completed, you will have a new icon
+on your desktop titled Genymotion.
+
+Execute this application and note that a Google Nexus 10 virtual machine is pre-installed and
+ready for launch. Instead of accepting this default option, consider creating your own machine in
+otder to learn the process for future inv

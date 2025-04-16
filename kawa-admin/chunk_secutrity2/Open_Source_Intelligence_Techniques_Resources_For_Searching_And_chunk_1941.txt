@@ -1,0 +1,12 @@
+lding - Alternative 3D view of some locations
+
+Gallery - User submitted content including YouTube videos
+
+I recommend disabling all layers and then enabling one at a time to analyze the data that is added
+to your map view. Figure 19.03 displays a view of Chicago including the Photos, Roads, and
+Gallery layers.
+
+Figure 19.03: A Google Earth view with layers enabled.
+
+Another Google Earth tool available that is often overlooked is the Historical Imagery option.
+This can be activated by selecting t

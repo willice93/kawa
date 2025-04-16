@@ -1,0 +1,8 @@
+ion installed, the API results should appear within the browser every
+time. Without this extension, some of the API searches will not function. There is nothing to
+configure with this add-on. If your results during Chapter Twenty and others appear scrambled
+or completely missing, install this add-on. Below is a partial output from my Facebook video tool
+that appears crammed together.
+
+{"videoID":"1498736236888792","lat":-25.457977526294,"long":-49.21751453494,"name":"-
+Can\u00e7 \u00e30Nova Curi

@@ -1,0 +1,15 @@
+ng a direction identifier. Since most cellular telephones
+possess an accelerometer, the device documents the direction the camera was facing. Most
+Android and iPhone devices have this capability. Your results will vary depending on the user's
+configuration of their GPS on the device.
+
+Camera Apple iPhone 3
+
+Leus $.1 sum
+
+Exposure Auto exposure, Program AE, 1/452 sec, £/2.4. ISO 50
+
+Off, Did not fire
+
+March 24,2013 5:13:57PM (nmezone not specified
+{1 year, 1) months, 13 days. 18 hours, 20 minutes

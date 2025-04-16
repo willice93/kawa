@@ -1,0 +1,8 @@
+use. Unfortunately,
+they also eliminated many of the features that were beneficial to researchers and investigators.
+Fortunately, they have re-enabled some of these missing features. The following basics of Google
+Maps are now default for all users.
+
+Search Bar: The Google Maps search bar can now accept practically any type of input. A full
+address, partial address, or GPS coordinates will immediately present you with a mapped view.
+Company names and types of businesses, such as “café” will hig

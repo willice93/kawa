@@ -1,0 +1,6 @@
+oogle Play will allow you to natively install Android
+applications as if you were holding a real telephone or tablet. Launch Google Play and you will
+be able to seatch, install, and execute any app to your new virtual device. After you install a new
+ptogram, click on the applications menu (circle with six dots in it). Click and hold the new app
+and you will be able to drag it to your home screen. Figure 21.02 displays the screen of my default
+investigation emulator. I will later explain how thes

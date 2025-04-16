@@ -1,0 +1,10 @@
+rohibited from being uploaded to any
+public network. Under these circumstances, Exif Tool becomes useful. The program is portable
+and allows you to browse to an image. It will then display all stored Exif information about the
+image. This will include camera details and GPS coordinates if available. Since this application
+does not use the internet for information, you will not receive a map of the location. You will
+only get the numerical coordinates.
+
+JPEG Snoop (impulseadventure.com/photo)
+
+If

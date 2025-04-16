@@ -1,0 +1,9 @@
+lly store
+the content. Searching Facebook comments can be conducted through the technique explained
+in Chapter Three.
+
+In order to search for content within the Disqus comment system, you can conduct a custom
+Google search. First, it is important to understand how the Disqus system is recognized by
+Google. There is an option to log into a Disqus account and you can “upvote” or “downvote”
+each comment to show your approval. The words visible on this page that were provided by
+Disqus are important

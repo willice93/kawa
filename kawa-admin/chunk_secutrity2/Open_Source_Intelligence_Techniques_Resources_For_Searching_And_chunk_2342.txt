@@ -1,0 +1,6 @@
+ion of online content. It is written in a hands-on style that encourages the reader to
+execute the tutorials as they go. The search techniques offered will inspire analysts to
+“think outside the box” when scouring the internet for personal information. Much of the
+content of this book has never been discussed in any publication. Always thinking like a
+hacker, the author has identified new ways to use various technologies for an unintended
+purpose. This book will greatly improve anyone’s online i

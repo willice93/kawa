@@ -1,0 +1,6 @@
+ill be fully explained
+in a later chapter. In brief summary, it is a set of rules included on a web server that instructs
+search engines on allowable ways to index the website. The noarchive function tells a search
+engine to never archive anything on the site. As an example, my website inteltechniques.com has
+this enabled. Therefore, Google, Bing, Yandex, and Baidu do not have a cache of any pages on
+that domain. However, Archive.is does, and they have multiple versions from the past three years

@@ -1,0 +1,25 @@
+, 80/http
+Qa 24.ftp.banner.banner- 226 HACKED FTP server (Mikrotik 6.35.4) ready
+
+Penpeses | nebo
+
+Figure 34 Censys web search “Hcked” using ? to replace a letter
+
+521 Web server us down
+
+5.4 Find Teapots
+
+523 | : Origin is unreachable
+—— HTTP 418 is from an request for comments (RFC) on April Fools in
+
+ee oannnarma tener ins tee
+
+ee Ee ka ae 1998 (Wikipedia 2017). Yes, technologists have humour ©)
+525 SLL handshake failed
+80.http.get.status_line: 418
+
+EAU RE eT aN eND e
+
+Aes 80/HTITP
+
+527 ae ai

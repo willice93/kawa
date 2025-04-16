@@ -1,0 +1,7 @@
+stigator can monitor a missing person’s name for relevant information
+“Event”: Officials can monitor anyone discussing a special event such as a festival or concert
+
+The “User” option will allow you to enter a Twitter user name and monitor all incoming and
+outgoing public messages associated with the user. If several subjects of an investigation are
+identified as Twitter users, each of the profiles can be loaded in a separate column and monitored.
+Occasionally, this will result in two of the pro

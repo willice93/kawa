@@ -1,0 +1,12 @@
+results” or
+“Verbatim”. The All Results will conduct a standard Google search. The Verbatim option
+searches exactly what you typed. One benefit of the Verbatim option is that Google will often
+present more results than the standard search. It digs a little deeper and gives additional results
+based on the exact terms you provided.
+
+About 172,000 results (0.27 seconds}
+
+Links - OSINT Training by Michael Bazzell
+https://inteltechniques.com/links.himl
+
+OSINT Training by Michael Bazzell, Mike Bazzell

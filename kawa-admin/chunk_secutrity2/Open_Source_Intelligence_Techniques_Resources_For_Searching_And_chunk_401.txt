@@ -1,0 +1,16 @@
+: Web Page RAR: Compressed File
+HTML: Web Page RTF: Rich Text Format
+
+JPG: Image TXT: Text File
+
+JPEG: Image XLS: Microsoft Excel
+
+KML: Google Earth XLSX: Microsoft Excel
+KMZ: Google Earth ZIP: Compressed File
+
+ODP: OpenOffice Presentation
+Hyphen (-)
+
+The seatch operators mentioned previously are filters to include specific data. Instead, you may
+want to exclude some content from appearing within results. The hyphen (-) tells most search
+engines and social networks to exclude the text immediatel

@@ -1,0 +1,12 @@
+h/str/Brad%200'Neal/users-named/str/37 /40/users-age-
+2/intersect
+
+If you know the exact year of birth of your target, you can also search by this data. If you know
+that your target’s name is Tim Smith, and that he was born in 1980, the following address would
+display the appropriate results. This filtered numerous people with a common name to only seven
+profiles.
+
+https: //www.facebook.com/search/str/Tim%20Smith /users-named/str/1980/date/users-
+born/intersect
+
+Beginning in 2016, I have found t

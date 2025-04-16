@@ -1,0 +1,9 @@
+other search results. If you want a more detailed report, consider
+the Application Programming Interface (API) version of Pipl that is explained in Chapter Twenty.
+
+Gravatar (gravatar.com)
+
+This setvice is responsible for many of the small image icons that you see next to a contact in
+your email client. You may notice that some incoming emails display a square image of the sender.
+This is configured by the sender, and this image is associated with any email address connected.
+You do not need to

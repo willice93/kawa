@@ -37,3 +37,37 @@ cas_pratique: "Context : Jean Dupont, a 45 ans et travaille comme professeur de 
   \ et en respectant les plafonds annuels, Jean Dupont a réussi à bénéficier de la\
   \ déduction d'épargne retraite pour diminuer son revenu fiscal et préparer sa retraite\
   \ plus efficacement."
+embedding_text: "Règle : Règle de calcul : Déductions d'épargne retraite\n\n   À qui\
+  \ s'applique la règle : Toutes les personnes ayant des revenus fiscaux en France.\n\
+  \n   Dans quelles conditions : Les épargnes versées dans certains produits financiers\
+  \ qualifiés sont déductibles du plafond de revenu fiscal de référence et contribuent\
+  \ au plafond de déduction d'épargne retraite.\n\n   Quels sont les montants ou plafonds\
+  \ : Le montant déductible est limité à 2,634€ par an (dans le cadre des économies\
+  \ prioritaires) et 8,910€ par an (dans le cadre des autres épargnes retraite). Le\
+  \ plafond de déduction d'épargne retraite est fixé à 7,265€ par an.\n\n   Quelle\
+  \ est la formule de calcul applicable : Pour chaque produit financier qualifié,\
+  \ le montant versé est multiplié par le taux de déduction (90%) et cette somme est\
+  \ ajoutée aux autres économies prioritaires ou aux autres épargnes retraite pour\
+  \ ne pas dépasser le plafond annuel respectif.\n\n   Et ce qu’il faut vérifier pour\
+  \ être sûr d'y avoir droit : Les produits financiers doivent être qualifiés par\
+  \ l'administration des contributions sociales, de la sécurité sociale et de la sécu\
+  \ (ACSS). Il est également important de veiller à ne pas dépasser les plafonds respectifs\
+  \ en fonction du type d'épargne retraite versée.\nFormule : Non spécifiée\nCas pratique\
+  \ : Context : Jean Dupont, a 45 ans et travaille comme professeur de mathématiques\
+  \ à la faculté de Lyon. Il a ouvert un compte d'épargne retraite en 2017 pour préparer\
+  \ sa retraite à venir.\n\n   Montants concernés : Jean Dupont a versé un montant\
+  \ de 9,468€ dans son compte d'épargne retraite en 2021. Il est également déclaré\
+  \ salarié et son revenu fiscal est de 35,000€ en 2021.\n\n   Déclaration : Jean\
+  \ Dupont a indiqué le montant versé dans sa déclaration de revenus en cases 1AK\
+  \ (épargne retraite - autres épargnes) pour un montant de 9,468€.\n\n   Comparaison\
+  \ régime par défaut vs option choisie : En ne choisissant pas d'investir dans des\
+  \ produits financiers qualifiés, Jean Dupont aurait pu dépenser ce même montant\
+  \ et n'aurait pas été en mesure de bénéficier de la déduction d'épargne retraite.\n\
+  \n   Calcul : Pour les épargnes versées dans le cadre des économies prioritaires,\
+  \ le taux de déduction est de 90%. Ainsi, pour chaque euro versé, Jean Dupont peut\
+  \ bénéficier d'une déduction de 0,9€. Le montant total que Jean Dupont peut déduire\
+  \ de son revenu fiscal en application de la règle de calcul est donc de 8,517€ (946,8€\
+  \ x 0,9).\n\n   Conclusion : En investissant dans des produits financiers qualifiés\
+  \ et en respectant les plafonds annuels, Jean Dupont a réussi à bénéficier de la\
+  \ déduction d'épargne retraite pour diminuer son revenu fiscal et préparer sa retraite\
+  \ plus efficacement."

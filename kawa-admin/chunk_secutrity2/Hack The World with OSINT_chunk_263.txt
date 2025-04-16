@@ -1,0 +1,20 @@
+'502/modbus" of the FTP Lexone uses is returned in the banner, vulnerable versions can
+
+be found quickly.
+
+® Frontier of America, inc... (5650) 9 Central Valley, New York, United Stetes
+lw Schneider Electric BMX NOE 0100'V3.10 Windows © 502/modbus, 80/http
+©, 80.http.gettitle: Unitec
+
+SCADA SEADA GATEWAY
+
+i ink ral, scripts
+The web interface security content policy allows unsafe inline, eval, sctip
+
+to run.
+
+Figure 99 Unitec loT automated car washers etitle>Loxone Smart Home</tit le>
+
+/s
+
+; a te

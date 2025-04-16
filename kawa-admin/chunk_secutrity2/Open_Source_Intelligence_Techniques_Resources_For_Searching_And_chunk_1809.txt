@@ -1,0 +1,11 @@
+ps://www.zoomeye.org/topicrid=ics_project which allows the
+exploration of various online systems that control public utilities and various corporate
+infrastructute. Providing a target IP address into the search option at this resource will work very
+similarly to Shodan’s search feature.
+
+344 Chapter 17
+
+ThreatCrowd (threatcrowd.org)
+
+ThreatCrowd is a system for finding and researching artefacts relating to cyber threats. Searching
+an IP address can reveal an association to malicious software bei

@@ -1,0 +1,9 @@
+the University of
+Michigan, USA. It allows searching, like Googling but instead ot
+website content, asset information on specific ports. Security
+researchers can ask questions concerning the devices or networks
+on the internet. Several tools such as ZMap are the backbone of
+Censys. Reporting is available, accessible to use and is
+documented. Currently, access is free, but there are data and oan
+limitations with some types of services only available to —
+researchers and academic accounts. Censys

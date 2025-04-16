@@ -1,0 +1,12 @@
+etails
+
+3.10 How to Hack a Smart Home
+
+If 1 had more money and wasn’t so paranoid about IOT security, maybe
+Vd connect my house to the internet. These simple dorks will find the
+Loxone brand of smart home web interfaces. The web login can be on
+HTTP port 80 or other ports, such as 8888. Some versions of the web
+interface clearly were never security tested. Using the tool OWASP ZAP,
+| was able to find two directory transversal vulnerabilities which were
+
+Figure 98 Miele Gateway Login xgw3000 ts h

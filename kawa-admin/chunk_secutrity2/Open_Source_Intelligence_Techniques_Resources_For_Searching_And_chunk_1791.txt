@@ -1,0 +1,6 @@
+of all. This service
+monitors online torrents (ways to download large files which often violate copyright laws) and
+discloses the files associated with any collected IP addresses. I searched the previous IP address
+collected from an associate, and received an immediate hit. Figure 17.01 displays the result. It
+identifies that the target IP address was downloading two specific movies on December 28, 2017
+at 9:53 pm. Clicking on the movie title presents every IP address captured that also download

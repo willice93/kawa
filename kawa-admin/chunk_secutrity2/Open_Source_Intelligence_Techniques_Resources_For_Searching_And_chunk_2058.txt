@@ -1,0 +1,10 @@
+Objects displays more information
+during the free evaluation. Obtaining a free trial allows you up to 500 searches within a 30-day
+timeframe. Provide an email address, any name, and any telephone number to immediately be
+issued an active API key. Create a URL based on the following structure.
+
+http:// trial.serviceobjects.com/ei/emailinsightasmx/GetContactInfoByEmail?Email=EMAIL
+&LicenseKey=XXX
+
+I navigated to the following URL based on my API key and sample email address which produced
+the resu

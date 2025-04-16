@@ -1,0 +1,9 @@
+ing a location will provide the top
+keywords being posted as well as a heat map to identify peak usage.
+
+MentionMapp (mentionmapp.com)
+
+This service displays a visualization of a user’s Twitter connections and topics. It identifies
+connections to other users based on Twitter traffic. The width of the connecting lines identifies
+the strength of connection. This can provide a quick look at strong associations without analyzing
+an official Twitter feed. Note that this only extracts the most recent

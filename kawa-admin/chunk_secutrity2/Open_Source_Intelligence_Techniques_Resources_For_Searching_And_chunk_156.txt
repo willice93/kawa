@@ -1,0 +1,7 @@
+dings, then
+they never existed. FireShot provides you with an easy solution to capturing all of your results.
+When enabled, this extension is a button in the upper right portion of your browser. It appears
+as a blue square containing the letter “S”. Clicking the icon presents a menu with options. The
+best option is to select “Capture entire page” and then “Save to PDF”. This will then create a
+PDF document of the entire page exactly as it appears in your browser and save it to anywhere
+you choos

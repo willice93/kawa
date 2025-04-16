@@ -44,3 +44,34 @@ cas_pratique: "Nom: Jean Dupont\n   Profession: Avocat indépendant\n   Situatio
   \ fiscale 2021, M. Jean Dupont doit indiquer au titre des plus-values et créances\
   \ soumises à l'impôt sur le revenu la somme de 44 800€ (case 1AK) et au titre des\
   \ prélèvements sociaux la somme de 60 533€ (case 1GF)."
+embedding_text: "Règle : La règle s'applique aux personnes physiques qui ne bénéficient\
+  \ pas du sursis de paiement, en ce qui concerne les plus-values et créances.\n\n\
+  Les conditions sont que ces plus-values ne soient pas des plus-values en report\
+  \ d'imposition en application de l'article 150-0 B ter du CGI.\n\nLe montant à indiquer\
+  \ pour les plus-values et créances soumises à l'impôt sur le revenu est la somme\
+  \ de ligne 3WB (montant des plus-values et créances soumises à l'impôt sur le revenu,\
+  \ au barème ou à 12,8 % - après abattement pour durée de détention).\n\nLe montant\
+  \ à indiquer pour les prélèvements sociaux est la somme de ligne 3WD (montant des\
+  \ plus-values et créances soumises aux prélèvements sociaux - avant abattement pour\
+  \ durée de détention).\n\nIl faut vérifier que les plus-values et créances en question\
+  \ ne bénéficient pas du sursis de paiement, et que ceux-ci ne sont pas des plus-values\
+  \ en report d'imposition.\nCas pratique : Nom: Jean Dupont\n   Profession: Avocat\
+  \ indépendant\n   Situation: Vente de son appartement à Paris pour 350 000€ en février\
+  \ 2021\n\nPour l'année fiscale 2021, M. Jean Dupont est tenu d'indiquer la somme\
+  \ de ligne 3WB dans les bonnes cases au titre des plus-values et créances soumises\
+  \ à l'impôt sur le revenu. Son appartement étant venu à évaluation à 350 000€, il\
+  \ doit y indiquer la somme de 350 000€ (montant des plus-values et créances soumises\
+  \ à l'impôt sur le revenu, au barème ou à 12,8 % - après abattement pour durée de\
+  \ détention). Le calcul est donc de 350 000€ * 12,8 % = 44 800€.\n\nPar ailleurs,\
+  \ M. Dupont doit indiquer la somme de ligne 3WD dans les bonnes cases au titre des\
+  \ prélèvements sociaux. La somme à indiquer est la même que la précédente mais avant\
+  \ abattement pour durée de détention. Le calcul étant donc de 350 000€ * 12,8 %\
+  \ = 44 800€ / 75 (pour l'abattement pour durée de détention). Il doit indiquer dans\
+  \ les bonnes cases au titre des prélèvements sociaux la somme de 60 533€.\n\nIl\
+  \ faut noter que le régime par défaut pour les plus-values et créances est l'impôt\
+  \ sur le revenu à 12,8 % en barème, mais M. Dupont peut également choisir l'option\
+  \ du barème progressif si cela lui convient davantage.\n\nEn conclusion, dans son\
+  \ déclaration de revenus pour l'année fiscale 2021, M. Jean Dupont doit indiquer\
+  \ au titre des plus-values et créances soumises à l'impôt sur le revenu la somme\
+  \ de 44 800€ (case 1AK) et au titre des prélèvements sociaux la somme de 60 533€\
+  \ (case 1GF)."

@@ -1,0 +1,11 @@
+| 8 | D | Ian | Hopper | ian.hopper@cnn. com
+
+| 9 | Scott | John | Anderson | scott.anderson@cnn.com
+
+422 Chapter 22
+
+One of the most powerful email search options available is the Full Contact API, which was
+explained in Chapter Twenty. Hopefully, you have already obtained a free trial API key. If not,
+one can be requested at dashboard. fullcontact.com/register. In my examples, I will replace my
+actual Full Contact API key with XXX. We can load the Full Contact module by typing use
+recon/cont

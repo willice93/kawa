@@ -1,0 +1,10 @@
+ould place quotation marks around a word
+to identify pages that contain that word in them. In Yandex, this is gained with a plus sign (+).
+
+Search Engines 87
+
+Michael +Bazzell would mandate that the page has the word Bazzell, but not necessarily Michael.
+
+Search any word: In Google and Bing, you can use “OR” within a search to obtain results on
+any of the terms seatched. In Yandex, this is achieved with the pipe symbol (|). This is found
+above the backslash (\) on your keyboard. A search of “+Ba

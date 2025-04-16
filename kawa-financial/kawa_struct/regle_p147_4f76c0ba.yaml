@@ -63,3 +63,56 @@ cas_pratique: 'Titre : Maxime Schneider, entrepreneur en matériel de sport, dé
   d''impôt de CHF 55,000 sur les montants des plus-values concernées. Il est donc
   important de vérifier ces conditions pour bénéficier de cette règle fiscale en cas
   de réalisation de plus-values fiscales.'
+embedding_text: 'Règle : Cette règle s''applique aux plus-values fiscales en Suisse.
+  Les conditions sont que le report a expiré en 2023 et les plus-values sont soit
+  réalisées entre le 14 novembre 2012 et le 31 décembre 2012, ou à compter du 1er
+  janvier 2013 (s''il s''agit de plus-values avant abattement jusqu''en 2016, ou de
+  plus-values réalisées à compter du 1er janvier 2017). Les montants ou plafonds concernés
+  sont les montants des plus-values taxables à 24 %, à 19 % ou imposables. La formule
+  de calcul applicable dépend des conditions mentionnées précédemment et peut varier
+  de 24 % à 3WR, en fonction de la nature des plus-values et du revenu de l''intéressé.
+  Il faut vérifier que le report est bien expiré en 2023, que les conditions concernant
+  les dates de réalisation des plus-values sont remplies, et que les montants des
+  plus-values sont correctement calculés pour être sûr d''y avoir droit.
+
+  Formule : Non spécifiée
+
+  Cas pratique : Titre : Maxime Schneider, entrepreneur en matériel de sport, déclaration
+  fiscale 2023
+
+
+  Contexte : M. Maxime Schneider a vendu sa société de matériel sportif en décembre
+  2012 et réalise ainsi des plus-values fiscales taxables à 24%. Il décide d''appliquer
+  la règle fiscale concernant les plus-values réalisées entre le 14 novembre 2012
+  et le 31 décembre 2012.
+
+
+  Montants concernés : Les montants des plus-values réalisées par M. Schneider sont
+  de CHF 500,000 en 2012 et de CHF 600,000 en 2013.
+
+
+  Déclaration : Cas 1AK pour les plus-values taxables à 24%, avec les montants des
+  plus-values déclarés dans les cases 1AK1 (montant net de la plus-value réalisée
+  en 2012) et 1AK3 (montant net de la plus-value réalisée en 2013).
+
+
+  Comparaison : En régime par défaut, le montant des plus-values serait imposé à 24%.
+  Cependant, en appliquant la règle concernant les plus-values mentionnées dans le
+  texte, M. Schneider bénéficie d''un taux réduit de 19% sur une partie importante
+  de ces plus-values (CHF 500,000 + CHF 600,000 = CHF 1,100,000 pour lesquelles il
+  aura droit).
+
+
+  Calcul clair avec des chiffres ronds : En régime par défaut, M. Schneider serait
+  imposé à 24% sur tous les montants des plus-values (CHF 1,100,000 * 0,24 = CHF 264,000).
+  En appliquant la règle concernant les plus-values mentionnées dans le texte, M.
+  Schneider bénéficie d''un taux réduit de 19% sur une partie importante de ces plus-values
+  (CHF 1,100,000 * 0,19 = CHF 209,000). Cela représente un économie d''impôt de CHF
+  55,000.
+
+
+  Conclusion : Grâce à la règle fiscale concernant les plus-values mentionnées dans
+  le texte, M. Schneider réduit significativement son impôt en réalisant des économies
+  d''impôt de CHF 55,000 sur les montants des plus-values concernées. Il est donc
+  important de vérifier ces conditions pour bénéficier de cette règle fiscale en cas
+  de réalisation de plus-values fiscales.'

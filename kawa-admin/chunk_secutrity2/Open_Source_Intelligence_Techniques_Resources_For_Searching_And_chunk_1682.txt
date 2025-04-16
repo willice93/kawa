@@ -1,0 +1,11 @@
+ls, and focused only on the data most valuable to us. The commentary in parentheses
+explains the purpose of this data.
+
+created_at: 2015-05-13 06:26:59 (Date and time of account creation)
+twitter_screen_name: DVATW (Twitter user name)
+
+broadcast created_at: 2017-12-28 19:58:16 (Date and time of video stream creation)
+updated_at: 2017-12-28 20:16:10 (Date and time of any profile changes)
+friend_chat: false (Target is not using “friend chat’)
+
+ptivate_chat: false (Target is not using “private chat

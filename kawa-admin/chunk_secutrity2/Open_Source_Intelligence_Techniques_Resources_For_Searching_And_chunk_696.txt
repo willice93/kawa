@@ -1,0 +1,12 @@
+ser number
+(191491890970373). After the following URLs, I will explain the expected results.
+
+https: //www.facebook.com/search/191491890970373/visitors /intersect
+
+https: / /www.facebook.com/search/191491890970373 /usetrs-checked-in /intersect
+https://www.facebook.com/search/191491890970373 /likers /intersect
+https://www.facebook.com/search/191491890970373/photos-in/
+https://www.facebook.com/search/191491890970373/videos-in/
+https://www.facebook.com/search/191491890970373/stories-tagged/
+
+The “v

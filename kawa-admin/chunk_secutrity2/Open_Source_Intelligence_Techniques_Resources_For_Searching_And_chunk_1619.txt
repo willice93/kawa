@@ -1,0 +1,9 @@
+s works well on YouTube videos,
+complete reverse video searching across multiple networks will be explained later in this chapter.
+
+Immediate Download Options
+
+My preferred method for extracting YouTube videos was explained in Chapter Two while
+discussing Youtube-DL. However, if you have no software or browser plugins available to you,
+there is another easy option. While you are watching any YouTube video, you can add the letters
+“PWN” to the beginning of the address in order to download the vid

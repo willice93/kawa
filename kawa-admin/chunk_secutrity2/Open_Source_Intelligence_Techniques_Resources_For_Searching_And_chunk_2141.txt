@@ -1,0 +1,10 @@
+onnection from the
+real details to the connected profiles.
+
+Virtual Device Cloning
+
+There are several beneficial features that are disabled in the free version of Genymotion. Options
+such as cloning, resetting, sharing, and renaming are restricted unless you purchase a premium
+license. The following tutorials replicate these missing features, and do so legally. Genymotion
+relies heavily of VirtualBox to function. We can access our Android virtual devices within
+VirtualBox for better control of o

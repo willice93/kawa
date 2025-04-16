@@ -1,0 +1,26 @@
+Network UIOWA-AS — University of lowa (US)
+Routing 428.255.0.0/16 via AS3676
+
+Protocols 30/HTTP. 443/HTTPS
+Figure 87 Fare alarm basic information details
+
+Next, change the search string and click into the Metadata details:
+
+443.https.tls.certificate.parsed.issuet_dm: OU=Notifier
+
+W4Hosts Top MillionWebsites Certificates
+
+wth
+
+OU containing Notifier
+
+[ se
+
+Figure 88 Censys certificate
+
+
+the device type in IPv4.
+
+«certificate parsed. issuer_dn: OU-Noti fier) found 7 IPv4 hosts.
+
+Your query (#43-h

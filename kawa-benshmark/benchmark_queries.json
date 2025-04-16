@@ -1,0 +1,18 @@
+import json
+from pathlib import Path
+
+# Exemple de 5 questions typiques pour KAWA-OSINT
+benchmark_questions = [
+    "Comment retrouver l’auteur d’un post anonyme sur un forum ?",
+    "Quels outils permettent de faire de l’analyse d’image OSINT ?",
+    "Comment croiser une adresse IP avec des informations publiques ?",
+    "Quelles sont les méthodes pour faire une recherche inversée d’image ?",
+    "Comment utiliser les opérateurs Google pour affiner une enquête OSINT ?"
+]
+
+# Chemin du fichier de benchmark
+benchmark_path = Path("benchmarks/benchmark_queries.json")
+benchmark_path.parent.mkdir(parents=True, exist_ok=True)
+benchmark_path.write_text(json.dumps(benchmark_questions, indent=2, ensure_ascii=False), encoding="utf-8")
+
+benchmark_path.name

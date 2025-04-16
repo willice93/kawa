@@ -1,0 +1,28 @@
+g. These are rg
+pe
+both availability and security purposes.
+
+od for
+
+Table 33 HTIP Redirection Codes
+
+HTTP Codes Description
+
+Multiple choices
+
+The HTTP success codes will return the various HTTP codes
+numerically and a description for use as a string. Codes 207 and 208
+WebDAV can be risky, this service has a history of vulnerabilities and
+exploits.
+
+Moved permanently
+Found
+See Other (HTTP/1.1)
+
+Table 32 HTTP Success Codes Mot modified
+
+HTTP Codes Description
+
+“Use proxy (HTTP/1.1)
+
+‘Switch prox

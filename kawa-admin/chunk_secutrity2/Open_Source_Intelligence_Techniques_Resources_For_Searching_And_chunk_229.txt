@@ -1,0 +1,8 @@
+dvantage of Chrome’s power. For investigative
+purposes, Chrome can use several of the add-ons previously mentioned for Firefox. I highly
+recommend uBlock Origin as discussed previously on any browser that you use, including
+Firefox, Chrome, Safari, and Opera.
+
+The only time that I use Chrome during an investigation is when I am forced because of a
+Chrome-specific utility. There are a few extensions for Chrome that will not work on Firefox. I
+will focus on those here. Before discussing any invest

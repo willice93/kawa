@@ -1,0 +1,9 @@
+hapter 15
+
+YouTube Comment Scraper (http://ytcomments.klostermann.ca/scrape)
+
+While the video media of your target is essential to your investigation, the commentary associated
+with the posted content is equally important. Screen captures can usually identify the bulk of the
+comments attached to a video, but there are hurdles. Some viral videos will have thousands of
+comments, which will not appropriately fit into a screen capture. Other videos may have
+comments to comments, and those may need t

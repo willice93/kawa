@@ -1,0 +1,37 @@
+INT-Kali
+Credentials, 17, 18
+OSINT-Kali Distribution,
+16
+Download URL, 21
+Open OVF format, 17
+Open VM Format, 17
+OWASP
+Test OTG-CRYPST, 88
+Recon NG, 230
+Rest API, 235
+Create Report, 238
+Report Data Parameters,
+238
+Report Export, 241
+Report Index URL
+Parameter, 238
+Report Query, 239
+Report Response codes,
+239
+Report URL Parameters,
+238
+Search, 236
+Search Data Parameters,
+236
+
+Search Parameters &
+examples, 236
+
+Search Response c¢ des,
+
+237
+View, 237
+View Response codes,
+238
+View URL Parameters,
+23

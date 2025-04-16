@@ -1,0 +1,21 @@
+le versions. The
+
+rsion 1.99 banner is the way a server tells perspective clients it
+supports both SSHv1 and SSHv2. SSH version 1.5 however, is
+vulnerable due to poor integrity checking, can be exploited ems
+- session keys which can allow decryption and injection of data poe
+nerypted packets. The vulnerabilities in version 1.5 have been we
+
+known since 2001.
+
+Using the search string
+
+sik ‘a
+
+ck Report, then select from the drop down
+
+.-banner.version
+
+. fiecocmucemeanenatsinisistasiabenl
+
+deals

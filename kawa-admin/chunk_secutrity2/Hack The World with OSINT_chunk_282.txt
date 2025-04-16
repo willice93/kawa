@@ -1,0 +1,15 @@
+Country Hosts Frequency Autonomous System (AS) on Germe ¥
+s FE
+France 12,099 90.74% A4S3245,FR on "auency 34/
+Germany 504 3.78% — PROXAD,FR rae 9. Italy
+| 32.88%,
+italy 347 2.6%
+LDCOMNET, FR : : 1.188 soa ss 97
+Netherlands 97 «0.73% = ASN-BOUYGTEL-ISP. FR aa road IN ether la nas ,
+. 5.83% my
+Greece pe 0.41% DTAG Internet service provider operations, DE 316 55
+: ish 2.37%
+Switzerland 46 034% CEGETELAS FR fect’
+eels ae aoe ear Greece
+iio 38 0.28% = ASN-IBSNAZ IT ve 3 46
+uadeloupe 24 0.16% —_ASN-N

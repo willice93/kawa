@@ -1,0 +1,11 @@
+the time of this wniting.
+
+Bitcoin Who’s Who (bitcoinwhoswho.com)
+
+Our next stop is a service that provides a bit more analysis about the suspect account. We
+immediately learn that it is a suspect ransomwate account, and that the address has appeared on
+various news outlet websites. Furthermore, we see transaction IP addresses, which are likely
+behind VPNs. Overall, I use Blockchain for transaction details and Bitcoin Who’s Who to get a
+better idea of why I might care about the account.
+
+Furthe

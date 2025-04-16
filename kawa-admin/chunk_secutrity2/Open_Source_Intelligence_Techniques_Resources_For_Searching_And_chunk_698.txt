@@ -1,0 +1,11 @@
+The “photos-in” option displays images that were described as being captured while at the
+specified business. This often uncovers uset-supplied candid photos that would never be seen on
+
+the official company profile.
+
+The “videos-in” option is similar to the previous result, but only displays videos.
+
+Social Networks: Facebook 115
+
+The “stories-tagged” option displays Facebook posts that were tagged as being related to the
+tatget business profile. These often include complaints intended to promp

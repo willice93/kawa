@@ -1,0 +1,7 @@
+s tool allows you to conduct a reverse image search from the stored thumbnail images associated with videos. it will often locate additional copies of your target
+video. The resuits for each search include Google, Tineye, Yandex, Bing, and Baidu. If using Chrome, you will need to allow popups. The "Video iD" can be found
+in the address of each video page, as indicated ir: red below.
+
+Submit Reverse YouTube Video Search - ex: hitpvAvww.youtube.comiwatch ?v=VRFCMM:
+
+Submit Reverse Vimeo Video Sear

@@ -1,0 +1,6 @@
+any keyword that may help you locate a profile of interest. You
+can choose the default “Profiles” search or the focused “Twitter Bios Only” option. The “More
+Options” under the main search box will display numerous fields including Location, Name, and
+Follower details. A search of “John Smith” reveals 21,156 Twitter profiles. However, a search of
+“John Smith” from “New York City” reveals only 125 profiles. Filtering out profiles that have
+not posted at least 100 Tweets reveals only 44 profiles.

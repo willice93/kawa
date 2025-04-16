@@ -1,0 +1,7 @@
+the file. This data is called
+metadata and can be very valuable to any type of investigation. This data can often include the
+computer name the document was created on, the user name of the computer or the network,
+the software version used, and information about the network to which the computer 1s
+connected. The best way to view all this information is to use a software solution which will be
+discussed later in the book. It is also possible to view this “hidden” information online through
+a w

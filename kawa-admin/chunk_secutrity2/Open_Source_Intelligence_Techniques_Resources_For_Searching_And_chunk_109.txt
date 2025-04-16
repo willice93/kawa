@@ -1,0 +1,8 @@
+e that it is irresponsible to have absolutely no protection whatsoever. When
+I conduct investigations from a Mac computer, I possess an open-soutce antivirus solution called
+ClamAV.
+
+ClamAV (not to be confused with the unnecessary paid option of Clam XAV), is a community-
+driven antivirus database, which is freely available to anyone. It usually does not score very high
+on “Top 10 Antivirus” websites, which are usually paid advertisements. However, it is completely
+free, does not run on your sys

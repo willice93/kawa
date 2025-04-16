@@ -1,0 +1,9 @@
+pular environments.
+
+Google Takeout (takeout.google.com/settings/takeout)
+
+If your target has a Google account, there is an abundance of data available in several different
+areas. This can include Gmail messages, YouTube channels, Blogs, Calendars, Contacts, and
+many others. While logged in as the target, navigate to the above website. By default, every option
+should be selected. Clicking “Next” will forward you to a download page. Accept the default
+settings and click “Create Archive”. Google w

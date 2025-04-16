@@ -1,0 +1,8 @@
+ur should help you create
+your own investigation account. Viewing these lists is not a challenge, but proper documentation
+can be tricky. The following explains how I choose to view and document every Instagram
+follower and friend of my target account, using timferriss as an example.
+
+After logging into your account and navigating to the target profile, you will be able to simply
+click on “Followers” or “Following”. In this demonstration, I chose the people he is “following”,
+often referred to a

@@ -1,0 +1,6 @@
+number is not in your contacts, True Caller searches its database and
+provides any results on your screen. You can then choose to accept or deny the call. This is fairly
+standard and is not the interesting aspect of this service. The fascinating part to me is the source
+of their caller database. It is completely crowd sourced. When you install the app, you give it
+permission to collect all of your contacts and upload them to the master database. Basically,
+millions of users have uploaded their

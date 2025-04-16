@@ -1,0 +1,6 @@
+me. A common scenario is an investigation about some type of event. This could be a specific
+violent crime, a bomb threat on a campus, or inappropriate chatter about a particular business.
+All of these scenarios tequite search engines that monitor social network traffic. There is an
+abundance of these types of services. Some will work better on reactive investigations after an
+incident while others show their strength during proactive investigations while monitoring
+conversations. Many of the si

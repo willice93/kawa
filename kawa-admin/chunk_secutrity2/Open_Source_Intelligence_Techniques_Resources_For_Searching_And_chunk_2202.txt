@@ -1,0 +1,9 @@
+immediately execute a search. The following commands set the source of our search as the generic
+email address of bob12@gmail.com, and re-execute the script. Setting this source tells Recon-ng
+to ignore the contacts in our database, and only focus on this single address. This type of
+specification of a single source works well across several modules of the application.
+
+set source bob12@gmail.com
+run
+
+The results display the paste files that include this email within them. The raw text files fo

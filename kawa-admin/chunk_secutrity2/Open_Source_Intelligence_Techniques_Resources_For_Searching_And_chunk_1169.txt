@@ -1,0 +1,8 @@
+address. The Google
+and Bing columns will each launch a quoted search of the exact email address while the Facebook
+links will display any profile created with the chosen address. A demonstration may explain this
+process better. .
+
+Figure 8.02 (left) displays the first phase of the tool including the target information. In this
+example, I provided a first name, last name, user name, and work domain name. The other
+common entries are included by default. The result was 420 potential email addres

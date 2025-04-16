@@ -1,0 +1,6 @@
+sts. It contains the most comprehensive
+database of radio frequencies that can be monitored on personal radios and scanners. The forums
+are vety active with conversations about emergency radio traffic, hardware reviews, amateur
+radio, and frequency monitoring software. This can all be interesting content to search, but will
+rarely provide valuable intelligence. The real interest for OSINT analysts is the live and archived
+audio. The live audio feeds are free and do not require an account to acce

@@ -1,0 +1,10 @@
+ng spread over the internet. A
+positive result will display the type of malware, associated domain names, dates of discovery, and
+any comments by other researchers. Most readers that actually need this type of service likely
+already know more about it than me. However, it should be a consideration when investigating
+suspicious IP addresses.
+
+Censys (censys.io)
+
+Censys is a search engine that enables researchers to ask questions about the hosts and networks
+that compose the internet. Censys colle

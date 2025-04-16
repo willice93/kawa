@@ -1,0 +1,14 @@
+dit, highlight all of your customizations, and delete them. Click the Save button in this same
+column and then the Commit button to apply these settings everywhere.
+
+The huge benefit of uBlock Origin over other options is the simple ability to block malicious
+scripts without customization, while having an option to allow or block any or all sctipts at our
+disposal. This is a ratity in these types of add-ons.
+
+Prepare Your Computer 15
+
+31d-party
+
+invine scripts
+1st-party scripts
+3rd-party seripts

@@ -1,0 +1,10 @@
+ins an online search tool that queries
+any user name within this data set and identifies any leaked information. For many user names,
+this tool will display the first eight numbers of a ten-digit telephone number. While not complete,
+it can identify the area code and prefix of a user name, which may identify an approximate
+location such as city and state.
+
+Skype User Name (web.skype.com)
+
+Identifying a Skype user name can be an important lead. It could direct you toward additional
+searches of th

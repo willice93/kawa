@@ -1,0 +1,7 @@
+IP address. Technically, Searx.me opened the target
+site, and their data would be tracked instead of yours. There are ways for adversaries to bypass
+this "anonymity", but it is decent protection for most sites.
+
+The final benefit of this service over all others is the easy ability to export search results as a file.
+The "Links" section to the right of all search pages displays options to download a csv, json, or
+rss file of the results. The csv option is a simple spreadsheet that possesses all o

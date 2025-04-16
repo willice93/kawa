@@ -1,0 +1,8 @@
+nowing that two people both joined a local event, liked a rare page, commented on a specific
+photo, or joined a small group can generate a new lead in an investigation. Much of this
+information would not be visible on an individual’s profile. Instead of manually analyzing multiple
+profiles for common information, consider a specific URL address that will only display
+combined results.
+
+Facebook supports this type of analysis within the standard search field. Entering “Pages liked
+by Mark Zuckerb

@@ -1,0 +1,19 @@
+r under the search box. When finished, right-click on the map and select “Clear
+
+measurement’.
+
+GPS Coordinates: Clicking on any point will load a small window in the bottom center that
+identifies the exact GPS coordinates of the chosen location. If this is not visible, nght-click any
+point and select “What’s here”.
+
+@- Street View -
+
+urrently shown: May 207%
+
+Figure 12.01: Historic Street View options from Google Maps.
+
+262 Chapter 12
+
+Bing Maps (bing.com/maps)
+
+Similar to Google Maps, Bing off

@@ -1,0 +1,7 @@
+der to populate this number within the remaining search fields. This is useful when
+executing all possible searches on a single target.
+
+The following section displays the individual “liked”, “tagged”, “event”, and other information
+that was previously discussed. Make sure you are logged into to a Facebook account for this to
+function. Regardless of your browser, you may need to allow pop-ups for this to work. The next
+group will conduct the friends in common search that was previously explained

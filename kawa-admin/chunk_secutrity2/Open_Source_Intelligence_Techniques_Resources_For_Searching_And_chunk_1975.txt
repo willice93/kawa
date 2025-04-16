@@ -1,0 +1,6 @@
+e same main menu, you should see vatious check boxes in the upper right comer. Uncheck
+the box next to “Exalead”. You can try a search with this enabled, but it tends to cause problems
+due to Exalead’s API rules. Now click the “search all” button. The program will use Google and
+Bing to search for any documents on the target website that were indexed by the search engines.
+In my example, it located 107 documents on the very informative website irongeek.com. When
+it is finished searching, right c

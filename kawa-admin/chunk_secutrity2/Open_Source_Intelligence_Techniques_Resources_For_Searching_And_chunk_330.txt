@@ -1,0 +1,14 @@
+in only a few minutes.
+
+http. Computercrimeinfo.com.png http.instagram.com. tomhanks.png hitp.inteltechniques.com.png
+310.2 kB 16 MB 372.2 kB
+
+Figure 2.04: Results from an EyeWitness automated screen capture.
+
+46 Chapter 2
+
+Subdomain Utilities
+
+In Chapter Sixteen, I explain investigative techniques for domain names, and the importance of
+searching for subdomains. A subdomain is a dedicated address that is part of a larger domain,
+such as pics.inteltechniques.com. While inteltechniques.com might

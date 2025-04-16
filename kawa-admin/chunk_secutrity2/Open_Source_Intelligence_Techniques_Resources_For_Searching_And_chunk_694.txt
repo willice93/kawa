@@ -1,0 +1,7 @@
+ude references to the large retail company Target, Target Photography, Target Co.,
+Target Shooting Range, and others. A seatch by profile number solves this issue.
+
+Similar to personal profiles, you can right-click on the page and select “view source’ code” to
+display the text-only code behind the scenes of a profile. A search of “entity_id” presents the
+user number of that page. Alternatively, you can use the custom seatch tool discussed in a
+moment for an easier solution. Entering this number

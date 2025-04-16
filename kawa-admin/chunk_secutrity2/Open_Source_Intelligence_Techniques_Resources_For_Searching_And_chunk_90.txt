@@ -1,0 +1,10 @@
+ce for personal information.
+It is not a historical look at OSINT or a discussion of administrative policy. There are better
+books that tackle these subjects. Furthermore, it is not a how-to guide for criminals to steal your
+identity. Nothing in this book discusses illegal methods of obtaining information.
+
+
+Book Audience
+
+When I first considered documenting my OSINT techniques, the plan was to post them on my
+website in a private area for my co-workers. This documentation quickly turned into ov

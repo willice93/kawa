@@ -1,0 +1,8 @@
+or VirtualBox to
+function is a computer that supports virtualization.
+
+Any modern Apple product will work without any modification. Most mid-range and high-end
+Windows computers made within the past five years should have no problem, but may require
+you to enable virtualization support in the BIOS (Basic Input / Output System). Netbooks, older
+machines, and cheap low-end computers will likely give you problems. If you are in doubt about
+meeting this requirement, search for your model of computer

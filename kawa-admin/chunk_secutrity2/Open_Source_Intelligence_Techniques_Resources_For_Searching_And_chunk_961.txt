@@ -1,0 +1,9 @@
+possible. I have had limited
+success with Websta (websta.me) and Lakako (lakako.com).
+
+IntelTechniques Instagram Search Tool (inteltechniques.com/osint/instagram.html)
+
+If this seems like a lot of work for minimal information, consider using my custom Instagram
+seatch tool. Figure 6.01 displays the current version of this page, which includes the search
+options previously discussed. In this image, you can see that I have conducted the previous two
+soutce-code search methods, and the results appe

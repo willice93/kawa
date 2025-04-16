@@ -1,0 +1,7 @@
+n. Users of any skill level can now take advantage of Linux-based applications once
+restricted to those that understood programming and terminal prompts. With proper use of this
+system, you will no longer need to worty about viruses or malware. Dozens of applications, all
+included in Buscador, are explained in great detail in Chapter Two.
+
+The remaining chapters are structured a bit differently from previous editions. Instead of trying
+to combine related topics into a single chapter, such as “Te

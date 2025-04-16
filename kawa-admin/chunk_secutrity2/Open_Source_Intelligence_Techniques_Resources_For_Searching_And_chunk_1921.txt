@@ -1,0 +1,12 @@
+erous still images in chronological order.
+These are the frames from your video which can now be printed, distributed, or enhanced. If you
+have multiple videos to process, be sure to rename or remove the Frames folder before each new
+execution. Figure 19.02 displays a portion of the still frames available in the previous example.
+
+Video Audio Extraction
+
+Duting a law enforcement training event in 2015, a Detective asked if it were possible to extract
+
+Software Applications 365
+
+only the audio fe

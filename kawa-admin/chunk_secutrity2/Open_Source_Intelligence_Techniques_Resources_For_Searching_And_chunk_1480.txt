@@ -1,0 +1,15 @@
+, Prezi does not
+have this option. For all three, I recommend a custom Google seatch with the site operator. If I
+want to locate presentations including the term OSINT from Slide Share, I would use the
+
+following query.
+
+site:slideshare.net “OSINT”’
+
+278 Chapter 13
+
+Scribd (scribd.com)
+
+Sctibd was a leading cloud storage document service for several years. Since 2014, it has shifted
+its focus toward ebook sales. However, the plethora of stored documents is still accessible. This
+can be valuable

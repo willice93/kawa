@@ -1,0 +1,7 @@
+Intel Techniques4@yahoo.com, I would want to research that email address further using
+the techniques in the previous chapter. I would also want to identify any account details present
+on the service that experienced the breach.
+
+Similar to how compromised database searches are the most powerful email search option that I
+use, querying user names in this manner can be equally important. This search tool eliminates any
+laborious process and removes any excuses not to conduct this type of search

@@ -1,0 +1,13 @@
+7-12-31
+
+This same technique can be modified to display only incoming Tweets to humanhacker for these
+years. Replace “from” with “to” to obtain these results. The 2008 posts would appear as follows.
+
+to:humanhacker since:2008-01-01 until:2008-12-31
+
+You can combine all of these options into a single result, but I only recommend this after you
+have attempted the more precise options mentioned previously. While the next search should
+
+140 Chapter 5
+
+theoretically display all of his outgoing Tweets

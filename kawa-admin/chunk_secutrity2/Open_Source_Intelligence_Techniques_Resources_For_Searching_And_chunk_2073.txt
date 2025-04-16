@@ -1,0 +1,12 @@
+1000);
+
+setTimeout(function() {window.open(https://haveibeenpwned.com/api/v2/breachedaccount/
+' + all2 + '@yahoo.com?truncateResponse=true’, '2leakwindow’);} 3000);
+
+set imeout(function() {window.open(https://haveibeenpwned.com/api/v2/breachedaccount/
+"+ all2 + '@hotmail.com?truncateResponse=true'’, '3leakwindow’);} 6000);
+
+set Timeout(function() {window.open(https://haveibeenpwned.com/api/v2/breachedaccount/
+"+ all2 + '@protonmail.com?truncateResponse=ttue'’, ‘4leakwindow’);},9000);
+
+set [imeou

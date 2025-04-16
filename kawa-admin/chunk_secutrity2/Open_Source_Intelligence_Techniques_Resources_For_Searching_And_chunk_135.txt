@@ -1,0 +1,9 @@
+ection and Use: Uncheck both of these options This
+prevents Firefox from sending data about your session to their servers.
+
+about:config Settings
+
+Firefox allows users to modify many configuration settings, and some of these deal with pnvacy
+and security concerns. Though some of these changes can be made in the preferences menu of
+Firefox's preferences, changes made through about:config tend to be more durable and granular.
+To access the list of configuration settings, open Firefox and type "abo

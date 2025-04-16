@@ -1,0 +1,16 @@
+s Organization",
+
+“profilePicture": "https:\/\/scontent-lax3-1.xx.fbcdn.net\/v\/t1.0-
+1\/p200x200\/16003168_1181861118576307_67119159265131 63297_n.jpg°oh=9220f094e01
+6b60d6a99db7a30fabb3d&o0e=5ACDEF67",
+
+"width": 480,
+
+"height": 360,
+
+18 Chapter 1
+
+User Agent Switcher (addons.mozilla.org/en-US/firefox/addon /user-agent-switcher-revived)
+
+Occasionally, you may visit a website that does not want to cooperate with Firefox. Browsers
+notify websites of their identity and websites can alter or refuse

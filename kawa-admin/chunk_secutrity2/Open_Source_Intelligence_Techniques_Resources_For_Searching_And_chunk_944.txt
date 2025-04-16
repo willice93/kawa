@@ -1,0 +1,13 @@
+a.jpe
+
+166 Chapter 6
+
+Note the portion that displays s150x150. This is telling Instagram to retrieve the 150-pixel
+thumbnail for the user and display it. If you remove that portion of the URL, you will receive a
+much different result. Instead, navigate to the following URL.
+
+https://scontent-sjc2-1.cdninstagram.com/hphotos-xtp1 /t51.2885-19/917360_
+1513292768967049_387615642_a.jpg
+
+The result is the original image at full resolution. The detail of this image trumps the original
+thumbnail present

@@ -1,0 +1,11 @@
+time.
+
+e We have just successfully created a VeraCrypt volume (file container). In the VeraCrypt
+Volume Creation Wizard window, click Exit.
+
+e In the remaining steps, we will mount the volume we just created. We will return to the
+main VeraCrypt window. Select a drive letter from the list (marked with a red rectangle).
+This will be the drive letter to which the VeraCrypt container will be mounted. Click
+Select File.
+
+e In the file selector, browse to the container file (Evidence) and select it.

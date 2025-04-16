@@ -1,0 +1,6 @@
+ate several tabs on your browser, each searching for that user name
+at a popular email domain. The last two search fields replicate this search, but display the results
+within the search page for immediate viewing. This is all conducted through the application
+programming interfaces of Have I Been Pwned and Hacked Emails, and the exact technique will
+be explained in Chapter Twenty. Figure 9.01 displays results after conducting a search for the
+user name “mikeb”. The results in this example confi

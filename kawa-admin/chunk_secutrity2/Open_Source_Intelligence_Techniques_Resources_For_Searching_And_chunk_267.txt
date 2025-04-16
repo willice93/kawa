@@ -1,0 +1,6 @@
+thought was to create Bash scripts similar to batch files in
+Windows, but David came up with a much easier and more appropniate way. Every tool inside
+Buscador has its own icon in the dock, executes by clicking with a mouse, and walks the user
+through the menus. After collecting the required data, each program executes the proper
+commands behind the scenes and delivers the content directly to the user. We believe this to be
+unique in our community. Every person, at any skill level, can use Busca

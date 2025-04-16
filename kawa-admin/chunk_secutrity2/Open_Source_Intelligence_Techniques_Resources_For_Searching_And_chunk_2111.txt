@@ -1,0 +1,15 @@
+heck mark in the GPS button to confirm that your location settings are
+enabled.
+
+Android Emulation 409
+
+GAPPS Indicator: Confirms Google Services are installed.
+
+Battery Indicator: It does not have any impact on your virtual machine.
+GPS: Enable and configure the current location reported to the virtual machine.
+Webcam: Use your computer’s webcam for live video within an app.
+Screen Capture: Not available in the free version.
+
+Remote Control: Not available in the free version.
+
+Identifiers: Not

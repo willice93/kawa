@@ -1,0 +1,35 @@
+Web ‘Technologies B
+
+
+from any port.
+
+Table 40 — HTTPS Censys fields C™ examples
+
+Example
+
+443.https.tls.certificate.parsed.finger _ ae6cidie23210186
+print_md5 | Baed4e4e825b6348 |
+
+443.https.tls.certificate.parsed.signa | 2 ger remena
+ture_algorithm.name |
+
+443.https.tls. :
+
+ ct.organizational_unit
+
+eee ee Ce
+
+“4A heeps.« aati.” tsa ae, ee
+
+Ti eee ;
+
+: “443. https. tls. signature.valid Bideeryes) ie So
+
+fipedisvesion =»
+
+aA al No chai a
+
+Mea nirpe.heartbleed.heatbiced vul | Fae ae
+nerable
+
+ser

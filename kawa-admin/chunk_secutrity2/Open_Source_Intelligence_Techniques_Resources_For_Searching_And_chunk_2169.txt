@@ -1,0 +1,12 @@
+nd should now reveal the following.
+
+fo nn nn nn nn nn en en eee ee +
+| rowid | domain | module |
+do nnn nn nnn nn nn nn nn ne eee +
+| 1 | social-engineer.org | user_defined |
+fon nn ne 2 e- e + --- +
+
+We have now added this domain into our system, and any module associated with domains that
+we execute will include this target. You could add every domain of interest and execute searches
+across all at once. Typing add domains cnn.com will make for a great example for the next option.
+Once you hav

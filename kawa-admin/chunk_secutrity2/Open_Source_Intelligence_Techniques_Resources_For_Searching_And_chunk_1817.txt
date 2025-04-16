@@ -1,0 +1,6 @@
+For many years, this was my favorite option for identifying the IP address of a target. There are
+many options now, and all of them will be explained here. This specific technique involves some
+trickery and the need to contact the target from a covert account. For this demonstration, assume
+that your target has a Facebook page that he checks regularly. You can send him a private message
+that includes “bait” in the form of an online link. Before you send the message, you must create
+the link. N

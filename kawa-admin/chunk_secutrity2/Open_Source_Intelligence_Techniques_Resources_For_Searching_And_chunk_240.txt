@@ -1,0 +1,8 @@
+with large social network
+profiles and both provide no type of file management solution. While I try to focus only on free
+resources, this book would not be complete without a discussion about Hunchly. Hunchly is a
+paid tool that is designed to optimize your data capture and analysis during an OSINT
+investigation. Hunchly takes full content captures of every page that you visit so that you don’t
+lose information during the course of your investigation. Additionally, it automatically does the
+
+f

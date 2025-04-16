@@ -1,0 +1,17 @@
+ontreal. Quebec (CA) [Details]
+
+209.58.129.99 pride this im witn ven
+
+San Jose, California {US} iDetails}
+
+209.558.129.899, 198.143.3433
+
+Figure 1.16: A Tor IP address and location (top) and actual data (bottom).
+
+Prepare Your Computer 29
+
+Virtual Private Network (VPN)
+
+I have one last topic to present before proceeding to actual search techniques. It ts a technology
+that I strongly support, and carries a minimal cost. I believe that every OSINT researcher should
+possess and use a virtual privat

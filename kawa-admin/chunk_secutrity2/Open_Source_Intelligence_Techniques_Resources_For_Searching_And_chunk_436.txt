@@ -1,0 +1,7 @@
+earch google.com, but a website is required
+to get to the control panel. Save your engine and open the control panel to configure the options.
+
+In the “Sites to search” portion, choose the “Search only included sites” option and change it to
+“Search the entire web but emphasize included sites” option. Delete google.com from the sites
+to be searched. You now basically have a custom search engine that will search everything. It will
+essentially do the same thing as Google’s home page. You can now

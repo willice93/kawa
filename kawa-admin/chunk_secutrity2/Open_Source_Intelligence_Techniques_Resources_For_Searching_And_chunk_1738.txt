@@ -1,0 +1,8 @@
+fail. It will then use a list of numerous
+common subdomain names and attempt to identify any that are present. If any are located, it will
+note the IP address assigned to that subdomain and will scan all 254 IP addresses in that range.
+In other words, it will attempt to identify new ateas of a website that may not be visible from
+within the home page. The following example may help to clarify.
+
+The website at phonelosers.org is a blog that appears to have no further content to be analyzed.
+Sear

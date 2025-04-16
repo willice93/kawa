@@ -1,0 +1,30 @@
+scanned are running
+
+HTTP or HTTPS services.
+
+Web Technologies 69
+
+References
+
+PRISM ae ed /esiki/PRISM_(
+htt ./ Jen. ‘ ipe ja.org _(surveill Ch. |
+pan) ie | Web tech nologies apter 5
+
+INFORMATION IN THIS CHAPTER:
+
+Deeps dives into HTTP and HTTPS
+
+Codes & status of the protocols
+
+HTTP/S Metadata
+
+Insecure HTTPS certificate security discovery
+Case Study: Responsible disclosure to the NSA
+
+He who would search for pearls must dive below.
+
+- John Dryden
+
+5 HTTP & HTTPS
+
+5.1 Introduction to Censys HT

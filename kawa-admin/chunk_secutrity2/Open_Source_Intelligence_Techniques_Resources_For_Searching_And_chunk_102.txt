@@ -1,0 +1,7 @@
+various popular and lesser known search
+websites. This may have been due to my own impatience and desite to “jump in” and start finding
+information. This edition will begin much differently. Before you attempt any of the search
+methods within this book, I believe you should prepare your computing environment.
+
+I was motivated to begin with this topic after teaching a multiple-day OSINT class. On day two,
+several attendees brought laptop computers in order to attempt the techniques I was teaching

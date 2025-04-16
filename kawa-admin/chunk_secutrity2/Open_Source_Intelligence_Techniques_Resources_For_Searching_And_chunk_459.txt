@@ -1,0 +1,6 @@
+ducting a Google search, notice the result address directly below the link to the website.
+You will see a green down arrow that will present a menu when clicked. This menu will include
+a link titled “Cached”. Clicking it will load a version of the page of interest from a previous date.
+Figure 3.05 (first image) displays a search for phonelosers.org which retums a result that includes
+a cached version of the page. This version was taken four days prior to the current date, and
+displays informatio

@@ -1,0 +1,19 @@
+ript>
+
+<form onsubmit=“dofullcontact(this.femail.value); return false;’>
+
+394 Chapter 20
+
+<input type=“text” name=“femail” size=“40” value=“Email Address” />
+
+<input type=“submit” /></form>
+
+<script type=“text/javascript”>
+
+function dofullcontact2(phone) {
+window.open(https://api.fullcontact.com/v2/person.html?phone=+1' + phone +
+'&apiKey=XXX, 'contactwindow2’);} </script>
+
+<form onsubmit=“dofullcontact2(this.fcp.value); return false;’>
+
+<input type=“text” name=“fcp” size=“40” value=“Telephone N

@@ -1,0 +1,6 @@
+are located. You could also load the Bing
+Maps web page within a browser and ask it to center to your location. With both of these options,
+you may be prompted to “Allow” or “Deny” the device from obtaining your location details.
+You must choose “Allow” for this to function. After you have your desired location configured
+and you have confirmed accuracy, you can start to put this feature to work. The following tutorials
+will explain how location-aware applications could be used in investigations

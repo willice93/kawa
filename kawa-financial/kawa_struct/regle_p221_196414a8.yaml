@@ -51,3 +51,36 @@ cas_pratique: 'Nom : Jean Dupont, Ingénieur en mécanique et consultant indépe
   de CSG déductible sera calculé automatiquement par le logiciel utilisé pour la déclaration
   des impôts. Il n''est pas nécessaire de le calculer soi-même ni de le corriger dans
   le montant prérempli de la rubrique 6DE.'
+embedding_text: "Règle : Règle applicabile a tous les contribuables qui déclarent\
+  \ leurs revenus en ligne 2BH (imposition au barème) ou 2DF, quelle que soit leur\
+  \ option d'imposition.\n\n   Les conditions pour obtenir un montant de CSG déductible\
+  \ sont :\n      - Declaration des revenus dans la ligne 2BH ou 2DF\n      - Optention\
+  \ de l'imposition au barème ou quelque chose d'autre\n\n   Les montants concernés\
+  \ sont les revenus déclarés sur les lignes 2BH et 2DF. Le plafond est de 6,8 % pour\
+  \ tous les revenus considérés.\n\n   La formule de calcul applicable est la multiplication\
+  \ des revenus par 6,8 %.\n\n   Pour être sûr d'y avoir droit, il faut vérifier que\
+  \ vous avez bien déclaré tous les revenus sur les lignes 2BH ou 2DF et que vous\
+  \ avez choisi soit l'imposition au barème ou une autre option d'imposition. Le montant\
+  \ de CSG déductible sera calculé automatiquement par le logiciel utilisé pour la\
+  \ déclaration des impôts. Il n'est pas nécessaire de le calculer soi-même ni de\
+  \ le corriger dans le montant prérempli de la rubrique 6DE. Le montant sera ajouté\
+  \ automatiquement lors du calcul de l'impôt sur les revenus de 2023.\nCas pratique\
+  \ : Nom : Jean Dupont, Ingénieur en mécanique et consultant indépendant\n\nContexte\
+  \ : À la fin de l'année 2022, vous avez déclaré votre revenu net imposable sur les\
+  \ lignes 2BH et 2DF. Vous avez choisi l'option d'imposition au barème pour votre\
+  \ impôt sur le revenu.\n\nMontants concernés : Votre revenu net imposable a été\
+  \ de 60,000 € en 2022 (ligne 2BH), et vous avez un revenu supplémentaire de 15,000\
+  \ € déclaré sur la ligne 2DF.\n\nDéclaration : Vous avez indiqué votre choix d'imposition\
+  \ au barème dans les bonnes cases (cas 1AK pour l'imposition au barème).\n\nComparaison\
+  \ : Si vous aviez choisi le régime de micro-entreprise, vous n'auriez pas pu bénéficier\
+  \ du mécanisme de CSG déductible.\n\nCalcul clair avec des chiffres ronds : Le montant\
+  \ de revenus considéré pour calculer le CSG déductible est la somme de votre revenu\
+  \ déclaré sur les lignes 2BH et 2DF, soit un total de 75,000 €. La formule de calcul\
+  \ applicable est la multiplication des revenus par 6,8 %. Donc, le montant de CSG\
+  \ déductible sera de 75,000 € * 6,8 % = 5,100 €.\n\nConclusion : Pour bénéficier\
+  \ du montant de CSG déductible à l'impôt sur les revenus de 2023, veuillez vérifier\
+  \ que vous avez correctement déclaré tous vos revenus sur les lignes 2BH et 2DF\
+  \ et que vous avez choisi l'imposition au barème. Le montant de CSG déductible sera\
+  \ calculé automatiquement par le logiciel utilisé pour la déclaration des impôts.\
+  \ Il n'est pas nécessaire de le calculer soi-même ni de le corriger dans le montant\
+  \ prérempli de la rubrique 6DE."

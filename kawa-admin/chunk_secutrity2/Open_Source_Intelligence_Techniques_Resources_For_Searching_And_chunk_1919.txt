@@ -1,0 +1,13 @@
+file downloaded earlier will extract stl
+images from practically any video and save them as uncompressed bitmap (BMP) files. Create
+another text file within your video folder and title it extract.bat. Type the following text into the
+document and save it.
+
+set /p VIDEO=Enter full name of video file on desktop:
+
+md “Youserprofile%\ desktop \ frames”
+
+ffmpeg.exe -y -i “Youserprofile%\desktop\%VIDEO%” -an -r 10
+“Youserprofile%\ desktop \ frames \img%%3d.bmp”
+
+It is very important that these files

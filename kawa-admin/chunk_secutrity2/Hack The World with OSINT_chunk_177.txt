@@ -1,0 +1,17 @@
+mens rename Lns A
+“TWCABLE-BACKBONE - Time Warner Cable Internet ie <a
+‘LEVEL3- Level ee Loy on US oe ae Se a . See 181%
+TUNET-MMGl Communications Services, inc d/bfaVerimmBustress,US < ion ea
+XO-AS15- - MCI Communications Services, Inc. d/b/a Verizon Business, US 3s i
+BTN-ASN- PCCW Global, Inc, US ee a SS a Oh
+
+cMCS- Comcast Cable 5 Colmnurteations | LIC, US. 2 0.9%
+
+Figure 46 Censys M etadata Network Breakdown of certificates with alternate
+DNS names containing NSA.gov
+
+ommon Tags
+
+ile
+
+Tag Ho

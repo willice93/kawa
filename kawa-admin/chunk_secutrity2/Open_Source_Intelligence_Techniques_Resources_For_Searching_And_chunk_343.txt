@@ -1,0 +1,8 @@
+Python scripts, databases,
+and a web server. Fortunately, Buscador users do not need to worry about installation and
+configuration. This build is ready to use the moment you click the SpiderFoot button.
+
+After launching SpiderFoot from your browser of choice, you should be presented with a menu
+that displays an empty scan history. Clicking the New Scan button launches the selection menu.
+Here you can provide a “Scan Name” for your search and select the depth. Many users will accept
+the default

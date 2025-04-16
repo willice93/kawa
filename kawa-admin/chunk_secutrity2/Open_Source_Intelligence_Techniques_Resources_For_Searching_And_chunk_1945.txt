@@ -1,0 +1,8 @@
+e present. The program previously allowed searching
+of any combination of Twitter user names, Instagram user names, Flickr user IDs, or locations.
+However, it currently only works with Twitter data, as Instagram and Flickr have blocked the
+application by changing their own API rules.
+
+Before attempting a search, click on “Edit” in the menu and then “Plugins Configuration”. The
+Twitter plugin will ask you to log into your account and will guide you through the API setup
+process. Look for the butt

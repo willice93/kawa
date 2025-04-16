@@ -1,0 +1,6 @@
+ed of a video file. He had several video files containing suspect interviews, and
+did not want to be stuck next to a computer in order to review the recordings. He believed there
+would be value in the ability to possess an audio file that could be played universally on any
+mobile platform. During the class, I created a batch file that used FFmpeg to extract the audio
+from any video file. Enter the following into a text file and save it as audio.bat within the same
+video folder created earlier. T

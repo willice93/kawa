@@ -1,0 +1,7 @@
+hlight locations that may be of
+interest. This search field is the first stop. Attempt any search relevant to yout investigation and
+you may be surprised at how accurate Google is. You can collapse this entire menu by clicking
+the left arrow next to the search field. This will return you to a full screen view of the map.
+
+Satellite /Earth View: The lower left area of any map will offer a satellite and earth view. The
+satellite view is a direct view from the sky looking almost straight down. The

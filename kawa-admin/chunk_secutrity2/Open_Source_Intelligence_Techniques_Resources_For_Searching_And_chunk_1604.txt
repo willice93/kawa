@@ -1,0 +1,9 @@
+identify the videos uploaded by that user.
+
+Many people use YouTube as a social network, leaving comments about videos and participating
+in discussions about various topics. If you locate a video of interest, it is important to also retrieve
+this text information. Each comment below a video will include the user name that created the
+comment, which will link to that user’s profile.
+
+A search for “school bus fight” returned over 342,000 video links on YouTube. Adding a search
+term such as the ci

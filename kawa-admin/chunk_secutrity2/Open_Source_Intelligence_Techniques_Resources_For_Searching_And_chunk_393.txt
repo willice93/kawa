@@ -1,0 +1,11 @@
+r.“private” may actually
+
+58 Chapter 3
+
+be public if he or she ever linked to them from a public page. Once Google has indexed the page,
+we can view the content using the “site” operator.
+
+Real World Application: While conducting private background checks, I consistently use the
+site operator. I was once supplied a cellular telephone number of an applicant for a very public
+position. A search on craigslist.org of this number revealed no results. A Google search of
+“site:craigslist.org” and the p

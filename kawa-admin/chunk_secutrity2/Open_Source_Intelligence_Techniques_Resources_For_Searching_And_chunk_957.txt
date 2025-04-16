@@ -1,0 +1,6 @@
+Each user is likely mentioned twice within your results. This is due to a hyperlink from
+their name, and an additional link from their profile photo. While in Excel, select the column
+where you pasted the results. Click on the “Data” tab and choose “Remove Duplicates”. Column
+A will now only contain one URL per account. In Calc, select the column where you pasted the
+results (A). Click on “Data” > “More Filters” > “Standard Filter”, then expand “Options”. In
+the top right “Value” field, choose “

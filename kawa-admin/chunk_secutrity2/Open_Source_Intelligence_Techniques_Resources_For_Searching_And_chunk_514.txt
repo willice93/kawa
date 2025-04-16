@@ -1,0 +1,10 @@
+terms, specific domains, file formats, and languages.
+
+Additional Google Engines
+
+Google isolates some search results into specialized smaller search engines. Each of these focuses
+on a unique type of internet search. The following engines will likely give you results that you will
+not find during a standard Google or Bing search. While some results from these unique searches
+will appear within standard Google results, the majority will be hidden from the main page.
+
+Google Blogs (google.com)

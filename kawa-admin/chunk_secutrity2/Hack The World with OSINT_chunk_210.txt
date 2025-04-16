@@ -1,0 +1,18 @@
+g a dork from 2016 submitted by an anonymous
+
+person to the Google Hacking Database GHDB-ID: 4316, the dork
+will use the [Pv4 web search.
+
+80.http.get.body: Portal/Portal.mwsl
+
+Contained in the 80.http.get.body HTML code is an a href HTML
+link to a URL with the matching properties.
+
+"80": {
+"http" : {
+“pet: {
+\n po PE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Tr
+<body>\r\n SIMATIC 300(1)\r\n = </title>\r\n = <MET
+Sees ms nref=\"/__INTERNAL_Portal/Portal .mus1?h
+
+Figure 67 Siemens Simatic link in HTML.

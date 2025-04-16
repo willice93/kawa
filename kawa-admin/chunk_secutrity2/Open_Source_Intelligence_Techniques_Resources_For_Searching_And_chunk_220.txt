@@ -1,0 +1,11 @@
+rwrite
+your current version if you have bookmarks, extensions, or other data that you want to keep.
+You should backup any settings if proceeding on an older install. As a final warning, the following
+steps will overwrite any custom options applied to your Firefox installation.
+
+e Navigate to the following website and download the compressed zip file. Unzip the file,
+which contains a folder called Profile, to your Desktop.
+
+https: / /inteltechniques.com/data/profile2018.zip
+
+e Open your version o

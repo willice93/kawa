@@ -1,0 +1,8 @@
+er. If you are investigating a shortened URL link that was
+not mentioned, consider using the catch-all service at CheckShortURL (checkshorturl.com).
+
+IntelTechniques Domain Search Tool (inteltechniques.com/intel/OSINT/domain.search. html)
+
+Similar to the previous custom search tools hosted on IntelTechniques.com, I have created a
+page for easier domain searching. While it does not possess every service discussed here, it can
+automate queries across the most beneficial options. The first box acce

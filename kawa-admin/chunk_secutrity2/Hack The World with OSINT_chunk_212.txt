@@ -1,0 +1,29 @@
+using the [Pv4 option, looking directly for the weak
+random generator in the HTML body.
+
+Bete cee me = 30.http.get body: ‘java.util Randonr
+
+iPv4 Hosts
+
+Page 1/1 Results 13 Time &16ms
+
+<Ch- & ALIBABA-CN-NET-AP Hangzhou Alibaba Advertis
+mu © 443/https, 80/http
+ing &@ Stevy Qi's blog & blog-stevygi.com
+
+2. 80. http.get. body: util . Random; public
+
+Figure 68 Censys weak, java.uttl Random search
+
+Dorking 109
+
+ay)
+
+g9/HTTP
+
+GET /
+Server nginx 1.5.9
+Status Line 200 OF
+Page Title Stevy Q's blog
+
+, “

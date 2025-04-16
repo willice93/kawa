@@ -1,0 +1,10 @@
+t(function() {window.open(https://haveibeenpwned.com/api/v2/breachedaccount/
+'+ all2 + '@live.cometruncateResponse=true’, 'Sleakwindow’);},12000);
+
+set imeout(function() {window.open(https://haveibeenpwned.com/api/v2/breachedaccount/
+"+ all2 + '@outlook.comPtruncateResponse= true’, '6leakwindow’);},15000);
+
+set limeout(function() {window.open(https://haveibeenpwned.com/api/v2/breachedaccount/
+'+ all2 + '@icloud.com?truncateResponse=ttue’, '7leakwindow’);},18000);
+
+set imeout(function() {window.o

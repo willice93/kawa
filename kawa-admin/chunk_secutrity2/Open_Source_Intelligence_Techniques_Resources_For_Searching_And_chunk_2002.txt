@@ -1,0 +1,10 @@
+oose an encryption algorithm and a hash algorithm for the volume. If you are not sure
+what to select here, you can use the default settings and click Next.
+
+Specify the size of our VeraCrypt container. This needs to be large enough to store
+current and future evidence. Consider at least a few gigabytes. Click Next.
+
+Choose a strong volume password, and type it in the first input field. Then retype it in
+the input field below the first one and click Next.
+
+Move your mouse as randomly as possible

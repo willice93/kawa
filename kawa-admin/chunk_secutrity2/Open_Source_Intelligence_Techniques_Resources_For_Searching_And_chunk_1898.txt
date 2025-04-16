@@ -1,0 +1,7 @@
+rd number and identify the brand, issuing
+bank, card type, card level, country, bank website, and customer care line.
+
+Real World Application: While working in the homicide division, I often identified credit or
+debit card numbers of my victims. If the actual card was located, I did not need this service.
+However, if only the number was located, this service helped to identify the financial institution
+and a contact number. In one specific investigation, I had learned that the victim had eaten a

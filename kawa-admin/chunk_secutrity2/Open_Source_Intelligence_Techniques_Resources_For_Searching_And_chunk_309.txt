@@ -1,0 +1,12 @@
+download all of the videos, one at a
+time, from that page. At completion, the File Manager opens and displays all of the files. Figure
+2.03 (right) displays this process in action.
+
+You may wonder what is happening behind the scenes during these downloads. When Buscador
+prompts you for the URL of the video or bulk video page, it enters the supplied data into a pre-
+configured terminal command. As of this writing, the basic command is as follows with an
+explanation after each.
+
+42 Chapter 2
+
+you

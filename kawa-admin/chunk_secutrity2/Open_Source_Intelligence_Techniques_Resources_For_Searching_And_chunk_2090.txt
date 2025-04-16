@@ -1,0 +1,9 @@
+processor, or email client would open. It will have the exact same appearance as
+if you were staring at a telephone or tablet. Any actions that you take within this emulated device
+will not affect anything else on your computer. Think of it as an encapsulated box, and nothing
+comes in or gets out. A great feature of emulation is that you can create unlimited virtual devices.
+You could have one for every investigation in order to prevent any contamination.
+
+Android Emulation 405
+
+Some readers wil

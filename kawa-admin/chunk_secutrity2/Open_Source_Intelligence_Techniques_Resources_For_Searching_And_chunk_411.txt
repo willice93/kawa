@@ -1,0 +1,17 @@
+u may have search terms that are not definitive. You may have a target that has a unique last
+name that is often misspelled. The “OR” (uppercase) operator returns pages that have just A,
+
+just B, or both A and B. Consider the following examples which include the number of results
+each.
+
+62 Chapter 3
+
+“Michael Bazzell” OSINT 1,390
+
+“Mike Bazzell’” OSINT 794
+
+“Michael Bazzell” OR “Mike Bazzell” OSINT 1,800
+“Michael Bazell” OR “Mike Bazell’” OSINT 74
+“Michael Bazzel” OR “Mike Bazzel’’ OSINT 75
+
+Ast

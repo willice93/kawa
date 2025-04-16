@@ -1,0 +1,10 @@
+etwork
+profiles. The URL would be changed to the following address.
+
+https: //api.fullcontact.com/v2/person.html?email=lorangb@gmail.com&apiKey=XXX
+
+In 2012, Full Contact added new search features to their API. You can now search by Facebook
+name, Twitter handle, and telephone number. Also, you can search an email address to identify
+the likelthood that it is an anonymous account. The Facebook search would appear as follows.
+
+https: / /api.fullcontact.com/v2/person.html?facebookusername=bart.lor

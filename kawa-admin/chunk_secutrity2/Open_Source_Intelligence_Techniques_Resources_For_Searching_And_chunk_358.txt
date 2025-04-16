@@ -1,0 +1,8 @@
+of my training
+toward that environment and abandoned the USB boot devices. We didn’t even make a USB
+option available during the first release. Several people contacted me stating that they still wanted
+the option of booting an investigation computer into a safe Linux environment without launching
+their host operating system. Since options are always good to have, I have abbreviated and
+updated the previous USB instruction into the most applicable information for our needs.
+
+Buscador Linux Virt

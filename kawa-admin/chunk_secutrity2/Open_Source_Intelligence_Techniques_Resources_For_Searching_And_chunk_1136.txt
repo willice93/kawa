@@ -1,0 +1,6 @@
+ord and location. The results identify the usual information including item
+description and approximate location. OfferUp follows the eBay model of including the seller’s
+user name and rating. The unique option with OfferUp is the ability to locate the actual GPS
+coordinates associated with a post instead of a vague city and state. This information is not
+obvious, but can be quickly obtained. While on any post, right-click and choose to view the page
+source. Inside this new tab of text should be

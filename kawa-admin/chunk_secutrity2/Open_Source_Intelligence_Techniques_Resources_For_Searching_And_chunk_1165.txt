@@ -1,0 +1,11 @@
+ail address, in order to find valid email accounts. |
+
+If I had no email address or user name for my target (Jay Stewart), but I knew that he worked at
+the Illinois Medical District Commission (medicaldistrict.org), I may start searching for the
+following email addresses.
+
+jstewart@medicaldistrict.org j-stewart@medicaldistrict.org
+jay.stewart@medicaldistrict.org stewartj|@medicaldistrict.org
+
+These ate merely assumptions of potential addresses. Most, if not all, of them do not exist and
+will pro

@@ -1,0 +1,6 @@
+o includes time stamps that identify the frame in which each piece of text is spoken.
+YouTube does not provide a way to obtain this text file, buat Downsub does. Copy an entire URL
+of any YouTube video with closed captioning. Paste this link into this website and execute the
+ptocess. This will display download links for the captioning inside the video. Links for each
+language will download text files with an .srt file extension. These automated captions are not
+usually completely accurate. Slang

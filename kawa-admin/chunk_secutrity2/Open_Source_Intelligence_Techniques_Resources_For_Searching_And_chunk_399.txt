@@ -1,0 +1,10 @@
+history, education information,
+references, and other personal information that would never be intentionally posted to the
+internet. The “filetype” operator can identify any file by the file type within any website. This can
+be combined with the “site” operator to find all files of any type on a single domain. By
+conducting the following searches, I was able to find several documents stored on the website
+irongeek.com.
+
+site:irongeek.com filetype:pdf
+site:irongeek.com filetype:ppt
+site:irongeek.

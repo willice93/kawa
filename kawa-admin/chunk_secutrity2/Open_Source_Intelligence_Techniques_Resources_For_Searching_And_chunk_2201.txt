@@ -1,0 +1,10 @@
+ich
+contain the target email addresses, and also download the entire paste document to a text file.
+The following commands load the module and then execute it.
+
+use recon/contacts-credentials/hibp_ paste
+run
+
+In our example, there were no pastes that included the single email address that we have stored
+in our contacts. We could add more addresses through the method explained earlier, but that may
+be overkill for many scenarios. There is an easier way to define an email address as our target and

@@ -1,0 +1,9 @@
+does, $25 will obtain title and mileage information. I only
+use this as a free resource for verifying motorcycle VINs to the correct year and make.
+
+Vehicle Registration
+
+Several free services identify the year, make, and model of vehicle after supplying the license plate
+registration. As a test, I submitted a vehicle’s registration number which was displayed on a
+television show playing at the airport while I wrote this section. The result correctly identified the
+vehicle as a 2010 Dodge Aveng

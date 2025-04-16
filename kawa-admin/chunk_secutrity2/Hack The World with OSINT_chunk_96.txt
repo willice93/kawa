@@ -1,0 +1,29 @@
+w.patery
+) https: //github.com/mp
+
+a.com/web7 / downloads.php
+
+arsOns/maltego_censys
+
+Tool Setup 21
+
+com/zmap/zgrab
+
+FTP, SSH and Telnet
+
+INFORMATION IN THIS CHAPTER:
+
+Using Censys to survey remote management protocols
+Discovering specific configurations
+
+=" Specific vendor discovery via protocol dorking
+
+" Finding vulnerable systems
+
+When the internet gives you remotely exploitable systems, take
+them. They're like free samples, right?
+
+- Chris Kubecka
+
+3 Remote Management
+LIME A KID IN A CANDY

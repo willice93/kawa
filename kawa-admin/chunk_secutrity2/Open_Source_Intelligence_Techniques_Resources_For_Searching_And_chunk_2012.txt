@@ -1,0 +1,14 @@
+h the software, select the drive that stored the files, and click Scan. The window below will
+populate with all of the files still present within the deleted area. After the scan completes,
+selecting the desired content and clicking the Recover button in the lower left quickly undeletes
+the files. This program has saved me many times, both during investigations and personal usage.
+
+Software Applications 385
+
+386 Chapter 20
+
+CHAPTER TWENTY
+
+APPLICATION PROGRAMMING INTERFACES
+
+This chapter will be

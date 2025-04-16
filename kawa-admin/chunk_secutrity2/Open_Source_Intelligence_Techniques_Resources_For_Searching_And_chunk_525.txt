@@ -1,0 +1,6 @@
+ing; however, there is an additional feature. The left column of
+the screen includes categories created by the search results. The results include topics, people,
+places, and organizations related to the target. Clicking these categories will filter the search
+results to only match the topic, person, place or organization that is selected. Clicking the
+selection again will un-filter the results. This can be very helpful when the target has a common
+name. The results can be overwhelming, but the

@@ -1,0 +1,9 @@
+ring my investigations, I was often asked to forward any video
+evidence to a prosecutor. If I hada hard time playing the video, it was certain that the prosecutor
+
+364 Chapter 19
+
+would have difficulty. Therefore, I always submitted both the original evidence video and a
+converted copy that should play on any computer. We can use the ffmpeg.exe file to convert any
+playable video to a standard MP4 format. Create another text file within your video folder and
+title it converter.bat. Type the follo

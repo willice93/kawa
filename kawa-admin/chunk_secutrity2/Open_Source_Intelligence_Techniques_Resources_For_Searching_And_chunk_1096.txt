@@ -1,0 +1,11 @@
+for the search. The word “comments” will be visible on every Disqus
+provided environment and there will also be a link to disqus.com. Therefore, the following search
+on Google should provide any websites that have the Disqus comment delivery system and also
+have a reference to OSINT.
+
+33 ce
+
+“osint” “disqus” “comments”
+
+This may produce some non-Disqus results that happen to possess all three words, but those
+should be rare. This will also identify many pages that do not contain any comments wh

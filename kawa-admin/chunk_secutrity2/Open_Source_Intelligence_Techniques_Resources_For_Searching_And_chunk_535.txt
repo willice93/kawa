@@ -1,0 +1,9 @@
+anyone conducting network surveillance or traffic analysis. Using
+Tor makes it more difficult for internet activity to be traced back to the user. This also applies to
+a website that is hosted on the Tor network. Usually, these sites include illegal drug shops, child
+pornography swaps, and weapon sales. Because these sites are not hosted on publicly viewable
+networks, they are hard to locate and connect. Two search engines and a proxy aid this process.
+
+Ahmia (ahmia.fi)
+
+This is a very powerful

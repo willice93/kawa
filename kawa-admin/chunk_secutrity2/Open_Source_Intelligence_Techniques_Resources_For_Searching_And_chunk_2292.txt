@@ -1,0 +1,7 @@
+ears of OSINT work, my documentation method was simple. Open Microsoft Word, add
+a few case descriptors, and start hunting. As I found interesting information, I would include a
+brief statement or two and then add a screen capture. I would then repeat until the case ran dry.
+I am embarrassed to look at these reports today.
+
+I no longer document any findings until the end of my case. As long as you are using FireShot
+(free) or Hunchly ($), every screen capture is date and time stamped. You do not

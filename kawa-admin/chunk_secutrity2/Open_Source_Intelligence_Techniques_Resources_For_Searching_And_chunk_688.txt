@@ -1,0 +1,13 @@
+You can use a similar technique to discover the length of time that two users have been friends
+on Facebook and immediately see commonalities of both users. The URL structure is as follows.
+
+https://www.facebook.com/USERNAME1?and=USERNAME 2
+
+Social Networks: Facebook 113
+
+If you wanted to see information of the two users that were mentioned earlier (Mark Zuckerberg
+and Chris Hughes), you would enter the following URL.
+
+https://www.facebook.com/zuck?and=ChrisHughes
+
+Note that these searches can u

@@ -1,0 +1,16 @@
+ommend “Whats
+Their IP” and a bit of creativity.
+
+Opened: Apr 26, 2013
+Operating System: Windows 7
+Device Type: Desktop
+
+Country: © united States
+City: Saint Charles
+
+Figure 17.05: A BananaTag response.
+Get Notify (getnotify.com)
+
+Similar to BananaTag, Get Notify tracks the opening of email messages and presents the
+connection information of the target. However, this service is completely free and does not
+requite Gmail as your email provider. You will need to create an account through the Get N

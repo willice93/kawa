@@ -1,0 +1,11 @@
+es should explain the options.
+
+date:20111201..20111231 OSINT — Websites mentioning OSINT between December 1-31, 2011
+date:2011* OSINT — Websites mentioning OSINT in the year 2011
+
+date:201112* OSINT — Websites mentioning OSINT in December of 2011
+
+date:>20111201 OSINT — Websites mentioning OSINT after December 1, 2011
+
+Standard operators: Most of the operators explained earlier for Google and Bing should also
+work in Yandex. The commands for Site, Domain, Inurl, and Intitle should work the same

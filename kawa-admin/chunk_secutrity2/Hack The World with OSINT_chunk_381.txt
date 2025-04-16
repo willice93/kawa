@@ -1,0 +1,18 @@
+nsysio_sectet
+
+Description:
+Queries the censys.lo API to enumerate information about
+netblocks.
+Options:
+Name Current Value _ Required Description
+eivicge ee yes toggle rate limiting
+RATE 0.2 yes sdarch. eadpoint leak rate
+(tokens/ second)
+SOURCE default yes source of input (see ‘show info’ for
+details)
+Source Options:
+default SELECT DISTINCT netblock FROM netblocks
+WHERE netblock IS NOT NULL
+<sting” string representing 4 single input
+<path> path to a file containing 4 list of inputs
+quety <sql>

@@ -1,0 +1,11 @@
+en captures and link collection with this add-on provides a much more
+comprehensive report. |
+
+22 Chapter 1
+
+Importing a Pre-Configured Profile
+
+At this point, it may seem overwhelming when thinking about the abundance of add-ons and
+their proper configurations. I currently use several Windows, Apple, and Linux virtual machines
+and must keep my Firefox browser updated on all of them. I no longer manually update each
+browser. Instead, I maintain a single Firefox browser that includes all customiz

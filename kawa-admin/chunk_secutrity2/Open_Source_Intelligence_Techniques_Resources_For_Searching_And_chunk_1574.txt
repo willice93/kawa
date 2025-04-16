@@ -1,0 +1,9 @@
+here at 100% (16% the area of the aricinal)
+
+Figure 14.05: A Jeffrey’s Exif Viewer summary result displaying an orginal uncropped photo.
+Exif Search (exif-search.com)
+
+The idea of searching within the metadata stored within images has intrigued online researchers
+for years. Many people ate surprised that Google has not tackled this obstacle. Exif Search is a
+setvice that allows limited search within this metadata, but it is far from perfect. After creating a
+free account, the main page will pres

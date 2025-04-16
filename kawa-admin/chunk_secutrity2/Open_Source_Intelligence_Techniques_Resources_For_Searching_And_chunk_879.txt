@@ -1,0 +1,9 @@
+oo email address. You will need to confirm that you want to give Twitter access to your
+Yahoo contacts by clicking “I agree” on the pop-up window. Twitter will then identify any user
+profiles that are associated with the target email address. Twitter will encourage you to add these
+friends, but do not choose that option. If you do, your target will be sent a notification from your
+account.
+
+Embedded Photos
+
+It is very common for users to include digital photos within their Tweets. There are mult

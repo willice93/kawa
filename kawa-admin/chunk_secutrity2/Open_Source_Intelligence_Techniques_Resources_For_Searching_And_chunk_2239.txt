@@ -1,0 +1,10 @@
+rcement at the door. This can be a huge officer safety concern. There are too many
+frequencies available to these devices to list here. Instead, I recommend a scan of the following
+two ranges. Be warned that you may encounter cordless telephones within this range. If you do,
+block the frequency in order to avoid any law violations.
+
+Radio Frequency Monitoring 435
+
+902.000 MHz - 908.000 MHz 923.000 MHz - 928.000 MHz
+
+The 2.4 GHz models are often encrypted and change frequencies sporadically. Addi

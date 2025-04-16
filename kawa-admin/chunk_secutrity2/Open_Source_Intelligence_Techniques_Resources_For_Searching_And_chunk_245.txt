@@ -1,0 +1,6 @@
+res no installation.
+After download, unzip the file and extract all of the data. You are now ready to start the program
+by double clicking the “Start Tor Browser” icon. ‘The first task that Tor will complete is to create
+a connection to a Tor server. This connects you to a server, usually in another country, and routes
+all of your internet traffic through that server. After the connection is successful, it will load a
+custom version of the Firefox browser. Now, every website that you visit throu

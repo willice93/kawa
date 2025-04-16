@@ -1,0 +1,10 @@
+acy-training.com
+Twitter.com /inteltechniques
+Automatingosint.com
+Instagram.com/tomhanks
+
+Now that I have a text file with a list of domains, I can select this file within EyeWitness.
+EyeWitness visits each domain and collects a screen capture, saving each to the install directory.
+This folder will open at the completion of the capture. At the top, there will be a new folder titled
+similar to 01242018_190646. This title is a date and time stamp which indicates that it was created
+on 01/24/2018 a

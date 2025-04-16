@@ -1,0 +1,11 @@
+ur internet. This is normal and unavoidable. This often improves the
+longer you are connected. To stop the service, simply close the browser. This will disconnect the
+Tor network and stop all services. Figure 1.16 displays the IP address assigned to me through the
+Tor Browser (top) and a browser not using Tor (bottom). Any activity conducted through the
+
+Tor browser is not associated with my real internet connection an appears to be originating in
+Canada.
+
+216.239.90.49 tide tnis ip with VPN]
+
+M

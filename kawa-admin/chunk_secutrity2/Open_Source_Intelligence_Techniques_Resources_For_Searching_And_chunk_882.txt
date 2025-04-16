@@ -1,0 +1,13 @@
+ew version of the photo. This version will likely appear larger and have a higher
+
+resolution.
+
+Social Networks: Twitter 153
+
+As an example, I located an image at the following address from Twitter. I then added “orig” at
+the end and received a much more detailed photo. The second link demonstrates this structure.
+
+https://pbs.twimg.com/media/BstXzBYCAAECMmL jpg
+https://pbs.twimg.com/media/BstXzBY CAAECMmL. jpg:orig
+
+There are several third-party options that allow you to extract these types of

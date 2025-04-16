@@ -1,0 +1,15 @@
+routers, and servers. Our target displayed the following results. The IP addresses can be later
+searched for further details. The numbers after the IP addresses indicate the number of
+milliseconds that each “hop” took.
+
+Domains Names 323
+
+traceroute to phonelosers.org (104.28.10.123), 30 hops max, 60 byte packets
+
+1 obfuscated.internal.network.com (0.0.0.0) 0.000 ms 0.000 ms 0.000 ms
+
+2 obfuscated.internal.network.com (0.0.0.0) 1.000 ms 1.000 ms 1.000 ms
+
+3K Kx
+
+466.231.179.114 (66.231.179.114)

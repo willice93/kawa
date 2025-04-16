@@ -38,3 +38,31 @@ cas_pratique: "Nom: Pierre Dupont\n   Profession: Directeur général de SA Lumi
   \ ainsi diminuées.\n\n   Synthèse: En excluant les frais d'emprunt dans la rubrique\
   \ des frais réels, Pierre a réduit ses cotisations sociales en choisissant le régime\
   \ des petites entreprises (PME) pour sa société SA Lumière."
+embedding_text: "Règle : La règle s'applique aux frais, droits et intérêts d'emprunt\
+  \ versés pour acquérir ou souscrire des parts ou des actions d'une société ayant\
+  \ une activité industrielle, commerciale, artisanale, agricole ou libérale dans\
+  \ laquelle le dirigeant exerce son activité professionnelle principale. Les montants\
+  \ de ces dépenses ne peuvent pas être indiqués dans la rubrique \"Frais réels\"\
+  \ car ils ne sont pas admis en déduction dans la base de calcul des cotisations\
+  \ sociales. La formule de calcul applicable est simplement de ne pas inclure ceux-ci\
+  \ dans les frais réels. Il faut vérifier que les activités professionnelles principales\
+  \ du dirigeant se trouvent dans une société ayant une activité dans l'une des catégories\
+  \ énumérées ci-dessus.\nFormule : Non spécifiée\nCas pratique : Nom: Pierre Dupont\n\
+  \   Profession: Directeur général de SA Lumière, une entreprise d'éclairage solaire.\n\
+  \n   Situation: Il a investi 20 000€ pour acquérir des actions de sa propre société\
+  \ l'année dernière. Ce montant correspond à des frais d'emprunt versés pour cet\
+  \ investment. Son revenu net est de 60 000€ par an.\n\n   Déclaration: Dans son\
+  \ formulaire annuel d'imposition, Pierre devra indiquer les 20 000€ de frais d'emprunt\
+  \ dans la rubrique \"Frais non admissibles\" (1GF). Les frais réels doivent être\
+  \ calculés exclusivement sur le revenu net de 60 000€.\n\n   Comparaison: Si Pierre\
+  \ avait choisi le régime par défaut, il pourrait avoir indiqué ces frais d'emprunt\
+  \ comme frais réels et réduit sa base imposable, ce qui aurait entraîné un montant\
+  \ de cotisations sociales plus élevé. En revanche, en choisissant le régime des\
+  \ petites entreprises (PME), il peut bénéficier d'une réduction de ces frais d'emprunt\
+  \ pour les calculer dans la base de calcul des cotisations sociales, ce qui permettra\
+  \ une diminution de ses cotisations sociales.\n\n   Calcul: En excluant les 20 000€\
+  \ de frais d'emprunt des frais réels, le revenu net est réduit à 40 000€ pour la\
+  \ base imposable. Les cotisations sociales sont ainsi diminuées.\n\n   Synthèse:\
+  \ En excluant les frais d'emprunt dans la rubrique des frais réels, Pierre a réduit\
+  \ ses cotisations sociales en choisissant le régime des petites entreprises (PME)\
+  \ pour sa société SA Lumière."

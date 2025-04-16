@@ -1,0 +1,9 @@
+to make it appear that TLS is
+ailable (called a STRIPTLS attack). Most SMTP clients will then send the email and
+si ly passwords in plain text, often with no notification to the user. In particular, many
+{TP connections occur between mail servers, where user notification is not practical.”
+
+yone doubts how valuable email communications are, or if such all you can eat buffet
+rams like Prism exist. While crafting an OSINT hacking crash course for Security
+
+1sa. gov, pretenders.nsa gov, pnstinsa go

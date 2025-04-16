@@ -1,0 +1,12 @@
+er successful query.
+
+CID Name (cidname.com)
+
+The lower right portion of this page offers a free trial including 100 telephone number searches.
+The format for our address to query with this service is as follows.
+
+https://dip.cidname.com/6187271233/d3a6e863c&output=raw&reply=none
+
+This queries the domain (cidname.com), our target number (6187271233), and our license key
+(d3a6e863c). This service did not identify the name. However, when a name is not available, it
+will provide the general area of

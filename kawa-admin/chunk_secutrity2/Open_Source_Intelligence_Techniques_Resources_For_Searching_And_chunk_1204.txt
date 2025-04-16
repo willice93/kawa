@@ -1,0 +1,6 @@
+, these “unavailable” indications suggest
+a visit to the site to locate that user's profile. The results could indicate that the target user name
+is being used on Delicious and Twitter, but not Flickr or Tumblr. The link in the lower left corner
+of the result will open a new page that will search over 500 social networks for the presence of
+the supplied user name. These searches are completed by category, and the “blogging” category
+is searched automatically. Scrolling down this page will presen

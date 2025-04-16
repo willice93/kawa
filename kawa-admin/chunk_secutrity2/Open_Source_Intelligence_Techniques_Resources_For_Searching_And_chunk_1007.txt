@@ -1,0 +1,9 @@
+l Account Settings tab. Click “Start My Archive”. Facebook will send an email to the
+address on file for the target. A download link in that message will present a compressed file of
+the entire contents of the target’s Facebook profile. It is important to have consent on the target’s
+email account in addition to Facebook for this method to work.
+
+Twitter (support.twitter.com /articles/20170160)
+
+Similar to Facebook, Twitter allows you to export an entire account when authenticated as the
+target

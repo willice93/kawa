@@ -1,0 +1,11 @@
+ded (my
+preference). Figure 15.01 displays a partial collection of captured data.
+
+1513884998094 ‘Tobito REGEREEEEPEREEEEEREEEREREE i .
+1513884996096 Chapado e-escutando issoll!i Mas ¢ bom demaisiti!
+
+Figure 15.01: Data collected by YouTube Comment Scraper.
+
+I believe that this type of documentation should be a part of every investigation associated with
+a video. If you ever find yourself downloading a target video, immediately jump to this free
+resource and collect the comments. If the video is

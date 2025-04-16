@@ -1,0 +1,19 @@
+umber (10 Digits Only)” />
+<input type=“submit” /></form>
+<sctipt type=“text/javascript”>
+
+function dofullcontact3(twitter) {
+window.open(https://api.fullcontact.com/v2/person.html?twitter=' + twitter +
+'&apiKey=XXX, 'contactwindow3');}</script>
+
+<form onsubmit=“dofullcontact(this.fct.value); return false;”>
+
+<input type=“text” name=“fct” size=“40” value=“Twitter Handle” />
+
+<input type=“submit” /></form>
+
+<script type=“text/javascript”>
+
+function dofullcontact4(fb) {
+
+window.open(https:/ /api.f

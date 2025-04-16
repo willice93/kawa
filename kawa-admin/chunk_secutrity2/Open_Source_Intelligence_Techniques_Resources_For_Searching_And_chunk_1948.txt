@@ -1,0 +1,17 @@
+counts. Each
+project will automatically be saved within the application and available to you with the next
+launch. You can right-click any project to delete it. The program allows you to export a project
+to a standard CSV file or a Google Maps KML file. The KML option allows you to open the
+analysis within Google Maps.
+
+2013-12-20T17:19:18 Chicago
+2013-12-19T21:42:42 Chicago
+
+2013-12-19T21:3316 Chicago
+
+2013-12-19T00:53:10 Chicago
+
+__2 2032.12 RTAL- SAS Chicana
+Current Location Detads
+
+Date: Sun

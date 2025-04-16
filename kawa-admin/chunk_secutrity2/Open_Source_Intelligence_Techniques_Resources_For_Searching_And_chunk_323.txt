@@ -1,0 +1,8 @@
+s.
+Imagine the following scenario. You are investigating a long list of website addresses that were
+provided to you as a lead. Maybe they were websites visited from a suspect’s computer; a list of
+social network profiles discovered during the execution of Recon-ng (Chapter Twenty-Two); or
+just a self-created list of URLs associated to your investigation. Manually visiting each site and
+using a screen capture tool can be overwhelming. Instead, let’s automate the task.
+
+Launching the EyeWitness ic

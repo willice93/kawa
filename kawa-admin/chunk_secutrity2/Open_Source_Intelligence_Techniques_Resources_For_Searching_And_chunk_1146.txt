@@ -1,0 +1,18 @@
+h URLs will identify the user names
+(BILL) and keywords (CRAFTS) present on Pinterest.
+
+User name: https://www.pinterest.com/BILL/
+
+User Pins: https://www.pinterest.com/BILL/pins
+
+User Boards: https://www.pinterest.com/BILL/boards
+
+User Followers: https://www.pinterest.com/BILL/ followers /
+
+User Following: https://www.pinterest.com/BILL/following
+
+Pins Search: https://www.pinterest.com/search/pins/?q=CRAFTS
+
+Boards Search: https://www.pinterest.com/search/boards/ ?q=CRAFTS
+
+Google Search: https

@@ -1,0 +1,7 @@
+r each
+identified paste is saved in the “tecon-ng” folder within the Home folder on the Buscador
+desktop. In one of these files, we can see the type of data exposed in these breaches. The
+following text was copied from one of the raw text files obtained. The content was slightly
+modified to protect the privacy of these users. The first column depicts the user number within
+the web service that was compromised; the second column displays the user name; the third
+column displays an encrypted repre

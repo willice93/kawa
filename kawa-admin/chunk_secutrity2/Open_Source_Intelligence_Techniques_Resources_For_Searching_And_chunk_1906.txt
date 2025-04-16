@@ -1,0 +1,8 @@
+plain Mac options within each
+program. As a reminder, the Buscador Linux Virtual Machine explained in Chapter Two
+possesses many of these options, pre-configured for immediate use.
+
+Many of the programs detailed here can be executed as a “portable application”. This means that
+the program can be downloaded and started without installation. All of the files needed are within
+the application and ready to go. This can be convenient when an application is needed on another
+computer. You can download

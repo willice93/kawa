@@ -1,0 +1,6 @@
+ormation about the author of the document. The following websites allow you to upload a
+locally stored document or submit a URL of a file for analysis. Please use caution with this
+technique. If the document is already posted online, there is very little risk of allowing a URL
+analysis. However, a locally stored file that has never been on the internet may require a second
+thought. If the content is sensitive, you may not want to upload to any service. If the file contains
+classified information

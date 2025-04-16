@@ -1,0 +1,19 @@
+8 2.45%
+ftp 20,968 1.36%
+cwmp , 14,891 0.97%
+embedded 13,795 0.9%
+database . 8.988 | 0.58%,
+network ee 6,600 0.43%
+
+Figure 105 Chinese DNS Answers. A Common Tags Metadata
+
+9.4 Exploring SMB
+
+SMB is a commonly used protocol, especially for Windows
+compatibility to share files on a network. US-CERT recommends
+disabling SMBy1 and blocking SMB at the boundary with no internet
+““posure: https://www.us-cert.gov/ncas/current-
+
+activity /2017/01/16/ SMB-Security-Best-Practices
+
+¢ bl Al Important SMB Cen

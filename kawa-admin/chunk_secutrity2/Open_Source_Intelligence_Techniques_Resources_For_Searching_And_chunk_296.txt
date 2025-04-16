@@ -1,0 +1,8 @@
+presented with a file manager window that is
+requesting that you choose a target video file. This could be a downloaded YouTube video, an
+unplayable surveillance video, or any other downloaded video content retrieved from any source.
+After you select the video, you are presented with a menu of the following options, with added
+explanations of the usage.
+
+Play a video: This option will force FFmpeg to attempt to play any video file with multiple video
+codecs. This will often play videos that wou

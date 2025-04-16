@@ -1,0 +1,13 @@
+Transilate selection with Google Translate
+
+” Juanjo Femandez @ieniots15 - 25 Dec 2015
+ne . Merry Christmas to all, | hope you'll have a great day with your sty
+and loved ones in this beautiful date
+
+& as 2 @ i eee
+
+Figure 1.10: The Google Translator Extension in use.
+
+The importance of this extension is not that it can translate text. Anyone can copy and paste text
+into Google Translate to understand the content. The benefit here is that it delivers the translation
+back into the original websi

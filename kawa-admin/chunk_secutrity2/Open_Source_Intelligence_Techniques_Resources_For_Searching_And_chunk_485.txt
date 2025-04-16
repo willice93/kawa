@@ -1,0 +1,6 @@
+e target page. This is where the
+similarities stop. After you translated an entire page and see the results in English, you can control
+the view and include both the original and translated text. The default view will display the onginal
+text as you hover your cursor over any translated text. Another option allows you to view the
+Page as it originally appeared and hover over text to see the translation. Additional options allow
+you to view a top and bottom or side by side translation. These view

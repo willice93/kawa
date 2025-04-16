@@ -1,0 +1,12 @@
+Censys search for reverse shells
+
+6.5 Discover WannaCry infected systems
+
+Many of the Google based Dorks in the Google Hacking Database can
+be rewritten to use with Censys. The database is an brilliant community
+tool, maintained by Hackers for Charity, a technology based NGO.
+https:/ /www.exploit-db.com/google-hacking-database
+
+When ZMap scans the internet, it can grab the HTTP/S headers,
+Body, Title and other fields which can be leveraged with Dorking. The
+WannaCry Dorks can be found in Footho

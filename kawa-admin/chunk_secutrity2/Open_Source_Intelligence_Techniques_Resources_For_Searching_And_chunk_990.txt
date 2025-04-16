@@ -1,0 +1,9 @@
+ew demonstrations should help explain.
+
+Social Networks: Others 175
+
+Twitter does not support native search by email address or cellular telephone number. However,
+it will connect to an authenticated Gmail account and search for Twitter users within the contact
+list in the Gmail account. This is not as straightforward as the Facebook/Yahoo technique. In
+order for Gmail to release the contact information, email communication must have occurred
+between you and the target. In a controlled environme

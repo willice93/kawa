@@ -1,0 +1,13 @@
+following settings from the
+Options (Windows) or Preferences (Apple) menu within Firefox.
+
+Prepare Your Computer 5
+
+General: When Firefox Starts: I choose “Show a blank page” at this prompt. This will make
+your browser open faster, and eliminate the unnecessary loading of a default web page.
+
+Privacy & Security: Browser Privacy: Deselect the “Remember passwords for sites” and “Use
+a master password” options. When browsers store a password, they usually do not do so in a
+secure manner.
+
+Privacy &

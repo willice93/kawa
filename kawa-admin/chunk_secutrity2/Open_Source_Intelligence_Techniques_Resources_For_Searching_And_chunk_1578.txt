@@ -1,0 +1,13 @@
+-Fi, I captured a photo of an abandoned boarding
+pass in the magazine holder in front of me. The barcode reader identified text information stored
+inside the code that was not present in text on the document.
+
+& 1D Barcodes
+
+ix
+
+Figure 14.06: Barcode input samples from Online Barcode Reader.
+Image Manipulation
+
+It is common to find images on the internet that have been manipulated using software such as
+Photoshop. Often it is difficult, if not impossible, to tell if these photos have been manipu

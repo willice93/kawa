@@ -1,0 +1,6 @@
+phet monitors the social networks that you visit and supplies additional details about the
+targets that you are researching. It does not require an account. After installation, launch Prophet
+by clicking on the black arrow button 1n the upper night of your browser. This works best when
+you ate actively on the social network profile of your target. Figure 1.13 displays the view while
+launched from a person’s Twitter page. The results identify her AboutMe, Facebook, FourSquare,
+Google+, LinkedIn,

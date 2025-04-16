@@ -1,0 +1,8 @@
+eed to know the email provider in order to issue
+a court order for content or subscriber data. You may simply want to document this information
+within your investigation for potential future use. Regardless of your needs, the following will
+obtain the email provider from almost any address.
+
+Navigate to MX Toolbox (mxtoolbox.com) and enter the domain of the email address, such as
+phonelosers.org. The result should include a hostname and IP address. These identify the email
+provider for the targe

@@ -1,0 +1,7 @@
+y any results.
+
+A great feature of Tweetpaths is that you can identify several users on the same map. Figure 5.11
+displays a map with Google’s satellite view enabled. Three Twitter users were searched and the
+results identify each with a different color of marker. This can be beneficial by showing three or
+more targets that were present at the same location during an incident. A user name is required
+to see any activity with this service. Several new websites have surfaced that will allow us to

@@ -1,0 +1,10 @@
+Figure 23.01 displays the results including the assigned call sign, frequency,
+and number of units allowed to access the frequency. Within these ten frequencies are the
+channels assigned to security, housekeeping, maintenance, and administration. The valet at this
+
+Radio Frequency Monitoring 437
+
+location now uses Nextel cellular service. These active channels can be monitored from several
+miles away using a basic scanning device.
+
+You can also browse the Radio Reference database to locate frequ

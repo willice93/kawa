@@ -1,0 +1,8 @@
+emphasis on matching rules,
+but will also reach outside of the rule if minimal results are present. The second option of “Search
+only the sites with this label” will force Google to remain within the search request and not
+disclose other sites. I recommend using the second option for each refinement.
+
+Now that you have the refinements made, you must assign them each to a website. Back on the
+“Setup” menu option, select each social network website to open the configuration menu. Select
+the dropd

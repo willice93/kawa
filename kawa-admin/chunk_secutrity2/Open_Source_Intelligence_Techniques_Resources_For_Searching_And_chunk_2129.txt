@@ -1,0 +1,7 @@
+load a web browser on a traditional computer and participate with these networks.
+However, you can access them from within your Android virtual machine. The following tutorials
+may help you find new uses for these popular apps.
+
+Kik Messenger: Kik is an instant messaging application for mobile devices. It is modeled after
+BlackBerty's Messenger and uses a smartphone's data plan or Wi-Fi to transmit and receive
+messages. It also allows users to share photos, sketches, mobile webpages, and other

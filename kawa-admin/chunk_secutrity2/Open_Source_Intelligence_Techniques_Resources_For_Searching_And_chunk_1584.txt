@@ -1,0 +1,11 @@
+ed original file
+from a camera
+
+Our forensic tests suggest this file has been re-saved since initial capture. Because this file is not a camera
+original, it is possible that it was modified.
+
+Figure 14.09: Results from Izitru of an unmodified (above) and manipulated image (below).
+Forensically (29a.ch/photo-forensics)
+
+Forensically is a robust image analyzer that offers a huge collection of photo forensic tools that
+can be applied to any uploaded image. This type of analysis can be vital when im

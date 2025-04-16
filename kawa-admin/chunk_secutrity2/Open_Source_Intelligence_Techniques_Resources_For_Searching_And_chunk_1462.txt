@@ -1,0 +1,6 @@
+search is documents. This type of data usually falls into one of three classes. The first is
+documents that include information about the target within the contents of the file. These can
+include online PDF files that the target may not know exist. The second class is documents that
+wete actually created by the target. These files can make their way into public view
+unintentionally. Finally, the third class includes the metadata stored within a document that can
+include vital information about t

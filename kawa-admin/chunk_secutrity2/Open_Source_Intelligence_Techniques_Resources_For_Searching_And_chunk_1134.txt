@@ -1,0 +1,9 @@
+ce is Fat Fingers (fatfingers.com)
+
+Search Tempest (searchtempest.com)
+
+If you find yourself searching multiple geographical areas of Craigslist and eBay, you may desire
+an automated solution. Search Tempest will allow you to specify the location and perimeter for
+your search. It will fetch items from Craigslist, eBay, and Amazon. You can specify keywords in
+order to narrow your search to a specific area. Advanced features allow search of items listed
+within the previous 24 hours, reduction of d

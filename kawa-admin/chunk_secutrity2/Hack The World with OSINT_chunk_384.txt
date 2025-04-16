@@ -1,0 +1,38 @@
+try to pase ea? if
+
+there are any interesting findings.
+
+Chapter 13
+
+censys API Functionality
+
+INFORMATION IN THIS CHAPTER:
+
+» Censys Rest API Reference
+= Rest API functionality
+
+hensive isn't usable.
+
+An API that isn't compre
+James Gosling
+
+13 Rest API
+
+Rest API 235
+
+13.1 The Censys API
+
+sorammatic access whic “Ovi
+g ch Provides the a
+»*dMe
+
+» REST API uses pr
+
+Censys
+results as the Censys web search. Searches using either method
+
+. 7} "
+meet the terms ust
+account. The encoded
+
+re. the API Key

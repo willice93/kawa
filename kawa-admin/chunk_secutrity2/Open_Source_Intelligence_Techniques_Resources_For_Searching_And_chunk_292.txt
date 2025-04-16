@@ -1,0 +1,6 @@
+er VirtualBox or VMWare installed and Buscador imported as a
+virtual machine. Figure 2.01 displays the Buscador operating system with application dock to the
+left. Scrolling up and down while hovering over this dock presents all of the applications available.
+Clicking the nine small dots in the upper left opens a list of applications. This is redundant, but
+may be easier to access. Now it is time to play with the many applications inside Buscador. Note
+that the following instruction was created

@@ -1,0 +1,11 @@
+o tom.smith@gmail.com.
+
+https: / /www.facebook.com/search/peoplePq=emailaddress@gmail.com
+
+This will link to the profile and provide the basic information associated with the account. This
+is also beneficial when trying to locate someone that may have a nickname instead of a real name
+on their profile. Additionally, it may provide alias profiles that were created by someone who did
+not use an alias email address.
+
+Search by Telephone Number
+Prior to November of 2012, a telephone number could be

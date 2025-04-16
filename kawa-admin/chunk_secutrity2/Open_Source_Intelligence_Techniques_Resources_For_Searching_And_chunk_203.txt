@@ -1,0 +1,7 @@
+US/firefox/addon/google-translator-for-firefox/)
+
+If you find yourself using Google’s free language translation service to translate foreign text into
+English, this extension will be a welcome addition to your Firefox browser. When installed, any
+text you highlight and right-click will present a new menu option. This will automatically translate
+the text into English without leaving the target website. This will work on any site including social
+networks. Figure 1.10 displays a Twitter post tran

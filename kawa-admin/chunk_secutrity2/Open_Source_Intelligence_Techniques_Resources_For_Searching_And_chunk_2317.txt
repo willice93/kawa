@@ -1,0 +1,7 @@
+, this virtual machine was exported as (file name). This file can be used to
+recreate the entire investigation environment exactly as it appeared during the actual investigation.
+
+This verbiage announces your competence to the prosecution and defense. It may stop some
+scrutiny toward your work during a trial or hearing. Ultimately, it shows that you conducted your
+investigation fairly with great concern for the integrity of your evidence. Additionally, this may
+make you stand out to your supervi

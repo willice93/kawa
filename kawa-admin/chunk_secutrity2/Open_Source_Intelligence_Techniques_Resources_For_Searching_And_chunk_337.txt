@@ -1,0 +1,6 @@
+t that reaches deeper into an individual’s Twitter account for non-standard details such as
+posted content. The Twitter Options icon in the dock asks for a target Twitter user name. It then
+generates a custom report and opens the document within your web browser. Inside it, you will
+find details such account creation date, time zone, Twitter clients used, user mentions, and
+references to those accounts with which he communicates the most. With our demo of Tom
+Hanks, we now know that he uses the

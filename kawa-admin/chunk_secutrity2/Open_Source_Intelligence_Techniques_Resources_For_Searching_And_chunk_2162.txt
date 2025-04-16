@@ -1,0 +1,16 @@
+als-credentials/adobe
+credentials-credentials/bozocrack
+credentials-credentials/hashes_org
+domains-contacts/metacrawler
+domains-contacts/pgp_search
+domains-contacts/whois_pocs
+
+domains -credentials/pwnedlist/account_creds
+domains -credentials/pwnedlist/api_usage
+domains -credentials/pwnedlist/domain_creds
+domains -credentials/pwnedlist/domain_ispwned
+domains -credentials/pwnedlist/leak_lookup
+domains -credentials/pwnedlist/leaks_ dump
+domains -domains/brute_suffix
+
+domains -hosts/bing domain_api

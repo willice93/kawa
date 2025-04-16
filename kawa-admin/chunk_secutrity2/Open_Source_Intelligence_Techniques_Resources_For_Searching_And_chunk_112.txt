@@ -1,0 +1,8 @@
+install programs that would usually already be present on a Linux computer. It also
+happens to have a pre-configured version of ClamAV ready to go. The easiest way to install Brew
+is to visit the website brew.sh and copy and paste the following command into the Terminal
+application (Applications > Utilities > Terminal).
+
+/ust/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+After Brew is installed, type the following commands, hitting “Retum” after

@@ -1,0 +1,8 @@
+to be logged into real accounts in order to pacify the social networks.
+I will assume that you now have social network accounts created that are not in your real name
+and possess no personal identification about you. It is time to dig into social network profiles
+and extract data.
+
+Facebook users tend to keep their information a little more secure than users of other social
+networking sites. By default, a new Facebook user must specify the privacy settings to their
+account during the creation o

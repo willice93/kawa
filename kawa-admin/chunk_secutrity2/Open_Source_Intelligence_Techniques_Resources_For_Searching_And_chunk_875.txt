@@ -1,0 +1,11 @@
+. If a suspect wipes out all messages on a Twitter profile, these two services may
+have collected the content. A search of the target’s Twitter name should reveal the results.
+
+One Million Tweet Map (onemilliontweetmap.com)
+
+This service only displays the most recent one million Tweets on an international map. They do
+not have access to every Tweet available, often referred to as the “firehose”, but they offer new
+
+152 Chapter 5
+
+Tweets every second. I would never rely on this map for complete d

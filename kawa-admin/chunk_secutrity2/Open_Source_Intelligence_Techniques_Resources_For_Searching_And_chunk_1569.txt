@@ -1,0 +1,16 @@
+, 2S seconds aga, assuming una¢e
+funezone of 6 hours behind GMT
+
+Location Latitude‘longitade: 38° 30' 43.8" North, 96° 30' 0" West
+
+{ 38.4512367, -60.500006 )
+
+Location guessed trom coordinates
+
+1526 Atlantic Crossing Drive, Fenton, MO 63626, USA
+
+Figure 14.04: A Jeffrey's Exif Viewer result identifying location with map view.
+Cropped Images
+
+Another piece of information that we can look for from the Exif data is the presence of a
+thumbnail image within the photograph. Digital cameras generate a

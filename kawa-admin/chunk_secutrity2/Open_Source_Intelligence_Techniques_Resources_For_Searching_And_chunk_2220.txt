@@ -1,0 +1,10 @@
+ignment, and placement. The techniques discussed here do not require that level of
+sophistication. The supplied antenna of a police scanner should work fine. Obviously, better
+antennas will allow you to receive signals from a farther distance. If you find the techniques
+explained here successful to your investigations, then I would consider further research into
+superior antennas.
+
+Frequencies
+
+Most commercial receivers will monitor radio frequencies between 25 MHz and 1300 MHz.
+There ate usuall

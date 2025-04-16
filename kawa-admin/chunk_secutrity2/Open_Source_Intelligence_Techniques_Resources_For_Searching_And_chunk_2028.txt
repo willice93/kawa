@@ -1,0 +1,17 @@
+ze=“18” value=“Last Name” />
+<input type=“text” name=“citypp” size=“12” value=“City” />
+
+<input type=“text” name=“statepp” size=“5” value=“State” />
+
+<input type=“submit” /></form>
+
+<script type=“text/javascript”>
+
+function dopipl2(email) {
+window.open(https://api.pipl.com/search/v5/Pemail='+ email +
+'&no_sponsored=true&key= XXX, 'pipl2window’);} </script>
+
+<form onsubmit=“dopipl2(this.pp2.value); return false;”>
+
+<input type=“text” name=“pp2” size=“40” value=“Email Address” />
+<input type=“subm

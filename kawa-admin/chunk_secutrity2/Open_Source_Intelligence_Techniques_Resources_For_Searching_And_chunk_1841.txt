@@ -1,0 +1,12 @@
+Gmail does not always identify these as spam. Again, you
+should test any services in a controlled environment before actual execution.
+
+Social Network
+If you do not know yout tatget’s email address, you can send this same link to them through their
+
+social netwotks, such as Facebook. In September of 2013, I was investigating an incident that
+involved an anonymous Facebook profile that was harassing several people with violent threats.
+
+350 Chapter 17
+
+A search warrant to Facebook would get what

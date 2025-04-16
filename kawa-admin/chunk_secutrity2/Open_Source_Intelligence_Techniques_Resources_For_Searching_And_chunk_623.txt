@@ -1,0 +1,11 @@
+com/search/males/males/users-interested/intersect/
+https: / /www.facebook.com/search/females/ females /usets-interested/intersect/
+
+Social Networks: Facebook 101
+
+This search alone would be very unhelpful. However, we can combine this option with one of
+our previous searches to focus on this element. The following URL would identify women who
+work at Microsoft that are interested in meeting men.
+
+https://www.facebook.com/search/str/Microsoft/pages-
+named/employees/present/females/males/users-int

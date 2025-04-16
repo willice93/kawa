@@ -1,0 +1,6 @@
+be sufficient for most friends of the target, but may be limited when looking at the
+followers of famous people. If you want to obtain a single screen capture of all of these accounts,
+I recommend SomeTag (sometag.com). Searching your target account within this service and
+selecting either Followers or Friends loads the same data within one screen. This is fine for visual
+capture, but not for extracting hyperlinks. While each link result will display the Instagram user
+name and number, the URLs

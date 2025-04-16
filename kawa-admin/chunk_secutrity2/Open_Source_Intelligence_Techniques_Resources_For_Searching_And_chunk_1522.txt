@@ -1,0 +1,9 @@
+es that Google did not locate.
+
+TinEye (tineye.com)
+
+TinEye is another site that will perform a reverse image analysis. These results tend to focus on
+exact duplicate images. The results here are usually fewer than those found with Google. Since
+each service often finds images the others do not, all should be searched when using this
+technique. Figure 14.01 (third) displays the search menu. The icon on the left prompts the user
+to provide a location on the hard drive for image upload while the s

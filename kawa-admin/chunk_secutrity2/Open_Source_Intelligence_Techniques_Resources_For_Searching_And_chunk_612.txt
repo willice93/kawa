@@ -1,0 +1,12 @@
+nts/present/str/chef/
+pages-named/employees/present/intersect
+
+If you know that your target’s name is Ellen, and she lives in Denver, and she is a chef, the
+following URL will identify the one person on Facebook that matches this search. Again, notice
+the ability to change present to past for previous results.
+
+https: / / www.facebook.com/search/str/Denver/pages-named/residents / present/str/chef/
+pages-named/employees/present/str/Ellen/users-named/intersect
+
+Likes
+Facebook will allow you to fil

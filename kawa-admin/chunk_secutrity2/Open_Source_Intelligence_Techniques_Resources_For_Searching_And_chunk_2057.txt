@@ -1,0 +1,10 @@
+at inteltechniques.com/data/api2018.txt.
+
+Application Programming Interfaces (API) 397
+
+Service Objects (serviceobjects.com/products / email /email-insight)
+
+Service Objects offers several API search options based on sources of data. This company also
+offers an email lookup utility that will occasionally identify the location, age range, gender,
+income, education, and residence information of the user of the account. This is similar to
+TowerData, which will be discussed later. However, Service

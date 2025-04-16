@@ -1,0 +1,12 @@
+lts will be from all pages, including thousands of Sub-Reddits. While you should understand
+this option, and even execute target searches from the home page on occasion, we should
+consider some advanced search options.
+
+We can replicate that standard keyword search within a URL. This is beneficial for bookmarking
+seatches of interest that need checked often. The format for a search about OSINT is as follows.
+
+https://www.teddit.com/search?g=OSINT
+
+Online Communities 183
+
+The results from such a

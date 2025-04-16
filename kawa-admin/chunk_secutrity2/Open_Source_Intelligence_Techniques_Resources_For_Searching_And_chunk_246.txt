@@ -1,0 +1,7 @@
+gh this browser
+will assume that you are connecting through this new IP address instead of your own. This
+provides a layer of privacy to stay hidden from a suspect. This may be overkill for most
+investigations. If you are only searching and monitoring common services such as Facebook,
+Twitter, or YouTube, this service is not needed. If you ate visiting personal websites and blogs
+of a tech savvy hacker, you should consider Tor. When using Tor, you may notice a drastic
+decrease in the speed of yo

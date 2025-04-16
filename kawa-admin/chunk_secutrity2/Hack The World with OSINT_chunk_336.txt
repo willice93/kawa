@@ -1,0 +1,15 @@
+46 Censys search results for location.country North Koreg
+
+Let’s sort the data differently and go to Tools, then Query Metadata.
+Although all the returned hosts say they are located in North Korea, it
+doesn’t necessarily mean they are physically located in North Korea,
+Focusing on a known North Korea provider, Star.
+
+1 report North Korea Network Breakdown
+
+you can click the hyperlinked STAR-KP Ryugyong-
+rch us ng [Sime "north korea") AND
+ystem.description.caw: 'STAR-KP Ryugyong-
+
+Hosts Freq
+= 93

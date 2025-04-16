@@ -1,0 +1,20 @@
+"text" />
+
+<input type="submit" style="width:100px" value="Email Search" />
+
+</form>
+
+<script type="text/javascript">
+
+function dofluser(fluser) {
+
+window.open (https: / /api.flickt.com/setvices/rest/?method=flickr.people.findByUsermnameé&a
+pi_key=XXX&username=' + fluser, 'flickruserwindow’);
+
+}</script>
+
+<form onSubmit="dofluser(this.fluser.value); return false;">
+
+<input name="fluser" size="40" placeholder="Username" type="text" />
+
+<input type="submit" style="width:100px" value="Username Seat

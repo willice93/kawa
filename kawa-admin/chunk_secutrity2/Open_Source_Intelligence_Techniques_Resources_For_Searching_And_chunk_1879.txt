@@ -1,0 +1,14 @@
+Registry Number Vessel Build Year
+
+Boat Owner Call Sign Ship Builder
+Record Date Coast Guard Vessel ID Hull Shape
+Registered Address Service Type Propulsion Type
+Hull ID Boat's Length
+
+Hailing Port Boat's Gross Tons
+
+Aircraft Information
+
+Monitoring aircraft during flight and searching historical ownership records is relatively easy.
+Commercial planes constantly announce their location with automated reporting systems and tail
+numbers act similarly to a vehicles registration plate. Today, this i

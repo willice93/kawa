@@ -1,0 +1,6 @@
+, partial email address, and
+the last two digits of his cellular telephone number. The remaining numbers are redacted. If this
+same Facebook user was also a Snapchat user prior to 2015, there may be a vulnerability that can
+be exploited. For many years, Snapchat allowed users to query by cell phone number to identify
+potential friends. Programmers quickly learned that they could submit every possible cell phone
+number and collect a huge database of users. The data was leaked online and can be se

@@ -1,0 +1,15 @@
+gitude”:-73.633 1},
+
+{"latitude":5 1.441111111111 “longitude":0.76083333333333},
+{"latitude”:43 _ 234166666667 “longitude”:-86.248333333333},
+
+Figure 4.04: Adding line breaks to text with Text Mechanic.
+
+Next, copy the entire text generated in the lower box of this result. Navigate to the Find and
+
+Replace Text Tool from Text Mechanic at the following link. We will use this page to clean-up
+our data.
+
+http://textmechanic.com/text-tools /basic-text-tools / find-and-replace-text/
+
+Social Networks:

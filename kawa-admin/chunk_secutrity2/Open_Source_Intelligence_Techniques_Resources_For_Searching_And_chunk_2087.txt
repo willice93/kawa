@@ -1,0 +1,6 @@
+why emulation is the way to go. In my investigations, documentation is
+my primary reason for launching a simulated mobile device within my computer operating
+system. If I conducted my investigation on an actual smartphone, documenting my findings can
+be difficult. Mobile screen captures only cover a small amount of visible content. Extracting any
+captured images can be a hassle. Referencing my findings within a final report can become very
+tedious. When using Android emulation within my traditio

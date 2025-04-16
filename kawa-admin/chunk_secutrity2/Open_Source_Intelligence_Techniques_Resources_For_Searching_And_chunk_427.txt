@@ -1,0 +1,7 @@
+. Provide a name for your custom engine and select
+“Create”. You now have a custom search engine. You can either embed this search engine into a
+website or view the public URL to access it from within any web browser.
+
+This basic functionality can be quite powerful. It is the method behind my custom Pastebin search
+engine discussed in Chapter Thirteen. In that example, I created a custom search engine that
+scoured 101 specific websites in order to retrieve complete information about specific top

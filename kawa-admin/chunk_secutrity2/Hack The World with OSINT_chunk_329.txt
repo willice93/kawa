@@ -1,0 +1,12 @@
+ervice (daemon crash) via a crafted FIP c ad FIP Servs
+execute arbitrary Smmand, aka “IS FIP Service ie
+
+—— : aa Exec Code Overflow 2010-09-15 2017-09-45 iim
+in Microsoft Internet Information Services (IIS) 7.5, when FastCcl is
+a ae enabled, allows remote attackers t
+
+Teammate" cet nin eines
+4 cve-2010-1899 119 DoS Overflow 2010-09-15 2017-09-18 a
+
+stack consumption vulnerability in the ASP implementation in Microsoft Internet Information Services (HS) 5.1, 6.6, 7
+ect, related to asp.dil, aka “I

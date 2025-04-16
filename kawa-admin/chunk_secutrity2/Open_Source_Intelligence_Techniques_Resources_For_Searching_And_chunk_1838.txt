@@ -1,0 +1,6 @@
+VPNs, Tor, and other forms of IP masking may
+create inaccurate results. You may choose to send these links from a spoofed email account. If I
+wete to email you from mikethehacker@gmail.com and request that you open a link, you would
+likely delete the message. However, what if the email came from someone with whom you
+worked? It is easy to control the display of a sender’s email address and name. There are many
+software applications that will allow this manipulation. However, the easiest way 1s

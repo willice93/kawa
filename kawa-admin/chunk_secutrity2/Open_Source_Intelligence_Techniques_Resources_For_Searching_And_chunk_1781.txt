@@ -1,0 +1,6 @@
+tion here is when an internet service provider is identified. This only indicates that the IP
+address belongs to the specified provider. Most results translate an IP address into information
+including business name, general location, and internet service provider. This can be used to
+determine if the IP address that a target is using belongs to a business providing free wireless
+internet. If you see “Starbucks”, “Barnes & Noble”, or other popular internet cafes listed in the
+results, this can be

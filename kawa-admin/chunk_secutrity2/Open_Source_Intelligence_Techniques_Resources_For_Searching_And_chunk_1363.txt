@@ -1,0 +1,17 @@
+assword during the
+registration process which will be used within the URL submitted for each search. If your user
+name is jwilson and your password is lamp, the following address directly in your browser would
+identify subscriber information from the cell number of 6187271233. The result is below the
+demo.
+
+https://api.data24-7.com/v/2.0Puser= jwilson&pass=lamp&&api=l&p1=6187271233
+
+<response>
+<results>
+
+248 Chapter 11
+
+<result item=“1”>
+<status>OK</status>
+<number>16187271233</number>
+<name>Cra

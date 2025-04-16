@@ -1,0 +1,7 @@
+date and time of capture. Changing the %on value to 0 and the Pad
+option to 3 will ensure that your captures always start with a numerical value of 0 and ascend
+chronologically. This can help determine the order of the evidence that you retrieved. Figure 1.04
+displays a typical series of results. Notice that you can quickly see the order captured (first three
+digits), target website, description, and date & time.
+
+® - 900-https_ Jrietiocheiee con inbalechigg ee eset I OSINT Training by Michae_-2

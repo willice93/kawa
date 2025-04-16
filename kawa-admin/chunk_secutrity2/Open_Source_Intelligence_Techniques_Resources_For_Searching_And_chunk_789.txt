@@ -1,0 +1,12 @@
+Obtaining information from Twitter can be conducted through
+various procedures.
+
+Twitter Search (twitter.com/search)
+
+This is the official site's search interface, but it is nothing different than the search field at the top
+of any Twitter profile or search result. I only present this because navigating to twitter.com usually
+offers a signup page, but no option to search.
+
+Twitter Advanced Search (twittet.com/search-advanced)
+
+This page will allow for the search of specific people, keywords, an

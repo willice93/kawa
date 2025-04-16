@@ -1,0 +1,6 @@
+the profile views through browser extensions. If a photo is linked
+through Instagram in a Twitter post, you should download the digital version with the best quality
+available. Any links should open a new tab that will load the photo within the Instagram page.
+This photo will not have any options to download or save the data. If you right-click on it, you
+will not be given an option to save-as or download the image as you would on standard websites.
+Instead, we must manually archive this file. T

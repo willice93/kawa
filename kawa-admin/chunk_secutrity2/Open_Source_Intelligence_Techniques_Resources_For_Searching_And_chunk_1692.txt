@@ -1,0 +1,7 @@
+to as Whois details, we will also need to dig deeper into
+domain analysis in order to obtain relevant results. First, we will focus on the easy queties.
+
+Whois queties (pronounced Who Is) are very simple searches, but are not all equal. While this
+data is public, it could change often. Some Whois search sites display the bare bones details while
+others provide enhanced information. There are dozens of options from which to choose, and I
+will explain those that I have found useful. After the dem

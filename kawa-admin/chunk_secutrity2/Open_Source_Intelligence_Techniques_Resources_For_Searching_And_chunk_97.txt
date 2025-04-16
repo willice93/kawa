@@ -1,0 +1,10 @@
+.
+
+
+Custom Search Tool
+
+Throughout this book, I reference several custom search tools that I created to assist with
+automated queries. I have made available a single repository of every resource discussed in this
+guide, including the multiple custom search tools. This is presented in an easy to use format with
+search topics on the left and dedicated query tools within the main area. It can be found at the
+“Tools” tab of my website Inte![Techniques.com. This complete archive may be useful as you

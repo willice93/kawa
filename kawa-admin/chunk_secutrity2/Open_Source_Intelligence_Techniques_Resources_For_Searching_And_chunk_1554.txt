@@ -1,0 +1,13 @@
+for Twitter, Facebook, Instagram, LinkedIn, Googlet+, MySpace,
+Flickr, and Picasa. Figure 14.03 displays this tool banner with a search of the term OSINT. This
+example identifies 45 images on Instagram with this keyword. The results will appear below the
+banner.
+
+Allresults Facebook Twitter Inetagram Linkedin Geogiet MySpace Flickr Picasa
+
+About 45 results (0.22 seconds) Sort by: ‘Relevance + |
+
+Figure 14.03: A Google CSE that filters images by network.
+Exif Data
+
+Every digital photograph captur

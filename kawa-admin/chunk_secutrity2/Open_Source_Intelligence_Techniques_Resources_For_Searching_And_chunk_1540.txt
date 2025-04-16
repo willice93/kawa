@@ -1,0 +1,12 @@
+a service that will analyze a photo including a human face and try to locate additional
+images of the person. The results are best when the image is of a public figure with a large internet
+
+presence, but it will work on lesser-known subjects as well. An additional feature is a prediction
+of the sex of the target as well as age.
+
+290 Chapter 14
+
+Twitter Images
+
+For the first several years of Twitter’s existence, it did not host any photos on its servers. If a
+user wanted to attach a photo to hi

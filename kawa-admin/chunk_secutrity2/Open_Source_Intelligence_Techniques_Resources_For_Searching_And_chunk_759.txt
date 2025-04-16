@@ -1,0 +1,12 @@
+data supplied.
+
+Fall Name: Facebook provides real name, profile photo, partial email addresses, and redacted
+telephone numbers.
+
+Email Address: Facebook provides real name, profile photo, confirmed email address, partial
+additional email addresses, and redacted telephone numbers.
+
+Cell Number: Facebook provides real name, profile photo, partial email addresses, confirmed
+telephone number, and redacted additional telephone numbers.
+
+User Name: Facebook provides real name, profile photo, partial e

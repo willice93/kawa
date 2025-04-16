@@ -1,0 +1,10 @@
+der finding the best option for your investigations.
+
+20 Chapter 1
+
+Image Search Options (addons.mozilla.org/en-US/firefox/addon/image-search-options/)
+
+A later chapter explains reverse image search engines and how they can identify more target
+photographs. Popular options include Google Images and Tin Eye. This extension automates the
+reverse search when an image is tight-clicked. When installed, “Image Search Options” is present
+when you right-click on an image. Highlighting this option presen

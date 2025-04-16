@@ -1,0 +1,32 @@
+te Management 25
+
+3.3 Finding FTP Servers busy status
+
+To find servers with this rTP ;
+
+sctting: ( cncte 120). | se the {
+
+web search function Using the search «+
+g arch string:
+
+21.ftp.banner. banner: 120
+
+Table 11 FTP 2nd digit codes
+
+©) 192.129.127.13
+@ Boycom Cablevision (53832)
+ 21/ftp. 80/http
+# site/flash/xWeb
+Q, 21.ftp.bannerbanner: 120 Seryer Busy.
+
+Figure 4 FTP Code 120 §
+
+9 Poplar Bluff, Missouri United States
+
+ORDO Rr EN ameter maser
+
+Table 13 FTP 200 Series Codes
+
+Description
+
+The r

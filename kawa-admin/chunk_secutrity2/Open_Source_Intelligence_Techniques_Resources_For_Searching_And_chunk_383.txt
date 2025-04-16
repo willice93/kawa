@@ -1,0 +1,10 @@
+e practicing these techniques
+in a live web browser. When searching, you cannot break anything. Play around and get familiar
+with the advanced options.
+
+Quotation Marks
+
+Placing a target name inside of quotation marks will make a huge difference in a quick first look
+for information. If I conducted a search for my name without quotes, the result is 47,300 pages
+that include the words “Michael” and “Bazzell’”. These pages do not necessarily have these words
+right next to each other. The word “Mic

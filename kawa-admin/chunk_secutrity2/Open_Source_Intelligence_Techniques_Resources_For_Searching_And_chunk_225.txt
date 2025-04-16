@@ -1,0 +1,11 @@
+They
+each execute specific code against the target website within the browser. If you do not see these
+new bookmarklets after applying the downloaded profile mentioned previously, click on View >
+Toolbars > Bookmarks Toolbar within Firefox.
+
+Modified: Displays the date that a static website was last modified
+
+Cached: Displays a Google Cache of the website (Chapter Three)
+
+Wayback: Displays the website archive within the Wayback Machine (Chapter Three)
+Source: Displays the source code of a websi

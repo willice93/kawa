@@ -1,0 +1,8 @@
+s, but you would filter out anything that was
+not exact such as Abad,Abad, Abad-Abad, or AbadAbad. This is where the exclamation point (1)
+comes in. A search of “!Carina !Abad !Abad”, without quotation marks, would identify any results
+that included those three words regardless of spacing or punctuation.
+
+Date specific searches: While Google provides a menu to filter your searches by date, Yandex
+makes you work harder for it. You must specify the date range within the search. The following
+queri

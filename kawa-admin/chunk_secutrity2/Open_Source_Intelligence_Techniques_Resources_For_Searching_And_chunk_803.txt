@@ -1,0 +1,6 @@
+ner of the number was revealed. While Twitter possesses a similar
+lookup tool, it does not completely identify the individual. This page allows input of a telephone
+number, email address, or user name. The result includes the last two digits of their cellular
+number and a redacted email address. This data can be used to verify. previously collected data ot
+to identify the email provider used by a target, such as Yahoo or Gmail. This also verifies that
+the provided information is actually connect

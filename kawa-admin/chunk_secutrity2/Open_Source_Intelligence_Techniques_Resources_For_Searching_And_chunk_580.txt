@@ -1,0 +1,7 @@
+ake advantage of every option during every investigation. During my initial
+search of a target, I like to rely on the basics. I first search Google, Bing, Yandex, and the smaller
+Google search engines. In order to assist with this initial search, I created a custom tool that will
+allow you to quickly get to the basics. Figure 3.11 displays the current state of this online website.
+
+The main set of search options will allow you to individually search directly through Google,
+Bing, Yahoo, Searx, Y

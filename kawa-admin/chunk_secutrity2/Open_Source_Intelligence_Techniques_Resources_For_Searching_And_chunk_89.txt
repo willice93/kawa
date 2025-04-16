@@ -1,0 +1,10 @@
+t apply only to websites. There are many free programs that
+automate the search and collection of data. These programs, as well as application programming
+interfaces, will be explained to assist the advanced investigator of open soutce intelligence.
+
+In summary, this book is to serve as a reference guide to assist you with conducting more accurate
+and efficient searches of open source intelligence.
+
+What the book is not...
+
+This is not a debate about the ethics or politics of online reconnaissan

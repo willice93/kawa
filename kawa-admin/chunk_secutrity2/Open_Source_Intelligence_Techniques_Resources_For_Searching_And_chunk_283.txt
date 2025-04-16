@@ -1,0 +1,6 @@
+apshot and title it “New Install”. I then use this machine for a single
+investigation, and export all evidence to an external USB device, such as a flash drive. I then
+“restore” the New Install snapshot, and it overwrites any changes made during the previous
+investigation. Upon reboot, all history and evidence is eliminated. This ensures that I never
+contaminate one investigation with another. When there are substantial updates available for
+Buscador, I load the default configuration, and apply

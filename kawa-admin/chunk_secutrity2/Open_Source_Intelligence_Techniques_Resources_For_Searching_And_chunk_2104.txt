@@ -1,0 +1,13 @@
+the warning, and
+acknowledge the completion. Close the device and restart.
+
+e Download the GApps 6.0.0 file at inteltechniques.com/android. Drag and drop the zip
+file directly into your running virtual Android device. Agree to the warning, and
+acknowledge the completion. Close the device and restart.
+
+° Log in to a Google account that you will use to download apps to the device. Close any
+errors that appear. Close the device and restart.
+
+408 Chapter 21
+
+© Download the Benzo Patch file at intelt

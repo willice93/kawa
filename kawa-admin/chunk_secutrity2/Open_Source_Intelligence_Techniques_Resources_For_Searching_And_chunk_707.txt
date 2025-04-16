@@ -1,0 +1,10 @@
+q=osint
+People: https://www.facebook.com/search/people/ ?g=osint
+Photos: https://www.facebook.com/search/photos/?q=osint
+Videos: https://www.facebook.com/search/videos/2q=osint
+Shop: https://www.facebook.com/search/shop/?q=osint
+Pages: https: / /www.facebook.com/search/pages/?q=osint
+Places: https://www.facebook.com/seatch/str/osint/keywords_places/
+Groups: https://www.facebook.com/search/groups/ ?q=osint
+Apps: https://www.facebook.com/search/apps/?q=osint
+Events: https://www.facebook.com/search

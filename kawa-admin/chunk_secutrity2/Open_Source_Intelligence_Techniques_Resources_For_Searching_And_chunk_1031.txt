@@ -1,0 +1,11 @@
+by clicking on the name. Alternatively, the following URL can be used.
+
+https://www.reddit.com/user/CHRISB
+
+If you have a target website, and you want to know if the URL has ever been posted as a
+submission link, the following URL will display all results.
+
+https: //www.reddit.com/search?q=site:inteltechniques.com
+
+If Reddit is not providing the results you think you should be receiving, you should return to our
+previous instruction on Google searching. The following query would identify any pos

@@ -1,0 +1,13 @@
+SINT
+
+A few Reddit alternatives that are currently small but show promise of becoming relevant include
+the following, with the best search option for each.
+
+Raddle: https://www.google.com/seatch?q=site:raddle:me+OSINT
+Steemit: https://www.google.com/search?q=site:steemit.ccom+OSINT
+Hubski: https://hubski.com/searchPg=OSINT
+
+Meetup (meetup.com)
+
+Meetup consists of users and groups, with all communication related to events where people
+actually meet in real life. Each user creates a profile that i

@@ -1,0 +1,11 @@
+We can often
+retrieve location information from a small percentage of the viewers, which can lead to further
+intelligence about the video. In our previous example, the following URL would identify location
+metadata about the viewers of the video stream.
+
+https://www.facebook.com /ajax/livemap/videos/viewers /?video_id=445432539206610&live
+_viewets_count=2500&dpr=1&__user=&__a=1
+
+The response displays location data stored within a single line of text, similar to the following.
+
+{"latitude":51.533

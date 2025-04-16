@@ -1,0 +1,9 @@
+extremely powerful utility that has been reserved for those that understand
+Python and command-line input. This will be the first application that we free from this
+
+restriction.
+
+Click on the Video Download icon within the dock to launch a script that will prompt you to
+“Enter Video URL”. Assume that you want to download the YouTube video located on the site
+at https://www.youtube.com/watch?v=6kBOCnOlwdl. Place that link in the prompt and click
+“OK”. An animated screen will indicate that the v

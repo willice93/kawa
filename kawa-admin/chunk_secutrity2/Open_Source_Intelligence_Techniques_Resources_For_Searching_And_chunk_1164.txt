@@ -1,0 +1,7 @@
+mple, if your target’s
+name is Jay Stewart and he has an email address of jay112003@yahoo.com, you should conduct
+additional searches for the addresses of jay112003@gmail.com, jay112003@hotmail.com, and
+jay112003@live.com, and others. If you already know your target’s user name, such as a Twitter
+handle, you should create a list of potential email addresses. In the next chapter, I will explain
+how to automate this search based on a single user name, which could also be the first portion
+of an em

@@ -1,0 +1,7 @@
+re there is some type of activity. The result in my case was a two-minute video
+isolating only the portion with activity. )
+
+Shorten a video (High activity): This version of the script is identical to the previous with one
+exception. It is a bit more forgiving for videos with high activity. This might be outdoor
+surveillance of people walking in the distance or a video with a time counter printed within the
+feed. If the previous option does not remove enough content, this version will be a bit m

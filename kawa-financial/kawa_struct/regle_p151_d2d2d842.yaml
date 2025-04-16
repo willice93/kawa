@@ -63,3 +63,33 @@ cas_pratique: 'Nom: Jean Dupont, architecte indépendant
   Synthèse : M. Dupont doit payer un impôt sur les plus-values de 60 600€ pour sa
   plus-value de l''appartement en 2021 (3AK), ainsi qu''un impôt supplémentaire de
   15 500€ pour son héritage reçu en 2019 (1GF).'
+embedding_text: "Règle : La règle s'applique aux plus-values et créances mentionnées\
+  \ dans le texte, dont l'imposition est en sursis de paiement. Les montants ou plafonds\
+  \ concernés sont les prélèvements sociaux à différents pourcentages suivant la nature\
+  \ des revenus :\n\n  1. Règle applicable lors du traitement des plus-values soumises\
+  \ aux prélèvements sociaux au barème (3WM) : le taux de prélèvement est de 3WM à\
+  \ l'IR, soit au barème ou à 12,8%.\n  2. Règle applicable lors du traitement des\
+  \ plus-values art. 150-0 B ter du CGI : l'imposition et les contributions pour le\
+  \ compte des retraites (CEHR) sont appliquées en plus de la taxe sur le revenu (IR),\
+  \ avec un taux de prélèvement de 15,5%.\n  3. Règle applicable lors du traitement\
+  \ des autres types de plus-values et créances (3XM ou 3XA) : le taux de prélèvement\
+  \ est de 17,2 %.\n\nIl faut vérifier que les montants en question correspondent\
+  \ à des plus-values ou créances mentionnées dans le texte et que l'imposition sur\
+  \ ces revenus n'a pas déjà été payée.\nCas pratique : Nom: Jean Dupont, architecte\
+  \ indépendant\n\nSituation: M. Dupont a vendu son appartement en 2021 et a réalisé\
+  \ une plus-value de 350 000€. Il a également reçu un héritage de 100 000€ en 2019,\
+  \ qui constitue une créance mentionnée dans le texte (3XA).\n\nCalculs :\n- Plus-value\
+  \ de l'appartement : 350 000€\n- Héritage reçu en 2019 : 100 000€\n\nRégime par\
+  \ défaut : Taux de prélèvement de 17,2 % sur les autres types de plus-values et\
+  \ créances (3XM ou 3XA).\n\nOption choisie pour l'héritage de 2019 : Imposition\
+  \ et contributions pour le compte des retraites (CEHR) appliquées en plus de la\
+  \ taxe sur le revenu (IR), avec un taux de prélèvement de 15,5 %.\n\nDeclaration\
+  \ :\n- Plus-value de l'appartement : 3AK (Impôt sur les plus-values au barème -\
+  \ 3WM)\n- Héritage de 2019 : 1GF (Impôts directs de personnes physiques - Héritages,\
+  \ donations et legataires universels)\n\nCalcul des impôts :\n- Plus-value de l'appartement\
+  \ : 350 000€ x 17,2 % = 60 600€ (Impôt sur les plus-values au barème - 3WM)\n- Héritage\
+  \ de 2019 : 100 000€ x 15,5 % = 15 500€ (Impôts directs de personnes physiques -\
+  \ Héritages, donations et legataires universels - CEHR)\n\nSynthèse : M. Dupont\
+  \ doit payer un impôt sur les plus-values de 60 600€ pour sa plus-value de l'appartement\
+  \ en 2021 (3AK), ainsi qu'un impôt supplémentaire de 15 500€ pour son héritage reçu\
+  \ en 2019 (1GF)."

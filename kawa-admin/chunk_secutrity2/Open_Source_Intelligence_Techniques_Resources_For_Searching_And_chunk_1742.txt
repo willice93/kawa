@@ -1,0 +1,10 @@
+. A search of site:twit.tv “robots.txt” on either search engine identifies robots.txt files from
+the entire website Twit.tv. Different robots.txt files were found at both twit.tv and inside.twit.tv.
+The main robots.txt located at twit.tv/robots.txt appears as the following.
+
+User-agent: *
+Crawl-delay: 10
+Sitemap: https://twit.tv/sitemap.xml
+
+This was used as an interesting way to show a message to curious web visitors while providing
+seatch engines a sitemap for accurate indexing of their site.

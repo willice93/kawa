@@ -1,0 +1,6 @@
+ill aid in our OSINT research, we must first secure
+our browser to the best of our ability. While the default Firefox installation is much more secure
+than other browsers, we should still consider some modifications. I personally use Firefox for all
+of my OSINT investigations, and as my personal web browser. I no longer possess multiple
+browsers for various tasks. I believe that Firefox is the most robust, secure, and appropriate
+option for almost any scenario. However, I recommend changing the

@@ -1,0 +1,9 @@
+name Template, insert {url}-{title}-{date}-{time}. This will name every
+capture with the URL and title of the target website along with date and time of capture.
+
+e Check the Enable Quick Capture option and select the Entire Page option in the first
+row and Download option in the second row.
+
+After these changes, clicking the Nimbus icon in the menu bar will no longer present a menu
+with options. Instéad, it will automatically select the entire page, apply the proper file naming,
+and download th

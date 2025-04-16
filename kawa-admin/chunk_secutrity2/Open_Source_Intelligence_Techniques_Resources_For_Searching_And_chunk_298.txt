@@ -1,0 +1,8 @@
+it so that any computer
+should be able to play it natively. The video that is created will be stored in the “Video Utilities”
+folder in the left menu of the “Home Folder” on the Desktop.
+
+Extract video frames: This is likely the most used utility within this set of applications. After
+supplying a target video, this tool will extract the still images from the video. The result is a folder
+of uncompressed bitmap (bmp) image files depicting practically every frame of the video. This is
+beneficial f

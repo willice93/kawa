@@ -1,0 +1,11 @@
+is important to understand how Twitter performs this
+task. Assume that you are investigating a bomb threat that occurred several weeks or months ago.
+A search on Twitter of the terms “bomb threat” will likely apply only to recent posts. Instead,
+consider a date specific search. The following query on any Twitter page would provide any posts
+
+Social Networks: Twitter 139
+
+that mention “bomb threat” between January 1, 2015 and January 5, 2015.
+since:2015-01-01 until:2015-01-05 “bomb threat”
+
+My f

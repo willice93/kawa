@@ -1,0 +1,11 @@
+es under investigation.
+Citizen Band (CB)
+Many people associate Citizen Band (CB) radios with truck drivers. This is often appropriate, but
+truckers ate not the only people that transmit on such frequencies. Since CB is low power, the
+
+receiver must be within a few miles of the transmitter. There are 40 channels available in this
+band. Communication on these channels may include traffic issues, witnesses to major accidents,
+
+Radio Frequency Monitoring 433
+
+reports of reckless drivers, and the oc

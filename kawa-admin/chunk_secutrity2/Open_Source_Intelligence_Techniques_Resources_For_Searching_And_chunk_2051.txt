@@ -1,0 +1,23 @@
+ch"/>
+
+</form>
+
+<script type="text/javascript">
+
+function doflnumber(flnumber) {
+window.open(https://api.flickr.com/services/rest/?method=flickr.people.getInfo&api_key=X
+XX&user_id='+ flnumber + '&format=rest’, 'flickrnumberwindow’);
+
+}</script>
+
+<form onSubmit="doflnumber(this.flnumber.value); return false;">
+
+<input name="flnumbet" size="40" placeholder="User Number" type="text" />
+
+<input type="submit" style="width:100px" value="User # Search"/>
+
+</form>
+
+396 Chapter 20
+
+Reverse Caller ID Eng

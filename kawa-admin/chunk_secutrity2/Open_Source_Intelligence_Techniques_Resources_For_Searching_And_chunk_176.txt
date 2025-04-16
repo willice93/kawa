@@ -1,0 +1,8 @@
+ould not fully
+execute. It could not load images, design scripts, or any JavaScript. This is not useful at all, so I
+disabled my actions by clicking on the middle section of the top cell in the third column, which
+turned the entire column back to gtey in color. Saving these changes and refreshing the page
+brought me back to the example in Figure 1.05.
+
+We can also take this to the opposite extreme. In Figure 1.07 (left), I clicked on the far-left portion
+of the top cell in the third column. This

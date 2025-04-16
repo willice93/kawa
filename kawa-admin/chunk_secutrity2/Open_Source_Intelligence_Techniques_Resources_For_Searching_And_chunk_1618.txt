@@ -1,0 +1,6 @@
+Tube’s servers. The easiest way to do this is through the
+YouTube Data Viewer from Amnesty International. Select any YouTube video and copy the
+entire address of the page. Paste the video address into this service. The result will include the
+video title, description, upload date, upload time, four still images, and an option to conduct a
+reverse image seatch. Clicking the “reverse image search” option next to a still frame opens a
+reverse image search on Google for the selected image. While thi

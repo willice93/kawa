@@ -1,0 +1,6 @@
+e a desirable trait. However, the clean interface makes room for a feature that may not work
+properly on MIT’s contribution. The page displays a small box around a group of Tweets posted
+from a location on the map. This square is executed when clicking on any portion of a visible
+map. Any Twitter posts existing within the square will be presented in a pop-up window that will
+identify the Tweets and all available details about them. The box at the bottom will-allow you to
+filter the results by da

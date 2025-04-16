@@ -1,0 +1,6 @@
+016, I was contacted by David Westcott. We knew each other through our OSINT work,
+and he asked if I was interested in creating a custom OSINT virtual machine. I had always
+considered this, but had concerns about my skills at hardening Linux systems and pushing out
+finished builds. David had worked on other public Linux releases, and was much more
+comfortable distributing custom systems. I began designing my dream OSINT build, sending
+him weekly requests, and he began taking the ideas and execut

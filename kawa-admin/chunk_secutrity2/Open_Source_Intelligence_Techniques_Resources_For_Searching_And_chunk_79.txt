@@ -1,0 +1,9 @@
+edition of this book is still highly
+applicable, a lot has changed over the past two years. Much of this book contains new techniques
+
+II
+
+that were previously not available. The Facebook Graph search options continue to grow
+considerably. I have also created several new online search tools to help with the investigative
+process. While Twitter and Instagram took away a few features, there is an abundance of new
+techniques available to all of us. Finally, a surge of Python tools has bombarded us

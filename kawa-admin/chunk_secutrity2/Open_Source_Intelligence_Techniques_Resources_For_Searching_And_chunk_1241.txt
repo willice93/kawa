@@ -1,0 +1,13 @@
+dom just to identify any student or employee personal website
+
+on the SIUE domain. One of the results was a link to a personal website belonging to “Laura
+Swanson”. The link was:
+
+www.siue.edu/~lswanso/
+
+This indicates that the naming convention for personal websites is a tilde (~) followed by the
+first initial and then the first six letters of the last name. If the target of interest was “Scott
+Golike”, the personal website would probably be at:
+
+www.siue.edu/~sgolike/
+We can also assume the po

@@ -1,0 +1,10 @@
+ou want to view every page on a specific domain that includes your target
+of interest, the site operator is required. Next, I conducted the following exact search.
+
+Site:forbes.com “Michael Bazzell”’
+
+The result was all seven pages on forbes.com that include my name within the content. This
+technique can be applied to any domain. This includes social networks, blogs, and any other
+website that is indexed by search engines.
+
+Another simple way to use this technique is to locate every page that is

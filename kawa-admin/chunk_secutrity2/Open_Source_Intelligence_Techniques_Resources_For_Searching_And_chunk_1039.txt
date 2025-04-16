@@ -1,0 +1,11 @@
+tps: / /api.pushshift.io/reddit/search/comment/?author=CHRISB&sort=asc&size=1000
+
+If you are seeking a specific post with unique wording, you can accomplish this with the following
+URL. This example would identify public and deleted posts mentioning my website.
+
+https: //api.pushshift.io/reddit/search /comment/?q=inteltechniques.com
+
+Online Communities 185
+
+Each of these searches may present too much content and may not be easy to digest. We can
+filter unwanted content in order to produce less r

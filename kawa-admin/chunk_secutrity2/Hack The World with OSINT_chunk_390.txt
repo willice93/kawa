@@ -1,0 +1,36 @@
+Description
+———— ST arte a
+a ot Found
+ae ee Rate Limit Exceeded
+500 = ne es palawe Internal Server Heror
+
+13.4 Create Report
+
+POST
+
+/api/v1/ view/report/ tid
+Tabke 76 Rest API Report URL Parameters
+URL Parameter Example
+
+/ api/vi/report/ipva a — 80.http.get.body: porn
+-/api/v1/report/certificates Sw aut al Rg i aaa —
+
+Table 77 Rest API Report Index URL Parameter
+URL Parameter
+
+Type
+
+Required
+
+Se
+
+lable 78 Rest AP] Report Data Parameters
+
+Jata Parameter lype
+
+Required
+
+stint
+cncteeceemieiaan
+
+Str

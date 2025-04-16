@@ -1,0 +1,9 @@
+es not provide a published solution for this. However, it does support this type of
+search. Assume that you are investigating threats against your target named Michael Parker. You
+believe that people may be tweeting about him with reference to violence. Searching his name
+alone produces too many results. Since you only want posts that include violent terms, the
+following search on any Twitter page may be appropriate.
+
+“Michael Parker” kill OR stab OR fight OR beat OR punch OR death OR die
+
+The n

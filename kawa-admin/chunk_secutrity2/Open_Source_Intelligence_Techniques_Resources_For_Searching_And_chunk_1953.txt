@@ -1,0 +1,8 @@
+of saving a
+website. You may want to do this when you locate a target website and are concerned that the
+site could be taken down. Any time that you find any content that will be used in court, you
+should archive the entire site. This application automates the process. The result is a locally stored
+copy that you can navigate as if it were live. This is beneficial in court when internet access is not
+appropriate or a website has been taken offline.
+
+When the application loads, clicking the “nex

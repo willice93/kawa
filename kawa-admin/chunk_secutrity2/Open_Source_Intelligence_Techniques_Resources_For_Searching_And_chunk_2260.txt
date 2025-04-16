@@ -1,0 +1,6 @@
+st modern devices include a feature that will quickly scan all of the major bands of
+frequencies for any that are in your immediate area. Uniden radios refer to this as the “Close
+Call” option while others label it as “Signal Stalker”. Basically, it scans for the strongest
+frequencies and ignores weak signals. This may be the only way that you can identify the
+frequency that you are seeking. This will often identify local frequencies of interest that are not
+listed on Radio Reference or are unli

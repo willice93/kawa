@@ -1,0 +1,6 @@
+icial when only looking for items within surrounding areas. Four new options on the upper
+right of every result page allow you to sort the items by newest listings (default), relevance, lowest
+ptice, and highest price. Most pages with items for sale will also allow you to filter the results so
+that only items being sold by individuals ate listed. This would eliminate businesses and dealers.
+The default is to show both, and I recommend leaving that unless you are overwhelmed by the
+number of resu

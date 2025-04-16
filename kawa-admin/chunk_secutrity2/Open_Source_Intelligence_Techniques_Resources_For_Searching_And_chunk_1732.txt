@@ -1,0 +1,9 @@
+nformation that was not available with other services. It identified our
+target’s Google AdSense affiliate number within a website and cross-referenced that data to three
+other related domains.
+
+Domain Crawler (domaincrawler.com)
+
+The results on this service will likely be redundant to the previously mentioned websites.
+However, the data here could be used to validate the information that you have already collected.
+Domain Crawler will attempt to identify any analytics or advertisement codes and

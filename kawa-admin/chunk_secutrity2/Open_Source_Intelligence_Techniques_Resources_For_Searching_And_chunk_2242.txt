@@ -1,0 +1,8 @@
+requencies. Wireless microphone power levels are normally very
+low in order to reduce the potential for interference. Clear reception requires close proximity or
+use of directional antennas. The following frequencies should receive audio from most of the
+existing wireless microphone systems. If you expect to receive a wireless transmission, and none
+of these frequencies are active, you should search by “Nearby Frequencies”.
+
+169.445 73.3000 178.2000 187.6000 199.6000
+169.505 73.6000 178.6000 188

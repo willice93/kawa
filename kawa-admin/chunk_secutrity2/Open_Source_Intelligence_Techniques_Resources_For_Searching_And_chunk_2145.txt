@@ -1,0 +1,8 @@
+r Applications folder (Mac) or Start menu (Windows). You
+should see the identical names of your Android machines visible within Genymotin.
+Right-click the machine that you want to duplicate and select “Clone”. Figure 21.04
+displays this program with a right-click menu option from an active machine.
+
+e Provide a name for your new machine. This could be “Investigation Master Copy” or
+“2018-1234”. Choose the options of Full Clone and Current machine state and click the
+Clone button. VirtualBox will

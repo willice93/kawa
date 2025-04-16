@@ -1,0 +1,14 @@
+mments within the page.
+
+“bonnie woodward” “1..999 comments”
+
+Related Operator
+
+This option has been proven very useful over the past year. It collects a domain, and attempts to
+provide online content related to that address. As an example, I conducted a search on Google
+with the following syntax.
+
+related:inteltechniques.com.
+
+The results included no references to that domain, but did associate it with my other websites,
+my Twitter page, my Blackhat courses, and my book on Amazon. In my investi

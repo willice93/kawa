@@ -1,0 +1,6 @@
+identify without already knowing the suspect website. With Nerdy Data, you can
+perform a search of the code of concern and identify websites that possess the data within their
+own source code. In 2013, I located a custom search website at the YGN Ethical Hacker Group
+that inspired me to create my own similar search service. I was curious if there were any other
+search websites that possessed this basic code that might give me more ideas. I looked at the
+source code of the website and located a s

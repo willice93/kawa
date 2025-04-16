@@ -1,0 +1,10 @@
+acebook stores that information. Until recently, this was
+sometimes difficult to locate, if not impossible. You will not always find it on the target’s profile
+page, but the new Facebook Graph search allows us to dig into this information.
+
+The official way to search this data on Facebook has flaws. You can type in what you are looking
+for and Facebook will give you results based on your friends and people close to your network.
+
+102 Chapter 4
+
+As an example, when I conduct a search for photos l

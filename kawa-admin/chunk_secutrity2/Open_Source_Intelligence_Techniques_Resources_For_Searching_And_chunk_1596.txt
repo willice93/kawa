@@ -1,0 +1,9 @@
+s to check edges. Similar edges should have
+similar gradients. If the gradients at one edge are significantly sharper than the rest it’s a sign that
+the image could have been copied and pasted. It does also reveal noise and compression artifacts
+
+quite well. Figure 14.12 (left) displays this view.
+
+PCA performs principal component analysis on the image. This provides a different angle to
+view the image data which makes discovering certain manipulations and details easier. This tool
+is currently

@@ -1,0 +1,7 @@
+Blasze service and connects to blasze.tk/DQ7ORY. When this
+link is executed, it automatically forwards to the original “safe” site of reddit.com/r/netsec.
+Overall, the target clicks on a shortened Google link and sees the Reddit page. If this were my
+investigation, I would have sent a message similar to the following.
+
+Hi David. Sorry, you don’t know me, but I thought you should know that the project that you
+have been working on has leaked and is currently being discussed on Reddit here: goo.g

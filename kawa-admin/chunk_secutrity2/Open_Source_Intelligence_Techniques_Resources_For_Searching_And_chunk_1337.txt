@@ -1,0 +1,6 @@
+of service, and provider associated with the number. While many
+online services can identify the provider of a cellular or landline number, this option provides the
+best detail about VOIP numbers. I submitted several telephone numbers associated with various
+providers that I could personally confirm. The following identifies the results of these searches.
+The first column represents the provider as I knew it, the second column is the type, and the
+thitd is the provider displayed by Text Magic. T

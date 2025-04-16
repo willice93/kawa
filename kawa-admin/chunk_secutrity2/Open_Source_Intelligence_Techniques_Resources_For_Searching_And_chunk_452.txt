@@ -1,0 +1,9 @@
+allows Bing to quickly pull links out of the actual code of the website.
+
+Bing Contains
+
+Earlier, I discussed searching for files with specific file extensions on Google. The “filetype” and
+“ext” operators that were explained both work on Bing the same way. However, Bing offers one
+more option to the mix. The “contains” operator allows you to expand the parameters of the file
+type search. As an example, a Bing search of “filetype:ppt site:cisco.com” returns 3,200 results.
+These include PowerPoi

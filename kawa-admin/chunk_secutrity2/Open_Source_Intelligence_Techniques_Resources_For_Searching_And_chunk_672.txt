@@ -1,0 +1,11 @@
+ting this search with
+the user number of identified relatives will often display additional unlisted relatives.
+
+The “friends/events” option will display the common events with which your target’s friends
+have an association. This may identify upcoming large local gatherings. I have successfully used
+this information to conduct surveillance for a wanted fugitive.
+
+The “friends /events-created” option will display the common events that your target’s friends
+created.
+
+The “friends/events-invited”

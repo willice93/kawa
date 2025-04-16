@@ -1,0 +1,6 @@
+nt files stored on the domain of cisco.com. However, these results do
+not necessarily include links on the cisco.com website to PowerPoint files stored on other
+websites. A search on Bing for “contains:ppt site:cisco.com” returns 7,200 results. These include
+PowerPoint files that are linked from pages on the domain of cisco.com, even if they are stored
+on other domains. This could include a page on cisco.com that links to a PowerPoint file on
+hp.com. In most cases, this search eliminates the nee

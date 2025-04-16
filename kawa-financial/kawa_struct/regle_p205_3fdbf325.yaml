@@ -68,3 +68,64 @@ calcul:
     revenu_brut: 680
     abattement: 306
     revenu_net: 374
+embedding_text: 'Règle : Cette règle s''applique aux personnes physiques qui sont
+  propriétaires ou associées à des sociétés commerciales. Les conditions pour bénéficier
+  de cette règle se présentent lorsque les individus perçoivent les revenus suivants
+  :
+
+
+  1. Les produits des parts sociales (dividendes)
+
+  2. Les sommes mises à disposition des associés, directement ou par personnes interposées,
+  à titre d''avance, prêt ou acompte
+
+  3. Les intérêts des comptes courant d''associé
+
+
+  Les montants ou plafonds à prendre en compte sont les revenus bruts perçus par vous,
+  votre conjoint ou partenaire pacsé et vos enfants mineurs non émancipés. Les revenus
+  à déclarer sont les revenus bruts avant l''abattement fiscal de 40 % (applicable
+  en cas d''option pour la taxation de vos revenus de capitaux mobiliers et plus-values
+  au barème progressif de l''impôt sur le revenu).
+
+
+  La formule de calcul applicable est simple : Les revenus perçus x (1 - taux d''abattement
+  fiscal) = les revenus à déclarer.
+
+  Formule : revenu_brut * (1 - 0.45)
+
+  Cas pratique : Context: John Doe, a 45-year-old self-employed individual living
+  in Paris with his wife, Jane Smith, who is also self-employed. They have two children
+  under the age of 18, Emma and Max. John has recently invested in a small tech startup,
+  TechFusion, for which he receives annual dividends and occasional advances from
+  the company as a shareholder.
+
+
+  Here''s an example of how they can apply this rule:
+
+
+  - John Doe: Personal income (40,000€), Dividends from TechFusion (3,500€), Interest
+  on his current account at TechFusion Bank (200€)
+
+  - Jane Smith: Personal income (35,000€), Interest on her current account at BNP
+  Paribas (100€)
+
+  - Emma & Max Doe (children): No income as minors and non-emancipated
+
+
+  Total combined gross income: 78,600€ + 3,500€ + 200€ + 100€ = 82,400€
+
+
+  Declarations: John Doe (1AK) - 40,000€ + 3,500€ (declared in 1GF) + 200€; Jane Smith
+  (1GF) - 35,000€ + 100€
+
+
+  Comparison: Without the option for taxation of capital gains and investment income,
+  their total taxes would be approximately 27,680€ (calculated at a progressive rate
+  of up to 45%). However, by choosing this option, they could reduce their taxable
+  income by 40%, bringing their potential tax liability down to around 16,560€.
+
+
+  In summary: By carefully considering the implications of this rule and making an
+  informed decision about their capital gains and investment income taxation option,
+  John and Jane Doe can potentially save up to 11,120€ in taxes for the current year.'

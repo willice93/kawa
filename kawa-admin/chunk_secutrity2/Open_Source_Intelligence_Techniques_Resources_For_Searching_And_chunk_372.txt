@@ -1,0 +1,8 @@
+ton similar to a CD and choose the appropniate ISO file
+e Click “Start” and allow the process to complete
+
+The result is a drive that will boot to the selected operating system. Your USB drive is now ready
+to be used as a boot drive. You will need to ensure that the BIOS of your Windows computer is
+set up to boot from USB before the internal drive. On most computers, hitting either the F2,
+F10, F12, DEL, or ESC buttons repeatedly when you first turn on your computer will present
+this menu. While

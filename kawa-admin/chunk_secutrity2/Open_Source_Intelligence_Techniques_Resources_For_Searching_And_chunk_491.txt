@@ -1,0 +1,9 @@
+ll display in
+single columns next to each other. Additionally, the foreign results will be automatically translated
+to English. This feature can be disabled, if desired. The first few sponsored results (ads) will be
+similar, but the official results following should differ. This site can also be helpful when
+demonstrating to someone the importance of searching targets through multiple countries.
+
+Google Input Tools (google.com/inputtools/try)
+
+Thete is one last feature regarding foreign language

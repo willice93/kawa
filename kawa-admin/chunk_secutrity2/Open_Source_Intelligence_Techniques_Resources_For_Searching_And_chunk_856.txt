@@ -1,0 +1,8 @@
+populanity. I could
+also sort by creation date in order to identify newly created accounts. This is possibly the most
+useful third-party tool when you have numerous accounts of interest.
+
+Real World Application: The day this feature was released, I was investigating a suspicious
+Twitter account associated with violent threats toward a celebrity. The suspect had sanitized the
+account which prohibited obtaining valid location data. However, the suspect had numerous
+followers and people he was foll

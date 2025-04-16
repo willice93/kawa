@@ -55,3 +55,33 @@ calcul:
     revenu_brut: 500
     abattement: 150
     revenu_net: 350
+embedding_text: "Règle : Cette règle s'applique aux gains obtenus sur l'option d'achat\
+  \ de logement en France.\n\nLes conditions sont que le montant du gain annuel ne\
+  \ dépasse pas 152 500 € pour la fraction taxable à 30 % (ligne 3VI), et supérieur\
+  \ à 152 500 € pour la fraction taxable à 41 % (ligne 3VF).\n\nLe plafond est de\
+  \ 152 500 € pour le montant du gain annuel en dessous duquel il est taxé à 30 %,\
+  \ et plus que 152 500 € pour la fraction taxable à 41 %.\n\nLa formule de calcul\
+  \ applicable est :\n- Pour la fraction taxable à 30 % (jusqu'à 152 500 €), Taxe\
+  \ = Gain * 0.30\n- Pour la fraction taxable à 41 %, (au-delà de 152 500 €), Taxe\
+  \ = (Gain - 152 500) * 0.41\n\nPour être sûr d'y avoir droit, il faut vérifier que\
+  \ :\n- Le montant du gain annuel ne dépasse pas le plafond de 152 500 € pour la\
+  \ fraction taxable à 30 % (ligne 3VI).\n- Les conditions spécifiques aux options\
+  \ d'achat de logement ont été respectées.\nFormule : revenu_brut * (1 - 0.3)\nCas\
+  \ pratique : Contexte : Émilie est un agent immobilier spécialisé dans l'option\
+  \ d'achat de logements en France. Elle a fait une vente en 2023 pour un montant\
+  \ de 750 000 €, avec une valeur acquise de 487 500 €.\n\nPour appliquer la règle\
+  \ de taxation sur les gains obtenus sur l'option d'achat de logement en France,\
+  \ il y a deux étapes à suivre :\n\n1. Déterminer le montant du gain annuel :\n \
+  \  - Montant de vente (750 000 €) - Valeur acquise (487 500 €) = 262 500 € (Montant\
+  \ du gain annuel)\n\n2. Appliquer les taux de taxation correspondants :\n   - Pour\
+  \ la fraction taxable à 30 %, le montant ne dépasse pas le plafond de 152 500 €.\
+  \ Utilisons donc la formule Taxe = Gain * 0.30. Donc Taxe à 30 % = 262 500 € * 0.30\
+  \ = 78 750 €\n   - Pour la fraction taxable à 41 %, le montant supérieur à 152 500\
+  \ €, donc Utilisons donc la formule Taxe = (Gain - 152 500) * 0.41. Donc Taxe à\
+  \ 41 % = (262 500 € - 152 500 €) * 0.41 = 57 375 €\n\nLa déclaration sera faite\
+  \ dans les cases suivantes :\n- Ligne 3VI : Gain = 262 500 €, Taxe = 78 750 €\n\
+  - Ligne 3VF : Gain = 262 500 €, Taxe = 57 375 €\n\nComparaison du régime par défaut\
+  \ vs l'option choisie : Si Émilie avait opté pour le régime par défaut, elle aurait\
+  \ dû payer le montant total de gain (262 500 €) à un taux de 17 % (ligne 3V), soit\
+  \ 45 825 €. En choisissant l'option de taxation sur les gains obtenus sur l'option\
+  \ d'achat de logement, elle a donc économisé 6 970 €."

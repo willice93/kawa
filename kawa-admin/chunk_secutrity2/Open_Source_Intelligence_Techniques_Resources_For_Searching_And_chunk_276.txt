@@ -1,0 +1,15 @@
+and select host machine’s audio controller
+Click "OK" and launch the new machine
+
+Upon boot, log into the user "osint" with the password of osint
+
+In the VirtualBox Menu, select Devices > "Insert Guest Additions CD Image”
+Allow the image to be installed, and reboot upon completion
+
+Start the Terminal in the new VM and type sudo adduser osint vboxsf
+Provide the password as needed (osint)
+
+Reboot
+
+You should now have access to the shared directory in order to save data to the host operating
+system

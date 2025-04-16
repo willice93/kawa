@@ -1,0 +1,9 @@
+ld not be indexed by the search engine. Most engines comply
+with this request, and do not index the areas listed. Locating this file is relatively easy. The easiest
+way to view the file is to open it through a web browser. Type the website of interest, and include
+“robots.txt” after the forwatd slash (/). The file for Reddit can be found at the following address.
+
+http://www.reddit.com/robots.txt
+
+If this technique produces no results, you can conduct a Google or Bing query to identify any
+files

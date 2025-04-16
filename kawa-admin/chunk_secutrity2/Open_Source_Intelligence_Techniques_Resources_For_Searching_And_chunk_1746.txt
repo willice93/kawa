@@ -1,0 +1,10 @@
+owing addresses directly into a browser generates interesting results.
+
+http:/ /inside.twit.tv/blog
+http:/ /inside.twit tv/blogold
+http://inside.twit tv/display/RecoverPassword
+
+Most robots.txt files will not identify a secret area of a website that will display passwords, raunchy
+photos, or incriminating evidence. Instead, they usually provide insight into which areas of the
+site are considered sensitive by the owner. If you have a target website and have exhausted every
+other search method, yo

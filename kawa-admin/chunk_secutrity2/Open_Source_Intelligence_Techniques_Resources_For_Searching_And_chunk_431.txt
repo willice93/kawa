@@ -1,0 +1,14 @@
+ts”.
+Click the “add” button to add a new refinement for each of the websites in this example. You
+should create these in the same order that you want them to appear within the search results. For
+this demonstration, I created the following refinements in order.
+
+Facebook LinkedIn
+Twitter YouTube
+Google+ Tumblr
+Instagram
+
+66 Chapter 3
+
+When each refinement is cteated, you will have two options of how the search will be refined.
+The option of “Give priority to the sites with this label” will place

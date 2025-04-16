@@ -1,0 +1,9 @@
+book where your target’s
+friends placed a comment. This often includes communication otherwise difficult to find.
+
+The “friends/apps-used” option will display the apps that your target’s friends use on Facebook.
+The “friends/ friends” option will display the friends of your target’s friends on Facebook.
+The “friends/stories-by” option will display the Facebook posts that your target’s friends posted.
+
+The “friends/stories-commented” option will display the common Facebook posts that contain
+comm

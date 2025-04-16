@@ -1,0 +1,9 @@
+Furthermore, I have a list of dozens of
+
+44 Chapter 2
+
+employee names and additional companies connected to my target. All data is saved in the
+Metagoofil directory in the Home folder of Buscador. While FOCA tends to have a more
+powerful interface, it does not compete with the simplicity of Metagoofil. For those that want
+the exact extraction command passed during execution, it is listed below. Note that (Domain)
+refers to the actual address while (#) refers to the number entered during executi

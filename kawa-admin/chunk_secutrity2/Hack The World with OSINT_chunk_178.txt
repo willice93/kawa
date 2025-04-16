@@ -1,0 +1,27 @@
+sts Frequency
+https 221 100.0%
+akamai 217 8.19%
+http 21/ 98.19%
+
+Figure 47 Censys Metadata € jommon Tags of certificates with alternate DN¢
+names containing NSA, gov
+
+5.12 Discovering weak Kingdom of Saudi Arabia MOFA servers
+Log into Censys.io Search in 1Pv4 for “mofa.gov.sa”
+
+mofa.gov.sa
+
+IPv4 Hosts Top Million Websites
+
+195.47.234.150 (mail2.mofa.gov.sa) a
+
+@ SA (25233) 9% Saudi Arabia
+@ 25/smtp
+
+195.47.234.151 (mail mofa.gov.sa)
+
+@ SA (25233) 9 Saudi Arabia
+© 25/smtp
+
+Figure 48 C, “y 14 j
+&

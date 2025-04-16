@@ -1,0 +1,8 @@
+ideo download is in progress. When the
+download completes, Buscador will launch the file manager, and display the default folder for
+video downloads (Home > Video_Download). If you ever need to navigate to this folder
+manually, double-click the Home folder on the Desktop, and click on the Video_Download
+folder in the left column. These options can be seen in Figure 2.03 (left). The downloaded video
+will be the highest quality available for download and the file name will match the video ttle.
+
+N

@@ -1,0 +1,10 @@
+age search menu.
+Resurrect Pages (addons.mozilla.org/en-US/ firefox/addon/resutrect-pages /)
+
+This extension provides a link to archived versions of websites whenever a page has been
+modified, is unavailable, or has been deleted. Right-clicking on any site will offer a new menu
+option of “Resurrect this page”. That option will present the following archive services.
+
+Google Cache: A standard cache of the target address from Google
+
+Google Cache Text: The text-only view of a standard Google cache

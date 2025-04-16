@@ -1,0 +1,6 @@
+gslist has a few advanced search operators that may be of interest. It supports a phrase search
+with quotation marks such as “low miles”. It accepts the hyphen (-) operator to exclude terms
+such as honda black -red. This search finds postings that have ‘honda’ and ‘black’ but not 'red'. A
+pipe symbol (|) provides “OR” searches such as honda | toyota. This search finds postings that
+have ‘honda’ or 'toyota' (or both). You can group terms together in parentheses when queries are
+complicated. A sea

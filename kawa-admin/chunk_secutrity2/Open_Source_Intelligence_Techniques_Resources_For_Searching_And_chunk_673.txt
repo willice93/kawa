@@ -1,0 +1,12 @@
+option will display the common events with which your target’s
+friends were invited.
+
+The “friends/events-joined” option will display the common events that your target’s friends
+attended.
+
+Common Results
+
+The previous options will easily allow you to view sensitive information about an individual target.
+Repeating these queries on additional individuals may allow you to recognize common patterns.
+This may identify relationships between individuals that are not obvious through their profiles.
+K

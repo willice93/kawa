@@ -1,0 +1,6 @@
+ncludes the person's interests, photos,
+and user name. A group is created by one or more users and is focused on a general interest in a
+specific location. An example would be the “Houston Dog Park Lovers”, which is a Houston-
+based group of dog owners that meet at dog parks. Each group will post events that the members
+can attend. The majority of the events posted on Meetup are visible to the public and can be
+attended by anyone. Some groups choose to mark the details of the event as private an

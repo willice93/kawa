@@ -1,0 +1,6 @@
+otiginal. Minimal Detail controls how much detail an area needs; therefore,
+blocks with less detail than this are not considered when searching for clones. Minimal Cluster
+Size determines how many clones of a similar region need to be found in order for them to show
+up as results. Blocksize determines how big the blocks used for the clone detection are. You
+generally don’t want to touch this. Maximal Image Size is the maximal width or height of the
+image used to perform the clone search. Bigger

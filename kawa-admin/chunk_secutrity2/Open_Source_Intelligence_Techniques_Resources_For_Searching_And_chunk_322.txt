@@ -1,0 +1,10 @@
+For the curious, the basic commands executed behind the scenes are
+listed below. Note that (Domain) refers to the actual target web address.
+
+python theHarvester.py -d (domain) -b all -f theharvester_$harvest.html
+python3 EmailHarvester.py -d (domain) -s emailharvester_$hartvest.txt -e all -noprint
+
+EyeWitness
+
+While one of my favorite scripts within Buscador, I hear very little about its use from members
+of my training. This Python script automates the collection of screen captutes from website

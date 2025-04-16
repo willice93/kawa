@@ -1,0 +1,11 @@
+on the Snapshots button in the upper night
+Select the desired snapshot to apply
+
+Click on the camera icon with arrow to "restore" a snapshot
+
+Click Restore
+
+Optionally, if you ever want to remove a snapshot, simply use the "delete" icon. David suggests
+to enable VMWare AutoProtect snapshots, set to daily, and limit the snapshot count to 3. After
+the maximum number of AutoProtect snapshots is reached, Workstation deletes the oldest
+AutoProtect snapshot each time a new AutoProtect snapshot is take

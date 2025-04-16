@@ -1,0 +1,31 @@
+DNS China Metadata
+Select China
+
+(tags.raw: "dns") AND location.count
+
+sps://censys- .io/ipv4/ metadata?q= =+tags. S.faw 3A +0/ 022
+
+THe: 1737
+
+to the details for the country of China, the Censys web
+
+ty: "China"
+
+oir Poea 13
+
+
+Next, add by using AND looking for DNS Answers Type A
+
+eee ee ony: China") AND
+53.dns.lookup.answets.type: A
+
+Select Metadata and review Common Tags
+
+Common Tags
+
+Tag Hosts Frequency
+dns 1,541,310 100.0%
+telnet 76,890 4.99%
+https 54,916 3.56%
+http 45,807 2.97%
+ssh | 37,77

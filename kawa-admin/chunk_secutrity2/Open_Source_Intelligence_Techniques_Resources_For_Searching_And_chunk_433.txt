@@ -1,0 +1,6 @@
+own menu titled “Label” and select the appropriate refinement. Repeat this process for
+each website and save your progress. You should now have a custom search engine that will not
+only search several specific social network websites, but it should also allow you to isolate the
+results for each network. Navigate back to the control panel view and select the Public URL
+button to see the exact address of your new, engine. Go to that address and you should see a very
+plain search engine. You can no

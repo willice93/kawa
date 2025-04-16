@@ -1,0 +1,6 @@
+operating system tab with the exception of user
+downloads and Custom Files and Folders, and everything in the applications tab. This would also
+wipe out any passwords stored in your browser, so be careful. The Registry section on Windows
+machines will eliminate unnecessary registry entties, while the Tools section on both Windows
+and Mac will help you control applications that automatically startup at boot. I like to disable
+anything that is not vital to my daily usage. I execute this program af

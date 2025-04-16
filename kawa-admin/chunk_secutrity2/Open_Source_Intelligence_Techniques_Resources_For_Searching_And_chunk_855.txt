@@ -1,0 +1,9 @@
+stration, I added every Twitter account mentioned in this
+chapter up to this point into the TweetBeaver bulk lookup utility. The entry appeared as follows.
+
+inteltechniques SultryAsian humanhacker
+jms_dot_py HydeNS33k WestCornfield
+
+This immediately created a CSV spreadsheet,which was downloaded to my computer. Below are
+screen captures of the data. This gives me an immediate view into the accounts. If I had hundreds
+or thousands of Twitter user names, this would allow me to sort by location or

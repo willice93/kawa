@@ -1,0 +1,25 @@
+1.02019 Virtual System 1
+PES Andro 61.0201 "
+hdl
+y Product
+? Product-URL
+% Vendor
+sa Vendor-URL
+
+> Version
+
+Storage settings
+
+File: </Users/macbookpro/Documents/Android §.1.0 2016.0ve
+
+Format: | OVF 1.0
+
+Write Manifest file
+
+Restore Defaults
+
+Figure 21.05: A VirtualBox export menu.
+
+Genymotion is not your only option. BlueStacks (bluestacks.com), Andy (andyroid.net), and
+NoxPlayer (bignox.com) all offer the same basic functionality. After installation, most of these
+programs work the same way as

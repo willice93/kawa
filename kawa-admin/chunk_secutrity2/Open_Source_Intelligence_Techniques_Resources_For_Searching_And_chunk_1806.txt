@@ -1,0 +1,9 @@
+the device automatically. There is likely no law violation when connecting to a
+
+IP Addresses 343
+
+device that does not prompt you for credentials. Your local laws may prohibit this activity.
+Shodan Maps (maps.shodan.io) allows you to conduct any of these searches based on location
+alone while Shodan Images (images.shodan.io) displays collected webcam captures from open
+devices. Figure 17.02 displays a home using an automated lighting and climate control system in
+Missouri located with Shodan Ma

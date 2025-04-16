@@ -1,0 +1,9 @@
+s were unknowingly sharing their locations with every post. Today, it is the
+opposite. The default option for Twitter is NOT to share location. A user must enable this option
+in order to appear within these search results. In my experience, catching a criminal from a
+location-enabled Tweet is extremely rare. However, we should be aware of the possibility.
+
+Mandatory and Optional Search Terms
+
+You may have a scenario that requires a specific search of both mandatory and optional terms.
+Twitter do

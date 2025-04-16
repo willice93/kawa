@@ -45,3 +45,33 @@ calcul:
     revenu_brut: 1200
     abattement: 600
     revenu_net: 600
+embedding_text: "Règle : Règle applicabile à tous les propriétaires non professionnels\
+  \ de meubles en location, sauf pour les loueurs de chambres d'hôtels et meublés\
+  \ de tourisme classés déclarés (lignes 5NG à 5PG ou 5QS à 5SS). Les montants concernés\
+  \ sont les sommes totales encaissées en loyer, charges facturées au locataire et\
+  \ provisions pour charges. Le calcul se fait en appliquant automatiquement un abattement\
+  \ forfaitaire de 50 % avec un minimum de 305 €. Pour être sûr d'en bénéficier, il\
+  \ faut vérifier qu'aucune autre règle n'est applicable à son cas spécifique.\nFormule\
+  \ : revenu_brut * (1 - 0.5)\nCas pratique : Nom: Pierre Dupont\n   Profession: Propriétaire\
+  \ de meubles en location (non-professionnel)\n   Situation: Résident principal du\
+  \ 1er arrondissement de Paris, propriétaire d'un appartement de 50 m2 loué pour\
+  \ un loyer mensuel de 1200 €. Les frais facturés au locataire incluent les frais\
+  \ de gestion (30 €/mois) et la taxe d'habitation (80 €/mois).\n\n   Application\
+  \ de la règle fiscale : En vertu de la règle applicabile aux propriétaires non-professionnels\
+  \ de meubles en location, le montant totale des revenus provenant du loyer et des\
+  \ frais facturés au locataire est de 1200 € + 30 € (frais de gestion) + 80 € (taxe\
+  \ d'habitation) = 1210 €/mois. Il s'agit d'une somme totale de revenus éligible\
+  \ à un abattement forfaitaire de 50 %. Appliqué sur la totalité des revenus, cela\
+  \ donne une réduction d'impôt de (1210 € × 50 %) = 605 €. Cependant, l'abattement\
+  \ minimum est de 305 €. Or le montant résultant de l'application de l'abattement\
+  \ pourfaitaire est supérieur à l'abattement minimum (605 € > 305 €). Ainsi, le montant\
+  \ total des revenus de Pierre Dupont issus de la location de son meuble est réduit\
+  \ de 605 €.\n   Comparaison du régime par défaut vs l'option choisie : Si Pierre\
+  \ n'appliquait pas cette règle, le montant total des revenus de la location serait\
+  \ de 1210 €/mois et il ne bénéficierait d'aucune réduction d'impôt. En appliquant\
+  \ la règle, le régime fiscale est plus favorable et permet à Pierre de bénéficier\
+  \ d'une réduction d'impôt de 605 €/mois.\n   Synthèse : Pour Pierre Dupont, le montant\
+  \ total des revenus de la location de son appartement meublé non-professionnel est\
+  \ réduit de 605 €/mois en vertu de la règle fiscale appliquable aux propriétaires\
+  \ non-professionnels de meubles en location. Ce régime fiscale permet une réduction\
+  \ d'impôt plus importante que le régime par défaut."

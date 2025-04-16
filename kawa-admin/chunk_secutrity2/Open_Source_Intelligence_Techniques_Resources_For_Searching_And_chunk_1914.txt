@@ -1,0 +1,9 @@
+compressed file mentioned previously. Save them inside a folder titled “video” on your
+desktop. In this same folder, create a new text file and ttle it player.bat. Be sure to change the
+file extension from txt to bat. Windows will now recognize this text file as a set of instructions.
+Type the following text into this new file.
+
+set /p VIDEO=Video file name (with extension) on Desktop:
+ffplay.exe “Youserprofile% \ desktop \%VIDEO%”
+
+Double-click this new batch file and you should be prompted to

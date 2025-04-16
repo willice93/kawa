@@ -1,0 +1,6 @@
+tem non-stop, only executes when you desire, and can be completely
+removed easily. Unfortunately, there is no easy software installation process, and no point-and-
+click application. You will need to manually update the database through a Terminal command,
+then scan your system from the same prompt. ClamAV does not remove any viruses, it only
+discloses the presence and location of suspicious files. In my use, ClamAV has never found a
+virus that impacted a Mac computer. Instead, it has identified

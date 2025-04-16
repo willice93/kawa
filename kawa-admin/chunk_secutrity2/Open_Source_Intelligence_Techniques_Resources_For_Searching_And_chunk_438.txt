@@ -1,0 +1,10 @@
+atch setting; and place the following in the “Optional word(s)” field.
+
+extcdoc OR ext:docx
+
+This will create a new tab during your search results that will allow you to isolate Microsoft Word
+documents. By entering both the doc and docx formats, you will be sure to get older and newer
+documents. The word “OR” tells Google to search either format. Repeat this process for each
+of the following document types with the following language for each type.
+
+XLS (Excel Spreadsheets) — ext:xls OR ext:xls

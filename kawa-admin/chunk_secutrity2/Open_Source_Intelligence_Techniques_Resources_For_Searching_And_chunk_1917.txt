@@ -1,0 +1,10 @@
+wing text into the document and save it.
+
+set /p VIDEO=Video file name (with extension) on Desktop:
+ffmpeg.exe -i “Youserprofile%o\desktop\%VIDEO%” -vcodec mpeg4
+“%userprofile% \ desktop \%VIDEO%.mp4”
+
+Double-click this new batch file and you should be prompted to enter the name of an unplayable
+video file. Note that you must supply the entire file name, including the file extension, and the
+video file must be placed directly on the desktop. This should create a new video file on your
+desktop th

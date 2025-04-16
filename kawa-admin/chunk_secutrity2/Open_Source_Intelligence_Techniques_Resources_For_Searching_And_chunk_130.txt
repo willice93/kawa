@@ -1,0 +1,8 @@
+he newest
+version of Firefox while others decided to abandon their projects. At the time of this writing,
+Firefox is offering an Extended Support Release (ESR) that will safely allow the execution of an
+older browser which allows legacy extensions. However, this is a temporary solution, and may
+not be an option by the time that you read this. Therefore, I will only focus on long-term options
+that should be valid throughout the life cycle of this book.
+
+Before identifying Firefox resources that w

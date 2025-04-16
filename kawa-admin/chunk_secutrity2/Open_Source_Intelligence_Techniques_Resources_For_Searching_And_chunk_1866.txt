@@ -1,0 +1,9 @@
+This does not provide the personal
+information attached to the number, only verification that the number is valid. A typical response
+will include the state that issued the number, the year issued, verification that the number was
+assigned, and confirmation of death if applicable.
+
+Social Security Death Index (genealogybank.com/gbnk/ssdi)
+
+This public index of death records is stored on a genealogy site. The only required information
+is the first and last name. The results will identify birth y

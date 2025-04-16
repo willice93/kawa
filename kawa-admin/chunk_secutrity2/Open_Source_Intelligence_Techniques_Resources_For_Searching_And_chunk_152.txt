@@ -1,0 +1,6 @@
+option and reloaded the Twitter page in the background. The Bulk
+Media Downloader tool began populating video links as I scrolled down the Twitter page. Figure
+1.02 displays the result. Clicking the Download button retrieved all of the videos in MP4 format
+as seen in Figure 1.03. This utility works well on sites that havea large number of embedded
+audio or video files, as well as those that contain numerous documents. You can easily select or
+deselect entries individually, or select categories a

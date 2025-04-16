@@ -1,0 +1,7 @@
+ears,
+I updated my online research tools every month in order to continue to provide functional
+resources. I kept a running log of all of the changes that might need more explanation. In early
+2018, I started documenting all of this, plus some of my favorite new Linux tools, in written form
+with anticipation of creating a supplement to the fifth edition of this book. Within a couple of
+weeks, I realized that the entire book should be re-written and released as a new edition. I have
+always self-i

@@ -1,0 +1,17 @@
+gure
+5.10 displays the actual result from this target.
+
+817668451 Tue Sep 11 15:44:20
+
+ee
+
+_— a
+
+Figure 5.10: A TweetBeaver user account export.
+
+Download a uset’s friends list: This option collects a target’s list of accounts that he or she
+follows. This is similar to a typical friends list on Facebook, but approvals on either end are not
+required.
+
+Download a uset’s followers list: This is a list of the people that follow the target on Twitter.
+This is less likely to contain actual friends, bu

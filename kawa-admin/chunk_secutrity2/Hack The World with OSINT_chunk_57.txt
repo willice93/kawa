@@ -1,0 +1,19 @@
+sys fields ...........scseeeereres iZ3
+
+Table 51 Important Siemens $7 Censys fields & examples .... 1 24
+Table 52 Important BACnet Censys fields & examples.......... 128
+Table 53 Censys 15/11/17 Host Report Building Control and
+
+loT protocols... SSCS TOR MOMS eae 136
+
+Table 54 Censys 15/11/17 Host Report other protocols
+
+ee 150
+
+ore SI hs
+
+Table ¢ ; '
+aa I important SMB Censvs fields & examples
+lable 62 Censys.io Tags : :
+Table 63 Censvys Re wa ae
+Table 64 C ws Report lop Ten 80. http.get.header

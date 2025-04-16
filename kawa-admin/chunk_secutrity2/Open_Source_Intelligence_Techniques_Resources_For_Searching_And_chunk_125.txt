@@ -1,0 +1,12 @@
+lated your own rules
+and regulations, regardless of how minor or inconsequential, it leaves an opening to request a
+judge to dismiss your entire findings. Please make sure that you always have the proper
+authorization to conduct any techniques mentioned in this book.
+
+4 Chapter 1
+
+Firefox (mozilla.org)
+
+The most vital application in this chapter is the Firefox web browser. Most of the search methods
+that you will learn throughout this book must be conducted within a web browser. Most people
+sett

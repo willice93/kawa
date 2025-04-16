@@ -33,3 +33,24 @@ cas_pratique: "Nom: Marie Dupont\n   Profession: Employée salariée chez XYZ SA
   \ Pour l'année fiscale 2023, Marie peut déclarer une déduction fiscale de 6 000\
   \ € en tant qu'utilisatrice de son propre véhicule pour des missions professionnelles\
   \ en cas 1AK."
+embedding_text: "Règle : La règle s'applique aux employés salariés qui utilisent leur\
+  \ propre véhicule pour des missions professionnelles. Les conditions sont que le\
+  \ véhicule utilisé soit celui de l'employé et les frais carburant ou d'option soient\
+  \ réels (courants).\n\nLe montant ou plafond s'applique à 40 % de 2 du coût global\
+  \ annuel (location, entretien, assurances...) des véhicules utilisés.\n\nLa formule\
+  \ de calcul applicable est : Montant = (Coût total annuel x 0.4) / 2\n\nIl faut\
+  \ vérifier que les frais carburant ou d'option sont réels et supportent une justification\
+  \ pour être sûr d'y avoir droit.\nFormule : Non spécifiée\nCas pratique : Nom: Marie\
+  \ Dupont\n   Profession: Employée salariée chez XYZ SAS\n   Situation: Utilise son\
+  \ propre véhicule pour des missions professionnelles\n\nAnnée fiscale : 2023\nCoût\
+  \ total annuel du véhicule utilisé (location, entretien, assurances...): €15 000\n\
+  \nDéclaration: Cas 1AK (Coûts réels liés à la profession)\n\nCalcul : Montant =\
+  \ (Coût total annuel x 0.4) / 2\n           Montant = (15 000 € x 0.4) / 2\n   \
+  \        Montant = 6 000 €\n\nComparaison régime par défaut vs option choisie: Le\
+  \ régime par défaut de Marie est celui d'une salariée sans utilisation de véhicule\
+  \ personnel pour des missions professionnelles. Elle peut donc bénéficier de la\
+  \ déduction fiscale de 40 % du coût total annuel de son véhicule utilisé pour des\
+  \ missions professionnelles, contre zéro avec le régime par défaut.\n\nConclusion:\
+  \ Pour l'année fiscale 2023, Marie peut déclarer une déduction fiscale de 6 000\
+  \ € en tant qu'utilisatrice de son propre véhicule pour des missions professionnelles\
+  \ en cas 1AK."

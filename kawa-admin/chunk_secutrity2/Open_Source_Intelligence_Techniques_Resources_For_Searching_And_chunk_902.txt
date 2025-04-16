@@ -1,0 +1,12 @@
+on Twitter,
+you can navigate to the following website in your web browser, after connecting to a Twitter
+account.
+
+https: //hootsuite.com/feed/OSINT+ Search
+
+You can replace “OSINT” in the above address with any term or terms of interest. The result
+will be a live stream with a very large font that could be viewed from a long distance away. This
+view can be beneficial for situations where Twitter streams are monitored by a group of people
+in an operations center.
+
+Twiangulate (twiangulate.com)

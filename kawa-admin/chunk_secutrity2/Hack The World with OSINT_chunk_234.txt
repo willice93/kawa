@@ -1,0 +1,26 @@
+iate
+16 @ CCADB
+1 & Redacted
+
+Figure 81 Censys certificate tags for Siemens
+
+Further details about certificates use Tag properties which can use an
+
+AND or an OR.
+tags.raw: "redacted"
+
+(parsed.subject_dn: siemens OR parsed. issuet.organization:
+siemens) AND tags.taw: "redacted"
+
+Never Trusted uses the tag “untrusted”
+
+tags.raw: "untrusted"
+
+Certificates
+Page 1/246 Resuits: 6,142 Time: S64ms
+
+a cn=i1144111581.noklasiemensnetworks.com, O=Nokia Siemens Network
+
+sh Factory Certification Authority
+
+©

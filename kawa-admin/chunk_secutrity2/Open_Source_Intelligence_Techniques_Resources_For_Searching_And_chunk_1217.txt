@@ -1,0 +1,6 @@
+ike. This can tell me right away if I am
+researching the wrong target name. The other scenario is when I encounter an email address or
+user name that may have alternatives or aliases. If my target has a user name of TheJohnDoed2, I
+am curious if the user also possesses TheJohnDoe3, TheJohnDoe4, or maybe TheJohnDoe.
+Many times, users will need secondary user names and will choose names very similar to their
+primary names. Lullar will show me what content appears on these profiles without regard t

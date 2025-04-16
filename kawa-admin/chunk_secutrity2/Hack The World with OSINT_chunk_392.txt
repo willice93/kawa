@@ -1,0 +1,38 @@
+| Internal Server Error
+
+13.5.2 Get Job Results
+
+GET
+/api/v! /query/:job_id/:page
+
+Table 84 Rest API Get Job Results URL Parameter
+
+URL Parameter Type Required
+
+Pee ee |
+
+Fable 85 Rest API Get Job Results response codes
+
+Response code Description
+
+‘cra Rate Limit Exceeded
+
+Internal Server Error
+
+13.5.3 Get Series
+GET
+
+uery_definitions
+
+/api/v! /q
+‘Table 86 Kest A
+
+P] Get Serves response code
+
+Description
+
+13.6.4 Get Series Details
+GET
+/api/v1 / query_definitions /:series
+
+Table 87 Rest API Get S

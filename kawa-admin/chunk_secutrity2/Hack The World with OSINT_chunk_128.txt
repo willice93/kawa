@@ -1,0 +1,14 @@
+t.com Results for DOD .gor
+
+Look at the properties for Sender Policy Framework and DMARC.
+=] Sender Policy Framework
+
+soit ieenececeiedinameneincoatanemieiananiemectnaeeaaetimeiaemdenies eeeneraemaienae tier oe ee
+
+A host's Sender Policy Framework (SPF) describes who can send
+this qualifier to. For more information please see openspf.org.
+
+Warning: It appears that this host does not have an SPF record.
+
+DMARC (Domain-based Message Authentication, Reporting and (
+method to set policy and to give

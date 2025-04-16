@@ -1,0 +1,15 @@
+term osint is within the content of the
+results.
+
+Obviously, this operator could also be used to locate standard web pages, documents, and files.
+The following search displays only blog posts from computercrimeinfo.com that exist within a
+folder titled “wp” (WordPress).
+
+inurl: /wp/ site:computercrimeinfo.com
+
+Search Engines 61
+
+InTitle Operator
+
+Similar to InURL, the “InTitle” operator will filter web pages by details other than the actual
+content of the page. This filter will only present web

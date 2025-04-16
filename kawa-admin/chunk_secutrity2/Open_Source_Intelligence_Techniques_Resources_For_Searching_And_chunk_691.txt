@@ -1,0 +1,15 @@
+09. Therefore, if your target’s number is less than
+100000000000000, the account was likely created pnor to April 2009. An account with a 15-digit
+ID number would have been created after December 2009. We can break down the numbers by
+yeat. The following are rough estimates that should only be used as a general guideline.
+
+2006: Numbers less than 600400000
+
+2007: 600400000 - 1000000000
+
+2008: 1000000000 - 1140000000
+
+2009: 1140000000- 100000628000000
+
+2010: 100000629000000 - 100001610000000
+2011

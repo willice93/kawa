@@ -1,0 +1,11 @@
+his notifies the tool that we want to
+replace each occurrence of a “{” with a new line. Click the “Make New Line Breaks” button.
+This screen should now appear similar to Figure 4.04. The lower box should now contain only
+one location per line. If you have extra text at the beginning or end of the location data, simply
+delete it.
+
+Text Mechanic™
+
+Tool: Add / Remove Line Breaks
+
+for (:):{"__ar": 4 "payioad™:{"lat_longs":[{latitude”:33 9042 "iongitude”:!-80.877 2}, {"latitude”:40.006388888889, "lon

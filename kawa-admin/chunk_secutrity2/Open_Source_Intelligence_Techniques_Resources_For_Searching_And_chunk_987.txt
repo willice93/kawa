@@ -1,0 +1,8 @@
+private profiles
+
+There have been several “hacks” in the past that would allow a type of “back door entry” into a
+profile that is marked as private. By the time these methods become known, the vulnerability is
+usually corrected by the social network host. Websites or applications that publicly claim to be
+able to access this secured data are most often scams or attempts to steal your own passwords.
+In my experience, it is best to avoid these traps and focus on finding all available public
+inform

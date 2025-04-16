@@ -1,0 +1,6 @@
+ial networks. It creates a basic Boolean
+string that searches for publicly available webpages using Google. It targets LinkedIn, Googlet,
+GitHub, Xing, and others. You can filter by country, job title, location, education, and keywords.
+While using detailed Google operators could replicate the results, this simple interface may be
+preferred by most users. It was designed to be used by recruiters looking for new talent, but
+investigators can use it to locate profiles when a name search is inappro

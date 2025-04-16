@@ -1,0 +1,10 @@
+ods mentioned previously. Its purpose is to make searching easier.
+
+The Multiple Variables option near the bottom will allow you to select multiple filters and launch
+the appropriate search. You can choose as many or as few of the following options to generate
+your own custom search. Clicking “AND” after each input will present an additional search field.
+
+Name Language Spoken
+Current Employer or Title School Affiliation
+Previous Employer or Title Places Visited
+Current Home Location Pages Liked

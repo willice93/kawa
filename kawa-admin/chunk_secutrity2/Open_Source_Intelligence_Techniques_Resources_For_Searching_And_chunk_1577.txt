@@ -1,0 +1,6 @@
+iding behind these interesting images. Figure 14.06 displays the barcode search
+options from Online Barcode Reader. These include 1D, PDF417, Postal, DataMatrix, QR, and
+ID barcodes. After selecting the type of barcode image, you can select any PDF, TIFF, JPEG,
+BMP, GIF, or PNG file on your computer up to 4Mb in size. This could be a photo that possesses
+a barcode in the content or a digital code downloaded from a website. Screen captures of codes
+also work well. While sitting on a plane with Wi

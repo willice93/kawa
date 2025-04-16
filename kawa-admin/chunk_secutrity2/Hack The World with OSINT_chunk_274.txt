@@ -1,0 +1,17 @@
+ommended to disable any instance of SMB
+version 1 and upgrade to version 2 or greater or switch to a different,
+more secure method of file sharing with Windows compatible systems.
+To find remaining, internet exposed systems still using SMB version L,
+use the IPv4 search string, then click ona host, looking into the SMB
+
+details to verify:
+
+445.smb.banner.smbv1_support: True
+
+
+| Q IPv4 Hosts
+
+Cc censys ee smbv1_support true
+: lab Chapter 19
+Quick Filters -sicasiahaagpeal 1
+For all feids, see Dera

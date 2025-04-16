@@ -1,0 +1,6 @@
+part of a specific domain.
+A search query of site:inteltechniques.com displays all 560 pages that are publicly available on my
+personal website. This can be a great way to review all of the content of a target's personal website
+without attempting to navigate the actual site. It is very easy to miss content by clicking around
+within a website. With this technique, you should see all of the pages in a format that is easy to
+digest. Also, some of the pages on a website that the author may conside

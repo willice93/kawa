@@ -1,0 +1,6 @@
+be limited to the most recent 75 Tweets. However, you
+can use advanced options to expand this restriction. Similar to GeoSocial Footpnnt, input your
+target’s Twitter name and the resulting map will focus on the geographical area of where the
+target was located while posting. The pop-up window identifies detailed information about a
+selected message. If you want to search a specific range of dates, click the “Show advanced
+options” link directly below the search field. This will expand the menu

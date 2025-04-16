@@ -1,0 +1,8 @@
+apply updates, and never for
+active investigations. Every time I need to use a device to research a target, I quickly clone the
+master and keep all of my cases isolated.
+
+The presence of Android versions 6.0.0 and 7.0.0 may seem redundant. These numbers refer to
+the software version of the Android operating system within them. Possessing multiple versions
+is vital due to current and outdated apps. Most relevant apps will work fine on either version;
+however, some apps will not. I have encountere

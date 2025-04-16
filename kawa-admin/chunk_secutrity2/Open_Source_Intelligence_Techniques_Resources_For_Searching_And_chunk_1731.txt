@@ -1,0 +1,9 @@
+information about our target. If you ever see an ID that starts
+with “UA-~”, this is likely an identifier for Google to monitor viewers of the website. Searching
+that number within these tools will also identify related websites. We should visit each website
+and analyze the content for any relevant evidence. After, we should consider other resources.
+
+PubDB (pub-db.com)
+
+Another free domain analysis service is PubDB. It is not as robust as others mentioned; however,
+it occasionally identifies i

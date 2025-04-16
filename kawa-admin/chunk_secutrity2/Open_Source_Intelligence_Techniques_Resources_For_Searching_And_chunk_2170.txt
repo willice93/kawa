@@ -1,0 +1,6 @@
+e your domains loaded, you may want to identify related web hosts. A domain, such
+as cnn.com, may have several unique host addresses that may be beneficial. Since I have already
+stored two domains in my system, typing use recon/domains-hosts/bing_domain_web will load
+a module ready to search across both. However, this command alone takes no action. After
+providing this command, you must type run and strike the enter key. This command checks the
+Bing search engine for hosts connected to the domai

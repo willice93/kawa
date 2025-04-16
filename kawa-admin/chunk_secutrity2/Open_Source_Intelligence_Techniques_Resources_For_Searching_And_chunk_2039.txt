@@ -1,0 +1,10 @@
+ang&apikey=XXX
+
+Full Contact only requires the Facebook user name and not the entire address. In this example,
+“bartlorang” is the user name, and the entire Facebook profile address would be
+
+Application Programming Interfaces (API) 393
+
+http://facebook.com/bart.lorang. This can be very useful when you do not know the email
+address of the target but have located a Facebook page. This would now help you identify all of
+the social networks of the target which should lead to the email address. The

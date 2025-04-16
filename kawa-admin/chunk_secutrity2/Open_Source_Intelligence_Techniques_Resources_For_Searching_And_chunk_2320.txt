@@ -1,0 +1,6 @@
+these techniques on paper may will provide outdated content.
+Technology changes quickly and methods must adapt to keep up. Ten years from now, this book
+may be an amusing piece about how we once managed our online data. To keep up-to-date with
+the changes in various methods and OSINT data collection, please subscribe to my free monthly
+email newsletter at IntelTechniques.com. The chances are good that as you read this, new
+content has been posted about the very topic you are researching. The sa

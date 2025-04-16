@@ -1,0 +1,6 @@
+t 19:06:46 local time. This is beneficial for later documentation. Inside this folder
+ate two items of most interest. The first is the “screens” folder and the second is the
+“report.html” file. The screens folder contains png images that depict a full screen capture of
+each supplied website. Figure 2.04 displays partial results from this search. As you can see, some
+file sizes can get quite large due to the amount of content, especially with image-dnven social
+networks. The report.html file is m

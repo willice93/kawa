@@ -1,0 +1,8 @@
+your queries are never seen nor stored on
+my server. The search all takes place on your computer within your browser, directly to the
+sources.
+
+The "Submit All" option will allow you to provide any search term that will be searched across
+all of the services listed. Each service will populate the results within a new tab in your internet
+browser. Regardless of the browser that you use, you must allow pop-ups for my domain in order
+for the tool to work. You can also use any of the search operator

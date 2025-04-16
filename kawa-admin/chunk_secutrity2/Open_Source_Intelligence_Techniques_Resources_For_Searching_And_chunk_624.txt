@@ -1,0 +1,12 @@
+erested/intersect/
+
+Posts
+
+In the first edition, I recommended third party websites to search Facebook post content. Some
+
+of these sites still exist, but most have either shut down or stopped functioning. In order to
+
+present a more permanent solution, I have identified a reliable way to do this through Facebook.
+
+While logged into a Facebook account, one should be able to natively search within the content
+of public posts. However, at the time of this writing, the basic search option was not f

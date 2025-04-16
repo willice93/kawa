@@ -1,0 +1,9 @@
+d the following search on Google.
+
+site:instagram.com "alexalbrecht" -site:instagram.com/alexalbrecht
+
+This tells Google that I only want to search Instagram, J want the user name of alexalbrecht to
+be present on all results provided, but I do not want to see any results that begin with
+instagram.com/alexalbrecht. This prevents results from our target’s own profile. The remaining
+results include other people’s pages that mention our target, and comments posted by our target.
+The next search can

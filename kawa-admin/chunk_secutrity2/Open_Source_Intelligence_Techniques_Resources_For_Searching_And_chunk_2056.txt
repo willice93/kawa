@@ -1,0 +1,11 @@
+ss='always' name='frame5' id='frame6' width='650px' height='40'
+frameborder=0> </iframe><br />
+
+<iframe allowScriptAccess='always' name='frame6' id='frame5' width='650px' height='540'
+frameborder=0> </iframe>
+
+<iframe allowScriptAccess='always' name='frame7' id='frame7' width='650px' height='540'
+frameborder=0> </iframe></form></body></html>
+
+Save this file as phone.html. When you open the file, it should appear in a web browser and look
+similar to Figure 20.01. A digital version of this file is

@@ -1,0 +1,6 @@
+p search bar is the only search option and can handle any term including
+topics, names, and locations. Clicking each image will direct you to another page on Twicsy that
+will display the full Twitter message, a larger version of the image, and additional images uploaded
+by the same user. To navigate to the orginal host of the image, in order to download the largest
+copy possible, click on the link within the text of the post that forwards to the photo-sharing site.
+As explained in Chapter Five,

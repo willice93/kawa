@@ -1,0 +1,7 @@
+our computer operate more efficiently. The default options on this menu are most
+appropriate. Click on “Scan for Issues” and allow it to identify any problems. This process should
+go quickly. When complete, click on “Fix Selected Issues” to complete the process.
+
+The Tools tab provides an easy way to disable specific programs from launching when your
+computer starts. These programs can slow your computer down when they are running
+unnecessarily. These can be found by clicking the “Startup” butto

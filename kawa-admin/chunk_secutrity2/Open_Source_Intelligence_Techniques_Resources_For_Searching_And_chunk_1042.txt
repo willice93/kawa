@@ -1,0 +1,11 @@
+ars of saved posts”. Figure 7.01
+displays the current view of the account. On December 30, 2017, I navigated to the following
+URL, which displayed 100 of the most recently deleted comments. His earliest post was “HMU
+= hit me up aka send me a DM/PM” to Reddit user “Obey_Kush”. Evidence of this interaction
+is not present anywhere on the live view of Reddit.
+
+https: //api.pushshift.io/reddit/search /comment/?author=iPhoNewsRO&sort=asc&size=100
+
+« https:/Awww.reddit.com/user/iPhoNewsRO
+
+MY SUBE POB

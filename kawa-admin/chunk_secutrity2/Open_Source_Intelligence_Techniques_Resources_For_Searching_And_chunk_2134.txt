@@ -1,0 +1,12 @@
+s set up ahead of time.
+
+SnapChat: As of 2018, I am no longer able to execute SnapChat on Genymotion. The latest
+versions block this behavior, and older versions require an update before launch. The only limited
+
+414 Chapter 21
+
+success I have had is with Android Studio which exceeds the scope of this book. Even when I
+was able to force the program to function, constant errors prohibited actual use.
+
+Text Messaging: If you conduct online investigations and communicate with a suspect, it is
+very

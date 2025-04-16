@@ -1,0 +1,12 @@
+The Wayback Machine: A link to the target page within The Internet Archive
+Archive.is: Any captures of the target address domain on Archive.is
+
+WebCite: Any captures of the target address domain on WebCite
+
+This add-on will not give you any content that you could not locate manually from these sources.
+Instead, it serves as an easy way to quickly identify interesting content. You will learn more about
+online archives later in this book.
+
+Prepare Your Computer 21
+
+Copy All Links (addons.mozilla

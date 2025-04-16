@@ -1,0 +1,14 @@
+to be
+shortened to “ext”, Bing does not. Therefore, I will use the original “filetype” operator in my
+search examples. Consider the following search attempting to locate PowerPoint presentation
+files associated with the company Cisco.
+
+“Cisco” “PowerPoint”
+
+The result is 909,000 websites that include the words Cisco and PowerPoint in the content.
+However, these are not all actual PowerPoint documents. The following search refines our
+example for accuracy.
+
+“Cisco” filetype:ppt
+
+The result is 28

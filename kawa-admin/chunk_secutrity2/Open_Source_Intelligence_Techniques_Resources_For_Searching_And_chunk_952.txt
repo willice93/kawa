@@ -1,0 +1,11 @@
+wner": {"id":
+
+While we are looking at the source code of pages, we can use this technique to identify the exact
+time that a post was published. Instagram only identifies the date of a post, and not the time.
+This detail can be crucial to a legal investigation. For this example, I located an image posted by
+our target at the following address.
+
+https://www.instagram.com/p/Bcivg7BjJb3
+
+Viewing the source code of this page, look toward the 70% line of code for a section that begins
+with “meta prop

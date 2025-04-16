@@ -1,0 +1,7 @@
+lper (downloadhelper.net)
+
+This extension will assist with downloading media that is located during your search. It works
+well with videos such as those found on YouTube. When this extension is enabled, an icon will
+appear within your browser that looks like three grey circles. Any time you open a website that
+includes media content, such as a video, these circles will turn to full color. This is an indication
+that the media on the page can be extracted. While this add-on will work immediately a

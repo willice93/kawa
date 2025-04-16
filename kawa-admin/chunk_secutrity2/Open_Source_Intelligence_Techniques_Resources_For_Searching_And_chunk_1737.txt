@@ -1,0 +1,9 @@
+te code functions. While much of this is geek speak
+that may not add value to your investigation, some of it will assist in additional search options
+through other networks. Other options for this type of search include Stats Crop (statscrop.com)
+and URL Scan (urlscan.io).
+
+Pentest-Tools (pentest-tools.com/reconnaissance/ find-subdomains-of-domain)
+
+This unique tool performs several tasks that will attempt to locate hidden pages on a domain.
+First it performs a DNS zone transfer which will often

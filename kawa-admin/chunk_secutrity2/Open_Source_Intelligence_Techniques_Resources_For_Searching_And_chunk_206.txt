@@ -1,0 +1,6 @@
+te. Lately, when using Google Translate for an entire page, the final
+formatting is much different than the original. I have found myself relying on this add-on in order
+to preserve the original layout of the content, such as a Twitter post, while also displaying the
+translation of the text. Additionally, Google Translate does not work well when submitting a
+URL of a Facebook page. This is because Google Translate is not logged into a Facebook
+account, and therefore cannot see the same view that

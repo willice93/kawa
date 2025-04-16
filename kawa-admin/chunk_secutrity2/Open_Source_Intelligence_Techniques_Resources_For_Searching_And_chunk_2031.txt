@@ -1,0 +1,10 @@
+aintain an online search tool with this code, at the following address.
+
+https:/ /inteltechniques.com/OSINT/api.html
+Figure 20.02 displays this tool. Notice the first line requires an API key from Pipl. This only needs
+to be entered once, and you can populate queries on any of the options below. Figure 20.03
+
+displays a Pip] API demo page with a valid key provided. Note that you do not need to provide
+any details in order to obtain this key. Simply visit the page at pipl.com/api/demo.
+
+INTELTECH

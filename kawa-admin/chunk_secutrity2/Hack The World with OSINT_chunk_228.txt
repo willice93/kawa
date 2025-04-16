@@ -1,0 +1,39 @@
+43/15-255.”
+
+Table 49 ZMap Modbus object mapping
+
+Modbus Object name in ZMap
+
+Required
+
+ProductCode
+
+ne ame No
+
+[leeekpplicarionN ame No
+
+— oes
+aa t
+
+i sien
+
+A tag based search, discussed more in the Tags chapter is:
+
+(tags: "modbus") AND
+502.modbus.device_id. function_code: "1"
+
+7.4 Exploring DNP3
+
+Table 50 Important DNP3 ¢ sensys fields
+
+stpancnnimternnnenee esc
+
+in p3.status.metadata.deseription
+
+5a ET cine eee J
+
+20000. aiin3- status. pe
+
+Pe eens :
+20000. dani. status.revision
+‘a imestamp a

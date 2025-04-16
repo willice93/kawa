@@ -1,0 +1,6 @@
+sults on Google’s and Bing's Images, News, and Videos sections. Next to
+each result on any search page is a "cached" link. Instead of opening the Google or Bing cache,
+clicking this will open the cached page of the target website through the Wayback Machine.
+Finally, a "proxied" option next to each result will connect you to the target website through a
+ptoxy setvice provided by Searx. This is basically a layer of privacy preventing the website owner
+from collecting data about you, such as your

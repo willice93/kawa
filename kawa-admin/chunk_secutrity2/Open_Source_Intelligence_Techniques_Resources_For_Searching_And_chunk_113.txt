@@ -1,0 +1,17 @@
+each line, into the
+same Terminal application used previously.
+
+brew install clamav
+
+cd /usr/local/etc/clamav/
+
+cp freshclam.conf.sample freshclam.conf
+
+sed -ie 's/“Example/#Example/g' freshclam.conf
+
+2 Chapter 1
+
+These steps will install ClamAV, switch to the installation directory, make a copy of the
+configuration file, and then modify the configuration file to allow ClamAV to function. You are
+now ready to update your antivirus database and conduct a scan. Type the following commands
+into Ter

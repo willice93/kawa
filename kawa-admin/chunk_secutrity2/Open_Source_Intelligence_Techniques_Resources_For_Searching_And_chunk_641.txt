@@ -1,0 +1,9 @@
+play locations that the target has recently physically
+visited and allowed Facebook to collect the location information. This feature is not always
+reliable, and a definitive time frame of “recent” has not been established.
+
+The “places-checked-in” option will display locations where the target has used the Facebook
+app to “check in”. While this can be falsified, these results are usually more accurate and
+believable than “places-visited”’.
+
+The “places-liked” option will display any physical lo

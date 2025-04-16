@@ -1,0 +1,11 @@
+rom yout investigation.
+
+e Exit Genymotion and open VirtualBox in the same manner as mentioned previously.
+
+e Select the target virtual device, click on “File” in the menu bar, and select Export
+Appliance. Select the device again and provide the save location and name of the file.
+Figure 21.05 displays this menu and will save a file titled Android 5.1.0 2016.ova to the
+Documents folder of my Mac.
+
+e Click Export and allow the process to complete. The final result will consist of a single
+file th

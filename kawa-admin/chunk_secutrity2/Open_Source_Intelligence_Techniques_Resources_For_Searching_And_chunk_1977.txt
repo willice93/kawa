@@ -1,0 +1,9 @@
+extract each document’s raw metadata. When complete, right-click any file
+and select “Analyze Metadata”. This will analyze all of the extracted content and categorize the
+results by various topics. The left column will now display several new subfolders under
+
+378 Chapter 19
+
+“Documents”. This analysis may take some time if there are a large number of documents. The
+first section will identify the documents by file type. Figure 19.12 (bottom) identifies 107
+documents on the website irongeek.com

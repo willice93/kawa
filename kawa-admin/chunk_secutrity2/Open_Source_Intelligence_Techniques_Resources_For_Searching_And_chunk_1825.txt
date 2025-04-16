@@ -1,0 +1,9 @@
+m. After submitting, you will receive a series of links. This page also serves as the log of
+visitors, and I recommend documenting it. In an example, I received the following link at the
+beginning of this list.
+
+http://www .iplogger.org/3ySz.jpg
+
+Although the link appears to be a jpg image, clicking this link or typing it into a browser forwards
+the target to cnn.com. This action collects his or her IP address, operating system, and browser
+details. These details, along with the date and time of

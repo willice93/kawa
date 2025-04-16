@@ -1,0 +1,6 @@
+, I have explained how to properly collect data from the open
+and public internet. This does not include a person’s email content, calendar entries, truly private
+photos, or personal communication. I believe that any time you have permission from the target
+to view their accounts with their volunteered credentials, you should also request to archive the
+contents. This can be very difficult if done manually. The following techniques identify the easiest
+and most automated solution for the most po

@@ -1,0 +1,12 @@
+add refinements to filter your
+search results. Navigate to the search features menu and add a new refinement. Title the new
+tefinement “PDF”; leave the default setting of “Give priority to the sites with this label”; and
+enter the following in the “Optional word(s)” field.
+
+extipdf
+
+Search Engines 67
+
+This will create a refinement that will allow you to isolate only PDF documents within any search
+that you conduct. Save this setting and create a new refinement. Title it DOC; leave the default
+se

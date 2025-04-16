@@ -1,0 +1,10 @@
+are provided by employees associated
+with the seller. FakeSpot attempts to identify products that are likely misrepresented by the review
+community. During a search for a remote-controlled drone, I found that the Amazon “Best
+Seller” possesses over 53% fake reviews, and top reviewers “tri nguyen” and “EUN SUN LEE”
+appear to be automated reviewers based on other products. This service also supports analysis of
+reviewers on Yelp and Trip Advisor.
+
+Pinterest (pinterest.com)
+
+Pinterest is an online

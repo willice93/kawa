@@ -1,0 +1,10 @@
+cted files (Clean).
+The current version supports most popular image, document, and audio formats.
+
+LibreOffice
+
+LibreOffice is a free and open source office suite, comprised of programs for word processing
+(Writer) and the creation and editing of spreadsheets (Math). While there are other programs
+within this free suite, we chose to only include the two that would be most vital to OSINT uses.
+The Writer program can be used within Buscador for creating reports while the Math program
+can be useful

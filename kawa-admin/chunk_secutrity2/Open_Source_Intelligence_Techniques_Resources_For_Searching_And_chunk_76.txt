@@ -1,0 +1,8 @@
+ns
+to safe houses in the middle of the night for protection, it was a fascinating two years of research
+and execution.
+
+In late 2017, I had the itch to begin writing about online research methods again. Earlier that
+year, I co-created a Linux virtual machine targeted toward research professionals that included
+numerous utilities never mentioned in my previous books. This pre-configured operating system
+gained a lot of public interest and we continue to update it twice yearly. Over the past two y

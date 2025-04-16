@@ -1,0 +1,10 @@
+the telephone registration if available. This is a great example of
+why one setvice is never enough. I recommend that you use all of these services every time.
+
+Open CNAM (opencnam.com/register)
+Open CNAM was the second search option that was discussed in this chapter. Similar to the
+other premium caller ID search methods, this service also offers a free trial. You will receive a
+
+user name and access token. The following address contains the structure of a proper query.
+
+http: / /api.opencnam.

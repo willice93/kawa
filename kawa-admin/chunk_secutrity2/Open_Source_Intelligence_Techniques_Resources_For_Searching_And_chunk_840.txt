@@ -1,0 +1,8 @@
+result for the first time a person used the hashtag of OSINT
+(HOSINT) reveals the message and the date of October 27, 2008. I once used this to determine
+the person responsible for posting an inappropriate photo of a minor that included very specific
+text within the post. It had been reTweeted many times, and this tool quickly locate the first post.
+
+First Follower (socialrank.com/ firstfollower)
+
+It may be beneficial to know the first follower of your target on Twitter. This will likely be the

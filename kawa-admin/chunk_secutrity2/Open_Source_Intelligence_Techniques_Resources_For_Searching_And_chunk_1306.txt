@@ -1,0 +1,9 @@
+websites have realized that various data scraping engines scour their
+resume collection and “steal” their content. This has encouraged some services to store images
+of resumes that do not contain text that can be easily searched. While this is a decent layer of
+protection, it is not enough to keep out of Google results. Since Google scans images for Optical
+Character Recognition (OCR), it knows what words are within an image. After conducting the
+
+236 Chapter 10
+
+above seatches within traditiona

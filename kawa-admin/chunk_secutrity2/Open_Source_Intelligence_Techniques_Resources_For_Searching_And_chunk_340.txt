@@ -1,0 +1,8 @@
+as my target,
+Instalooter quickly downloaded all 117 photos from his account and placed them in a folder titled
+tomhanks within the Instalooter folder in my Home directory. It also opens the target folder
+upon completion to immediately display the evidence.
+
+This will be the final mention of Tom Hanks in this book. You may be wondering why I keep
+using him as an example. In the first edition of this book, I conducted demonstrations with Chris
+Hadnagy from Social-Engineer.org as a suspect. He see

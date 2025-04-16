@@ -1,0 +1,9 @@
+number 5).
+
+https://www.facebook.com/search/4/pages-liked/5/ pages-liked/intersect
+
+This specific structure is important for the query to function. The URL begins with the same
+terms that you learned in the previous section (facebook.com/search/user numbet/pages-liked).
+It is followed by a second search for an additional user (second user number/pages-liked). The
+final term of “intersect” instructs Facebook to only list results that apply to both users listed. You
+could continue to add users to

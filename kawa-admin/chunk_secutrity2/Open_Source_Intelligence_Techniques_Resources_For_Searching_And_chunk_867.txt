@@ -1,0 +1,25 @@
+view
+recent Tweets from a specified area without knowledge of any user names involved.
+
+Twitter User:
+
+i
+i
+i how Advanced Options
+i
+|
+i
+
+}
+
+@BootblackDire - Dire {SuperMutt}
+
+@urihoresh » Uri Horesh
+
+ae @Tanakila » Tanakila
+
+Figure 5.11: A Tweetpaths search result with satellite view and multiple accounts.
+Information by Physical Location
+
+A manual Twitter search method for identifying posts by location was explained earlier. That
+technique is best for recent or live information, and is limited

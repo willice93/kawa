@@ -1,0 +1,24 @@
+th":480,"height":360,
+
+Below is the same result after installing the MJSON Viewer add-on.
+
+"videoID": "1498736236888792",
+
+"lat": -25.510737280581,
+
+"long": -49.267747889626,
+
+"name": "Cancao Nova - Curitiba",
+
+"startTime": 1512773369,
+
+"previewImage": "https:\/\/scontent-lax3-1.xx.fbcdn.net\/v\/t15.0-
+
+10\/s480x480\ /24243481_1498757410220008_74409989931375001 60_n.jpg?oh=dic8db78d3
+338060472c6087106f8316&0e=5AD2089F",
+
+"viewerCount": 71,
+
+"formattedCount": "71",
+
+"publisherCategory": "Religiou

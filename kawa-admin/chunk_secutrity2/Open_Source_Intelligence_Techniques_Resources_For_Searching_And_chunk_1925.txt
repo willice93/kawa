@@ -1,0 +1,6 @@
+rite video download utility. In Chapter
+Two, I demonstrated how this Python sctipt had been configured as a point-and-click option
+within the Buscador system that downloaded individual or bulk online videos from hundreds of
+websites. I rely on this tool so often that I have replicated its features for easy access on Windows
+and Mac computers. If you are using Windows, the above website offers a “Windows exe”
+download option. Mac users can obtain the latest release in bold to the left of “(sig)”

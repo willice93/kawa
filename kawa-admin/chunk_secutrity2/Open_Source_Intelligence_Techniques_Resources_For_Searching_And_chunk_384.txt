@@ -1,0 +1,6 @@
+hael” could be next to another person's name, while
+“Bazzell” could be next to yet another person's name. These results can provide inaccurate
+information. They may include a reference to “Michael Santo” and “Barry Bazzell”, but not my
+name. Since technically the words “Michael” and “Bazzell” appear on the page, you are stuck
+with the result in your list. In order to prevent this, you should always use quotes around the
+name of your target. Searching for the term “Michael Bazzell”, including the

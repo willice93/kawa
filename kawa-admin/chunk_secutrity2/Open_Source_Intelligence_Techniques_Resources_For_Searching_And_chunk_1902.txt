@@ -1,0 +1,9 @@
+address. That address stores their money.
+
+Blockchain (blockchain info)
+
+This website allows search of a Bitcoin address and displays the number of transactions, total
+amount of Bitcojn received ($), final balance, and a complete transaction history. We can track
+evety incoming and outgoing payment. This will almost never be associated with any real names,
+but provides a gteat level of detail about the account. We learn that this account has received
+19.12688736 Bitcoin worth $ 287,391.14 USD at

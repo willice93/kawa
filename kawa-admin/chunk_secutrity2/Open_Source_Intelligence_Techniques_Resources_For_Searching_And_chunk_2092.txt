@@ -1,0 +1,10 @@
+most applications and features. There are
+more options for Android emulation than what I present in this chapter. My goal is to focus on
+the most user-friendly and feature rich solutions that are available without cost. My overall
+emulator of choice is Genymotion.
+
+Genymotion (genymotion.com/download)
+
+This application-based solution is extremely easy to use. It works with Windows, Mac, and Linux
+operating systems. I will provide details for the Windows installation, but the principles apply
+acr

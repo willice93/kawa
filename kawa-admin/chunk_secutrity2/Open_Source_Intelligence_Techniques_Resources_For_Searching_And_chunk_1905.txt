@@ -1,0 +1,6 @@
+includes Windows, Mac, and Linux. As long as the system has an
+internet connection and a web browser, you can perform all the methods for searching. This
+chapter focuses on software applications that can assist with your OSINT searching. Most of
+these programs will only work on a computer with a Windows operating system. This will include
+the majority of readers. If you have a Mac, you can use virtualization software to run Windows
+within it as explained in Chapter One. When available, I will ex

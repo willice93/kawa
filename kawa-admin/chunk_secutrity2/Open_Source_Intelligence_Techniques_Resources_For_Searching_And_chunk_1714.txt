@@ -1,0 +1,10 @@
+tional service that offers historical views of domain
+registrations is domaintools.com, but you must pay for premium access to see all details.
+
+Domains Names 325
+
+Who Is Hosting This (whoishostingthis.com)
+
+For a quick look at where a website is hosted, try WhoIsHostingThis. Results are minimal and to
+the point. A search of phonelosers.org revealed CloudFlare as the host and the IP address of the
+server. This is not a complete search for all information, but this will identify only the key piec

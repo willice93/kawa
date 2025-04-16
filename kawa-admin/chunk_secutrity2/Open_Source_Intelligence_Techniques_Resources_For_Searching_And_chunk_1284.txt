@@ -1,0 +1,7 @@
+WP Numbers (wpnumbers.net)
+
+This service sources much of their details from public domain registrations, similar to the services
+discussed in Chapter Eight. The difference here is the ability to search by real name (instead of
+email address). A search of my own name revealed a specific address and telephone number that
+I used to register several websites many years prior. While this data may not be the most accurate
+details about your target, it could present an option not seen within any of th

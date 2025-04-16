@@ -1,0 +1,24 @@
+9ms
+
+Figure 40 Censys weak encryption protocols search
+
+Country Breakdown
+
+Country Hosts F
+
+United States 7,302,397 ——
+China 1,266,931 = - 7.475,
+Germany 1,010,036 5.72%
+United Kingdom 667,533 3.78%
+France 654,788 3.71%
+Canada 591,188 3.35%
+Russia 518,407 2.92%
+Netherlands 425,125 2.41%
+Brazil 368,809 2.09%
+italy 305,885 1.73%
+
+Figure 41 Censys weak, encryption protocols search Country Breakdown
+
+Press the country of China or use the direct search string in IP v4,
+
+(protocols: md5, sha0, shal, d

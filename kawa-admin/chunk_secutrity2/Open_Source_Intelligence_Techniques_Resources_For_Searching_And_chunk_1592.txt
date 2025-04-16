@@ -1,0 +1,6 @@
+to the image like airbrushing, deformations,
+warping, and perspective corrected cloning. It works best on high quality images. Smaller images
+tend to contain too little information for this to work. Noise Amplitude makes the noise brighter.
+Equalize Histogram applies histogram equalization to the noise. This can reveal things but it can
+also hide them. You should try both histogram equalization and scale to analyze the noise.
+Magnifier Enhancement offers three different enhancements: Histogram

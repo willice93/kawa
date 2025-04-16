@@ -1,0 +1,8 @@
+is of the target. The following direct
+addresses focus only on the friends of an individual. Explanations of each URL will follow the
+list. Similar to the previous example, a uset number is already included in the address (651620441).
+You should teplace this with the user number of your target.
+
+https://www.facebook.com/seatch/651620441 /friends/places-visited
+https://www.facebook.com/search/651620441 /friends/recent-places-visited
+https://www.facebook.com/seatch/651620441 /friends/places-checke

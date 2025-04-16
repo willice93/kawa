@@ -1,0 +1,13 @@
+k, and
+time of day; and the most common words submitted.
+
+https://snoopsnoo.com/u/CHRISB
+
+This graphical view can be very beneficial in order to obtain a quick review of the target’s Reddit
+usage, but it is only a summary. The best and worst posts may display previously deleted content,
+but it does not tell the entire story. In order to dig much deeper, we will dig into the Pushshift
+datasets.
+
+Pushshift (files.pushshift.io)
+
+This huge archive contains over 300GB of data including most publicly

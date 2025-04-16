@@ -54,3 +54,56 @@ cas_pratique: 'Nom : Élodie Dupont, Ingénieur en informatique et logiciel ind�
   Conclusion : Par cette démarche, j''ai réduit mon montant total d''imposition de
   la prime remportée à 9 750 € grâce à cette règle spéciale sur les primes inférieures
   à 150 000 €.'
+embedding_text: 'Règle : Règle d''application : La taxe de 7,5% s''applique aux produits
+  imposables à cet taux pour les primes ne dépassant pas 150 000 €.
+
+
+  Conditions : Les conditions sont réunies lorsque les montants des primes concernées
+  ne dépassent pas la limite de 150 000 €.
+
+
+  Montants ou plafonds : La limite maximale est fixée à 150 000 € pour les primes
+  concernées par cette règle.
+
+
+  Formule de calcul applicable : Le montant de la taxe est de 7,5% sur les primes
+  ne dépassant pas 150 000 €. Cela signifie que le calcul se fait comme suit : Taxe
+  = (Montant de la prime) x 0,075
+
+
+  Verification pour être sûr d''y avoir droit : Il faut vérifier que le montant de
+  la prime n''excéde pas 150 000 € pour pouvoir bénéficier de cette règle.
+
+  Formule : Non spécifiée
+
+  Cas pratique : Nom : Élodie Dupont, Ingénieur en informatique et logiciel indépendante
+
+
+  Situation : En tant qu''indépendant(e), j''ai récemment remporté un concours organisé
+  par une entreprise pour la conception d''un nouveau produit logiciel. J''ai obtenu
+  une prime de 130 000 € pour ce travail.
+
+
+  Contexte : Ce montant de la prime est inférieur à la limite maximale de 150 000
+  € définie par la règle de taxation concernée, ce qui m''autorise à appliquer cette
+  règle spécifique pour les primes de ce type.
+
+
+  Formule de calcul applicable : Taxe = (Montant de la prime) x 0,075 => Taxe = 130
+  000 € x 0,075 => Taxe = 9 750 €
+
+
+  Verification pour être sûr d''y avoir droit : J''ai vérifié que le montant de ma
+  prime n''excéde pas la limite maximale de 150 000 €, ce qui m''autorise à bénéficier
+  de cette règle.
+
+
+  Rester sur régime par défaut ou choisir l''option différente : En restant sur le
+  régime par défaut pour les primes de ce type, je dois payer une taxe de 130 000
+  € x 0,20 = 26 000 €. En choisissant cette règle spécifique, j''évite donc une économie
+  de 16 250 € sur ma prime (26 000 € - 9 750 €).
+
+
+  Conclusion : Par cette démarche, j''ai réduit mon montant total d''imposition de
+  la prime remportée à 9 750 € grâce à cette règle spéciale sur les primes inférieures
+  à 150 000 €.'

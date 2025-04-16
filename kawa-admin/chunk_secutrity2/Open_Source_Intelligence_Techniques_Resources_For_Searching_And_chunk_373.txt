@@ -1,0 +1,10 @@
+each computer is unique, a search on Google for “Enter BIOS (your computer
+model)” will present the answers you need. While this boot drive should work on an Apple
+computer, we will now create an option more appropnmiate for them. I have found this method to
+be the most reliable way to make a bootable USB device, and it should work with practically any
+Linux Live ISO image such as TAILS (as discussed in The Complete Privacy & Security Desk
+Reference, Volume I: Digital).
+
+Apple Computers
+
+In the

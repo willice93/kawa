@@ -1,0 +1,9 @@
+y gaps in this coverage which will not affect the techniques described here. The
+techniques explained in this chapter will monitor public frequencies available on all models. All
+frequencies listed in this chapter are displayed in megahertz (MHz).
+
+Family Radio Service (FRS)
+
+If you go to the local department store and purchase a pair of two-way family radios, you will be
+transmitting on a public radio frequency that can be monitored with a scanner. The Family Radio
+Service (FRS) is a tadio syst

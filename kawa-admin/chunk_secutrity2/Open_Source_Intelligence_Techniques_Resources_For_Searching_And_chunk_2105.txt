@@ -1,0 +1,8 @@
+echniques.com/android. Drag and drop the zip
+file directly into your running virtual Android device. Agree to the warning, and
+acknowledge the completion. Close the device and restart
+
+You should now have a fully-functioning Android 6 device with Google Play and no errors. You
+can now install any apps within the Play Store. If any apps refuse to install because of an
+incompatible device, download the desired app from APK Pure (apkpure.com) and drag and
+drop it into the machine. The addition of G

@@ -1,0 +1,6 @@
+ations that I desire.
+I then import these settings into any other browsers in order to replicate the experience across
+every computer that I use. The following instructions allow you to use this same customization
+file for import into your own investigative computer. The details will vary slightly based on your
+operating system and version. Only execute this tutorial on a new install of Firefox that has no
+saved settings, or within a version of Firefox that you want to be overwritten. Do not ove

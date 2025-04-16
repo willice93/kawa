@@ -1,0 +1,13 @@
+= XXX, ‘pipl4window’);}</script>
+
+<form onsubmit=“dopip1|4(this.pp4.value); return false;”’>
+
+<input type=“text” name=“pp4” size=“30” value=“Phone #” />
+<input type=“submit” /></form></body></html>
+
+390 Chapter 20
+
+Save this file as pipl.html. When you open the file, it should appear in a web browser and look
+similar to the Pipl portion of Figure 20.01. A digital version of this file is maintained at
+https:// inteltechniques.com/data/2018api.txt, which can be copied and pasted from the site. I
+m

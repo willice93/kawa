@@ -1,0 +1,8 @@
+iked by Tom Merritt, I am given no results.
+If I had typed “Photos liked by” and then the name of one of my friends, it would have worked
+fine. Since our target is not likely to be on our friends list, we must get creative in order to obtain
+this information.
+
+In order to conduct the following detailed searches, you must know the user number of your
+target. This number is a unique identifier that will allow us to search otherwise hidden information
+from Facebook. Prior to mid-2015, the easiest w

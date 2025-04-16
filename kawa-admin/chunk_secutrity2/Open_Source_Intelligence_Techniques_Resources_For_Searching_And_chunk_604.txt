@@ -1,0 +1,23 @@
+e following queries directly into a Facebook page and receive matching results.
+
+Social Networks: Facebook 97
+
+People named “John Smith”
+
+People who work at Microsoft
+
+People who work in Chicago
+
+People who live in Chicago
+
+People who like OSINT
+
+People who attended Arlington High School
+People born in 1980
+
+People who visited Peru
+
+People who speak Russian
+
+Many of these searches still function, but you will not receive all of the results you should. You
+could also combine searches via keyword

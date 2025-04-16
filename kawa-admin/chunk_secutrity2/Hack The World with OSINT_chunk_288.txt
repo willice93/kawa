@@ -1,0 +1,36 @@
+.2%
+
+Figure 115 Censys.io scan knon n-public-key tag and DSL} Cable Modem Country
+
+Breakdown
+
+censys Tass 1”
+
+
+170
+
+Common Tags
+
+Tag Hosts Frequency
+
+DSL/cable 366,665 100.0%
+
+modem
+
+embedded 366,665 100.0%
+https 366,665 100.0%
+known- 366,665 100.0%
+private-key
+
+http 94,334 25.73%
+cwmnp 70,313 19.18%
+ftp 6,209 1.69%
+7/- 3,795 1.04%
+ssh 3,024 0.82%
+telnet | 2,459 0.67%
+
+Figure 116 Censys.io scan known-public-key tag and DS1./ Cable Modem Common
+
+Correct the tag
+
+((tags: "known-private-key") AND t

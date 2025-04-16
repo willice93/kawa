@@ -1,0 +1,8 @@
+.com/video “school bus fight”
+
+This search would attempt to locate any videos stored on the Facebook video servers that
+included the terms “school bus fight’. Most of the videos located should link to the Facebook
+video page and play without being logged into a Facebook account. After you locate your video
+of interest, downloading the video can appear difficult. While Facebook does not offer a native
+download option, you can use their API view to easily archive any content. In the previous
+Faceb
